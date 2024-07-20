@@ -1,0 +1,1022 @@
+[
+    {
+        "ID": "3eed8a7a-5411-4606-bdc8-ab28387586de",
+        "DocumentID": 40,
+        "PassageID": "1.",
+        "Passage": "GENERAL INTRODUCTION\n\u201cThe Common Reporting Standard (CRS), developed in response to the G20 request and approved by the OECD Council on 15 July 2014, calls on jurisdictions to obtain information from their financial institutions and automatically exchange that information with other jurisdictions on an annual basis. It sets out the financial account information to be exchanged, the financial institutions required to report, the different types of accounts and taxpayers covered, as well as common due diligence procedures to be followed by financial institutions.\nThe Standard consists of the following four key parts:\n\u2022\tA model Competent Authority Agreement (CAA), providing the international legal framework for the automatic exchange of CRS information;\n\u2022\tThe Common Reporting Standard;\n\u2022\tThe Commentaries on the CAA and the CRS; and\n\u2022\tThe CRS XML Schema User Guide.\u201d\nFor the purposes of the UAE CRS Regulations, the Common Reporting Standard Commentary and FAQs, which is any explanatory material made and published by the Organization for Economic Co-Operation and Development (OECD) for the purpose of assisting with the interpretation of the Common Reporting Standard, is an integral part of the Common Reporting Standard and accordingly applies for the purposes of the automatic exchange of financial account information.\nThe UAE Financial Institutions should consult documentation issued, from time to time, by the OECD for clarification and the CRS commentary and FAQs, for example:\n\u2022\tStandard for Automatic Exchange of Financial Account Information in Tax Matters\n\u2022\tStandard for Automatic Exchange of Financial Account Information in Tax Matters - Implementation Handbook\n\u2022\tCRS FAQs.\nThe above documents are published on the OECD website: http://www.oecd.org/tax/automatic-exchange/common-reporting-standard/ and https://www.oecd.org/tax/exchange-of-tax-information/."
+    },
+    {
+        "ID": "04e95f88-b63e-4bf3-a090-3a3a91376546",
+        "DocumentID": 40,
+        "PassageID": "2.",
+        "Passage": "LEGAL BASIS\nIn accordance with the Cabinet Decision Number 16/9W of year 2016, the UAE Government had committed itself to sign (i) the Multilateral Convention on Mutual Administrative Assistance in Tax Matters (MAC) and (ii) the Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information (MCAA). The MAC was ratified according to Federal Law No. 54 of 2018 and the MCAA according to Federal Law No. 48 of 2018. The MCAA contains the rules on the exchange of information between the UAE Competent Authority and partner jurisdiction Competent Authorities. The confidentiality, safeguards and the existence of the necessary infrastructure for an effective exchange are all covered by the MCAA.\nBoth agreements are legal instruments for the implementation of the international OECD standard of Automatic Exchange of Information (AEOI) - CRS for tax purposes.\nThe Ministry of Finance, which is the UAE Competent Authority, is in charge of the CRS implementation according to the Cabinet Decision.\nThe UAE CRS Regulations will be published by the Regulatory Authorities concerning the UAE Financial Institutions (as defined in the UAE CRS Regulations):\n\u2022\tCentral Bank\n\u2022\tSecurities and Commodities Authority (SCA)\n\u2022\tInsurance Authority\n\u2022\tRegistrar of Companies, Dubai International Financial Centre (ROC)\n\u2022\tFinancial Services Regulatory Authority, Abu Dhabi Global Markets (FSRA)\n\u2022\t[ ]\n"
+    },
+    {
+        "ID": "c46cc8f0-8697-4980-b425-5b0d16300ffa",
+        "DocumentID": 40,
+        "PassageID": "3.",
+        "Passage": "KEY TIMELINES\nThe first reporting due date for the CRS in the UAE was 30 June 2018 (covering the first reporting period ending on 31 December 2017) and is consequently by 30 June of the year following each reporting period. Reporting is an annual event.\nThe following are the effective dates for the implementation of the CRS in the UAE:\n\u2022\tThe pre-existing due diligence procedures cover Pre-existing Account maintained by a Reporting Financial Institution as at 31 December 2016.\n\u2022\tThe new account due diligence procedures cover New Accounts opened on or after 1 January 2017.\n\u2022\tThe review of the Pre-existing High Value Individual Accounts maintained at a Reporting Financial Institution as at 31December 2016 was to be completed by 31 December 2017.\n\u2022\tThe Reportable Pre-existing High Value Accounts were to be reported by 30 June 2018.\n\u2022\tThe review of the Pre-existing Lower Value Individual Accounts maintained by a Reporting Financial Institution as at 31 December 2016 was to be completed by 31 December 2018.\n\u2022\tThe first exchanges of information by the UAE Competent Authority to the jurisdictions the UAE entered into an agreement for exchange of information with at the relevant time occurred on or after 30 September 2018.\n"
+    },
+    {
+        "ID": "cc1e9b6f-aa50-47fc-9463-9cc0b09401a4",
+        "DocumentID": 40,
+        "PassageID": "4.",
+        "Passage": "CONFIDENTIALITY\nThe UAE Competent Authority shall not exchange information under the CRS until it is satisfied that a reportable partner jurisdiction has in place adequate measures to ensure the required confidentiality and data security. These confidentiality obligations are evaluated by the Global Forum on Transparency and Exchange of Information for Tax Purposes through its implementation monitoring programme.\n\n"
+    },
+    {
+        "ID": "759d3734-733f-4e28-b1b4-030fa46e57a0",
+        "DocumentID": 40,
+        "PassageID": "5.",
+        "Passage": "CRS OPTIONS\nThe CRS provides jurisdictions with a number of implementation options. The UAE implemented the options listed below."
+    },
+    {
+        "ID": "7badf391-9c0a-40f3-9260-7d1b5c22023f",
+        "DocumentID": 40,
+        "PassageID": "5.1",
+        "Passage": "CRS Approach\nUnder the CRS, the UAE has opted for the \u201cwidest approach\u201d:\n\u2022\tReporting Financial Institutions are required to perform due diligence procedures on all accounts held by an account holder (or a controlling person in case of a passive NFE) who is resident for tax purposes in a jurisdiction other than the USA.\n\u2022\tReporting Financial Institutions are required to report information on all accounts held by an account holder (or a controlling person in case of a passive NFE) who is resident for tax purposes in a jurisdiction other than the USA or UAE jurisdiction.\n\u2022\tThe USA is excluded because jurisdictions will be reporting to the USA under FATCA."
+    },
+    {
+        "ID": "8342aab5-3bcf-4fe0-8303-e88095390b56",
+        "DocumentID": 40,
+        "PassageID": "5.2",
+        "Passage": "CRS Options\n/Table Start\nNo.\tOPTIONS\tCOMMENTS\n1.\tAlternative approach to calculating account balances\tNO\n2.\tUse of other reporting period\tNO\n3.\tFiling deadlines\t30th June\n4.\tFiling Nil returns\tYES\n5.\tAllowing third party service providers to fulfil the obligations on behalf of\nthe Financial Institutions\tYES\n6.\tAllowing the due diligence procedures for New Accounts to be used for\nPre-existing Accounts\tYES\n7.\tAllowing the due diligence procedures for High Value Accounts to be used\nfor Lower Value Accounts\tYES\n8.\tResidence address test for Lower Value Accounts\tYES\n9.\tExclusion from Due Diligence for Pre-existing Entity Accounts not exceeding $250,000\tYES\n10.\tAlternative documentation procedure for certain employer-sponsored\ngroup insurance contracts or annuity contracts\tYES\n11.\tAllowing Financial Institutions to make greater use of existing\nstandardised industry coding systems for the due diligence process\tYES\n12.\tCurrency translation\tUSE USD$\n\n13.\tAllow a Financial Institution to treat certain New Accounts held by pre-existing customers as a Pre-existing Account for due diligence purposes\tYES\n14.\tExpanded definition of Related Entity for Investment Entities\tYES\n15.\tGrandfathering rule for bearer shares issued by Exempt Collective\nInvestment Vehicle\tRemoved\n16.\tPhasing in the requirements to report gross proceeds\tNO\n/Table End\n\n"
+    },
+    {
+        "ID": "68c74677-c0cd-4c61-83e6-b8dec327d18f",
+        "DocumentID": 40,
+        "PassageID": "6.",
+        "Passage": "UAE TAX RESIDENCY DEFINITIONS\nFor the purposes of the reasonableness test, a Reporting Financial Institution may deem the statement of \u201cUAE tax residency for tax purposes\u201d declared by an Account Holder or a Controlling Person (any of which a \u201cDeclaring Person\u201d) in a self-certification reasonable with regard to the territory of the United Arab Emirates (UAE); (i) unless the Reporting Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable and (ii) provided that:\n"
+    },
+    {
+        "ID": "a5b4369e-c6d8-4388-a401-e88183415bf5",
+        "DocumentID": 40,
+        "PassageID": "6.1.",
+        "Passage": "with regard to New Individual Accounts:\n(a)\tdocumentary evidence of a valid UAE residency visa is provided by a Declaring Person; and\n(b)\tEnhanced Due Diligence procedures carried out in respect of valid UAE residency visas with a term of five (5) years or more by the Reporting Financial Institution does not render any reason to believe that the self-certification with regard to UAE tax residency is incorrect or unreliable; and"
+    },
+    {
+        "ID": "0bb3ed4c-9f5e-4909-9d81-b7fcaa020098",
+        "DocumentID": 40,
+        "PassageID": "6.2.",
+        "Passage": "with regard to New Entity Accounts:\n(a)\tdocumentary evidence of valid trade license, registration certificate or similar issued by the relevant UAE licensing authority.\n\n\u201cEnhanced Due Diligence\u201d means a Reporting Financial Institution must seek answers from the Declaring Person, including but not limited to the following questions:\n(a)\tDid you obtain UAE tax residency under a residency by investment scheme?\n(b)\tAre you a resident in any other jurisdiction(s)?\n(c)\tIn which jurisdiction(s) have you been subject to personal income tax during the previous calendar year?"
+    },
+    {
+        "ID": "11cd69d3-1794-4cb6-8ae3-e125b67198ba",
+        "DocumentID": 40,
+        "PassageID": "7.",
+        "Passage": "SANCTIONS\nThe following sanctions shall be imposed by each Regulatory Authority:\n"
+    },
+    {
+        "ID": "bbff4701-6592-44cd-9f8b-c577c399088a",
+        "DocumentID": 40,
+        "PassageID": "7.A.",
+        "Passage": "Provision of false self-certification\n"
+    },
+    {
+        "ID": "003d603a-84b9-4fe9-a1cc-cf65e52b0397",
+        "DocumentID": 40,
+        "PassageID": "7.A.1.",
+        "Passage": "A fine in the amount of Dirhams (20,000) twenty thousand shall be imposed on any Account Holder or Controlling Person, as the case may be, if the self-certification that is required to be submitted by such Account Holder or Controlling Person to the Financial Institution contains any false or incorrect information and the Account Holder or Controlling Persons knows or should have known that the information provided is false or incorrect.\n"
+    },
+    {
+        "ID": "af1fa85b-e761-489b-9f0e-105420861269",
+        "DocumentID": 40,
+        "PassageID": "7.A.2.",
+        "Passage": "The Financial Institution shall, within thirty (30) days upon becoming aware of the violation mentioned in subparagraph (1), notify the relevant Regulatory Authority of this violation and provide all information available to it on the identity, address and place of residence of the Account Holder and/or the Controlling Person.\n"
+    },
+    {
+        "ID": "36430573-07ea-4e95-b041-c1c70cc879af",
+        "DocumentID": 40,
+        "PassageID": "7.A.3.",
+        "Passage": "The Regulatory Authority shall, within thirty (30) days of the date of the notification mentioned in subparagraph (2), notify the Account Holder or the Controlling Person of the violation, the amount of the fine and the payment request of the fine within no later than thirty (30) days from receipt of the notice.\n"
+    },
+    {
+        "ID": "b03118a6-7d8f-4877-a507-841cf2095511",
+        "DocumentID": 40,
+        "PassageID": "7.B.",
+        "Passage": "No valid or validated self-certification\n"
+    },
+    {
+        "ID": "cfd53ed8-537e-4db8-8ddb-fff736c3e222",
+        "DocumentID": 40,
+        "PassageID": "7.B.1.",
+        "Passage": "A fine in the amount of Dirhams 1,000 (one thousand) per each New Account shall be imposed on any Financial Institution that opens a New Account without obtaining a valid self-certification and/or failing to validate such self-certification if and when required under these Regulations.\n"
+    },
+    {
+        "ID": "9d1958d3-cb5c-4be4-a067-b8c58652de05",
+        "DocumentID": 40,
+        "PassageID": "7.B.2.",
+        "Passage": "The Regulatory Authority shall, within thirty days (30) upon becoming aware of the violation mentioned in subparagraph (1), notify the Financial Institution of this violation, and the amount of the fine. The Financial Institution shall pay the fine within thirty (30) days of receipt of such notification.\n\n"
+    },
+    {
+        "ID": "a418126d-471d-4cd8-84f2-9477b03e7107",
+        "DocumentID": 40,
+        "PassageID": "SECTION",
+        "Passage": "AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION REGULATIONS"
+    },
+    {
+        "ID": "adcecf94-904d-4ca7-81fd-cd8bf75102bc",
+        "DocumentID": 40,
+        "PassageID": "SECTION I",
+        "Passage": "GENERAL REPORTING REQUIREMENTS"
+    },
+    {
+        "ID": "09079ec2-6ec1-45e2-aff2-664d2c31aa02",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.",
+        "Passage": "Subject to paragraphs C through E, each Reporting Financial Institution must collect and report to the UAE Competent Authority (directly or indirectly via the Regulatory Authority) the following information with respect to each Reportable Account of such Reporting Financial Institution:"
+    },
+    {
+        "ID": "c3218081-fb4e-4f48-83c4-9a1627335ea1",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.1.",
+        "Passage": "the name, address, jurisdiction(s) of residence, TIN(s) and date and place of birth (in the case of an individual) of each Reportable Person that is an Account Holder of the account and, in the case of any Entity that is an Account Holder and that, after application of the due diligence procedures consistent with Sections V, VI and VII, is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, jurisdiction(s) of residence and TIN(s) of the Entity and the name, address, jurisdiction(s) of residence, TIN(s) and date and place of birth of each Reportable Person;"
+    },
+    {
+        "ID": "1697a9b0-20bb-4791-9d25-d0ab3eec69eb",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.2.",
+        "Passage": "the account number (or functional equivalent in the absence of an account number);"
+    },
+    {
+        "ID": "8f9e8650-aeec-42d2-9763-b9f9aacbacd2",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.3.",
+        "Passage": "the name and identifying number (if any) of the Reporting Financial Institution;"
+    },
+    {
+        "ID": "e1575c86-8d52-42d2-9cbd-036879557a25",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.4.",
+        "Passage": "the account balance or value (including, in the case of a Cash Value Insurance Contract or Annuity Contract, the Cash Value or surrender value) as of the end of the relevant calendar year or, if the account was closed during such year, the closure of the account;"
+    },
+    {
+        "ID": "8fde2380-9068-4477-bc54-4e1f5736a9b0",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.5.",
+        "Passage": "in the case of any Custodial Account:\n(a)\tthe total gross amount of interest, the total gross amount of dividends, and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account (or with respect to the account) during the calendar year; and\n(b)\tthe total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year with respect to which the Reporting Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;"
+    },
+    {
+        "ID": "83146b50-d0d8-490c-9afb-fcc934917cfc",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.6.",
+        "Passage": "in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year; and"
+    },
+    {
+        "ID": "a667a1a0-5eb7-40a6-8de4-acb25efd56a2",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.A.7.",
+        "Passage": "in the case of any account not described in subparagraph A(5) or (6), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year.\n\n"
+    },
+    {
+        "ID": "a3fc20b2-15b9-4999-a458-0e217ef04a80",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.B.",
+        "Passage": "The information reported must identify the currency in which each amount is denominated.\n"
+    },
+    {
+        "ID": "e73c5743-359c-4200-bfca-8105210f0c63",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.C.",
+        "Passage": "Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Pre- existing Account or with respect to each Financial Account that is opened prior to becoming a Reportable Account, the TIN(s) or date of birth is not required to be reported if such TIN(s) or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN(s) and date of birth with respect to\n\nPre-existing Accounts by the end of the second calendar year following the year in which Pre-existing Accounts were identified as Reportable Accounts.\n"
+    },
+    {
+        "ID": "9c0a1960-419c-4971-bda2-31c12a08cf8c",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.D.",
+        "Passage": "Notwithstanding subparagraph A(1), the TIN is not required to be reported if (i) a TIN is not issued by the relevant Reportable Jurisdiction or (ii) the domestic law of the relevant Reportable Jurisdiction does not require the collection of the TIN issued by such Reportable Jurisdiction.\n"
+    },
+    {
+        "ID": "e39ea336-07f1-4cb4-98ee-b91de9a76884",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.E.",
+        "Passage": "Notwithstanding subparagraph A(1), the place of birth is not required to be reported unless the Reporting Financial Institution is otherwise required to obtain and report it under domestic law and it is available in the electronically searchable data maintained by the Reporting Financial Institution.\n"
+    },
+    {
+        "ID": "f928f06c-b394-4a11-8add-47e06555eb26",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.F.",
+        "Passage": "Each Reporting Financial Institution must file an information return with the Regulatory Authority containing the information described in paragraph A on or before 30th June of the year following the calendar year to which the return relates.\n"
+    },
+    {
+        "ID": "dccb2370-dca3-4a9b-8412-a153bf6da8b4",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.G.",
+        "Passage": "If a Reporting Financial Institution applies the due diligence procedures described in Sections V, VI and VII for a calendar year and no Financial Account is identified as a Reportable Account, the institution shall file an information return, which provides that the institution maintains no such Reportable Accounts in respect of that year, with the Regulatory Authority on or before 30th June of the year following the calendar year to which the return relates.\n"
+    },
+    {
+        "ID": "f8fbbca7-1a98-4eb4-b9dd-d38e44d588ef",
+        "DocumentID": 40,
+        "PassageID": "SECTION I.H.",
+        "Passage": "Each Reporting Financial Institution must retain the records of the steps undertaken and any evidence relied upon related to these Regulations, electronically or otherwise, for a period of no less than five (5) years after the end of the period within which the Reporting Financial Institution must report the information required to be reported under these Regulations.\n"
+    },
+    {
+        "ID": "90f0165e-1042-4c62-9854-c4503da40388",
+        "DocumentID": 40,
+        "PassageID": "SECTION II",
+        "Passage": "GENERAL DUE DILIGENCE REQUIREMENTS\n"
+    },
+    {
+        "ID": "01a0b73a-46c5-4449-a52b-0f2bd4dff416",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.A.",
+        "Passage": "A Reporting Financial Institution must establish, maintain and document the due diligence procedures set out in Sections II through VII that are designed to identify Reportable Accounts maintained by the Reporting Financial Institution.\n"
+    },
+    {
+        "ID": "c8cd1d31-5893-429a-9e15-541457bbf940",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.B.",
+        "Passage": "An account is treated as a Reportable Account beginning as of the date it is identified as such pursuant to the due diligence procedures in Sections II through VII and, unless otherwise provided, information with respect to a Reportable Account must be reported annually in the calendar year following the year to which the information relates.\n"
+    },
+    {
+        "ID": "6933bec1-b2d0-47d8-9f52-a296bc391b3a",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.C.",
+        "Passage": "The balance or value of an account is determined as of the last day of the calendar year.\n"
+    },
+    {
+        "ID": "ff6e625c-5b80-4bd1-a306-312a91db1059",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.D.",
+        "Passage": "Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.\n"
+    },
+    {
+        "ID": "99224f51-b004-4383-a0f3-42e4e76ae83c",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.E.",
+        "Passage": "A Reporting Financial Institution may use a service provider to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institution, but these obligations shall remain the responsibility of the Reporting Financial Institutions.\n"
+    },
+    {
+        "ID": "320996ce-4734-4204-841c-0672a5216aed",
+        "DocumentID": 40,
+        "PassageID": "SECTION II.F.",
+        "Passage": "A Reporting Financial Institutions may apply\n(a)\tthe due diligence procedures for New Accounts to all Pre-existing Accounts or with respect to any clearly identified group of Pre-existing Accounts, and the rules otherwise applicable to Pre-existing Accounts continue to apply; and\n(b)\tthe due diligence procedures for High Value Accounts to Lower Value Accounts.\n"
+    },
+    {
+        "ID": "4abcb859-43d7-4419-875f-4f2bbe51a214",
+        "DocumentID": 40,
+        "PassageID": "SECTION III",
+        "Passage": "DUE DILIGENCE FOR PRE-EXISTING INDIVIDUAL ACCOUNTS\n\nThe following procedures apply with respect to Pre-existing Individual Accounts.\n"
+    },
+    {
+        "ID": "7cd13d0a-88a9-4cb1-85a4-2a710b934950",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.A.",
+        "Passage": "Accounts Not Required to be Reviewed, Identified, or Reported. A Pre-existing Individual Account that is a Cash Value Insurance Contract or an Annuity Contract is not required to be reviewed, identified or reported, provided the Reporting Financial Institution is effectively prevented by law from selling such Contracts to residents of a Reportable Jurisdiction.\n"
+    },
+    {
+        "ID": "7388d4d6-ed11-4ea8-8b42-7c18ed31dbe1",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.",
+        "Passage": "Lower Value Accounts. The following procedures apply with respect to Lower Value Accounts.\n"
+    },
+    {
+        "ID": "8c4f0f1e-a50f-4632-aed4-d27e9b64fc96",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.1.",
+        "Passage": "Residence Address. If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution may treat the individual Account Holder as being a resident for tax purposes of the jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person."
+    },
+    {
+        "ID": "1a1d7db6-bb72-4c33-ae03-1dacbd1c6a9b",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.2.",
+        "Passage": "Electronic Record Search. If the Reporting Financial Institution does not rely on a current residence address for the individual Account Holder based on Documentary Evidence as set forth in subparagraph B(1), the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the following indicia and apply subparagraphs B(3) to (6):\n(a)\tidentification of the Account Holder as a resident of a Reportable Jurisdiction;\n(b)\tcurrent mailing or residence address (including a post office box) in a Reportable Jurisdiction;\n(c)\tone or more telephone numbers in a Reportable Jurisdiction and no telephone number in the jurisdiction of the Reporting Financial Institution;\n(d)\tstanding instructions (other than with respect to a Depository Account) to transfer funds to an account maintained in a Reportable Jurisdiction;\n(e)\tcurrently effective power of attorney or signatory authority granted to a person with an address in a Reportable Jurisdiction; or\n(f)\ta \u201chold mail\u201d instruction or \u201cin-care-of\u201d address in a Reportable Jurisdiction if the Reporting Financial Institution does not have any other address on file for the Account Holder."
+    },
+    {
+        "ID": "400ba8f0-c599-4de8-92d4-ec311b1a7a70",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.3.",
+        "Passage": "If none of the indicia listed in subparagraph B(2) are discovered in the electronic search, then no further action is required until there is a change in circumstances that results in one or more indicia being associated with the account, or the account becomes a High Value Account."
+    },
+    {
+        "ID": "d2e0c8d4-e182-43d6-82fe-3276af32f5c2",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.4.",
+        "Passage": "If any of the indicia listed in subparagraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Reportable Jurisdiction for which an indicium is identified, unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account."
+    },
+    {
+        "ID": "fea7b106-2cef-4b44-8caf-2949c778bce9",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.5.",
+        "Passage": "If a \u201chold mail\u201d instruction or \u201cin-care-of\u201d address is discovered in the electronic search and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in subparagraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Financial Institution must report the account as an undocumented account to the Regulatory Authority."
+    },
+    {
+        "ID": "aa34fa42-06e9-41a3-bc8d-d311b0453a1b",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.B.6.",
+        "Passage": "Notwithstanding a finding of indicia under subparagraph B(2), a Reporting Financial Institution is not required to treat an Account Holder as a resident of a Reportable Jurisdiction if:\n(a)\tthe Account Holder information contains a current mailing or residence address in the Reportable Jurisdiction, one or more telephone numbers in the Reportable Jurisdiction (and no telephone number in the jurisdiction of the Reporting Financial Institution) or standing instructions (with respect to Financial Accounts other than Depository Accounts) to transfer funds to an account maintained in a Reportable Jurisdiction, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:\n(i)\ta self-certification from the Account Holder of the jurisdiction(s) of residence of such Account Holder that does not include such Reportable Jurisdiction; and\n(ii)\tDocumentary Evidence establishing the Account Holder's residence for tax purposes other than such Reportable Jurisdiction;\n(b)\tthe Account Holder information contains a currently effective power of attorney or signatory authority granted to a person with an address in the Reportable Jurisdiction, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:\n(i)\ta self-certification from the Account Holder of the jurisdiction(s) of residence of such Account Holder that does not include such Reportable Jurisdiction; or\n(ii)\tDocumentary Evidence establishing the Account Holder's residence for tax purposes other than such Reportable Jurisdiction.\n"
+    },
+    {
+        "ID": "1f897c91-3c21-4cce-b6d8-34caa4730124",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.",
+        "Passage": "Enhanced Review Procedures for High Value Accounts. The following enhanced review procedures apply with respect to High Value Accounts.\n"
+    },
+    {
+        "ID": "0fd6954d-ff8a-41e3-8b35-2a605f7187e7",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.1.",
+        "Passage": "Electronic Record Search. With respect to High Value Accounts, the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the indicia described in subparagraph B(2)."
+    },
+    {
+        "ID": "91999eb5-a969-4948-963a-7b1758864860",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.2.",
+        "Passage": "Paper Record Search. If the Reporting Financial Institution's electronically searchable databases include fields for, and capture all of the information described in, subparagraph C(3), then a further paper record search is not required. If the electronic databases do not capture all of this information, then with respect to a High Value Account, the Reporting Financial Institution must also review the current customer master file and, to the extent not contained in the current customer master file, the following documents associated with the account and obtained by the Reporting Financial Institution within the last five years for any of the indicia described in subparagraph B(2):\n(a)\tthe most recent Documentary Evidence collected with respect to the account;\n(b)\tthe most recent account opening contract or documentation;\n(c)\tthe most recent documentation obtained by the Reporting Financial Institution pursuant to AML/KYC Procedures or for other regulatory purposes;\n(d)\tany power of attorney or signature authority forms currently in effect; and\n(e)\tany standing instructions (other than with respect to a Depository Account) to transfer funds currently in effect."
+    },
+    {
+        "ID": "2c47e5fe-b372-46a4-bb59-83f062e226ef",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.3.",
+        "Passage": "Exception To The Extent Databases Contain Sufficient Information. A Reporting Financial Institution is not required to perform the paper record search described in subparagraph C(2) to the extent the Reporting Financial Institution's electronically searchable information includes the following:\n(a)\tthe Account Holder's residence status;\n(b)\tthe Account Holder's residence address and mailing address currently on file with the Reporting Financial Institution;\n(c)\tthe Account Holder's telephone number(s) currently on file, if any, with the Reporting Financial Institution;\n(d)\tin the case of Financial Accounts other than Depository Accounts, whether there are standing instructions to transfer funds in the account to another account (including an account at another branch of the Reporting Financial Institution or another Financial Institution);\n(e)\twhether there is a current \u201cin-care-of\u201d address or \u201chold mail\u201d instruction for the Account Holder; and\n(f)\twhether there is any power of attorney or signatory authority for the account."
+    },
+    {
+        "ID": "7831023c-55cd-467a-a3cd-ebfe6e885314",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.4.",
+        "Passage": "Relationship Manager Inquiry for Actual Knowledge. In addition to the electronic and paper record searches described in subparagraphs C(1) and (2), the Reporting Financial Institution must treat as a Reportable Account any High Value Account assigned to a relationship manager (including any Financial Accounts aggregated with that High Value Account) if the relationship manager has actual knowledge that the account is held by a resident for tax purposes in a Reportable Jurisdiction."
+    },
+    {
+        "ID": "75d6ef0e-8540-4569-9083-0823c0a42516",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.5.",
+        "Passage": "Effect of Finding Indicia.\n(a)\tIf none of the indicia listed in subparagraph B(2) are discovered in the enhanced review of High Value Accounts described in paragraph C, and the account is not identified as held by a resident for tax purposes in a Reportable Jurisdiction in accordance with subparagraph C(4), then further action is not required until there is a change in circumstances that results in one or more indicia being associated with the account.\n(b)\tIf any of the indicia listed in subparagraphs B(2)(a) through (e) are discovered in the enhanced review of High Value Accounts described in paragraph C, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Reportable Jurisdiction for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.\n(c)\tIf a \u201chold mail\u201d instruction or \u201cin-care-of\u201d address is discovered in the enhanced review of High Value Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the\nReporting Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account as an undocumented account to the Regulatory Authority."
+    },
+    {
+        "ID": "142a534a-e7ed-4a55-9d49-b4033dc5aaa3",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.6.",
+        "Passage": "If a Pre-existing Individual Account is not a High Value Account as of 31 December 2016, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person."
+    },
+    {
+        "ID": "9723d25f-7a7c-472a-996f-d91b8033cb94",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.7.",
+        "Passage": "Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to re- apply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should re-apply them annually until such account ceases to be undocumented."
+    },
+    {
+        "ID": "d3a02d0b-3130-47d4-b9e5-688f860f27bf",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.8.",
+        "Passage": "If there is a change in circumstances with respect to a High Value Account that results in one or more indicia described in subparagraph B(2) being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Reportable Jurisdiction for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account."
+    },
+    {
+        "ID": "83d43027-eece-4c75-932d-f98b229e56d2",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.C.9.",
+        "Passage": "A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Reportable Jurisdiction, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.\n"
+    },
+    {
+        "ID": "289cb72a-dd5c-434b-a963-0462ef719125",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.D.",
+        "Passage": "Review of Pre-existing High Value Individual Accounts must be completed by 31 December 2017 and review of Pre-existing Lower Value Individual Accounts must be completed by 31 December 2018.\n"
+    },
+    {
+        "ID": "5d02c6a5-6444-45bf-8d4f-34a7e043c402",
+        "DocumentID": 40,
+        "PassageID": "SECTION III.E.",
+        "Passage": "Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person.\n"
+    },
+    {
+        "ID": "6cc3d63e-2225-40ef-be95-9b89176279d5",
+        "DocumentID": 40,
+        "PassageID": "SECTION IV",
+        "Passage": "DUE DILIGENCE FOR NEW INDIVIDUAL ACCOUNTS\n\nThe following procedures apply with respect to New Individual Accounts.\n"
+    },
+    {
+        "ID": "c486fdaa-efab-4e66-b71b-351fac72a74a",
+        "DocumentID": 40,
+        "PassageID": "SECTION IV.A.",
+        "Passage": "With respect to New Individual Accounts, upon account opening, the Reporting Financial Institution must obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures.\n"
+    },
+    {
+        "ID": "1c9268ed-79d6-4e28-b16e-11c642a703dd",
+        "DocumentID": 40,
+        "PassageID": "SECTION IV.B.",
+        "Passage": "If the self-certification establishes that the Account Holder is resident for tax purposes in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account and the self-certification must also include the Account Holder's TIN with respect to such Reportable Jurisdiction (subject to paragraph D of Section I) and date of birth.\n"
+    },
+    {
+        "ID": "0df892f6-ba29-40a4-a8a1-d449ec7f16eb",
+        "DocumentID": 40,
+        "PassageID": "SECTION IV.C.",
+        "Passage": "If there is a change in circumstances with respect to a New Individual Account that causes the Reporting Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Financial Institution cannot rely on the original self- certification and must obtain a valid self-certification that establishes the residence(s) for tax purposes of the Account Holder.\n"
+    },
+    {
+        "ID": "b1da09d2-bd95-4a0a-a47f-1009b4e2e25e",
+        "DocumentID": 40,
+        "PassageID": "SECTION V",
+        "Passage": "DUE DILIGENCE FOR PRE-EXISTING ENTITY ACCOUNTS\n\nThe following procedures apply with respect to Pre-existing Entity Accounts.\n"
+    },
+    {
+        "ID": "0598e58c-29bd-438d-abfb-3adc9059bb2e",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.A.",
+        "Passage": "Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed USD 250 000 as of 31 December 2016 is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.\n"
+    },
+    {
+        "ID": "d9386cdf-60f1-4117-9075-da8f37643dc9",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.B.",
+        "Passage": "Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds USD 250 000 as of 31 December 2016, and a Pre-existing Entity Account that does not exceed USD 250 000 as of 31 December 2016 but the aggregate account balance or value of which exceeds USD 250 000 as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph C.\n"
+    },
+    {
+        "ID": "524eac81-ad75-4688-ae22-edae2e0369b7",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.C.",
+        "Passage": "Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For Pre-existing Entity Accounts described in paragraph B, a Reporting Financial Institution must apply the following review procedures:\n"
+    },
+    {
+        "ID": "336a0b3d-b2c6-412d-9e79-3a0c6e2bfd6d",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.C.1.",
+        "Passage": "Determine the Residence of the Entity.\n(a)\tReview information maintained for regulatory or customer relationship purposes (including information collected pursuant to AML/KYC Procedures) to determine the Account Holder\u2019s residence. For this purpose, information indicating that the Account Holder\u2019s residence includes a place of incorporation or organisation, or an address in a Reportable Jurisdiction.\n(b)\tIf the information indicates that the Account Holder is a Reportable Person, the Reporting Financial Institution must treat the account as a Reportable Account unless it obtains a self- certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person."
+    },
+    {
+        "ID": "e333eaa7-a879-4cc4-b96d-bb7f6b05d737",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.C.2.",
+        "Passage": "Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a Pre-existing Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Controlling Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs C(2)(a) through (c) in the order most appropriate under the circumstances.\n(a)\tDetermining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.\n(b)\tDetermining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.\n(c)\tDetermining the residence of a Controlling Person of a Passive NFE. For the purposes of determining the residence of a Controlling Person of a Passive NFE, a Reporting Financial Institution may rely on:\n(i)\tinformation collected and maintained pursuant to AML/KYC Procedures in the case of a Pre-existing Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed USD 1 000 000; or\n(ii)\ta self-certification from the Account Holder or such Controlling Person of the jurisdiction(s) in which the Controlling Person is resident for tax purposes. If a self-certification is not provided, the Reporting Financial Institution will establish such residence(s) by applying the procedures described in paragraph C of Section III.\n"
+    },
+    {
+        "ID": "ae2fc719-a183-46b3-9726-f7bad08f6336",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.D.",
+        "Passage": "Timing of Review and Additional Procedures Applicable to Pre-existing Entity Accounts.\n"
+    },
+    {
+        "ID": "acfe833c-8dbc-40bf-812f-fef031e30431",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.D.1.",
+        "Passage": "Review of Pre-existing Entity Accounts with an aggregate account balance or value that exceeds USD 250 000 as of 31 December 2016, must be completed by 31 December 2018.\n"
+    },
+    {
+        "ID": "a5037b00-0703-4e10-9c01-dbeaad47e7a8",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.D.2.",
+        "Passage": "Review of Pre-existing Entity Accounts with an aggregate account balance or value that does not exceed USD 250 000 as of 31 December 2016, but exceeds USD 250 000 as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the aggregate account balance or value exceeds USD 250 000.\n"
+    },
+    {
+        "ID": "52db1ed1-ad40-4b32-9c76-7b78c6a6842a",
+        "DocumentID": 40,
+        "PassageID": "SECTION V.D.3.",
+        "Passage": "If there is a change in circumstances with respect to a Pre-existing Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph C.\n"
+    },
+    {
+        "ID": "2bc7fe36-6448-4647-ac3f-b37ff7976393",
+        "DocumentID": 40,
+        "PassageID": "SECTION VI",
+        "Passage": "DUE DILIGENCE FOR NEW ENTITY ACCOUNTS\n\nThe following procedures apply with respect to New Entity Accounts.\n"
+    },
+    {
+        "ID": "19c999d5-beb4-4702-9632-cc6aef74fed9",
+        "DocumentID": 40,
+        "PassageID": "SECTION VI.A.",
+        "Passage": "Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For New Entity Accounts, a Reporting Financial Institution must apply the following review procedures:\n"
+    },
+    {
+        "ID": "efb92242-fdd6-4727-b5d7-b570b79c08c7",
+        "DocumentID": 40,
+        "PassageID": "SECTION VI.A.1.",
+        "Passage": "Determine the Residence of the Entity.\n(a)\tObtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. If the Entity certifies that it has no residence for tax purposes, the Reporting Financial Institution may rely on the address of the principal office of the Entity to determine the residence of the Account Holder.\n(b)\tIf the self-certification indicates that the Account Holder is resident in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Reportable Jurisdiction."
+    },
+    {
+        "ID": "247d51f2-e706-4a98-9ca3-41a7133e59f5",
+        "DocumentID": 40,
+        "PassageID": "SECTION VI.A.2.",
+        "Passage": "Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.\n(a)\tDetermining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.\n(b)\tDetermining the Controlling Persons of an Account Holder. For purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.\n(c)\tDetermining the residence of a Controlling Person of a Passive NFE. For purposes of determining the residence of a Controlling Person of a Passive NFE, a Reporting Financial Institution may rely on a self-certification from the Account Holder or such Controlling Person.\n\n\n"
+    },
+    {
+        "ID": "ec50638d-0c01-497f-ade1-708407eabbd8",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII",
+        "Passage": "SPECIAL DUE DILIGENCE RULES\n\nThe following additional rules apply in implementing the due diligence procedures described above:\n"
+    },
+    {
+        "ID": "f0116885-022e-4bc0-b8f1-6b6dcd8a47a9",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.A.",
+        "Passage": "Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self- certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable.\n"
+    },
+    {
+        "ID": "1dc6ea46-1888-4c68-ae3a-0bd4bb788d5c",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.B.",
+        "Passage": "Change of Participating Jurisdictions during current reporting period. A Reporting Financial Institution may apply the due diligence procedures for Pre-Existing Accounts, even if such accounts were opened after 1 January 2016, if there is a change of the Participating Jurisdictions with regard to a reporting period prior to the reporting date.\n"
+    },
+    {
+        "ID": "b7e15434-8a12-4953-83c2-0bd2fe82aad6",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.C.",
+        "Passage": "Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.\n\nA Reporting Financial Institution may treat a Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements:\n\n(a)\tthe Group Cash Value Insurance Contract or Group Annuity Contract is issued to an employer and covers 25 or more employees/certificate holders;\n(b)\tthe employee/certificate holders are entitled to receive any contract value related to their interests and to name beneficiaries for the benefit payable upon the employee's death; and\n(c)\tthe aggregate amount payable to any employee/certificate holder or beneficiary does not exceed USD 1 000 000.\n\nThe term \u201cGroup Cash Value Insurance Contract\u201d means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.\n\nThe term \u201cGroup Annuity Contract\u201d means an Annuity Contract under which the obligees are individuals who are affiliated through an employer, trade association, labour union, or other association or group.\n"
+    },
+    {
+        "ID": "4419a0ee-56da-46b1-9dd9-d6739994b0f0",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.",
+        "Passage": "Account Balance Aggregation and Currency Rules.\n"
+    },
+    {
+        "ID": "b7471435-b4f7-4903-a95b-c6eddca75ef2",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.1.",
+        "Passage": "Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph."
+    },
+    {
+        "ID": "85792725-d989-407b-afe8-84916f3c8f0c",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.2.",
+        "Passage": "Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph."
+    },
+    {
+        "ID": "9df085cb-6da4-43e0-a0cb-07ad8a7aacfb",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.3.",
+        "Passage": "Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a Financial Account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts."
+    },
+    {
+        "ID": "898b2223-bd69-4643-9577-d293914aae32",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.4.",
+        "Passage": "Amounts Read to Include Equivalent in Other Currencies.\n(a)\tAll dollar amounts in these Regulations are in US dollars and shall be read to include equivalent amounts in other currencies.\n(b)\tIn determining the balance or value of an account denominated in a currency (other than US dollars) for the purposes of these Regulations, the Financial Institution shall convert the relevant US dollars threshold amount described in these Regulations into the other currency by reference to the spot rate of exchange on the date for which the Financial Institution is determining the threshold amounts, except for AED/USD conversions for which the official fixed exchange rate applies."
+    },
+    {
+        "ID": "cacca046-0796-4431-a046-66e7b3a85133",
+        "DocumentID": 40,
+        "PassageID": "SECTION VII.D.5.",
+        "Passage": "Accounts with negative balance. An account with a balance or value that is negative is deemed to have a balance or value equal to nil.\n\n\n"
+    },
+    {
+        "ID": "b14e81e7-efa4-4c67-b4c3-326772863566",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII",
+        "Passage": "DEFINED TERMS\n\nThe following terms have the meanings set forth below:\n"
+    },
+    {
+        "ID": "23653bad-9f04-435a-897b-8ae702710b59",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.",
+        "Passage": "Reporting Financial Institution\n"
+    },
+    {
+        "ID": "6c74c977-609d-4e15-821d-8c27f4f91474",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.1.",
+        "Passage": "The term \u201cReporting Financial Institution\u201d means any [Jurisdiction] Financial Institution that is not a Non-Reporting Financial Institution. The term \u201c[Jurisdiction] Financial Institution\u201d means: (i) any Financial Institution that is resident in [jurisdiction], but excludes any branch of that Financial Institution that is located outside of [jurisdiction]; and (ii) any branch of a Financial Institution that is not resident in [jurisdiction], if that branch is located in [jurisdiction]."
+    },
+    {
+        "ID": "2921bc97-ba26-419c-8e16-5f8a1d52b514",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.2.",
+        "Passage": "The term \u201cParticipating Jurisdiction Financial Institution\u201d means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating Jurisdiction; and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction."
+    },
+    {
+        "ID": "d8ee923e-e92e-4dee-b80d-e7c0e704bb41",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.3.",
+        "Passage": "The term \u201cFinancial Institution\u201d means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company."
+    },
+    {
+        "ID": "e80f05e1-8950-44d3-8171-b733e95c0cee",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.4.",
+        "Passage": "The term \u201cCustodial Institution\u201d means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity's gross income attributable to the holding of Financial Assets and related financial services equals or exceeds 20% of the Entity's gross income during the shorter of: (i) the three-year period that ends on 31 December prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence."
+    },
+    {
+        "ID": "9c179501-bbb3-4871-9e70-7dd147a958a6",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.5.",
+        "Passage": "The term \u201cDepository Institution\u201d means any Entity that accepts deposits in the ordinary course of a banking or similar business."
+    },
+    {
+        "ID": "f6f96619-3472-4f4c-a966-9c0cbfc25366",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.6.",
+        "Passage": "The term \u201cInvestment Entity\u201d means any Entity:\n(a)\tthat primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer:\n(i)\ttrading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;\n(ii)\tindividual and collective portfolio management; or\n(iii)\totherwise investing, administering, or managing Financial Assets or money on behalf of other persons; or\n(b)\tthe gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a).\n\nAn Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity's gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for the purposes of subparagraph A(6)(b), if the Entity's gross income attributable to the relevant activities equals or exceeds 50% of the Entity's gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term Investment Entity does not include an Entity that is an Active NFE because that Entity meets any of the criteria in subparagraphs D(9)(d) through (g).\n\nThis paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of \u201cfinancial institution\u201d in the Financial Action Task Force Recommendations.\n"
+    },
+    {
+        "ID": "f09b6068-095d-46c1-96d0-3893efd0b469",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.7.",
+        "Passage": "The term \u201cFinancial Asset\u201d includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term \u201cFinancial Asset\u201d does not include a non-debt, direct interest in real property."
+    },
+    {
+        "ID": "9cd51a79-4d00-4f13-988c-953ec7df0a30",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.A.8.",
+        "Passage": "The term \u201cSpecified Insurance Company\u201d means any Entity that is an insurance company (or the holding company of an insurance company) which issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.\n"
+    },
+    {
+        "ID": "be65ebd7-847c-4153-b7da-c126cc03db12",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.",
+        "Passage": "Non-Reporting Financial Institution\n"
+    },
+    {
+        "ID": "f60e75bf-9deb-4ddd-b01a-6d85b93444bd",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.1.",
+        "Passage": "The term \u201cNon-Reporting Financial Institution\u201d means any Financial Institution that is:\n(a)\ta Governmental Entity, International Organisation or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution;\n(b)\ta Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer;\n(c)\tany other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in subparagraphs B(1)(a) and (b), and is included in the list of Non-Reporting Financial Institutions referred to in Annex 1 of these Regulations, provided that the status of such Entity as a Non-Reporting Financial Institution does not frustrate the purposes of these Regulations;\n(d)\tan Exempt Collective Investment Vehicle; or\n(e)\ta trust to the extent that the trustee of the trust is a Reporting Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust."
+    },
+    {
+        "ID": "01a53438-fc32-4624-94d2-014a1730e0e6",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.2.",
+        "Passage": "The term \u201cGovernmental Entity\u201d means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a \u201cGovernmental Entity\u201d). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.\n(a)\tAn \u201cintegral part\u201d of a jurisdiction means any person, organisation, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a jurisdiction. The net earnings of the governing authority must be credited to its own account or to other accounts of the jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity.\n(b)\tA \u201ccontrolled entity\u201d means an Entity which is separate in form from the jurisdiction or that otherwise constitutes a separate juridical entity, provided that:\n(i)\tthe Entity is wholly owned and controlled by one or more Governmental Entities directly or through one or more controlled entities;\n(ii)\tthe Entity's net earnings are credited to its own account or to the accounts of one or more Governmental Entities, with no portion of its income inuring to the benefit of any private person; and\n(iii)\tthe Entity's assets vest in one or more Governmental Entities upon dissolution.\n(c)\tIncome does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons."
+    },
+    {
+        "ID": "5e4f93b9-ff0d-42a7-9bec-0194ff131ab0",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.3.",
+        "Passage": "The term \u201cInternational Organisation\u201d means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation) (i) that is comprised primarily of governments; (ii) that has in effect a headquarters or substantially similar agreement with the jurisdiction; and (iii) the income of which does not inure to the benefit of private persons."
+    },
+    {
+        "ID": "49a44631-293d-4dea-a050-62fe86a43b17",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.4.",
+        "Passage": "The term \u201cCentral Bank\u201d means an institution that is by law or government sanction the principal authority, other than the government of the jurisdiction itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the jurisdiction, whether or not owned in whole or in part by the jurisdiction."
+    },
+    {
+        "ID": "dfa1e069-4353-46a8-a959-62714a1aaaf9",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.5.",
+        "Passage": "The term \u201cBroad Participation Retirement Fund\u201d means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund:\n(a)\tdoes not have a single beneficiary with a right to more than 5% of the fund's assets;\n(b)\tis subject to government regulation and provides information reporting to the tax authorities; and\n(c)\tsatisfies at least one of the following requirements:\n(i)\tthe fund is generally exempt from tax on investment income, or taxation of such income is deferred or taxed at a reduced rate, due to its status as a retirement or pension plan;\n(ii)\tthe fund receives at least 50% of its total contributions (other than transfers of assets from other plans described in subparagraphs B(5) through (7) or from retirement and pension accounts described in subparagraph C(17)(a)) from the sponsoring employers;\n(iii)\tdistributions or withdrawals from the fund are allowed only upon the occurrence of specified events related to retirement, disability, or death (except rollover distributions to other retirement funds described in subparagraphs B(5) through (7) or retirement and pension accounts described in subparagraph C(17)(a)), or penalties apply to distributions or withdrawals made before such specified events; or\n(iv)\tcontributions (other than certain permitted make-up contributions) by employees to the fund are limited by reference to earned income of the employee or may not exceed USD 50 000 annually, applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation."
+    },
+    {
+        "ID": "b6eceeac-a02d-41a6-b6ab-6498837db963",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.6.",
+        "Passage": "The term \u201cNarrow Participation Retirement Fund\u201d means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that:\n(a)\tthe fund has fewer than 50 participants;\n(b)\tthe fund is sponsored by one or more employers that are not Investment Entities or Passive NFEs;\n(c)\tthe employee and employer contributions to the fund (other than transfers of assets from retirement and pension accounts described in subparagraph C(17)(a)) are limited by reference to earned income and compensation of the employee, respectively;\n(d)\tparticipants that are not residents of the jurisdiction in which the fund is established are not entitled to more than 20 % of the fund's assets; and\n(e)\tthe fund is subject to government regulation and provides information reporting to the tax authorities."
+    },
+    {
+        "ID": "c70d9c58-35df-4099-a350-8c2f6728fdd7",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.7.",
+        "Passage": "The term \u201cPension Fund of a Governmental Entity, International Organisation or Central Bank\u201d means a fund established by a Governmental Entity, International Organisation or Central Bank to provide retirement, disability, or death benefits to beneficiaries or participants who are current or former employees (or persons designated by such employees), or who are not current or former employees, if the benefits provided to such beneficiaries or participants are in consideration of personal services performed for the Governmental Entity, International Organisation or Central Bank."
+    },
+    {
+        "ID": "6327a6cf-8a3d-44e6-8f9d-ee673346ecb3",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.8.",
+        "Passage": "The term \u201cQualified Credit Card Issuer\u201d means a Financial Institution satisfying the following requirements:\n(a)\tthe Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and\n(b)\tbeginning on or before 1 January 2017, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of USD 50 000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns."
+    },
+    {
+        "ID": "5e40d3b0-b716-44fe-a530-e4ed422161c2",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.B.9.",
+        "Passage": "The term \u201cExempt Collective Investment Vehicle\u201d means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through individuals or Entities that are not Reportable Persons, except a Passive NFE with Controlling Persons who are Reportable Persons.\n"
+    },
+    {
+        "ID": "d79ce894-7254-46d8-a9d1-5ab16b7ef902",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.",
+        "Passage": "Financial Account\n"
+    },
+    {
+        "ID": "9c41d404-df6c-4b4d-800b-91945863ca0d",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.1.",
+        "Passage": "The term \u201cFinancial Account\u201d means an account maintained by a Financial Institution, and includes a Depository Account, a Custodial Account and:\n(a)\tin the case of an Investment Entity, any Equity Interest or debt interest in the Financial Institution. Notwithstanding the foregoing, the term \u201cFinancial Account\u201d does not include any Equity Interest or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of, or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;\n(b)\tin the case of a Financial Institution not described in subparagraph C(1)(a), any Equity Interest or debt interest in the Financial Institution, if the class of interests was established with the purpose of avoiding reporting in accordance with Section I; and\n(c)\tany Cash Value Insurance Contract and any Annuity Contract issued or maintained by a Financial Institution, other than a non-investment-linked, non-transferable immediate life annuity that is issued to an individual and monetises a pension or disability benefit provided under an account that is an Excluded Account.\nThe term \u201cFinancial Account\u201d does not include any account that is an Excluded Account."
+    },
+    {
+        "ID": "a8407047-d77f-4003-a021-3d303489bf79",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.2.",
+        "Passage": "The term \u201cDepository Account\u201d includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Financial Institution in the ordinary course of a banking or similar business. A Depository Account also includes an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest thereon."
+    },
+    {
+        "ID": "b70ad7ac-e837-46e2-b7db-24fc5fdbc85a",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.3.",
+        "Passage": "The term \u201cCustodial Account\u201d means an account (other than an Insurance Contract or Annuity Contract) which holds one or more Financial Assets for the benefit of another person."
+    },
+    {
+        "ID": "cee4fb2b-2210-4fa4-a2b5-791a7e4fb2e5",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.4.",
+        "Passage": "The term \u201cEquity Interest\u201d means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust."
+    },
+    {
+        "ID": "f02f17d9-a462-4eae-b44b-74f3bca441e2",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.5.",
+        "Passage": "The term \u201cInsurance Contract\u201d means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk."
+    },
+    {
+        "ID": "c7652da6-13ca-49d1-b540-878909bc8e11",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.6.",
+        "Passage": "The term \u201cAnnuity Contract\u201d means a contract under which the issuer agrees to make payments for a period of time determined in whole or in part by reference to the life expectancy of one or more individuals. The term also includes a contract that is considered to be an Annuity Contract in accordance with the law, regulation, or practice of the jurisdiction in which the contract was issued, and under which the issuer agrees to make payments for a term of years."
+    },
+    {
+        "ID": "f05d7a1a-049f-4ebd-b83a-f99dfd887a5b",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.7.",
+        "Passage": "The term \u201cCash Value Insurance Contract\u201d means an Insurance Contract (other than an indemnity reinsurance contract between two insurance companies) that has a Cash Value."
+    },
+    {
+        "ID": "fbc9a329-9112-4d8c-854b-88b6bd8708f5",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.8.",
+        "Passage": "The term \u201cCash Value\u201d means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term \u201cCash Value\u201d does not include an amount payable under an Insurance Contract:\n(a)\tsolely by reason of the death of an individual insured under a life insurance contract;\n(b)\tas a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;\n(c)\tas a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;\n(d)\tas a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in subparagraph C(8)(b); or\n(e)\tas a return of an advance premium or premium deposit for an Insurance Contract for which the premium is payable at least annually if the amount of the advance premium or premium deposit does not exceed the next annual premium that will be payable under the contract."
+    },
+    {
+        "ID": "02fe67c2-3e54-4535-b2b6-93f5e57eea49",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.9.",
+        "Passage": "The term \u201cPre-existing Account\u201d means:\n(a)\ta Financial Account maintained by a Reporting Financial Institution as of 31 December 2016;\n(b)\tany Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if:\n(i)\tthe Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same jurisdiction as the Reporting Financial Institution) a Financial Account that is a Pre-existing Account under subparagraph C(9)(a);\n(ii)\tthe Reporting Financial Institution (and, as applicable, the Related Entity within the same jurisdiction as the Reporting Financial Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under this subparagraph, as a single Financial Account for purposes of satisfying the standards of knowledge requirements described in paragraph A of Section VII, and for purposes of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds.\n(iii)\twith respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre-existing Account described in subparagraph C(9)(a); and\n(iv)\tthe opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for the purposes of this Regulation."
+    },
+    {
+        "ID": "43dc428a-9529-4531-9761-dce1badccaec",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.10.",
+        "Passage": "The term \u201cNew Account\u201d means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2017 unless it is treated as a Pre-existing Account under subparagraph C(9)(b)."
+    },
+    {
+        "ID": "8e558f6d-7553-4b34-b805-14371003a9eb",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.11.",
+        "Passage": "The term \u201cPre-existing Individual Account\u201d means a Pre-existing Account held by one or more individuals."
+    },
+    {
+        "ID": "7960c61c-d3e3-4537-b2cc-806f80080b43",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.12.",
+        "Passage": "The term \u201cNew Individual Account\u201d means a New Account held by one or more individuals."
+    },
+    {
+        "ID": "329fbdff-3752-4349-bd32-4a2a51d7a274",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.13.",
+        "Passage": "The term \u201cPre-existing Entity Account\u201d means a Pre-existing Account held by one or more Entities."
+    },
+    {
+        "ID": "f256a49c-2b3d-4454-a206-a5fcc69631e5",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.14.",
+        "Passage": "The term \u201cLower Value Account\u201d means a Pre-existing Individual Account with an aggregate balance or value as of 31 December 2016 that does not exceed USD 1 000 000."
+    },
+    {
+        "ID": "32f44807-ae50-42d2-a1e2-c20026c1d4ee",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.15.",
+        "Passage": "The term \u201cHigh Value Account\u201d means a Pre-existing Individual Account with an aggregate balance or value that exceeds USD 1 000 000 as of 31 December 2016, or 31 December of any subsequent year."
+    },
+    {
+        "ID": "638765b9-9a21-437c-a6eb-4ca55279c754",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.16.",
+        "Passage": "The term \u201cNew Entity Account\u201d means a New Account held by one or more Entities."
+    },
+    {
+        "ID": "74862511-e81f-4c9a-957e-b795410aee75",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.C.17.",
+        "Passage": "The term \u201cExcluded Account\u201d means any of the following accounts:\n(a)\ta retirement or pension account that satisfies the following requirements:\n(i)\tthe account is subject to regulation as a personal retirement account or is part of a registered or regulated retirement or pension plan for the provision of retirement or pension benefits (including disability or death benefits);\n(ii)\tthe account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);\n(iii)\tinformation reporting is required to the tax authorities with respect to the account;\n(iv)\twithdrawals are conditioned on reaching a specified retirement age, disability, or death, or penalties apply to withdrawals made before such specified events; and\n(v)\teither (i) annual contributions are limited to USD 50 000 or less; or (ii) there is a maximum lifetime contribution limit to the account of USD 1 000 000 or less, in each case applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation.\nA Financial Account that otherwise satisfies the requirement of subparagraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);\n(b)\tan account that satisfies the following requirements:\n(i)\tthe account is subject to regulation as an investment vehicle for purposes other than for retirement and is regularly traded on an established securities market, or the account is subject to regulation as a savings vehicle for purposes other than for retirement;\n(ii)\tthe account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);\n(iii)\twithdrawals are conditioned on meeting specific criteria related to the purpose of the investment or savings account (for example, the provision of educational or medical benefits), or penalties apply to withdrawals made before such criteria are met; and\n(iv)\tannual contributions are limited to USD 50 000 or less, applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation.\nA Financial Account that otherwise satisfies the requirement of subparagraph C(17)(b)(iv) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);\n(c)\ta life insurance contract with a coverage period that will end before the insured individual attains age 90, provided that the contract satisfies the following requirements:\n(i)\tperiodic premiums, which do not decrease over time, are payable at least annually during the period the contract is in existence or until the insured attains age 90, whichever is shorter;\n(ii)\tthe contract has no contract value that any person can access (by withdrawal, loan, or otherwise) without terminating the contract;\n(iii)\tthe amount (other than a death benefit) payable upon cancellation or termination of the contract cannot exceed the aggregate premiums paid for the contract, less the sum of mortality, morbidity, and expense charges (whether or not actually imposed) for the period or periods of the contract's existence and any amounts paid prior to the cancellation or termination of the contract; and\n(iv)\tthe contract is not held by a transferee for value;\n(d)\tan account that is held solely by an estate if the documentation for such account includes a copy of the deceased's will or death certificate;\n(e)\tan account established in connection with any of the following:\n(i)\ta court order or judgment;\n(ii)\ta sale, exchange, or lease of real or personal property, provided that the account satisfies the following requirements:\ni.\tthe account is funded solely with a down payment, earnest money, deposit in an amount appropriate to secure an obligation directly related to the transaction, or a similar payment, or is funded with a Financial Asset that is deposited in the account in connection with the sale, exchange, or lease of the property,\nii.\tthe account is established and used solely to secure the obligation of the purchaser to pay the purchase price for the property, the seller to pay any contingent liability, or the lessor or lessee to pay for any damages relating to the leased property as agreed under the lease,\niii.\tthe assets of the account, including the income earned thereon, will be paid or otherwise distributed for the benefit of the purchaser, seller, lessor, or lessee (including to satisfy such person's obligation) when the property is sold, exchanged, or surrendered, or the lease terminates,\niv.\tthe account is not a margin or similar account established in connection with a sale or exchange of a Financial Asset, and\nv.\tthe account is not associated with an account described in subparagraph C(17)(f);\n(iii)\tan obligation of a Financial Institution servicing a loan secured by real property to set aside a portion of a payment solely to facilitate the payment of taxes or insurance related to the real property at a later time;\n(iv)\tan obligation of a Financial Institution solely to facilitate the payment of taxes at a later time;\n(f)\ta Depository Account that satisfies the following requirements:\n(i)\tthe account exists solely because a customer makes a payment in excess of a balance due with respect to a credit card or other revolving credit facility and the overpayment is not immediately returned to the customer; and\n(ii)\tbeginning on or before 1 January 2017, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of USD 50 000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph D of Section VII for currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;\n(g)\tany other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in subparagraphs C(17)(a) through (f), and is included in the list of Excluded Accounts referred to in Annex 2 of these Regulations, provided that the status of such account as an Excluded Account does not frustrate the purposes of these Regulations.\n"
+    },
+    {
+        "ID": "5ce7cae1-edfe-4200-a00c-551303f1daf5",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.",
+        "Passage": "Reportable Account\n"
+    },
+    {
+        "ID": "a69154be-41d1-4874-bb2a-1e4d44cfc6e4",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.1.",
+        "Passage": "The term \u201cReportable Account\u201d means a Financial Account that is maintained by a Reporting Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such pursuant to the due diligence procedures described in Sections II through VII."
+    },
+    {
+        "ID": "05bdde0f-c976-484f-a019-e9219907ea66",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.2.",
+        "Passage": "The term \u201cReportable Person\u201d means a Reportable Jurisdiction Person other than: (i) a corporation the stock of which is regularly traded on one or more established securities markets;\n(ii) any corporation that is a Related Entity of a corporation described in clause (i); (iii) a Governmental Entity; (iv) an International Organisation; (v) a Central Bank; or (vi) a Financial Institution."
+    },
+    {
+        "ID": "2c4c6134-96c3-4953-9be6-7bcccb851595",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.3.",
+        "Passage": "The term \u201cReportable Jurisdiction Person\u201d means an individual or Entity that is resident in a Reportable Jurisdiction under the tax laws of such jurisdiction, or an estate of a decedent that was a resident of a Reportable Jurisdiction. For this purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement, which has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated."
+    },
+    {
+        "ID": "d8c0c0b4-a5cb-4d5c-b6c0-5f8323a75139",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.4.",
+        "Passage": "The term \u201cReportable Jurisdiction\u201d means:\n(a)\tfor the purposes of applying the due diligence procedures described in Section II to VII of these Regulations, a jurisdiction other than the United States of America, and\n(b)\tfor the purposes of applying Section I of these Regulations, a jurisdiction other than the United States of America or the United Arab Emirates."
+    },
+    {
+        "ID": "d83ccb1b-135a-4081-89b2-85d70321da4e",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.5.",
+        "Passage": "The term \u201cParticipating Jurisdiction\u201d means a jurisdiction which is identified in Annex 3 to these Regulations."
+    },
+    {
+        "ID": "34ab307c-5ad0-47ea-ba9a-f412aa829bf9",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.6.",
+        "Passage": "The term \u201cControlling Persons\u201d means the natural persons who exercise control over an Entity. In the case of a trust, that term means the settlor(s), the trustee(s), the protector(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural person(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term \u201cControlling Persons\u201d must be interpreted in a manner consistent with the Financial Action Task Force Recommendations."
+    },
+    {
+        "ID": "ac7a145f-09fb-4743-be64-ead7923f0a39",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.7.",
+        "Passage": "The term \u201cNFE\u201d means any Entity that is not a Financial Institution."
+    },
+    {
+        "ID": "49c0061e-bf48-4b39-834e-f08db353ee85",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.8.",
+        "Passage": "The term \u201cPassive NFE\u201d means any: (i) NFE that is not an Active NFE; or (ii) an Investment Entity described in subparagraph A(6)(b) that is not a Participating Jurisdiction Financial Institution."
+    },
+    {
+        "ID": "5de7de28-9d22-468b-b0b9-0d8c14270926",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.D.9.",
+        "Passage": "The term \u201cActive NFE\u201d means any NFE that meets any of the following criteria:\n(a)\tless than 50% of the NFE's gross income for the preceding calendar year is passive income and less than 50% of the assets held by the NFE during the preceding calendar year are assets that produce or are held for the production of passive income;\n(b)\tthe stock of the NFE is regularly traded on an established securities market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market;\n(c)\tthe NFE is a Governmental Entity, an International Organisation, a Central Bank, or an Entity wholly owned by one or more of the foregoing;\n(d)\tsubstantially all of the activities of the NFE consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes;\n(e)\tthe NFE is not yet operating a business and has no prior operating history, but is investing capital into assets with the intent to operate a business other than that of a Financial Institution, provided that the NFE does not qualify for this exception after the date that is 24 months after the date of the initial organisation of the NFE;\n(f)\tthe NFE was not a Financial Institution in the past five years, and is in the process of liquidating its assets or is reorganising with the intent to continue or recommence operations in a business other than that of a Financial Institution;\n(g)\tthe NFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution; or\n(h)\tthe NFE meets all of the following requirements:\n(i)\tit is established and operated in its jurisdiction of residence exclusively for religious, charitable, scientific, artistic, cultural, athletic, or educational purposes; or it is established and operated in its jurisdiction of residence and it is a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;\n(ii)\tit is exempt from income tax in its jurisdiction of residence;\n(iii)\tit has no shareholders or members who have a proprietary or beneficial interest in its income or assets;\n(iv)\tthe applicable laws of the NFE's jurisdiction of residence or the NFE's formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and\n(v)\tthe applicable laws of the NFE's jurisdiction of residence or the NFE's formation documents require that, upon the NFE's liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE's jurisdiction of residence or any political subdivision thereof.\n"
+    },
+    {
+        "ID": "3e73bc50-987f-4254-ab46-70f94ee15a08",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.",
+        "Passage": "Miscellaneous\n"
+    },
+    {
+        "ID": "46c1f64d-68db-4915-82a1-a069fc019698",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.1.",
+        "Passage": "The term \u201cAccount Holder\u201d means the person listed or identified as the holder of a Financial Account by the Financial Institution that maintains the Financial Account. A person, other than a Financial Institution, holding a Financial Account for the benefit or account of another person as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as holding the account for purposes of these Regulations, and such other person is treated as holding the Financial Account. In the case of a Cash Value Insurance Contract or an Annuity Contract, the Account Holder is any person entitled to access the Cash Value or change the beneficiary of the contract. If no person can access the Cash Value or change the beneficiary, the Account Holder is any person named as the owner in the contract and any person with a vested entitlement to payment under the terms of the contract. Upon the maturity of a Cash Value Insurance Contract or an Annuity Contract, each person entitled to receive a payment under the contract is treated as an Account Holder."
+    },
+    {
+        "ID": "0eb69a7c-75b1-47f0-a5ae-6a1f17a56d24",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.2.",
+        "Passage": "The term \u201cAML/KYC Procedures\u201d means the customer due diligence procedures of a Reporting Financial Institution pursuant to the anti-money laundering or similar requirements to which such Reporting Financial Institution is subject under domestic law. To the extent the AML/KYC Procedures (i) do not require the collection of certain documentation as set out in these Regulations, the Reporting Financial Institution is required to collect such documentation that will enable it to comply with these Regulations and (ii) contain definitions different to those in these Regulations, the definitions and interpretation for the purpose of these Regulations shall prevail."
+    },
+    {
+        "ID": "8002fa3b-3a95-4199-a641-52affc2e694d",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.3.",
+        "Passage": "The term \u201cEntity\u201d means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation."
+    },
+    {
+        "ID": "c48b51bf-e92c-4c82-8796-2df72f2b9b65",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.4.",
+        "Passage": "An Entity is a \u201cRelated Entity\u201d of another Entity if (a) either Entity controls the other Entity; (b) the two Entities are under common control; or (c) the two Entities are Investment Entities as described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such Investment Entities. For this purpose \u201ccontrol\u201d includes direct or indirect ownership of more than 50% of the vote and value in an Entity."
+    },
+    {
+        "ID": "9dbe36ec-d8a7-45a8-9d04-faceaac99e0b",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.5.",
+        "Passage": "The term \u201cTIN\u201d means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number)."
+    },
+    {
+        "ID": "76e9d5a8-06dd-4486-b293-d83998fd7748",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.6.",
+        "Passage": "The term \u201cDocumentary Evidence\u201d includes any of the following:\n(a)\ta certificate of residence issued by an authorised government body (for example, a government or agency thereof, or a municipality) of the jurisdiction in which the payee claims to be a resident;\n(b)\twith respect to an individual, any valid identification issued by an authorised government body (for example, a government or agency thereof, or a municipality), that includes the individual's name and is typically used for identification purposes;\n(c)\twith respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the jurisdiction in which it claims to be a resident or the jurisdiction in which the Entity was incorporated or organised;\n(d)\tany audited financial statement, third-party credit report, bankruptcy filing, or securities regulator's report.\nWith respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term \u201cstandardised industry coding system\u201d means a coding system used to classify establishments by business type for purposes other than tax purposes."
+    },
+    {
+        "ID": "0b345ea6-2040-43fc-a3d8-2e3c052fa223",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.7.",
+        "Passage": "The term \u201cUAE Competent Authority\u201d means the Ministry of Finance."
+    },
+    {
+        "ID": "a581bb71-5182-4eb9-8dc3-640bfe6dd974",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.E.8.",
+        "Passage": "The term \u201cRegulatory Authority\u201d means [name(s) of regulatory authority in the relevant jurisdiction].\n"
+    },
+    {
+        "ID": "13c5f8ad-4919-4d6f-aac7-387b334c9b7a",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX",
+        "Passage": "COMPLEMENTARY REPORTING AND DUE DILIGENCE RULES FOR FINANCIAL ACCOUNT INFORMATION\n"
+    },
+    {
+        "ID": "582b8ca2-f9b6-4099-951c-8c83664f9ebc",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.A.",
+        "Passage": "Change in circumstances\n"
+    },
+    {
+        "ID": "ac90b4d8-1709-4d26-bdb0-ecfb12b18ee1",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.A.1.",
+        "Passage": "A \u201cchange in circumstances\u201d includes any change that results in the addition of information relevant to a person's status or otherwise conflicts with such person's status. In addition, a change in circumstances includes any change or addition of information to the Account Holder's account (including the addition, substitution, or other change of an Account Holder) or any change or addition of information to any account associated with such account (applying the account aggregation rules described in subparagraphs D(1) through (3) of Section VII) if such change or addition of information affects the status of the Account Holder."
+    },
+    {
+        "ID": "45f0916e-85e7-4c6c-8283-260cbb85c992",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.A.2.",
+        "Passage": "If a Reporting Financial Institution has relied on the residence address test described in subparagraph B(1) of Section III and there is a change in circumstances that causes  the Reporting Financial Institution to know or have reason to know that the original Documentary Evidence (or other equivalent documentation) is incorrect or unreliable, the Reporting Financial Institution must, by the later of the last day of the relevant calendar year, or 90 calendar days following the notice or discovery of such change in circumstances, obtain a self- certification and new Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain the self-certification and new Documentary Evidence by such date, the Reporting Financial Institution must treat the Account Holder as resident of the jurisdiction in which the Account Holder claimed to be resident in the original self-certificate and the jurisdiction in which the Account holder may be resident as a result of the change in circumstances.\n"
+    },
+    {
+        "ID": "30bbd80b-af2e-4ed2-9a03-c4484cc448b5",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.B.",
+        "Passage": "Self-certification for New Entity Accounts\n"
+    },
+    {
+        "ID": "0a83f531-6d7d-4fb4-9c49-b1126e088663",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.B.1.",
+        "Passage": "With respect to New Entity Accounts, for the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may only rely on a self-certification from either the Account Holder or the Controlling Person.\n"
+    },
+    {
+        "ID": "69aa9899-15ab-4391-8deb-7c121365a3d7",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.C.",
+        "Passage": "Residence of a Financial Institution\n"
+    },
+    {
+        "ID": "9e51e203-4ae1-45f5-bc91-629964098a42",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.C.1.",
+        "Passage": "A Financial Institution is \u201cresident\u201d in a Participating Jurisdiction if it is subject to the jurisdiction of such Participating Jurisdiction in that the Participating Jurisdiction is able to enforce reporting by the Financial Institution)."
+    },
+    {
+        "ID": "e973d9c6-13d6-4a8b-84f4-f51dfada965d",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.C.2.",
+        "Passage": "In the case of a trust that is a Financial Institution (irrespective of whether it is resident for tax purposes in a Participating Jurisdiction), the trust is considered to be subject to the jurisdiction of a Participating Jurisdiction if one or more of its trustees are resident in such jurisdiction except if the trust reports all the information required to be reported under these Regulations with respect to Reportable Accounts maintained by the trust to another Participating Jurisdiction because it is resident for tax purposes in such other jurisdiction."
+    },
+    {
+        "ID": "a5ac6a21-b309-49b3-98d8-f564595a62c7",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.C.3.",
+        "Passage": "Where a Financial Institution (other than a trust) does not have a residence for tax purposes (for example, because it is treated as fiscally transparent, or it is located in a jurisdiction that does not have an income tax), it is considered to be subject to the jurisdiction of a Participating Jurisdiction and it is, thus, a Participating Jurisdiction Financial Institution if:\n(a)\tit is incorporated under the laws of the Participating Jurisdiction;\n(b)\tit has its place of management (including effective management) in the Participating Jurisdiction; or\n(c)\tit is subject to financial supervision in the Participating Jurisdiction."
+    },
+    {
+        "ID": "594eff3e-2ab4-44ef-88d7-61e4c2cf7b61",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.C.4.",
+        "Passage": "Where a Financial Institution (other than a trust) is resident in two or more Participating Jurisdiction, such Financial Institution will be subject to the reporting and due diligence obligations of the Participating Jurisdiction in which it maintains the Financial Account(s).\n"
+    },
+    {
+        "ID": "2be3d80a-cfc7-4be7-9369-ef6db8d88e7f",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.D.",
+        "Passage": "Account maintained\n"
+    },
+    {
+        "ID": "ffd4d0f5-0747-41bd-bd0b-0f8c15795fbc",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.D.1.",
+        "Passage": "In general, an account would be considered to be \u201cmaintained\u201d by a Financial Institution as follows:\n(a)\tin the case of a Custodial Account, by the Financial Institution that holds custody over the assets in the account (including a Financial Institution that holds assets in street name for an Account Holder in such institution);\n(b)\tin the case of a Depository Account, by the Financial Institution that is obligated to make payments with respect to the account (excluding an agent of a Financial Institution regardless of whether such agent is a Financial Institution);\n(c)\tin the case of any Equity Interest or debt interest in a Financial Institution that constitutes a Financial Account, by such Financial Institution;\n(d)\tin the case of a Cash Value Insurance Contract or an Annuity Contract, by the Financial Institution that is obligated to make payments with respect to the contract.\n"
+    },
+    {
+        "ID": "7d0e97cc-f1b4-4038-ad5d-5e96828f5499",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.E.",
+        "Passage": "Entities that are Passive NFEs\n"
+    },
+    {
+        "ID": "006705da-4a88-4b71-aeab-3e8e55be047e",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.E.1.",
+        "Passage": "For the purpose of subparagraph D(3) of Section VIII, a legal person or a legal arrangement is considered \u201csimilar\u201d to a partnership and a limited liability partnership where it is not treated as a taxable unit in a Participating Jurisdiction under the tax laws of such jurisdiction. However, in order to avoid duplicate reporting (given the wide scope of the term Controlling Persons in the case of trusts), a trust that is a Passive NFE may not be considered a similar legal arrangement.\n"
+    },
+    {
+        "ID": "e7f27577-04cf-4edc-a37e-16fc070387ad",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.F.",
+        "Passage": "Address of Entity's principal office\n"
+    },
+    {
+        "ID": "3315e986-90ea-477a-a852-d8ab450796ba",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.F.1.",
+        "Passage": "One of the requirements described in subparagraph E(6)(c) of Section VIII is that, with respect to an Entity, the official documentation includes either the address of the Entity's principal office in a jurisdiction in which it claims to be a resident or a jurisdiction in which the Entity was incorporated or organised. The address of the Entity's principal office is generally the place in which its place of effective management is situated."
+    },
+    {
+        "ID": "b3229a88-88fa-43e6-912f-30fb5763d6f6",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.F.2.",
+        "Passage": "The address of a Financial Institution with which the Entity maintains an account, a post office box, or an address used solely for mailing purposes is not the address of the Entity's principal office unless such address is the only address used by the Entity and appears as the Entity's registered address in the Entity's organisational documents."
+    },
+    {
+        "ID": "1f312be6-0e89-490f-b9c3-6ce0e8ae3234",
+        "DocumentID": 40,
+        "PassageID": "SECTION IX.F.3.",
+        "Passage": "An address that is provided subject to instructions to hold all mail to that address is not the address of the Entity's principal office.\n"
+    },
+    {
+        "ID": "029f87ab-4a4d-47af-9561-bc60ccff81b7",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.ANNEX 1",
+        "Passage": "\nNON-REPORTING FINANCIAL INSTITUTIONS\nFor the purposes of these Regulations, the following are non-reporting financial institutions:\nNone.\n"
+    },
+    {
+        "ID": "1ca292b9-2154-49f5-bcf7-25e7a7898c4b",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.ANNEX 2",
+        "Passage": "\nEXCLUDED ACCOUNTS\nFor the purposes of subparagraph C(17)(g) of Section VIII of these Regulations the following are excluded accounts:\nNone.\n"
+    },
+    {
+        "ID": "8dd2b803-318b-4220-9971-96ce1c92cadd",
+        "DocumentID": 40,
+        "PassageID": "SECTION VIII.ANNEX 3",
+        "Passage": "\nPARTICIPATING JURISDICTIONS\nFor the purposes of these Regulations, the list of Participating Jurisdictions, which may be revised from time to time, is published on the webpage of the UAE Competent Authority.\n"
+    }
+]

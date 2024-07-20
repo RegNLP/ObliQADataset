@@ -1,0 +1,182 @@
+[
+    {
+        "ID": "f11ec4d4-7298-427b-a94a-e9d319c4db8c",
+        "DocumentID": 18,
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION"
+    },
+    {
+        "ID": "e8c08de4-fa9b-4f3f-8377-cfeb054d52b1",
+        "DocumentID": 18,
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (\u201cthe Regulator\u201d) and the Guidance & Policies Manual of the Regulator."
+    },
+    {
+        "ID": "a1d7826f-5511-458d-b731-bc0b28b35316",
+        "DocumentID": 18,
+        "PassageID": "1.2",
+        "Passage": "The Guidance is relevant to an applicant for a Financial Services Permission (\u201cFSP\u201d) to carry on the Regulated Activity of Managing a Collective Investment Fund, as defined in FSRA Fund Rules (\u201cFUNDS\u201d), where the Fund Manager operates a Venture Capital (\u201cVC\u201d) Fund.  This Guidance applies only to Fund Managers of VC Funds (\u201cVC Managers\u201d), not to their management of other types of funds other than VC Funds or additional Regulated Activities that are not related to co-investments by third parties in VC Funds."
+    },
+    {
+        "ID": "1eaa581e-a50b-4632-a8a7-06a71717b6b8",
+        "DocumentID": 18,
+        "PassageID": "1.3",
+        "Passage": "The Guidance sets out the Regulator\u2019s approach to an application for an FSP to operate under the framework outlined here for VC Managers (the \u201cVC Manager Framework\u201d), in addition to the existing requirements in relation to the Threshold Conditions as set out in the FSMR and the General Rulebook."
+    },
+    {
+        "ID": "2af79032-5308-41c8-b98e-1a72ab4c5fff",
+        "DocumentID": 18,
+        "PassageID": "1.4",
+        "Passage": "In particular, this Guidance includes the eligibility and authorisation criteria that applicants must satisfy to be authorised as VC Managers, the ongoing regulatory requirements, and the types of restrictions that the Regulator may impose on a VC Manager\u2019s activities."
+    },
+    {
+        "ID": "27ae4fb0-850f-49c0-9fba-da1d7870d7fd",
+        "DocumentID": 18,
+        "PassageID": "1.5",
+        "Passage": "This Guidance is not an exhaustive source of the Regulator\u2019s policy on the exercise of its statutory powers and discretions. In discharging its regulatory mandate, the Regulator may impose other, specific conditions to address any additional risks posed by the proposed activities of the VC Manager."
+    },
+    {
+        "ID": "3ba5d34b-4a51-4b22-b405-67222b265c38",
+        "DocumentID": 18,
+        "PassageID": "1.6",
+        "Passage": "The Regulator is not bound by the requirements set out in this Guidance and may modify this Guidance at its discretion where appropriate."
+    },
+    {
+        "ID": "95b58dae-8bfe-4cc9-b90f-ffc377d87f7c",
+        "DocumentID": 18,
+        "PassageID": "1.7",
+        "Passage": "Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (\u201cGLO\u201d). Other FSRA Rulebooks referred to in this Guidance are the General Rulebook (\u201cGEN\u201d) and the Prudential \u2013 Investment, Insurance Intermediation and Banking Rules (\u201cPRU\u201d)."
+    },
+    {
+        "ID": "1f687f65-4138-4a37-b0b8-f684a5cad1ce",
+        "DocumentID": 18,
+        "PassageID": "2.",
+        "Passage": "OBJECTIVES OF THE VC MANAGER FRAMEWORK"
+    },
+    {
+        "ID": "27d6dd6a-b8eb-4cbc-bfc9-08cb58f0bce3",
+        "DocumentID": 18,
+        "PassageID": "2.1",
+        "Passage": "VC Funds are investment funds that seek private equity stakes in start-ups or young, small or medium enterprises (whether companies or partnerships, collectively \u201cEarly Stage entities\u201d) which typically offer products that are innovative and possess strong growth potential, such as those at the cutting-edge of technology."
+    },
+    {
+        "ID": "9bdfbac7-bc42-48de-b640-ddeeec52ba97",
+        "DocumentID": 18,
+        "PassageID": "2.2",
+        "Passage": "VC Managers typically raise funds for a VC Fund from sophisticated and financially well-resourced investors, and invest those funds into Early Stage entities."
+    },
+    {
+        "ID": "cfa47602-6c44-44d0-bf11-3fb6f47a1f31",
+        "DocumentID": 18,
+        "PassageID": "2.3",
+        "Passage": "VC Funds can play an important role in Abu Dhabi and the wider UAE in nurturing start-up ecosystems by providing funding and mentorship to Early Stage entities seeking to launch and grow their businesses.  As such, there are economic and other benefits for a tailored regulatory regime to anchor the activities of VC Managers in Abu Dhabi."
+    },
+    {
+        "ID": "af440c70-720d-41c2-8590-4cc02a4006df",
+        "DocumentID": 18,
+        "PassageID": "2.4",
+        "Passage": "VC Funds exhibit the following characteristics that result in them presenting a different structure and risk profile compared to non-VC Funds."
+    },
+    {
+        "ID": "f4859519-bc26-49ca-ba49-343f000f985b",
+        "DocumentID": 18,
+        "PassageID": "2.4.(a)",
+        "Passage": "Risk profile.\tVC Funds typically invest in small, minority equity positions in small ventures that are not traded on public markets.  They typically utilize little or no leverage when acquiring their investments, which tend to be far smaller than investments made by private equity funds.  VC Funds are also closed-ended, and do not in practice permit investors to make ongoing subscriptions or redemptions at their discretion once the funds have completed the subscription period , thereby reducing liquidity risk.  As such, VC Managers and the VC Funds they manage generally pose lower systemic and contagion risks, and should therefore give rise to fewer market impact concerns in the event of their failure."
+    },
+    {
+        "ID": "e3edd53a-ba96-4448-bd64-7c14e8398e14",
+        "DocumentID": 18,
+        "PassageID": "2.4.(b)",
+        "Passage": "Clients.\tAs investments in VC Funds are risky in nature, investors in VC Funds are Professional Clients which possess higher levels of financial sophistication and financial resources. VC Fund investors anticipate that many of the Early Stage entities the VC Fund invests in will fail: however, they also expect that at least a few investments will generate significant returns and make the entire fund profitable overall.  In addition, VC Managers typically invest their own financial resources in the VC Fund alongside their investors, as they earn money primarily from their own investments rather than management / advisory fees.  This common exposure to the risks of each investment by the VC Fund ensures that a VC Manager has its interests aligned with those of its investors .  Therefore, VC Managers should generally present fewer concerns in relation to investor protection and conduct risks arising from any potential for conflicts of interest."
+    },
+    {
+        "ID": "114f8189-2fc3-4673-9cc2-8cc3f069aa52",
+        "DocumentID": 18,
+        "PassageID": "2.4.(c)",
+        "Passage": "Regulatory Capital.\tUnlike traditional Fund Managers, the capital of VC Managers is largely invested in Early Stage entities.  As a VC Manager does not necessarily operate on steady streams of revenue earned from management / advisory fees, the ongoing financial health of the VC Manager is very much dependent on the valuation of its illiquid investments which can only be realized on divestment. Consequently, it may not be meaningful to impose the standard capital requirements on a VC Manager, as long as it has the ability to meet its liabilities as they fall due.  In addition, given that most successful VC Managers are serial entrepreneurs who have accumulated their financial resources through successful exits, the track record and experience of the principal(s) in a VC Manager is equally important in assessing the ongoing viability of that VC Manager than is the case for traditional fund managers."
+    },
+    {
+        "ID": "93cc1ce2-c863-45ff-bea9-9c9868142bd3",
+        "DocumentID": 18,
+        "PassageID": "2.4.(d)",
+        "Passage": "Governance and controls.\tThe nature of VC Fund investments is such that traditional internal governance and control structures may not be appropriate or relevant for a VC Manager.  Traditional fund managers are typically required to have an independent valuation function for the fund. As most early-stage fund investments may not be generating revenues or may not yet be profitable, the investment decisions of a VC Manager hinge very much on the qualitative assessment and expert judgment of the individual manager, rather than conventional financial models.  Valuation of early-stage investments is typically subjective, and is to a large extent determined by investor appetite during the actual funding rounds of the Early Stage entities. As periodic valuation of a VC Fund\u2019s assets based upon traditional cash flow or balance sheet models cannot take into consideration the unique, speculative nature of the fund\u2019s investments, the benefit  of imposing conventional control structures on a VC Manager is generally not proportionate compared to the cost of doing so."
+    },
+    {
+        "ID": "6ba07b2e-2320-4274-b5ce-247ecd081791",
+        "DocumentID": 18,
+        "PassageID": "2.4.(e)",
+        "Passage": "Co-investments. A \u201cco-investment\u201d is an investment that is made alongside, but not as part of, a Fund\u2019s investment into a target company. Generally speaking, a VC Fund Manager typically seeks co-investments where to do so would, for example, allow a Fund to participate in an offered private equity stake in a target entity that it would otherwise not qualify for or to assist an investee company to increase its committed capital raise.  The Regulator is of the view that a VC Manager may, in the course of is business, seek to arrange co-investments and offer advice to co-investors.  In order to do so, a VC Manager will also need a Financial Services Permission to carry out one or both of the additional activities of Regulated Activities of \u201cAdvising on Investments or Credit\u201d and \u201cArranging Deals in Investments\u201d. A VC Manager may apply for a Financial Services Permission including one or both of those Regulated Activities and remain within the scope of the VC Framework, provided that the additional Regulated Activities are limited to activities necessary to bring about co-investments in an investee company of a VC Fund which the VC Manager manages."
+    },
+    {
+        "ID": "fc24075a-e3cd-49e4-a82b-8b0f031b99be",
+        "DocumentID": 18,
+        "PassageID": "2.5",
+        "Passage": "In light of these considerations, the Regulator has created a proportionate, risk-based regulatory framework for VC Managers that streamlines their regulatory requirements, while applying the necessary regulatory safeguards to ensure they operate in a safe and sound manner. The authorisation criteria and ongoing regulatory requirements under this framework are set out in the next section.\n"
+    },
+    {
+        "ID": "4350fe56-d75a-4aec-90f6-80a92960a76d",
+        "DocumentID": 18,
+        "PassageID": "3.",
+        "Passage": "AUTHORISATION AND ONGOING REQUIREMENTS\n"
+    },
+    {
+        "ID": "9cffb180-4e8f-444a-9a16-6a59e9fcd536",
+        "DocumentID": 18,
+        "PassageID": "3.1",
+        "Passage": "Eligibility Criteria. In order to qualify for authorisation under the VC Manager Framework, an applicant will need to demonstrate that each VC Fund it manages satisfies a number of criteria as set out under FUNDS 4.1.6. These criteria limit a VC Fund to being a closed fund that can invest only in the Securities of non listed companies in an early stage of development, where those Securities are not listed or admitted to trading on an exchange, and it is only available to Professional Clients. Additionally, the maximum subscription cannot exceed USD 100 million or a higher amount approved by the FSRA. While normally the fund will be a Domestic (Exempt or Qualified Investor) Fund, Domestic Feeder and Foreign Funds are allowed subject to FSRA approval .\n"
+    },
+    {
+        "ID": "6c08c7fe-f972-4e01-acf0-bdaa65d60086",
+        "DocumentID": 18,
+        "PassageID": "3.2",
+        "Passage": "Financial Services Permissions. VC Managers operating in ADGM require a Financial Services Permission (\u201cFSP\u201d) to undertake any Regulated Activity pertaining to VC Funds and/or co-investments by third parties in VC Funds. The Regulated Activities covered by the FSP will be dependent on the VC Managers\u2019 investment strategy and business model.\n(a)\tManaging a Collective Investment Fund: this includes carrying out fund management activities in respect of a VC Fund.\n(b)\tAdvising on Investments or Credit : for VC Managers these activities will be restricted to activities related to co-investment alongside a VC Fund which the VC Manager manages, such as recommending that a client invest in an investee company alongside the VC Fund and on the strategy and structure required to make the investment.\n(c)\tArranging Deals in Investments: VC Managers may also wish to make arrangements to facilitate co-investments in the investee company.\nAuthorisation fees and supervision fees for a VC Manager are capped at USD 10,000 regardless of whether one or both of the additional Regulated Activities in b) and c) above in relation to co-investments are included in its FSP. The FSP will include restrictions appropriate to the business model of a VC Manager."
+    },
+    {
+        "ID": "838f453c-d41e-4b17-bde5-8c01539f43b1",
+        "DocumentID": 18,
+        "PassageID": "3.3",
+        "Passage": "Financial Services Permissions. A VC Manager holding an FSP to carry on the Regulated Activity of Managing a Collective Investment Fund will not require separate permission for Advising on Investments or Credit and/or Arranging Deals in Investments if it only undertakes those Regulated Activities incidentally, as an ancillary part of its fund management activities. The Regulator considers that this will only apply in limited circumstances and may include, for example, situations when a Fund Manager deals with an existing Fund investor to secure a co-investment from that investor, where the Fund Manager receives no payment for such activity.\n"
+    },
+    {
+        "ID": "dc550f18-dd43-4a46-a123-bbbddb5ec28b",
+        "DocumentID": 18,
+        "PassageID": "3.4",
+        "Passage": "Authorisation. When applying for an FSP the VC Manager will be subject to the following, streamlined evaluation criteria, bearing in mind the considerations set out in section 2 of this Guidance."
+    },
+    {
+        "ID": "ff45b5d4-0268-4d61-a12d-28337cd2a50b",
+        "DocumentID": 18,
+        "PassageID": "3.4.(a)",
+        "Passage": "Approved Persons: a VC Manager must appoint a Senior Executive Officer (\u201cSEO\u201d) and, additionally, a Licensed Director (for a Body Corporate) or a Licensed Partner (for a Partnership).  Of the two Approved Persons, the SEO should possess a minimum of ten years\u2019 relevant and demonstrable experience and the Licensed Director or Licensed Partner a minimum of five years\u2019 relevant experience in either:\ni.\toperating a VC or private equity fund; or\nii.\tin-depth industry experience and expertise within the target sectors that the VC Manager intends to focus on investing in .\nAs per the current requirement for Authorised Persons, the SEO of a VC Manager must be resident in the UAE."
+    },
+    {
+        "ID": "6e60ca9e-8258-4326-a5ad-83aeb5dfd650",
+        "DocumentID": 18,
+        "PassageID": "3.4.(b)",
+        "Passage": "Approved Persons: it will not be mandatory for a VC Manager to appoint a Finance Officer under Rule 5.4.1 of GEN, although the VC Manager should demonstrate that it has the relevant expertise (whether in-house or outsourced) on hand to prepare and oversee its financial accounts.  A VC Manager must, however, appoint a Compliance Officer (\u201cCO\u201d) and a Money Laundering Reporting Officer (\u201cMLRO\u201d) who are independent of the front office investment function, but both functions may be carried out by the same individual, be done in-house or outsourced, and need not be dedicated to, or independent of, other control functions.  The SEO and Directors / Partners of the VC Manager ultimately remain responsible for all compliance matters of the firm."
+    },
+    {
+        "ID": "821aa2b8-79a4-419e-a6a0-14b3f233f860",
+        "DocumentID": 18,
+        "PassageID": "3.4.(c)",
+        "Passage": "Control Functions: the Regulator will not require a VC Manager to meet the following governance and control requirements.\n\n\\Table Start\n\nRequirement\tRule(s)\tNote\nInternal audit function\tGEN 3.3.13\tA VC Manager is not required to appoint an internal auditor under GEN Rule 3.1.1(5).\nIndependent custodian\tFUNDS 12.3.7(1)(b) and 12.3.3(4)\tA VC Manager does not have to appoint a separate custodian where it can demonstrate to the Regulator that either:\n(i) \tan adequate and effective alternative safekeeping mechanism exists; or\n(ii)\tit would not be practical or proportionate to do so.\nIndependent valuation\tFUNDS 12.3.10\tA VC Manager may choose not to establish an independent valuation function, but must demonstrate, to the satisfaction of the Regulator, that there is functional and hierarchical separation and independence between the risk management and the portfolio management functions.\nIndependent fund administrator\tFUNDS 12.3.7(1)(a)\tA VC Manager may choose not to appoint an independent fund administrator given the relatively illiquid nature of a VC Fund, arising from its closed-ended nature (with no ongoing subscriptions or redemptions).\n\\Table End\n\nA VC Manager will have to disclose to its clients that it is not mandatory for it to comply with the above control requirements. However, investors in the fund may still negotiate the inclusion of these safeguards as part of their contractual agreements with the VC Manager.\n"
+    },
+    {
+        "ID": "4aff464e-93b6-42de-8c43-8f4ab87a867d",
+        "DocumentID": 18,
+        "PassageID": "3.4.(d)",
+        "Passage": "Capital Requirements:  a VC Manager will not be required to maintain the Base Capital Requirement or the Expenditure Based Capital Minimum on an on-going basis as set out in Chapter 3 of PRU for investment business.  The VC Manager will, however, have to disclose to its clients that it is exempted from those capital requirements. Additionally, the VC Manager will still be required to:\ni.\tsubmit audited financial statements and audit reports annually (as applicable) pursuant to GEN Rule 6.6;\nii.\tdemonstrate the ability to meet its liabilities as they fall due and to have adequate financial resources to manage its affairs prudently and soundly, pursuant to GEN Rules 2.2.4 and 5.2.8; and\niii.\tensure that the VC Funds it managers are subject to annual audit requirements pursuant to Chapter 16 of FUNDS."
+    },
+    {
+        "ID": "164b08bc-92dd-4b14-8ff8-af4e33490172",
+        "DocumentID": 18,
+        "PassageID": "3.4.(e)",
+        "Passage": "Professional Indemnity Insurance [\u201cPII\u201d]: as set out in Rule 6.12 of PRU, a VC Manager shall maintain PII cover appropriate to the nature, size and risk profile of its business.\n"
+    },
+    {
+        "ID": "8513e0bc-c84e-4ac5-858d-7e17ec8f5549",
+        "DocumentID": 18,
+        "PassageID": "APPENDIX A",
+        "Passage": "SUMMARY OF REQUIREMENTS FOR CONTROLLED FUNCTIONS (\u201cKEY OFFICERS\u201d)\nThe minimum evaluation criteria in respect of the competency of the Key Officers and compliance arrangements of the VC Manager are summarised in the table below.\n\n\\Table Start\nEvaluation Criteria\tRequirement(s)\n(a)\tNumber of Approved Persons:\nApproved Persons (as set out in GEN 5.3) will include the Licensed Directors, Licensed Partners and Senior Executive Officer (\u201cSEO\u201d) of the VC Manager. Nominee directors such as legal advisers or corporate secretaries will not count towards meeting this requirement.\tAt least two\nOf these Approved Persons:\n\n(i)\tMinimum years of individual relevant experience \tSEO \u2013 ten years\nOthers \u2013 five years\n(ii)\tNumber resident in the U.A.E.\tAt least one,\nincluding the SEO\n(b)\tNumber of employees/professionals conducting the regulated activities residing in the U.A.E:\nSuch employees/professionals may include the Approved Persons (as set out in GEN 5.3) of the VC Manager.\tAt least two\n(c)\tCompliance Function\nThe VC Manager may, depending on the scale, nature and complexity of its operations:\n(i)\thave a compliance function with staff who are suitably qualified  and independent from the front office;\n(ii)\trely on compliance oversight and support from an independent compliance team at its holding company or related entity; or\n(iii)\tengage an external service provider to support its compliance arrangements. The VC Manager should ensure that the service provider is competent and familiar with the regulatory requirements for VC Managers in ADGM. The service provider should be able to provide meaningful onsite presence at the VC Manager.\n\\Table End\n"
+    }
+]

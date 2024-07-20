@@ -1,0 +1,236 @@
+[
+    {
+        "ID": "cb36be6d-812e-4058-937f-7f6c2dbb82c8",
+        "DocumentID": 35,
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION"
+    },
+    {
+        "ID": "e1fbb7b7-d70d-4a40-87c0-ca077ad05b67",
+        "DocumentID": 35,
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (FSMR). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (FSRA) and the Guidance & Policies Manual (GPM) of the FSRA."
+    },
+    {
+        "ID": "a90e1c2b-ad0b-46c4-98bd-9eff55c9b63b",
+        "DocumentID": 35,
+        "PassageID": "1.2",
+        "Passage": "It is applicable to an applicant for a Financial Services Permission (FSP) to carry on:\n(a)\tthe Regulated Activity of Operating a Private Financing Platform as defined in Schedule 1, Chapter 17C, Section 73E of FSMR;\n(b)\tthe Regulated Activity of Operating a Multilateral Trading Facility as defined in Schedule 1, Chapter 9, Section 54 of FSMR; and\n(c)\tAuthorised Persons having received an FSP to do so."
+    },
+    {
+        "ID": "174e2b84-98f1-48a8-8d60-0799f3f88d1e",
+        "DocumentID": 35,
+        "PassageID": "1.3",
+        "Passage": "This Guidance includes the authorisation criteria that applicants must satisfy to be authorised to undertake the Regulated Activity of Operating a Private Financing Platform (a \u201cPFP Operator\u201d), as well as their ongoing regulatory requirements.  While this Guidance discusses the requirements and restrictions relating to the admission and trading of Exempt Offer Securities on a MTF, this Guidance does not describe all the criteria applicable to the Regulated Activity of Operating a Multilateral Trading Facility.  Applicants seeking to become a MTF Operator are encouraged to contact the FSRA directly at authorisation@adgm.com."
+    },
+    {
+        "ID": "dcd9b5ba-cc1e-44c1-94ec-b04b221087f1",
+        "DocumentID": 35,
+        "PassageID": "1.4",
+        "Passage": "This Guidance, together with the applicable Abu Dhabi Global Market (ADGM) Regulations and FSRA Rules governing PFP Operators and MTF Operators in relation to Securities offered by Exempt Offer, is collectively referred to as the \u201cprivate capital markets or PCM Framework\u201d."
+    },
+    {
+        "ID": "cdf601dc-6780-49c8-97f1-00a24de85bcd",
+        "DocumentID": 35,
+        "PassageID": "1.5",
+        "Passage": "This Guidance is not an exhaustive source of the FSRA\u2019s policy on the exercise of its statutory powers and discretions. In the discharge of its regulatory mandate, the FSRA may impose specific conditions to address any risks posed by the proposed activities of a particular PFP Operator or MTF Operator."
+    },
+    {
+        "ID": "a5c63009-a590-4c4d-9cf2-328c1ffffc18",
+        "DocumentID": 35,
+        "PassageID": "1.6",
+        "Passage": "The FSRA is not bound by the requirements set out in this Guidance and may waive or modify any of these requirements at its discretion where appropriate."
+    },
+    {
+        "ID": "5fd60161-1137-4956-a864-e32fe7f5cdac",
+        "DocumentID": 35,
+        "PassageID": "1.7",
+        "Passage": "Unless otherwise specified, the term \u201cClient\u201d is used in this paper to denote the lenders and investors on the buy-side of a transaction facilitated through a PFP (a \u201cPFP Transaction\u201d) or investors who trade in Exempt Offer Securities on a MTF.  The PFP Operator and the MTF Operator will have duties in respect of their respective Clients."
+    },
+    {
+        "ID": "d6bbf4da-606d-45a6-8864-19e8f30cbb25",
+        "DocumentID": 35,
+        "PassageID": "1.8",
+        "Passage": "Unless otherwise defined or the context requires otherwise, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO)."
+    },
+    {
+        "ID": "f57e0976-e03d-45b2-8380-4cbc5633ac4c",
+        "DocumentID": 35,
+        "PassageID": "2.",
+        "Passage": "OBJECTIVES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK"
+    },
+    {
+        "ID": "ff7b5a06-f929-4ce7-b0e6-2b26dfd86ddf",
+        "DocumentID": 35,
+        "PassageID": "2.1",
+        "Passage": "PFPs are online platforms that allow private companies, such as start-ups and small and medium enterprises (\u201cSMEs\u201d) from early to pre-IPO stage, to source financing from private and institutional investors to launch and scale their businesses."
+    },
+    {
+        "ID": "fa8f2154-86d3-4501-b498-d60ea783c630",
+        "DocumentID": 35,
+        "PassageID": "2.2",
+        "Passage": "PFPs can play an important role in improving access to alternative financing for start- ups and SMEs, which are key engines of economic growth and diversification in the MENA region. PFPs may include equity funding, private placement and invoice financing platforms that leverage data and technology to unlock new ways of raising money for small businesses from professional investors such as high net worth individuals, private equity, venture capital, family offices, accelerators / incubators and angel investors."
+    },
+    {
+        "ID": "e4125499-e4d3-477e-8afe-ef198db7b4f5",
+        "DocumentID": 35,
+        "PassageID": "2.3",
+        "Passage": "Notwithstanding the benefits of a PFP Framework to the financing ecosystem for start- ups and SMEs, there are risks associated with PFP Transactions that include, but are not limited to, the following:\n(a)\tLoss of capital: PFPs may mainly attract start-ups and SMEs that have no or very little established track record, for which the observed failure rate is generally high.\n(b)\tLack of liquidity: In the absence of a ready secondary market for PFP Transactions, Clients face the risk of not being able to exit their PFP Transactions or having to transfer them at a significant discount.\n(c)\tLack of information: There may not be sufficient information on the start-ups and SMEs (\u201cPFP Prospects\u201d) seeking financing through the PFP to enable Clients to conduct proper due diligence and make fully informed investment decisions.\n(d)\tPlatform failure: Clients of a PFP may not be able to readily recover their assets in the event that a PFP Operator that handles Client Assets fails and becomes insolvent.\n(e)\tConflicts of interest between the PFP Operator and Clients: The remuneration of a PFP Operator is typically linked to the amount of funds raised so the interests of a PFP Operator may be more aligned with those of the PFP Prospect than those of its Client providing financing."
+    },
+    {
+        "ID": "5976184b-74fa-4c2e-b2ea-7d35d3a01694",
+        "DocumentID": 35,
+        "PassageID": "2.4",
+        "Passage": "While PFP Operators are limited to primary markets, they may wish to expand their offering by allowing investors to trade or transfer their PFP investments in secondary markets.  Secondary market exposure is viewed as an important component of private market allocation by investors."
+    },
+    {
+        "ID": "1afc74c9-338e-44c8-8b6b-bba509c5946f",
+        "DocumentID": 35,
+        "PassageID": "2.5",
+        "Passage": "In respect of Securities offered by Exempt Offer, whether previously offered through a PFP or not, an MTF Operator may list Exempt Offer Securities on the MTF, enabling such Securities to be traded amongst an unlimited number of Professional Clients and not more than 200 Retail Clients which have been assessed by the MTF Operator to possess appropriate knowledge and experience of the relevant risks, in accordance with Market Infrastructure Rules (MIR) Rule 2.8.3. A description of the systems and controls required to be employed by a MTF Operator that seeks to admit Exempt Offer Securities to trading is set out in Conduct of Business Rules (COBS) Rule 8.2.2."
+    },
+    {
+        "ID": "e8945fba-18a2-4ea5-b3a5-11eae524a0ea",
+        "DocumentID": 35,
+        "PassageID": "2.6",
+        "Passage": "In light of these considerations, the FSRA has developed a proportionate, risk-based PCM Framework that facilitates access by start-ups and SMEs to alternate sources of funding, rather than traditional channels, while applying the necessary regulatory safeguards to ensure the PFP Operators and MTF Operators operate in a safe and sound manner to protect their Clients."
+    },
+    {
+        "ID": "c7578427-c43f-4bf8-9f09-90077ffaf591",
+        "DocumentID": 35,
+        "PassageID": "3.",
+        "Passage": "KEY FEATURES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK"
+    },
+    {
+        "ID": "5d2ee67c-ace8-479b-a273-1dda5918897a",
+        "DocumentID": 35,
+        "PassageID": "3.1",
+        "Passage": "Definition of Regulated Activity\nThe Regulated Activity of Operating a Private Financing Platform is defined in Schedule 1, Chapter 17C, Section 73E of FSMR and captures a number of alternative financing arrangements.\nThe Regulated Activity of Operating a Multilateral Trading Facility is defined in Schedule 1, Chapter 9, Section 54 of FSMR."
+    },
+    {
+        "ID": "4a3a1f9d-f7f6-4cb7-ae43-3ec7ef34e184",
+        "DocumentID": 35,
+        "PassageID": "3.2",
+        "Passage": "Clients\nAs retail investors in general may not fully understand the high risks associated with the transactions facilitated through a PFP, or trading in Exempt Offer Securities through a MTF, the FSRA intends to restrict the accessibility to Exempt Offer Securities through the PCM Framework primarily to Professional Clients and a limited number of Retail Clients assessed to demonstrate adequate knowledge and experience to assess the risks of such investments.\nPFP Operators and MTF Operators generally do not provide financial advisory services to Clients. Under these circumstances, the onus is on Clients to seek independent financial advice or to make their own evaluation of the risks associated with any potential loan or investment. Professional Clients are considered to be more sophisticated and have more resources and capacity to make informed decisions on prospective debt and equity instruments offered through a PFP or MTF after considering the inherent risks.\nThere may be instances where a PFP Operator would like to offer its services to potential, sophisticated Clients who do not meet the current financial criteria to be classified as a Professional Client. The FSRA may consider allowing the participation of these Clients where the Authorised Person are able to assess and verify that these Clients are able to adequately understand the risks associated with PFP Transactions, based on their knowledge and experience.\nIn such circumstances, the PFP Operator may take into consideration information on the Client\u2019s educational qualifications, investment experience and work experience. In addition, the PCM Framework, as outlined in Chapter 4 of the Markets Rules (MKT), limits participation to not more than 200 Clients which do not qualify as Professional Clients, where such Clients have been assessed to possess knowledge and experience sufficient to appreciate the relevant risks.  As a prerequisite, the PFP Operator\u2019s FSP must specifically permit it to deal with Retail Clients.\nAll Clients must be pre-screened and onboarded by the PFP Operator, in accordance with COBS Chapter 2 and Chapter 18 as applicable, before being given access to the PFP.\nSimilarly, a MTF Operator which seeks to grant access to the MTF, enabling Retail Clients to trade in Exempt Offer Securities must first assess the relevant knowledge and experience of each potential Client and limit the number of Retail Clients which trade in any specific Exempt Offer Security to not exceed 200.  A MTF Operator seeking to use the Exempt Offer provisions in MKT Chapter 4 to enable trading is limited to listing Securities that are Shares."
+    },
+    {
+        "ID": "191c9748-e52b-480e-81d8-1431df85a9c0",
+        "DocumentID": 35,
+        "PassageID": "3.3",
+        "Passage": "PFP Prospects\nA PFP Prospect must be a Body Corporate. The FSRA is of the view that a PFP would be an inappropriate forum for use by natural persons seeking financing for a business venture for a number of reasons, including:\n(a)\tthe inappropriateness of a PFP for the formation of partnerships between individuals; and\n(b)\tthe undesirability of posting personal information enabling the Clients of a PFP to ascertain the creditworthiness of an individual.\nThe FSRA is additionally of the view that a PFP would be inappropriate for capitalising ventures at the pre-incorporation stage of their development, given the lack of track record and the limited scope of potential due diligence that may be undertaken."
+    },
+    {
+        "ID": "66cbe855-e901-4b3e-8032-066c20b3b30e",
+        "DocumentID": 35,
+        "PassageID": "3.4",
+        "Passage": "Exempt Offers\nA Security being offered to the public within the ADGM must be accompanied by a Prospectus under Section 61 of FSMR, unless it qualifies as an Exempt Offer. Accordingly, the FSRA will only allow a financing proposal to be published on a PFP where it qualifies as an Exempt Offer through satisfying any of the criteria set out in MKT Rule 4.3.1, also bearing in mind Rules 4.3.2 and 4.3.3, which are included in Appendix 1 of this Guidance.\nSpecifically where an Offer involves Retail Clients participation, it would qualify as an Exempt Offer if it is directed at no more than 200 Retail Clients, in circumstances where the Securities are offered within a PFP or MTF.\nPursuant to such an Exempt Offer, a PFP Operator or MTF Operator is required to put in place appropriate systems and controls to ensure that the Issuer must provide a Product Summary Note to Retail Clients in accordance with the MKT APP 7."
+    },
+    {
+        "ID": "50a53aa8-d8a9-461c-b9ce-6dc8b95d7e76",
+        "DocumentID": 35,
+        "PassageID": "3.5",
+        "Passage": "Client Assets\nAs best practice, a PFP Operator should appoint an Eligible Custodian to safeguard Client Assets. However, alternative arrangements may be permitted by the FSRA where appropriate safeguards are implemented.\nIn the case that a PFP Operator does not appoint an Eligible Custodian, it must comply with:\n(a)\tthe higher capital requirements set out in Prudential \u2013 Investment, Insurance Intermediation and Banking (PRU) Chapter 3 and Section 4.4(f) of this Guidance; and\n(b)\twhere applicable, the following COBS Rules:\n(i)\tChapter 14 \u2013 Client Money Rules (if holding or controlling Client Money, Providing Custody or Arranging Custody);\n(ii)\tChapter 15 \u2013 Safe Custody Rules (if holding or controlling Client Investments, Providing Custody or Arranging Custody);\n(iii)\tChapter 16 \u2013 Recovery & Resolution Planning for Client Money & Safe Custody Assets (if holding Client Money or Client Investments); and\n(iv)\tChapter 18 \u2013 Operating a Private Financing Platform."
+    },
+    {
+        "ID": "b680a1aa-643c-4a18-be21-3deafdcd9d68",
+        "DocumentID": 35,
+        "PassageID": "4.",
+        "Passage": "AUTHORISATION CRITERIA FOR PFP OPERATORS"
+    },
+    {
+        "ID": "5161c2c6-7010-4665-a37a-83bb9a4d9828",
+        "DocumentID": 35,
+        "PassageID": "4.1",
+        "Passage": "When reviewing an FSP application from a proposed PFP Operator (a \u201cPFP Applicant\u201d), the FSRA will consider the Threshold Conditions set out in FSMR and Chapter 5 of the General (GEN) Rulebook and the matters set out in Chapter 2 of the GPM."
+    },
+    {
+        "ID": "463a8515-2530-430b-9902-4861c673a8c0",
+        "DocumentID": 35,
+        "PassageID": "4.2",
+        "Passage": "A PFP Applicant must apply for the Regulated Activity of \u201cOperating a Private Financing Platform\u201d.  To allow for secondary trading of Securities that are offered on its platform, the PFP Applicant must also apply for the Regulated Activity of \u201cOperating a Multilateral Trading Facility\u201d."
+    },
+    {
+        "ID": "05a7c46a-5ae7-46dc-9959-0022589fb3c0",
+        "DocumentID": 35,
+        "PassageID": "4.3",
+        "Passage": "The Threshold Conditions set out in GEN Rule 5.2.7, require a PFP Applicant to demonstrate to the satisfaction of the FSRA that it:\n(a)\thas adequate and appropriate resources, including financial resources;\n(b)\tis fit and proper;\n(c)\tis capable of being effectively supervised; and\n(d)\thas adequate compliance arrangements, including policies and procedures, that will enable it to comply with all the applicable legal requirements."
+    },
+    {
+        "ID": "5ec7e30d-7b76-40d4-bf5a-dbd768caacaa",
+        "DocumentID": 35,
+        "PassageID": "4.4",
+        "Passage": "Chapter 2 of the GPM sets out in detail the FSRA\u2019s approach to assessing whether an applicant for an FSP meets the Threshold Conditions above. Some key considerations for PFP Applicants are the following:\n(a)\tBusiness Model\nThe FSRA will consider the PFP Applicant\u2019s proposed business model and assess any potential risks it poses. In particular, the FSRA will consider:\n(i)\tthe nature and structure of the products offered on the PFP;\n(ii)\tthe PFP Applicant\u2019s target Clients;\n(iii)\tthe roles and responsibilities of the PFP Applicant;\n(iv)\twhether the Applicant will carry out primary and/or secondary trading;\n(v)\twhether the PFP Applicant might have any perceived conflicts of interest when authorised and how these might be managed;\n(vi)\tany proposed outsourcing arrangements with third party service providers;\n(vii)\twhether the PFP Applicant is proposing to carry out any other Regulated Activities; and\n(viii)\tthe safekeeping arrangements for Client Assets if the PFP Applicant intends to hold these.\nIn the case that a PFP Applicant proposes to carry out other Regulated Activities such as Operating a MTF, Advising on Investments or Credit, Managing Assets or Managing a Collective Investment Fund, the PFP Applicant would need to demonstrate how it would manage any potential conflicts of interest that these activities may pose.\n(b)\tTrack Record\nA PFP Applicant should demonstrate that it or its Group has an established track record in corporate finance or a related business, of a minimum of five years, in a jurisdiction that has a legislative and regulatory framework that is of comparable standard to that of the FSRA. The PFP Applicant or its Group, where applicable, should also be subject to proper supervision by a competent regulatory authority.\nAlternatively, where a PFP Applicant does not have an established track-record of at least five years or meet the regulatory status requirement, the FSRA may take into account (i) the track record of the PFP Applicant\u2019s Controllers/substantial shareholders and (ii) the experience and qualifications of the PFP Applicant\u2019s key individuals, when assessing the application.\n(c)\tGoverning Body\n(i)\tLicensed Directors \u2013 A PFP Applicant which is a Body Corporate incorporated in the ADGM, must register all its Directors with the FSRA in accordance with GEN Rule 5.5.4.\n(ii)\tLicensed Partners \u2013 A PFP Applicant which is Partnership established in the ADGM, must register all its Partners with the FSRA in accordance with GEN Rule 5.5.5.\nThese appointments are not required for PFP Applicants that are branches of legal entities domiciled outside the ADGM.\nThe PFP Applicant must demonstrate that its Governing Body has sufficient collective skills and experience in corporate finance or related fields to oversee the firm\u2019s operations.\n(d)\tMandatory Appointments\nA PFP Applicant must also appoint the following individuals in accordance with GEN Rule 5.5.1:\n(i)\tSenior Executive Officer (\u201cSEO\u201d) \u2013 an SEO who is ultimately responsible for the day-to-day operation, supervision and control of the firm\u2019s operation. The SEO must possess a minimum of five years\u2019 relevant and demonstrable experience and qualifications.\n(ii)\tFinance Officer (\u201cFO\u201d) \u2013 a Finance Officer with the relevant expertise to prepare and oversee its financial reporting.\n(iii)\tCompliance Officer (\u201cCO\u201d) \u2013 a suitably experienced and qualified Compliance Officer who is independent of the firm\u2019s operations and oversees the compliance function.\n(iv)\tMoney Laundering Reporting Officer (\u201cMLRO\u201d) \u2013 a suitably experienced and qualified MLRO who is independent of the firm\u2019s operations and responsible for the implementation of the firm\u2019s anti-money laundering controls and the day-to-day oversight of its compliance with the Anti- Money Laundering and Sanctions Rules (AML) and Guidance.\nOther considerations for PFP Applicants:\n(i)\tThe SEO, CO and MLRO must all be resident in the UAE;\n(ii)\tThe CO and MLRO functions may be carried out by the same individual; and\n(iii)\tThe FO, CO and MLRO may be carried out in-house or outsourced to another Group entity or service provider.\nThe FSRA will consider the collective suitability of all of the PFP Applicant\u2019s proposed staff and whether there is a sufficient range of individuals with appropriate knowledge, skills and experience to understand, operate and manage the firm's affairs in a sound and prudent manner.\n(e)\tSystems and Controls\nThe FSRA will assess the following governance and control requirements in relation to the PFP Applicant.\n\\Table Start\nRequirement\tRule(s)\tNote\nRisk Management\tGEN 3.3.4 \u2013 3.3.6\tA PFP Operator must establish and maintain risk management systems and controls to enable it to identify, assess, monitor, mitigate and control its risks.\nThis framework should include measures to minimise technology risks associated with the PFP. In particular, a PFP Operator should have measures in place to ensure data integrity and the protection of its technology from fraud, impairment, tampering, misuse or unauthorised access.\nCompliance Arrangements\tGEN 3.3.7 \u2013 3.3.12\tA PFP Operator must establish and maintain compliance arrangements, including processes and procedures that ensure and evidence, as far as reasonably practicable, that it complies with all Regulations and Rules.\nWhile compliance support may be provided by a related entity and/or third party service providers, the ultimate responsibility for compliance with applicable laws and regulations lies with PFP Operator\u2019s SEO and Governing Body.\nThe PFP operator is required as part of customer due diligence to assess whether the Client has the relevant knowledge or experience to understand the risks and features of the Exempt Offer.\nInternal audit\tGEN 3.3.13 \u2013 3.3.15\tA PFP Operator\u2019s internal audit arrangements should be appropriate to the scale, nature and complexity of its operations.\nThe internal audit may be conducted by the internal audit function within the PFP Operator, its Group\u2019s internal audit function or outsourced to a third party service provider.\nMultilateral Trading Facility\tCOBS 8.2.2\tA MTF Operator that provides trading of Securities offered by way of an Exempt Offer on its platform, must ensure that it has effective systems and controls in place to:\n(i)\tAdmit only Securities of Exempt Offers that are made on its own platform or other platforms approved by FSRA;\n(ii)\tidentify those Persons to whom the Exempt Offer was made;\n(iii)\tcomply with MIR 3.9.1 (Admission to trading), as applicable in relation to the relevant Securities;\n(iv) \tcomply with MIR 2.8.3 in relation to Clients permitted to trade on the MTF; and\n(iv)\tallow users of its market to obtain Inside Information, including any Offer documents. relevant to the Securities.\nConflicts of Interest \tGEN 2.2.7 & 3.3.21 \u2013 3.3.24\tA PFP  Operator  must  have  arrangements  in place ensure that conflicts of interest between itself and its Customers, between its Employees and Customers, and between one Customer and another are identified and prevented or managed or disclosed, in such a way that the interests of a Customer are not adversely affected.\n\\Table End\n(f)\tCapital Requirements\nA PFP Operator will fall within Prudential Category 4. As set out in PRU Chapter 3, a PFP Operator must maintain at all times Capital Resources in excess of its Capital Requirement, which is the higher of its Base Capital Requirement or Expenditure-Based Capital Minimum.\nThe table below sets out the Capital Requirement for PFP Operators:\n\\Table Start\nClient Asset Arrangements\tBase Capital Requirement (USD)\tExpenditure Based Capital Minimum\nPFP Operator does not hold or control Client Assets\t10,000\t6/52 x AAE\nPFP Operator holds or controls Clients Assets\t150,000\t18/52 X AAE\n(g)\tProfessional Indemnity Insurance (\u201cPII\u201d)\nIn accordance with PRU Rule 6.12, a PFP Operator must maintain PII cover appropriate to the nature, size, scale and risk profile of its business.\n\\Table End\n\n"
+    },
+    {
+        "ID": "71f3c15a-6e45-4053-a109-1b894b7b3f5e",
+        "DocumentID": 35,
+        "PassageID": "4.5",
+        "Passage": "Prior to issuing an FSP, the FSRA may require the technology utilised by a PFP to be at a suitably advanced stage in order for the PFP Applicant to demonstrate the functionality of the platform and its compliance with the PFP Framework."
+    },
+    {
+        "ID": "47c0789d-6ebc-4a77-97a9-17907dd135c4",
+        "DocumentID": 35,
+        "PassageID": "4.6",
+        "Passage": "For more details on the process for authorisation as a PFP Operator, please contact the FSRA at authorisation@adgm.com."
+    },
+    {
+        "ID": "97f194e5-fa1a-4fed-882d-bcb92356a8fd",
+        "DocumentID": 35,
+        "PassageID": "5.",
+        "Passage": "ONGOING REQUIREMENTS FOR PFP OPERATORS"
+    },
+    {
+        "ID": "0e5afff4-c5f4-4e49-9137-cb0a8b4320f4",
+        "DocumentID": 35,
+        "PassageID": "5.1",
+        "Passage": "Upon authorisation, a PFP Operator, as a holder of an FSP, must comply at all times with the relevant requirements in FSMR and the FSRA Rulebooks, including GEN, COBS, PRU and AML."
+    },
+    {
+        "ID": "9bdb6c57-ff28-443f-8e90-17e15aadb700",
+        "DocumentID": 35,
+        "PassageID": "5.2",
+        "Passage": "The principal conduct rules that apply to PFP Operators are set out in COBS Chapter 18, and are outlined below:\n(a)\tRisk Warning\nA PFP Operator must publish a prominent risk warning on the PFP which identifies the risks involved in participating in a PFP Transaction. As a minimum the risk warning should address the risks set out in section 2.3 of this Guidance.\nPrior to registering a Client to access the PFP, a PFP Operator must obtain their acknowledgement that they fully understand the risks set out in the risk warning.\n(b)\tDue Diligence\nThe PFP Operator is required to undertake appropriate and proportionate due diligence on a PFP Prospect covering the matters set out in COBS Section 18.4, as a minimum. Where reasonable and prudent, the due diligence review of a PFP Prospect may require independent verification.\nA PFP Operator is not required to disclose its due diligence assessments to Clients, although it may choose to do so. However, it is required to disclose and explain in a clear way its selection and acceptance criteria for a PFP Transaction to be offered on its platform. It must also disclose its due diligence methodology for each of its criterion including where the due diligence is undertaken by a third party.\nA PFP Operator must keep records of the due diligence undertaken on all PFP Prospects for the FSRA\u2019s review.\nA PFP Operator must also form a reasonable basis for believing that the PFP Prospect has adequately set out relevant information regarding its proposal in a clear, fair and not misleading manner for Clients to make an informed decision including, but not limited to:\n(i)\tgeneral information about the PFP Prospect including details of its incorporation, commercial licence, directorships, major shareholders, beneficial holders;\n(ii)\tthe business proposal and business model;\n(iii)\tfinancial information about the PFP Prospect;\n(iv)\tcriteria by which the PFP Transaction would be regarded as being in default;\n(v)\ta wind-down plan, including information on the return of Client Assets, in the event of business default/failure of the PFP Prospect;\n(vi)\tfeatures, structures, and subscription classes of the PFP Transaction;\n(vii)\tbasis of subscription class and allotment to each Client;\n(viii)\ttreatment, voting / contractual rights and claims of Clients of the PFP Transaction in any particular subscription class;\n(ix)\tpricing and valuation basis of the PFP Transaction;\n(x)\trisks specific to the PFP Prospect and PFP Transaction;\n(xi)\tparties involved in the PFP Transaction and any conflicts of interest, including any financial or other interests that the PFP Operator, its key officers, Employees and Associates have in the PFP Prospect or PFP Transaction;\n(xii)\tprocedures and obligations for Clients in any administrative / corporate actions;\n(xiii)\twhether the PFP Prospect is seeking funding from other sources at the same time;\n(xiv)\tintended use of funds;\n(xv)\ttreatment of oversubscriptions and maximum amount accepted, if applicable;\n(xvi)\tany cancellation rights;\n(xvii)\tformat / frequency of performance reporting to Clients; and\n(xviii)\tformat / frequency of ongoing disclosure of applicable information in relation to the PFP Transaction and PFP Prospect.\nAny material changes to the information disclosed in the proposal to Clients must be updated and notified to Clients within a reasonable timeframe and at least ten business days prior to closing of the PFP Transaction.\n(c)\tForums / Message Boards\nA PFP Operator is not required to comply with the above disclosure requirements where it is merely gauging the interest of Clients on a potential PFP Transaction where the related start-up or SME is not identified.\nIn such instances, the PFP Operator should monitor the forum or message board used to gauge Client interest to remove any potentially misleading or fraudulent posts.\n(d)\tMarketing\nAs access to PFPs is restricted to registered Clients only, mass solicitation, advertising or canvassing of the PFP Transaction is not permitted.\nHowever, a PFP Operator may promote its platform to the general public. Such communication may include general information about the PFP Operator, its business model and the PFP Prospects accepted on its platform. Such communication should not include any information on specific offers, research or recommendations relating to a PFP Prospect or a PFP transaction.\n(e)\tDisclosure\nA PFP Operator must disclose the following information to its Clients, either in written form or electronically through the PFP, to enable them to make an informed decision on whether to participate in a transaction on the PFP:\n\n(i)\thow the PFP operates (e.g. whether it offers loan or investment based financing opportunities, the process for participating in a financing opportunity; how Client Assets are held, how transactions through the PFP may be structured);\n(ii)\tthe PFP Operator\u2019s remuneration model (e.g. whether the PFP Operator is remunerated entirely by PFP Prospects by a percentage of funds raised or on a transaction basis by its Clients);\n(iii)\tthe PFP Operator\u2019s roles and obligations (including to Clients in any administrative / corporate actions in relation to the PFP Transactions). Where the PFP Operator and Clients relationship is non-advisory in nature, the PFP Operator must clearly disclose the fact and that the information presented does not constitute personal advice or a recommendation;\n(iv)\tthe recourse available to Clients in the event of the failure of the PFP Operator or the PFP Prospect;\n(v)\tin the event that there is a material adverse change in the circumstances of PFP Transaction or the PFP Prospect defaults, the PFP Operator\u2019s roles and obligations, including any arrangements in relation to the recovery of the Client Assets; and\n(vi)\tthe general disclosure obligations set out in COBS (e.g. where applicable, the Client agreement content in Rule 3.3.2 and potential conflicts of interest in Rule 3.5.4).\nIf a PFP Operator carries on an Exempt Offer pursuant to MKT Rule 4.3.1(13), it must ensure that the Issuer provides a Product Summary Note to Clients in accordance with MKT APP 7.\n(f)\tExit Facility and Trading Facility\nA PFP Operator may offer an incidental facility (termed an \u201cExit Facility\u201d) to permit Clients to exit their PFP transactions by allowing them to seek potential \u201cbuyers\u201d who are also Clients of the PFP Operator in order to transfer their rights and obligations under their loan or investment agreements.\nThe Exit Facility should not allow active trading by Clients and should be solely an ancillary service provided by the PFP Operator. The Exit Facility must comply with the requirements set out in COBS Section 18.8. In particular, the PFP Operator should not be remunerated for any transaction made through this facility nor should it provide advice to or make arrangements on behalf of Clients using this facility.\nWhere the PFP Operator provides a secondary market trading facility (termed a \u201cTrading Facility\u201d) for Clients, the PFP Operator is required to add the Regulated Activity of Operating a Multilateral Trading Facility to its FSP  and demonstrate it can meet the threshold conditions to undertake that additional Regulated Activity.\nAny investment-based Offer made through the Exit Facility or Trading Facility must continue to comply with the Exempt Offer criteria set out in Appendix A of this Guidance.\n(g)\tIntermediate entities\nWhere a PFP Operator structures a PFP Transaction using a special purpose vehicle, that vehicle should be incorporated in the ADGM to ensure the ease of administration and greater regulatory oversight in the event of the failure of the PFP Operator."
+    },
+    {
+        "ID": "3390ff1e-fa8b-4faa-864b-8fe471bfaf39",
+        "DocumentID": 35,
+        "PassageID": "5.3",
+        "Passage": "A PFP Operator will also need to consider the applicability of other ADGM Regulations including, but not limited to, the Companies Regulations 2020, Insolvency Regulations 2015, Data Protection Regulations 2021 and the Common Reporting Standard Regulations 2017; as well as any other relevant international legislation that may apply."
+    },
+    {
+        "ID": "ff9c9c85-80b9-4f01-b0df-49e93d8b9946",
+        "DocumentID": 35,
+        "PassageID": "5.4",
+        "Passage": "Chapter 3 of the GPM sets out in detail the FSRA\u2019s risk-based approach to the supervision of Authorised Persons.\n\n"
+    },
+    {
+        "ID": "6b4ad3d0-9455-4687-ae49-65d61e2bb31e",
+        "DocumentID": 35,
+        "PassageID": "6.",
+        "Passage": "OTHER CONSIDERATIONS FOR PFP OPERATORS"
+    },
+    {
+        "ID": "2c33381e-7252-4748-9276-3b488e2ebebf",
+        "DocumentID": 35,
+        "PassageID": "6.1",
+        "Passage": "Fees\nPursuant to the Fees Rules, a PFP Operator will be required to pay the following fees:\n\\Table Start\nInitial Authorisation Fee\t$10,000 for the Regulated Activity of Operating a Private Financing Platform. An additional $10,000 would apply for each Regulated Activity for which it also seeks an FSP.\nApproved Person Application Fee\t$500 for each Approved Person for whom it is seeking authorisation.\nAnnual Supervision Fee\t$10,000 for the Regulated Activity of Operating a Private Financing Platform. An additional $10,000 would apply for each Regulated Activity for which it has an FSP.\n\\Table End"
+    },
+    {
+        "ID": "df9986be-f35e-4cae-a6c5-f9c1cf9304a7",
+        "DocumentID": 35,
+        "PassageID": "6.2",
+        "Passage": "Islamic Financial Business\nThe Islamic Finance Rules (IFR) apply to:\n(a)\tevery Authorised Person, including a PFP Operator, who carries on, or holds itself out as carrying on, an Islamic Financial Business in the ADGM whether as an Islamic Financial Institution or through an Islamic Window; and\n(b)\tan Authorised Person, including a PFP Operator, making an Offer in the ADGM relating to a Security which is, or is held out as being, a Shari'a-compliant Security.\nAccordingly, should a PFP Operator itself wish to promote a Specified Investment as being Shari\u2019a compliant, it must hold the requisite Islamic Financial Business qualification on its FSP.\n"
+    },
+    {
+        "ID": "985c30a3-7635-452e-ad3f-2c8c77694018",
+        "DocumentID": 35,
+        "PassageID": "APPENDIX A:",
+        "Passage": "EXEMPT OFFER CRITERIA\nMKT RULE 4.3"
+    },
+    {
+        "ID": "20fb6d34-d5a9-4518-a07a-8b2b46202fa8",
+        "DocumentID": 35,
+        "PassageID": "APPENDIX A.Guidance",
+        "Passage": "\nThis section prescribes the type of Offer that is an Exempt Offer. The prohibition in section 58(1) of the FSMR does not apply to such Offers. Accordingly, a Person may make an Offer of Securities to the Public in the circumstances specified in this Rule without a Prospectus.\n4.3.1 \tFor the purposes of section 61(3)(a) of the FSMR the Regulator hereby prescribes the circumstances in which an Offer is an Exempt Offer:\n(1)\tan Offer made to or directed at only Professional Clients;\n(2)\tan Offer in or from the ADGM which is directed at no more than 50 Persons in any 12 month period, excluding Professional Clients who are not natural persons;\n(3)\tan Offer where the total consideration to be paid by a Person to acquire the Securities is at least $100,000, or an equivalent amount in another currency;\n(4)\tan Offer where the Securities are denominated in amounts of at least $100,000, or an equivalent amount in another currency;\n(5)\tan Offer where the total aggregate consideration for the Securities offered is less than $100,000, or an equivalent amount in another currency, calculated over a period of 12 months;\n(6)\tan Offer where Shares are issued in substitution for Shares of the same class as already issued, where the issue of the new Shares does not involve any increase in the issued Share capital;\n(7)\tan Offer where the Securities are Convertibles issued under a Prospectus to existing members or creditors of the Issuer or a member of its Group and there is no additional consideration to be paid;\n(8)\tan Offer where the Securities are offered in connection with a Takeover and a document is made available containing information which is considered by the Regulator as being equivalent to that of a Prospectus;\n(9)\tan Offer where the Securities are offered, allotted or to be allotted in connection with a merger if a document is available containing information which is regarded by the Regulator as being equivalent to that of a Prospectus;\n(10)\tan Offer where the Securities are offered, allotted or to be allotted in connection with a rights issue where:\n(a)\tthe Securities are of a class subject to Reporting Entity disclosure; and\n(b)\ta document is made available containing information on the number and nature of the Securities including rights attaching to those Securities and the reasons for and details of the Offer;\n(11)\tan Offer where the Shares are offered, allotted or to be allotted to existing Shareholders free of charge or dividends paid out in the form of Shares of the same class as the Shares in respect of which the dividends are paid, and a document is made available containing information on the number and nature of the Shares and the reasons for and details of the Offer;\n(12)\tan Offer where the Securities are offered, allotted or to be allotted to an existing or former Director or Employee, or any Close Relative of such a Director or Employee, of the Issuer or a member of the same Group as the Issuer and\n(a)\tthe Issuer or the member of the Group already has its Securities admitted to trading on a Regulated Exchange; and\n(b)\ta document is made available to the offerees containing information on the number and nature of the Securities and the reasons for and details of the Offer; or\n(13)\tan Offer in or from the ADGM which is directed at no more than 200 Persons that are not Professional Clients or Market Counterparties, in circumstances where the Securities are, or have been, offered within a Private Financing Platform or via a Multilateral Trading Facility\n4.3.2 \tWhere any Securities, which were previously the subject of an Exempt Offer, are subsequently offered to the public, such a subsequent Offer will be regarded, for the purposes of Part 6 of the FSMR and the Rules made for the purposes of that Part, as a separate and new Offer of Securities to the Public, unless that Offer meets one of the criteria in Rule 4.3.1.\n4.3.3\t(1)\tSubject to (2), an Offer of Securities remains an Exempt Offer even if the Offer falls in whole or part within more than one of the circumstances specified in Rule 4.3.1, as long as all of the Offer falls within at least one of those circumstances.\n(2)\tAn Issuer must not aggregate the limits contained in Rule 4.3.1(2) and Rule 4.3.1(13) when making an Exempt Offer.\n4.3.4\tA Person making an Exempt Offer must ensure that an exempt offer statement is included in the Exempt Offer Document. An exempt offer statement must contain the following statement displayed prominently on its front page:\n\u2026\n4.3.5\tPursuant to an Exempt Offer under Rule 4.3.1(13), the Issuer must provide a Product Summary Note to investors in accordance with the following requirements:\n(1)\tThe Product Summary Note must:\n(a)\thighlight key information in the Offer document to investors;\n(b)\tclearly disclose required information in the format as set out in APP 7;\n(c)\tgive a fair and balanced view of the nature, material benefits and material risks of the Securities offered;\n(d)\tnot contain any statement or information that is false or misleading in the form and context in which it is included;\n(e)\tbe given together with the Offer document to investors. If the Issuer makes the Offer document available online, the Product Summary Note must be made available online together with the Offer document;\n(f)\tnot contain any information that is not contained in the Offer document;\n(g)\tnot contain any Inside Information that differs in any material particular from that set out in the Offer document; and\n(h)\tnot omit any information from any part of the Product Summary Note which would result in that part of the Product Summary Note being construed as false or misleading.\n(2)\tThe Product Summary Note shall contain the prominent disclaimer set out in Rule 4.3.4 in bold, on its front.\n(3)\tThe Issuer must give notice the Regulator of its intention to provide a Product Summary Note at least ten Business Days prior to the Exempt Offer, in such form as the Regulator may prescribe.\n(4)\tWhen the Issuer makes any change to the Offer document, the Product Summary Note must be updated if the change has a material effect on the key information of the Securities offered.\n(5)\tIssuers must ensure there is clear naming of the Securities offered. The name of the Securities must be descriptive of the nature of the Securities offered. It must not give investors a misleading view of the true nature and risks of the Securities offered."
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "ID": "ddafa5d5-b68a-44aa-90dd-b09cc494dbf0",
+        "DocumentID": 29,
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION"
+    },
+    {
+        "ID": "c67b4037-1048-48c3-a175-fa93e30f2980",
+        "DocumentID": 29,
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d).  It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (\u201cFSRA\u201d), the Guidance & Policies Manual of FSRA, the \u2018Guidance \u2013 Regulation of Virtual Asset Activities in ADGM\u2019  and the \u2018Guidance \u2013 Regulation of Digital Securities Activity in ADGM\u2019 (\u201cDigital Securities Guidance\u201d)."
+    },
+    {
+        "ID": "9e3d0c63-ea0f-4f94-95ab-436c8eb01c28",
+        "DocumentID": 29,
+        "PassageID": "1.2",
+        "Passage": "This Guidance is applicable to those considering the use of initial coin or token offerings (\u201cICOs\u201d, also known as a Coin or Token Sale) to raise funds. The Guidance is also applicable to those considering transacting in, and the general use of, virtual tokens and Virtual Assets (as defined below)."
+    },
+    {
+        "ID": "11fdbece-6f8e-4bb5-91cd-7dd4cc867758",
+        "DocumentID": 29,
+        "PassageID": "1.3",
+        "Passage": "The Guidance sets out FSRA\u2019s approach to digital security issuers seeking to raise funds through ICOs, and market intermediaries or operators dealing in or offering services in digital securities and Virtual Assets."
+    },
+    {
+        "ID": "3625eca9-7313-41b3-a6f1-0253ffcc7c02",
+        "DocumentID": 29,
+        "PassageID": "1.4",
+        "Passage": "This Guidance is not an exhaustive source of the FSRA\u2019s policy on the exercise of its regulatory mandate, and the FSRA may impose other, specific conditions to address any specific risks posed by the proposed activities set out herein."
+    },
+    {
+        "ID": "0ea2d33c-3f00-407d-b767-33e01bda4063",
+        "DocumentID": 29,
+        "PassageID": "1.5",
+        "Passage": "The FSRA is not bound by the requirements set out in this Guidance and may waive or modify this Guidance at its discretion where appropriate."
+    },
+    {
+        "ID": "bd76ab4f-740e-4554-abae-c04462a5a94e",
+        "DocumentID": 29,
+        "PassageID": "1.6",
+        "Passage": "Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO)."
+    },
+    {
+        "ID": "f3f81a8a-7475-46a6-bf6a-087ee2a4f98e",
+        "DocumentID": 29,
+        "PassageID": "2.",
+        "Passage": "BACKGROUND"
+    },
+    {
+        "ID": "dfac65eb-5310-4d04-9ada-fe6757423108",
+        "DocumentID": 29,
+        "PassageID": "2.1",
+        "Passage": "Globally, the use of virtual tokens and Virtual Assets to raise funding and facilitate economic transactions has been on the rise in recent years. A number of financial services regulators have issued comments or consumer alerts setting out their regulatory position on virtual tokens and/or Virtual Assets.  This is especially relevant since the use of virtual tokens and Virtual Assets can be subject to risks arising from fraud, money-laundering and terrorist financing, as well as the observed volatility of the \u201cvalue\u201d of Virtual Assets"
+    },
+    {
+        "ID": "463785ba-2205-417d-8db6-8292eb7d0fff",
+        "DocumentID": 29,
+        "PassageID": "2.2",
+        "Passage": "The FSRA adopts a technology-neutral approach to regulation, where regulatory requirements are applied to the conduct of Regulated Activities or activities envisaged under a Recognition Order , as opposed to the technological means to conduct a Regulated Activity.  To the extent that virtual tokens are used as a mechanism to enable or facilitate a Regulated Activity to be carried out, they are generally permitted.  For example, subject to fit and proper safeguards, an authorised money remittance house may receive fiat currencies from Clients and use virtual tokens to securely remit an equivalent value overseas directly to a regulated foreign counterparty via the internet in real-time; the foreign counterparty can then pay out in fiat currencies to the intended end-clients."
+    },
+    {
+        "ID": "dfd3f6de-b6dc-4625-9736-77152e4d446a",
+        "DocumentID": 29,
+        "PassageID": "2.3",
+        "Passage": "Given the evolving developments in the space of virtual tokens and Virtual Assets, FSRA will continue to closely monitor industry developments.  FSRA may issue further Guidance as necessary, to ensure the regulatory framework is updated and risk-appropriate in order to facilitate the sound development and deployment of promising financial technology innovations."
+    },
+    {
+        "ID": "730a0136-545b-4fc3-b8d9-09d6269ca1b6",
+        "DocumentID": 29,
+        "PassageID": "3.",
+        "Passage": "INITIAL COIN OFFERINGS"
+    },
+    {
+        "ID": "9580575e-7c31-409a-b7ae-d30044e5865c",
+        "DocumentID": 29,
+        "PassageID": "3.1",
+        "Passage": "ICOs can take many forms, but all of them utilise Distributed Ledger Technology (\u201cDLT\u201d). Investors will typically give Virtual Assets to an ICO issuer in exchange for a proprietary digital medium of exchange on the DLT platform, being termed a \u201ccoin\u201d or \u201ctoken\u201d (where the latter term will be used hereafter). In some cases the proprietary tokens will not represent an underlying financial asset; for example, a DLT token may represent a digital identity record, a voting right, or simply access to software running on a DLT platform."
+    },
+    {
+        "ID": "5df564b4-138b-4cec-b11a-6323ca84eec3",
+        "DocumentID": 29,
+        "PassageID": "3.2",
+        "Passage": "Alternatively, an emerging method of fund-raising uses DLT with the tokens representing a \u201ctraditional\u201d regulated issuance, such as Shares, Debentures or Units in a Collective Investment Fund. In these instances, a DLT platform may also comprise a share or bond register. We are aware that there are many companies seeking to raise money through such traditional and regulated means using a DLT-enabled platform.\n\n"
+    },
+    {
+        "ID": "1a404f4c-02fd-4447-956b-f17bb7b004dc",
+        "DocumentID": 29,
+        "PassageID": "3.3",
+        "Passage": "Regulatory treatment of tokens deemed to be Securities. Whether an ICO is to be regulated under FSMR will be assessed by FSRA on a case-by-case basis.  To this end, if the tokens in an ICO are assessed to exhibit the characteristics of a Security, FSRA may deem the tokens as a Security pursuant to Section 58(2)(b)  of FSMR, hereinafter referred to as \u201cDigital Securities\u201d.  Consequently, an issuer seeking to launch an ICO in or from ADGM should approach FSRA at the earliest opportunity."
+    },
+    {
+        "ID": "23872de7-e949-4cc8-9e47-d844af9b0771",
+        "DocumentID": 29,
+        "PassageID": "3.4",
+        "Passage": "Regulatory treatment of tokens deemed to be Securities. For regulatory purposes, issuances of Securities (as defined in Section 258 of FSMR), whether through a DLT platform or other means, will see no difference in their treatment under our regulatory framework. Those issuers/market actors who seek to raise funds in a regulated, robust and transparent manner using new business models or technologies such as DLT are encouraged to engage with us as early as possible in the fund-raising process."
+    },
+    {
+        "ID": "d7598df9-aeea-4b2d-b1ef-e4e98bea49dd",
+        "DocumentID": 29,
+        "PassageID": "3.5",
+        "Passage": "Regulatory treatment of tokens deemed to be Securities. The requirements for Offers of Securities fall under Sections 58 to 71 of FSMR and Chapter 4 of the Markets Rules (\u201cMKT\u201d). When an Issuer wishes to make an Offer of Securities to the Public in or from ADGM, these requirements include, for example, the obligation to publish a Prospectus under Section 61 of FSMR."
+    },
+    {
+        "ID": "bdeda752-1472-4b21-a18a-ef73f08f7fe6",
+        "DocumentID": 29,
+        "PassageID": "3.6",
+        "Passage": "Regulatory treatment of tokens deemed to be Securities. Offers of Securities may benefit from an exemption under the Exempt Offers regime set out in Rule 4.3 of MKT. In the circumstances specified in that Rule, it should be noted that a Person may make an Offer of Securities to the Public without a Prospectus where any one of the following conditions, amongst other conditions in that Rule, is met:\n(i)\tan Offer is directed at Professional Clients other than natural Persons;\n(ii)\tfewer than 50 Persons in any 12 month period, excluding Professional Clients who are not natural persons; or\n(iii)\twhere the consideration to be paid by a Person to acquire Securities is at least USD100,000."
+    },
+    {
+        "ID": "0d002bb9-e5a2-4f76-95ce-19a7a9624c0c",
+        "DocumentID": 29,
+        "PassageID": "3.7",
+        "Passage": "Regulatory treatment of tokens deemed to be Securities. Additionally, any market intermediaries (e.g., broker-dealers, investment managers, custodians) and primary / secondary market operators dealing in Digital Securities and/or their Derivatives with or on behalf of Clients, will need to be approved by FSRA as Financial Services Permission (\u201cFSP\u201d) holders, Recognised Investment Exchanges or Recognised Clearing Houses (collectively referred to as \u201cRegulated Firms\u201d).\n\n"
+    },
+    {
+        "ID": "f6f1c631-adde-48d2-aff5-3d470b92034c",
+        "DocumentID": 29,
+        "PassageID": "3.8",
+        "Passage": "Innovation. In our engagement with innovative firms in the financial services sector, we have been made aware of business models using a DLT platform to facilitate the issuance of Securities on a private placement basis.  These business models may include a high level of disclosure and transparency with investors, and a robust reconciliation and reporting mechanism. These types of business models may benefit from the Exempt Offers regime set out above."
+    },
+    {
+        "ID": "29e528bf-0170-4dc0-a8f9-cdf7a0cd7f46",
+        "DocumentID": 29,
+        "PassageID": "3.9",
+        "Passage": "Innovation. We are also aware of firms seeking to build investment funds using DLT platforms for the purposes of investor reporting and funds management. In such cases, the Digital Securities issued as a result of the ICO may be Units in a Collective Investment Fund as defined in Section 106 of FSMR. This may fall within our FUNDS Rules, and again we encourage firms considering such DLT-enabled business models to engage with us as early as possible.\n\n"
+    },
+    {
+        "ID": "c59ec59b-e7c6-492c-90dc-9385b9250ac8",
+        "DocumentID": 29,
+        "PassageID": "3.10",
+        "Passage": "Tokens not deemed to be Digital Securities. It should also be noted that not all ICOs constitute an Offer of Securities under the FSMR or MKT. Where tokens do not have the features and characteristics of Securities such as Shares, Debentures or Units in a Fund, the offer of such tokens is unlikely to be an Offer of Securities, nor is the trading of such tokens likely to constitute a Regulated Activity under FSMR."
+    },
+    {
+        "ID": "5448c3d4-738b-4610-b052-3bdc2a33c7c5",
+        "DocumentID": 29,
+        "PassageID": "3.11",
+        "Passage": "Tokens not deemed to be Digital Securities. In unregulated ICOs, investors do not benefit from any of the safeguards that accompany a regulated Offer of Securities.  Reliable information regarding the issuer, and what it plans to do with the funds raised may be lacking.  The risk of fraud and loss of capital is therefore significantly higher.  This is particularly likely to be the case where a token issuer promises extremely high investment returns that are disproportionately high relative to those generally available in the market. We advise potential investors in unregulated ICOs to exercise extreme caution before committing any funds."
+    },
+    {
+        "ID": "e010b0a8-de61-4b44-a5e8-df1d02fe1f6b",
+        "DocumentID": 29,
+        "PassageID": "3.12",
+        "Passage": "Tokens not deemed to be Digital Securities. However, there are instances of such unregulated ICOs being used to raise money for legitimate companies and development efforts.  In such cases, while these do not fulfil the same requirements as a regulated Offer of Securities, issuers of the ICO may disclose detailed information on their products / tokens and business plan.  We welcome engagement from the industry, in particular from trade bodies, in developing voluntary best-practice standards in relation to the use of such unregulated ICOs as a legitimate method for raising funds.\n\n"
+    },
+    {
+        "ID": "9b543be2-b64d-4c90-bf71-7a415ee00c73",
+        "DocumentID": 29,
+        "PassageID": "4.",
+        "Passage": "VIRTUAL ASSETS"
+    },
+    {
+        "ID": "71014bfb-2bc5-4ab0-8f61-9355ded83a8a",
+        "DocumentID": 29,
+        "PassageID": "4.1",
+        "Passage": "As set out in the FSMR, a Virtual Asset is defined as:\n\u201cA digital representation of value that can be digitally traded and functions as (1) a medium of exchange; and/or (2) a unit of account; and/or (3) a store of value, but does not have legal tender status in any jurisdiction.  A Virtual Asset is -\n\n(a)\tneither issued nor guaranteed by any jurisdiction, and fulfils the above functions only by agreement within the community of users of the Virtual Asset; and\n\n(b)\tdistinguished from Fiat Currency  and E-money .\u201d\n"
+    },
+    {
+        "ID": "e2905236-b38b-4255-a274-2c725e261fbf",
+        "DocumentID": 29,
+        "PassageID": "4.2",
+        "Passage": "Although not legal tender, Virtual Assets (such as bitcoin) have \u201cvalue\u201d in that they can be exchanged for other things of value, with that value being dependent on considerations of supply and demand. In this respect, Virtual Assets have much in common with physical commodities such as precious metals, fuels and agricultural produce. Therefore from a regulatory policy perspective, Virtual Assets are treated as commodities, instead of Specified Investments as defined under the FSMR."
+    },
+    {
+        "ID": "9e878247-81ac-4681-93d3-fb81ca422d86",
+        "DocumentID": 29,
+        "PassageID": "4.3",
+        "Passage": "Under FSRA\u2019s regulatory framework for Virtual Assets, any market operator, custodian or intermediary dealing in Virtual Assets is required to be approved by FSRA as an FSP holder in relation to the applicable Regulated Activity.  Details of FSRA\u2019s approach to the regulation of spot Virtual Asset activities are set out in FSRA\u2019s \u2018Guidance \u2013 Regulation of Virtual Asset Activities in ADGM\u2019."
+    },
+    {
+        "ID": "442155a2-54ab-48e0-b737-986033019df9",
+        "DocumentID": 29,
+        "PassageID": "4.4",
+        "Passage": "Where a Regulated Firm uses Virtual Assets in an ancillary manner (e.g. as a means to enable or facilitate the carrying on of any financial services businesses), it does not necessary mean that the Regulated Firm needs to seek approvals from the FSRA in order to use Virtual Assets as part of its Regulated Activities. As illustrated in paragraph 2.2, an authorised money remittance house does not need to apply for specific approvals from the FSRA to use Virtual Assets if it merely uses Virtual Assets as a medium of exchange to facilitate the remittance of fiat currencies on behalf of Clients across jurisdictions.  The Regulated Firm will, however, have to demonstrate that the use of the Virtual Asset, used in such ancillary manner, is fit for purpose, e.g., putting in place control requirements to address technology and security risks associated with the use of the Virtual Asset.  On the other hand, for example, if the Regulated Firm offers its Clients services to exchange Virtual Assets for fiat currencies, the Regulated Firm will need to apply to, and be authorised by, the FSRA to use Virtual Assets as part of its Regulated Activities.\n"
+    },
+    {
+        "ID": "433e8567-f781-4b66-8bbf-dddaa27d1f87",
+        "DocumentID": 29,
+        "PassageID": "4.5",
+        "Passage": "Derivatives of Virtual Assets. In line with the policy treatment of Virtual Assets as commodities, Derivatives of Virtual Assets are regulated as Commodity Derivatives and hence, a type of Specified Investment under the FSMR.  Consequently, any market operators or market intermediaries dealing or managing investments in Derivatives of Virtual Assets will be subject to the appropriate regulations and rules applicable under FSMR."
+    },
+    {
+        "ID": "0266eea7-241f-40fc-8d6d-7b5466d38e15",
+        "DocumentID": 29,
+        "PassageID": "4.6",
+        "Passage": "Derivatives of Virtual Assets. Notwithstanding that certain Virtual Asset activities are subject to regulations under the FSMR, the FSRA does not take a view on the merits of transacting or investing in Virtual Assets.  Given the volatility of Virtual Assets, they constitute high-risk investments.  FSRA therefore advises consumers and companies to consider the risks of investing in Virtual Assets or any related Derivatives carefully before committing any funds."
+    },
+    {
+        "ID": "84a45634-9099-4d6a-b623-2bdddb42ef6f",
+        "DocumentID": 29,
+        "PassageID": "4.7",
+        "Passage": "Derivatives of Virtual Assets. For avoidance of doubt, where a Virtual Asset has the features and characteristics of a Digital Security, it will additionally be subject to the applicable regulatory requirements as explained in section 3 above.\n"
+    },
+    {
+        "ID": "fc42843d-b7b9-41fa-93fa-2d1d6c01cfcd",
+        "DocumentID": 29,
+        "PassageID": "5.",
+        "Passage": "SUMMARY"
+    },
+    {
+        "ID": "61c2cf3a-4d68-406b-9bde-35cfbf8f7133",
+        "DocumentID": 29,
+        "PassageID": "5.1",
+        "Passage": "A summary of the regulatory treatment of Digital Assets is shown in the table below.\n\n/Table Start\nCategory of Digital Assets / Instruments\tRegulatory Approach\n\u201cDigital Securities\u201d\n\n(e.g., digital/virtual tokens that have the features and characteristics of a Security under the FSMR (such as Shares, Debentures and Units in a Collective Investment Fund)).\nDeemed to be Securities pursuant to Paragraph 58(2)(b) of FSMR.\n\nAll financial services activities in relation to Digital Securities, such as operating primary / secondary markets, dealing / trading / managing investments in or advising on Digital Securities, are subject to the relevant regulatory requirements under the FSMR.\n\nMarket intermediaries and market operators dealing or managing investments in Digital Securities need to be licensed / approved by FSRA as FSP holders (including as Multilateral Trading Facilities), Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.\n\n\u201cVirtual Assets\u201d\n\n(e.g., non-fiat virtual currencies,\nvirtual asset \u2018exchange tokens\u2019).\nTreated as commodities and, therefore, not deemed Specified Investments under the FSMR.\n\nMarket intermediaries (e.g., broker dealers, custodians, asset managers) dealing in or managing Virtual Assets, and Multilateral Trading Facilities using Virtual Assets, need to be licensed / approved by FSRA.  Only activities in Accepted Virtual Assets will be permitted.\n\nCapital formation activities are not provided for under the Virtual Asset Framework, and such activities are not envisaged under the Market Rules (MKT).\n\nDerivatives and Collective Investment Funds of Virtual Assets, Digital Securities and Utility Tokens\tRegulated as Specified Investments under the FSMR.\n\nMarket intermediaries and market operators dealing in such Derivatives and Collective Investment Funds will need to be licensed / approved by FSRA as FSP holders, Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.\n\n\u201cUtility Tokens\u201d\n\n(e.g., tokens which can be redeemed for access to a specific product or service, typically provided using a DLT platform, do not exhibit the features and characteristics of a regulated investment / instrument under the FSMR).\nTreated as commodities and, therefore, not deemed Specified Investments under the FSMR.\n\nUnless such Utility Tokens are caught as Accepted Virtual Assets, spot trading and transactions in Utility Tokens do not constitute Regulated Activities, activities envisaged under a Recognition Order (e.g., those of a Recognised Investment Exchange or Recognised Clearing House), or activities envisaged under MKT.\n\n\n\u201cFiat Tokens\u201d\n\n(e.g. stablecoins whose value are fully backed by underlying fiat currencies)\tTreated as a form of digital representation of Fiat Currency.\n\nWhere used as a payment instrument for the purposes of Money Transmission as defined under the FSMR, the activity will be licensed and regulated as Providing Money Services.\n\n/Table End\n"
+    },
+    {
+        "ID": "fa40c7b7-8d09-46d9-86eb-5dd468996421",
+        "DocumentID": 29,
+        "PassageID": "5.2",
+        "Passage": "A schematic representation of the FSRA\u2019s regulatory ambit under the FSMR is shown within the blue dotted box.\n/Figure Start\nThis figure presents a classification of Digital Assets as defined and regulated by the Financial Services Regulatory Authority (FSRA), organized into four distinct categories: Other Digital Tokens, Virtual Assets, Digital Securities, and Fiat Tokens, with Derivatives/Funds being mentioned as an associated category. Below are the detailed descriptions of each:\n\nOther Digital Tokens: These are utility tokens which do not exhibit the features and characteristics of a regulated investment/instrument under FSRA.\n\nVirtual Assets: This category includes non-fiat virtual currencies, such as Bitcoin, Ether, etc. The figure notes that FSRA's market intermediaries conducting Virtual Asset business are required to apply and hold the relevant license under FSRA.\n\nDigital Securities: Described as digital assets with security characteristics, including 'tokenized' offerings of securities. Financial services activities in relation to Security Tokens - e.g., the offering of, dealing in, advising on, custody of, or providing Security Tokens - are regulated as Security instruments under FSRA.\n\nFiat Tokens: These are digital tokens that are fully backed by fiat currency. Some activities where tokens are used as payment instruments, e.g., stablecoins, may be regulated as Providing Money Services under FSRA.\n\nDerivatives/Funds: This refers to Derivatives over regulated Digital Assets and collective investment funds investing in Regulated Digital Assets. They are regulated as Derivatives and Funds in a Fund under FSRA.\n\nMarket operators and intermediaries dealing in such Derivatives and Funds are licensed and approved by FSRA.\n\nThe bottom note clarifies that the FSRA regulates and will allow to operate within the ADGM, the Digital Assets located within the blue dotted line and Derivatives over/Funds investing in Digital Assets. The blue dotted line encapsulates all categories except \"Other Digital Tokens,\" implying that all the other categories fall under the regulatory scope of FSRA within the ADGM (Abu Dhabi Global Market).\n/Figure End"
+    }
+]

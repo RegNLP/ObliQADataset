@@ -1,0 +1,440 @@
+[
+    {
+        "ID": "19eb0406-621a-4302-aea9-c8dba477a672",
+        "DocumentID": 21,
+        "PassageID": "1)",
+        "Passage": "INTRODUCTION\nThis Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (\u201cthe Regulator\u201d), and the Guidance & Policies Manual of the Regulator.\n"
+    },
+    {
+        "ID": "7d400734-d32d-44d1-8f92-e467ae681e49",
+        "DocumentID": 21,
+        "PassageID": "2)",
+        "Passage": "INTRODUCTION\nThis Guidance is applicable to those considering developing or using \u201cApplication Programming Interfaces (APIs)\u201d, including applicants for a Financial Services Permission in ADGM, financial services firms located outside ADGM, and participants in FinTech, RegTech, SupTech , amongst others.\n"
+    },
+    {
+        "ID": "45907542-cc2c-4e54-8c39-1bd3a821954a",
+        "DocumentID": 21,
+        "PassageID": "3)",
+        "Passage": "INTRODUCTION\nADGM encourages Financial Service firms to adopt and promote the use of standardised, \u201cinteroperable\u201d  and trusted Application Programming Interfaces (APIs) in order to create the means to adapt and update in the context of an increasingly complex and changing business environment, and the rapidly evolving needs of customers.\n"
+    },
+    {
+        "ID": "65549b87-a7ff-407d-903e-4c2afc0c859c",
+        "DocumentID": 21,
+        "PassageID": "4)",
+        "Passage": "INTRODUCTION\nThe FSRA encourages a standardised approach to creating, maintaining and governing APIs that will allow the development of innovative financial products and approaches in ADGM that will benefit customers and financial institutions throughout the UAE, the region and further afield. It is the intention of the FSRA to promote experimentation, accelerate implementation of cutting-edge technologies, and speed up industry adoption of customer-focused disruptive ideas, in order to help drive financial inclusion and realise the API economy.\n"
+    },
+    {
+        "ID": "b27b4bf8-abed-4f82-bfbb-939f4104f1d4",
+        "DocumentID": 21,
+        "PassageID": "5)",
+        "Passage": "INTRODUCTION\nOrganisations that create APIs will be able to pivot, adopt new ideas and discard old ones quickly. They will be able to iterate their products to keep up with changes in customer behaviour in a timely manner. Investing in the agile development mind-set, and therefore APIs, can give an organisation a competitive edge. Organisations who commit to building a marketplace to trade and settle discrete, understandable, and valuable APIs will be able to accelerate their realisation of the API economy\u2019s dividends.\n"
+    },
+    {
+        "ID": "04afbcdf-ed29-46a1-ba57-0772622628b2",
+        "DocumentID": 21,
+        "PassageID": "6)",
+        "Passage": "INTRODUCTION\nTo that end this Guidance takes a high level overview of the fundamental elements, standards and considerations that the FSRA deems necessary in providing safe and robust APIs. This Guidance should not restrict the use of APIs; rather, it is there to promote standardised approaches to building and providing APIs, which will be promoted in the ADGM Digital Sandbox.\n"
+    },
+    {
+        "ID": "3d168e4f-86de-47aa-ad72-d9718579a7e9",
+        "DocumentID": 21,
+        "PassageID": "7)",
+        "Passage": "INTRODUCTION\nThis Guidance is not an exhaustive source of the Regulator\u2019s policy on the exercise of its statutory powers and discretions. The FSRA is not bound by the requirements set out in this Guidance and may impose additional requirements to address any specific risks posed by APIs/ API developers. The Regulator is not bound by the requirements set out in this Guidance and may modify this Guidance at its discretion where appropriate.\n"
+    },
+    {
+        "ID": "c6a2f3d1-e3fd-4b3c-95e5-7b3196fc7fb3",
+        "DocumentID": 21,
+        "PassageID": "8)",
+        "Passage": "INTRODUCTION\nUnless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO).\n"
+    },
+    {
+        "ID": "e3c5b3a6-2faa-4ab0-9f80-96101e058b7a",
+        "DocumentID": 21,
+        "PassageID": "9)",
+        "Passage": "INTRODUCTION\nFor more information please contact the FSRA at FinTech@adgm.com\n\n"
+    },
+    {
+        "ID": "10dbbfe3-65da-41d0-91d4-d8ea43460aca",
+        "DocumentID": 21,
+        "PassageID": "10)",
+        "Passage": "BACKGROUND\nAdvances in new technologies, and maturity of others, have provided opportunities for significant change and disruption to financial services and other related activities globally. Powering this innovation are APIs. APIs can fuel internal innovation, reach new customers, extend products and create vibrant partner ecosystems. APIs by their very nature allow for rapid prototyping, agile development and a fail fast, learn quick culture. They provide a way to share, move and access information previously ring fenced within isolated systems.\n"
+    },
+    {
+        "ID": "17e71d01-9780-4224-a70e-100ff3d9a78c",
+        "DocumentID": 21,
+        "PassageID": "11)",
+        "Passage": "BACKGROUND\n\u201cBig Tech\u201d companies  are opening up access to vast resources and computing power providing access to cutting edge technology, such as machine learning neural networks, blockchain development tools and even quantum computing, that were previously unavailable to the wider market. Additionally, in recent years there has been wide adoption of open-sourced technologies, giving developers suites of tools to create new programmes, systems and networks.\n"
+    },
+    {
+        "ID": "18bcfcec-19a8-4d66-a92b-31409055fa0c",
+        "DocumentID": 21,
+        "PassageID": "12)",
+        "Passage": "BACKGROUND\nCombined with the ever growing surge of the use of smart phones, consumers are now expecting seamless digital interactions tailored to their own specific needs. Which in turn is giving rise to the \u2018Challenger\u2019 or \u2018Neo\u2019 banks who are focused on providing customers with personalised \u2018experiences\u2019 rather than standard financial products.\n"
+    },
+    {
+        "ID": "3ad5114a-ad3a-422c-9a05-a08c63aa87aa",
+        "DocumentID": 21,
+        "PassageID": "13)",
+        "Passage": "BACKGROUND\nThese new business models represent a fundamental step in the evolution of the financial services industry and have already disrupted more traditional ways of offering financial services. For example, \u2018marketplace banking\u2019 business models, i.e. exposing internal digital business assets or services in the form of APIs to external counterparties, is creating an entirely new ecosystem of banking services predicated on intelligent data management and agility in developing new products. The creation of and broadening of access to new data assets are in turn creating many new opportunities for both incumbent and start-up organisations. Fundamental to the development of this new paradigm is the \u201cAPI economy \u201d which facilitates efficient and secure access to data and processes held at different actors within the financial services sector.\n"
+    },
+    {
+        "ID": "e433485e-ce50-4673-b5a7-18e46a06671a",
+        "DocumentID": 21,
+        "PassageID": "14)",
+        "Passage": "BACKGROUND\nHowever in order to realise an efficient API economy, APIs must be able to \u2018talk\u2019 the same language. In recognition of this, several open banking initiatives such as in the UK , the EU , Singapore , Hong Kong , Australia  and New Zealand have taken this one step further to maximise interoperability and collaboration, by mandating certain Financial Institutions (FIs) to make data available (in the banking sector, often termed \u201cOpen Banking\u201d or \u201cOpen Data\u201d in a broader context) according to strict standards, predicated upon API usage.\n"
+    },
+    {
+        "ID": "530c3e9a-7097-4bfc-b75e-6cfaeccffced",
+        "DocumentID": 21,
+        "PassageID": "15)",
+        "Passage": "BACKGROUND\nWhile the FSRA does not propose that Open Data or APIs are made mandatory it does see them as an integral part of any FIs digital strategy and as such will look to align with international best practices so as to maintain a safe and trusted digital environment.\n\nObjectives of the API Guidance\nThe high level objectives of the API guidance are to promote:\n\na.\tInteroperability - to promote the adoption of globally recognised and accepted standards, to ensure the sustainable growth of the digital economy, interoperability across sectors and connectivity to global markets\n\nb.\tSecurity & Trust \u2013 to promote the use of internationally recognised security and governance practices in order to safeguard consumers and the financial services market.\n\nc.\tInnovation - to drive and encourage a culture of innovation and competitiveness.\n\nd.\tCollaboration - to advance and foster collaboration amongst the financial services and technology ecosystems.\n"
+    },
+    {
+        "ID": "512572de-004d-4303-af82-1b54ada10dc7",
+        "DocumentID": 21,
+        "PassageID": "16)",
+        "Passage": "BACKGROUND\nWhat is an API\nAn API can be seen as a user interface just with different users in mind. Rather than an individual interacting with an application on their smart phone, it is a computer application interacting with another, over the internet or within a private network, using predefined rules described in the API.\n"
+    },
+    {
+        "ID": "5a928a52-6ac4-4908-9482-71b3f949da05",
+        "DocumentID": 21,
+        "PassageID": "17)",
+        "Passage": "BACKGROUND\nWhat is an API\nSome APIs are designed to enable the query or update of a database, other APIs simply enable a process that has been exposed by one system to be initiated by another. In each API interaction there are the \u2018providers\u2019 of the API and the \u2018consumers\u2019 of the API:\n\n\u2022\t\u2018API Provider\u2019 refers to an organisation that exposes their data or services through APIs;\n\n\u2022\t\u2018API Consumer\u2019 refers to any organisation or person who uses an exposed API to access and consume the data or information.\n"
+    },
+    {
+        "ID": "87c01bb6-26b8-4e1f-897d-a8dc1c5579b0",
+        "DocumentID": 21,
+        "PassageID": "18)",
+        "Passage": "BACKGROUND\nWhat is an API\nIn order for a successful interaction between the API Provider and API Consumer, the terms of their engagement (protocols) have to be pre-defined. Once both parties have agreed this so-called \u2018API Contract\u2019, thereby establishing the relevant permissions to connect, then interactions and interoperability can be instantaneous and potentially limitless.\n\n"
+    },
+    {
+        "ID": "5dd9dbe1-d926-4aaa-bba0-c1d58dc18764",
+        "DocumentID": 21,
+        "PassageID": "19)",
+        "Passage": "BACKGROUND\nThe types of APIs\nAPIs can be classified into to the following three types (although many methodologies for classification exist):\n\n\u2022\tPrivate APIs \u2013 used within an organisation to provide interoperability between internal applications in order to help automation and provide flexibility.\n\n\u2022\tPartner APIs - used to integrate software between a company and its partner, often for a very specific purpose like providing a product or service.\n\n\u2022\tOpen APIs - an interface that has been designed to be easily accessible by the wider population where a business relationship is not necessary.\n"
+    },
+    {
+        "ID": "726a7480-0a44-4882-a575-f9ca33fc0117",
+        "DocumentID": 21,
+        "PassageID": "20)",
+        "Passage": "BACKGROUND\nThe types of APIs\nIn terms of design and governing rules there are currently two widely-used types of API methodologies in the financial services industry (although as of the date of this Guidance, newer approaches such as GraphQL are emerging and should be considered if they are relevant):\n\n\u2022\tRepresentational State Transfer (REST); and\n\n\u2022\tSimple Object Access Protocol (SOAP).\n"
+    },
+    {
+        "ID": "24412314-6eed-45de-965c-9977a65e97b5",
+        "DocumentID": 21,
+        "PassageID": "21)",
+        "Passage": "BACKGROUND\nThe types of APIs\nTo connect different systems and networks, both approaches can leverage the Hypertext Transfer Protocol (HTTP ), which defines how messages are formatted and transmitted over the internet, and encryption techniques so that the information being passed cannot be read by anyone other than the originator and the intended recipient. However, the two types differ in terms of structure and approach and as such have different applications in mind."
+    },
+    {
+        "ID": "4dd6b438-fd5b-4261-98ea-5ba22d8fc47a",
+        "DocumentID": 21,
+        "PassageID": "22)",
+        "Passage": "BACKGROUND\nThe types of APIs\nREST is a framework which provides a specific methodology for how to design, build and operate an API which allows an application to use certain commonly-used and standard HTTP operations . These operations enable one application to retrieve, send, update and remove data from another application . RESTful APIs can output data in various different formats. These attributes make RESTful APIs easy to adopt, and flexible in connecting systems of different types.\n"
+    },
+    {
+        "ID": "9be2f74f-f6c7-44a9-b1c4-93b872e79b07",
+        "DocumentID": 21,
+        "PassageID": "23)",
+        "Passage": "BACKGROUND\nThe types of APIs\nSOAP is another methodology and differs from REST especially in that it only uses one format, XML. SOAP also allows an application to programme another application directly using a wide degree of functions. Given these attributes, and the wide use of the XML standard in financial services, SOAP is like REST a commonly-used API methodology in the industry.\n"
+    },
+    {
+        "ID": "8f11a15f-3da6-4329-8f50-d99a6aefe4b7",
+        "DocumentID": 21,
+        "PassageID": "24)",
+        "Passage": "BACKGROUND\nThe types of APIs\nSOAP is often used for transactional operations such as in payment gateways. It was developed in order to enable the API Provider to expose business logic to approved API Consumers so that they could interact safely over any communication protocol being used, usually the internet, in order to initiate a specific automated process.\n"
+    },
+    {
+        "ID": "469cbb7c-7367-450a-911b-c338703d595d",
+        "DocumentID": 21,
+        "PassageID": "25)",
+        "Passage": "BACKGROUND\nThe types of APIs\nREST is often used in situations where rapid, wide-scale adoption is a goal, for example mobile apps for social networks or web chat services. It was developed in order to facilitate simpler information sharing in a fast and efficient manner over HTTP only.\n\n"
+    },
+    {
+        "ID": "25132708-9986-407f-80e2-94d758574d3e",
+        "DocumentID": 21,
+        "PassageID": "26)",
+        "Passage": "BACKGROUND\nThe types of APIs\nThe most appropriate type of API style to use will depend on the environment, the project scope, the processes required and the type of information being shared.\n"
+    },
+    {
+        "ID": "33322bed-c1cd-438d-ae7d-9524e2b8c228",
+        "DocumentID": 21,
+        "PassageID": "27)",
+        "Passage": "BACKGROUND\nThe types of APIs\nA more detailed comparison between the two API design styles can be found in Appendix A.\n\n"
+    },
+    {
+        "ID": "3fb4e73e-1062-4fe6-8b72-147d0986b2f9",
+        "DocumentID": 21,
+        "PassageID": "28)",
+        "Passage": "REGULATORY REQUIREMENTS\nDue to the very nature of collaboration and innovation that an API economy encourages amongst the financial services sector and others, the FSRA\u2019s expectations regarding API Consumers and Providers and maintaining a safe, sound and trusted financial services ecosystem are set out in this Guidance.\n"
+    },
+    {
+        "ID": "7fffbe0b-d6f0-44ad-b35a-e10ea8db3eec",
+        "DocumentID": 21,
+        "PassageID": "29)",
+        "Passage": "REGULATORY REQUIREMENTS\nAnti-Money Laundering\nMoney Laundering (ML) and Terrorist Financing (TF) are two major risks that threaten economic growth and social stability through the illicit flow of funds and illegal activities. ML and TF pose significant negative impacts on the financial system.\n"
+    },
+    {
+        "ID": "a387265a-16c8-4b5e-9e34-e217b6e1b244",
+        "DocumentID": 21,
+        "PassageID": "30)",
+        "Passage": "REGULATORY REQUIREMENTS\nAnti-Money Laundering\nAs such the FSRA expects organisations providing or consuming APIs to adhere to the FSRA\u2019s Anti Money Laundering and Countering Financing of Terrorism \u201cAML/CFT\u201d framework at all times and put the appropriate measures in place to mitigate these risks, as well as:\n\na)\tUAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (38) of 2014 Concerning the Executive Regulation of the Federal Law No. 4 of 2002 concerning Anti-Money Laundering and Combating Terrorism Financing;\n\nb)\tthe FSRA AML and Sanctions Rules and Guidance (\u201cAML Rules\u201d) or such other AML rules as may be applicable in ADGM from time to time;\n\nc)\tthe adoption of international best practices (including FATF Recommendations); and\n\nd)\tmonitoring national and international sanctions lists.\n"
+    },
+    {
+        "ID": "2b420f4a-4042-48fc-aa16-0fedc5f597fd",
+        "DocumentID": 21,
+        "PassageID": "31)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nProtecting confidentiality and security of customer data is vital for the stability and reputation of any financial services institution and should not be compromised. As such, organisations are required to comply with the ADGM Data Protection Regime  and to apply best-practice safeguards for the security and protection of sensitive customer data during transit, processing and storage.\n"
+    },
+    {
+        "ID": "8dea0a46-7626-4354-b59a-8433ae65c8c5",
+        "DocumentID": 21,
+        "PassageID": "32)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nThere are also a number of secure hosting standards, e.g. ISO27001, which organisations should adhere to. This standard aids organisations in securing their information and helps implementation of an information security framework that is appropriate to the scale and maturity of the relevant organisation, the services they provide, and the third party suppliers they contract with.\n"
+    },
+    {
+        "ID": "5089fbb3-aebd-4a9d-a3a6-d628759cd136",
+        "DocumentID": 21,
+        "PassageID": "33)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nFor a list of technical standards that should be considered when providing and consuming APIs, please see Appendices B and C.\n"
+    },
+    {
+        "ID": "b423f325-8fad-4ce6-add4-0a3bc730fd64",
+        "DocumentID": 21,
+        "PassageID": "34)",
+        "Passage": "REGULATORY REQUIREMENTS\nThird Party Outsourcing\nFor organisations regulated by the FSRA any issues that may result from the outsourcing including the failure of any third party to meet its obligations are the responsibility of the regulated organisation (GEN 3.3.31, PRU 6.8).\n"
+    },
+    {
+        "ID": "5b3a854f-5d27-461a-aa10-bb198a96ba1e",
+        "DocumentID": 21,
+        "PassageID": "35)",
+        "Passage": "REGULATORY REQUIREMENTS\nThird Party Outsourcing\nIn its assessment of a potential third party service provider, the regulated firm must therefore satisfy itself that the service provider maintains robust processes and procedures regarding the relevant service (including, for example, in relation to the testing and security required in this section on Technology Governance).\n\n\n"
+    },
+    {
+        "ID": "bf2421d8-cc26-4ce8-a7b4-4026f947b77d",
+        "DocumentID": 21,
+        "PassageID": "36)",
+        "Passage": "API REQUIREMENTS\nThis section is intended to provide guidance on industry best practices around the design, security, maintenance and use of APIs in order to ensure interoperability, resilience and scalability of the API economy that we wish to encourage in ADGM and with other international API implementations.\n"
+    },
+    {
+        "ID": "87cead5c-d4f4-470d-8bbe-078edfd06b79",
+        "DocumentID": 21,
+        "PassageID": "37)",
+        "Passage": "API REQUIREMENTS\nIt is recommended that an organisation should first identify why it wants to develop and provide (or consume) an API, who the stakeholders within the organisation are, who the audience for the API will be, the systems and business processes involved and the actors/system that the API will interact with or replace.\n"
+    },
+    {
+        "ID": "bca95d4a-065b-42d3-b964-feb109b0322c",
+        "DocumentID": 21,
+        "PassageID": "38)",
+        "Passage": "API REQUIREMENTS\nDesign\nAll APIs should:\n\na.\tHave platform independence \u2013 any web or mobile client should be able to call and interact with the API, regardless of how the API has been implemented internally.\n\nb.\tAllow for unhindered API evolution \u2013 APIs should flexibly evolve and be able to add functionality independently from other applications using them. As the APIs evolve, the existing applications using them should be unaffected and can continue to function without having to update to the latest version of the API.\n\nc.\tUse appropriate data standards \u2013 APIs should be using the most relevant data standard that are applicable for the type of data being transacted and the use case it is being applied to. Where there is no fit within an existing data standard organisations may decide their own data specification. However, it should publish the associated definitions using a \u2018data dictionary\u2019 in line with industry practices such as those outlined in the Open API Specification or Web Service Definition Language.\n\nd.\tHave good data security - It is important to have stringent information security, cyber security and other data related policies/guidelines.\n\ne.\tBe complete and concise \u2013 an API should be easy to understand and work with, as should be the API contract. Implementing and integrating with it should be a straight forward process.\n"
+    },
+    {
+        "ID": "83c7b8e4-dc1c-44e6-a801-7c10e7b1cd76",
+        "DocumentID": 21,
+        "PassageID": "39)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nThe API documentation (or \u2018contract\u2019) describes all aspects of the API in order to enable successful interaction between the API provider and API consumer. As such it should be a concise reference manual containing all the information required to work with the API, with details about the functions, classes, return types, and arguments. The API contract should, where relevant, be supported by tutorials and examples.\n"
+    },
+    {
+        "ID": "e612adf0-0551-4426-9ebd-3630d448340b",
+        "DocumentID": 21,
+        "PassageID": "40)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nAt a high level the fundamentals that need to be documented in the API contract in order for both parties to be able to interact are:\n\na.\tThe business rules and service agreed between the API Providers and Consumers.\n\nb.\tThe rules around how each party authenticates themselves before gaining access to the API.\n\nc.\tThe standards that the API is adhering to including the change management and version control information that the consumer must be aware of.\n\nd.\tThe design of the API i.e. its structure, the resources (data) that it provides access to and how to interact with the API to obtain them.\n\ne.\tThe certification, on-boarding and acceptance of the API consumer from the API.\n"
+    },
+    {
+        "ID": "74dfe440-54e6-449d-9228-b935774ec64c",
+        "DocumentID": 21,
+        "PassageID": "41)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nAs such the API contract should also include the following content (but not be limited to):\n\n\u2022\tsampling code and example responses\n\u2022\trules on information handling, incident management and risk management\n\u2022\tmethod of authentication (and how it impacts service interoperability, single sign-on, and rate-limiting)\n\u2022\tdesign changes (recent and planned) and versioning information\n\u2022\tavailability, latency, ownership, depreciation policies and status capability\n\u2022\tapproach to backwards compatibility\n\u2022\tguidance on configuring the API to make sure any relevant governance frameworks are followed\n\u2022\tthe open data standards used\n\u2022\tsecurity information\n\u2022\tcost of use of the APIs, if applicable\n\u2022\tsupport that will be provided to the consumer of the API\n"
+    },
+    {
+        "ID": "376e168d-c2f4-4089-a6e6-71ac5ec4dfaf",
+        "DocumentID": 21,
+        "PassageID": "42)",
+        "Passage": "API REQUIREMENTS\nSecurity\nMost important of all the considerations for organisations providing and consuming APIs is the security measures that are deployed, which must comply with network security best practices. Updates and patches to all systems, particularly security systems, should be performed as soon as safely feasible after such updates and patches have been released. The following sections set out the main risk areas and mitigations for these that, in the opinion of the FSRA, need to be taken into account.\n\n\n"
+    },
+    {
+        "ID": "2cce8d49-5ff4-46b7-8076-c728a901ad6d",
+        "DocumentID": 21,
+        "PassageID": "43)",
+        "Passage": "API REQUIREMENTS\nSecurity\nAs a general rule organisations providing and using APIs should also ensure that all parties that they are engaging with:\n\n\u2022\tUse access tokens to establish trusted identities and control access to the services and resources.\n\n\u2022\tEncryption and signatures are employed as standard.\n\n\u2022\tQuotas and throttling are in place that determine how often APIs can be called. For example, more calls on an API may indicate that there is a Denial-of-Service attack. Or it could also be a programming mistake such as calling the API in an endless loop.\n\n\u2022\tAPI traffic is enforced using an API gateway that allows authentication as well as control.\n"
+    },
+    {
+        "ID": "af6240c3-32bc-4aae-9750-ce7c7b346bc0",
+        "DocumentID": 21,
+        "PassageID": "44)",
+        "Passage": "API REQUIREMENTS\nSecurity\nFor more detailed technology standards that should be employed please see Appendix B.\n"
+    },
+    {
+        "ID": "04be0d77-e1fb-4a47-aa6a-75acb97b5605",
+        "DocumentID": 21,
+        "PassageID": "45)",
+        "Passage": "API REQUIREMENTS\nCyber security\nAs APIs are another entry or exit point for an attack on an organisation, the API security strategy must include the following cybersecurity mitigations (but not be limited to):\n\n\u2022\tStrong firewall defences\n\u2022\tVulnerability and threat management\n\u2022\tAntivirus and malware protection\n\u2022\tDenial of Service (DoS) or Distributed Denial of Service (DDoS) protection\n\u2022\tPatch management\n\u2022\tEmail filtering\n\u2022\tWeb filtering\n\u2022\tAdministration privileges\n\u2022\tAccess control\n\u2022\tIntelligence and information sharing\n"
+    },
+    {
+        "ID": "97e4ee67-e387-4bd5-ab29-8c1aeefe9a43",
+        "DocumentID": 21,
+        "PassageID": "46)",
+        "Passage": "API REQUIREMENTS\nEncryption\nThe encryption of data, both at rest and in transit, should be included in the security policy. In particular, encryption and decryption of private keys should utilise encryption protocols, or use alternative algorithms that have broad acceptance with cyber security professionals. Critical cryptographic functions such as encryption, decryption, generation of private keys, and the use of digital signatures should only be performed within cryptographic modules complying with the highest, and ideally internationally recognised, applicable security standards.\n"
+    },
+    {
+        "ID": "71d97732-a8a8-40e1-9f32-f565732d6de9",
+        "DocumentID": 21,
+        "PassageID": "47)",
+        "Passage": "API REQUIREMENTS\nTwo-factor authentication\nAs well as ensuring that architecture supporting the API and the API itself is secure, organisations should also consider the use of two-factor authentication (2FA) when APIs are initiated by a consumer accessing online service. 2FA is an extra layer of security designed to ensure that the only person who can access an account is the individual who owns it, even if the individual\u2019s password has been compromised. The process involves the user providing two different authentication factors to verify themselves.\n"
+    },
+    {
+        "ID": "dbc9bf18-710d-4e3f-8ae1-382025d89ac3",
+        "DocumentID": 21,
+        "PassageID": "48)",
+        "Passage": "API REQUIREMENTS\nTwo-factor authentication\nHowever, it is worth noting that whilst this reduces the chance of being hacked, 2FA is not completely secure and still relies on the vigilance of the individual. For example, phishing attacks purportedly coming from trusted services login page can result in users giving away their credentials. In some extreme cases, hackers have been able to negate 2FA by spoofing an individual\u2019s SIM card and intercepting the unencrypted message as it is sent over the network.\n"
+    },
+    {
+        "ID": "a78ae91a-2d10-4f59-838d-6ef5cf97ceca",
+        "DocumentID": 21,
+        "PassageID": "49)",
+        "Passage": "API REQUIREMENTS\nPenetration testing\nIt is recommended that all systems and infrastructure should be regularly tested for vulnerabilities by an external penetration testing expert who is professionally accredited (such as CREST, IISP, TIGER scheme or OSCP Offensive Security).\n"
+    },
+    {
+        "ID": "2ae65d90-d6b3-4302-b933-7b9a7d00ea63",
+        "DocumentID": 21,
+        "PassageID": "50)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nAuthentication, authorisation and encryption are fundamental to the security of APIs. In terms of authentication, as far as possible, API providers should have a well-defined process to help ensure that individuals or organisations are robustly authenticated.\n"
+    },
+    {
+        "ID": "c0785a8a-91e9-481f-a071-2816649a5f9e",
+        "DocumentID": 21,
+        "PassageID": "51)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nAuthorisation should only allow the authorised/accredited organisations and people to have access to the right API resources.\n"
+    },
+    {
+        "ID": "d4617897-881a-4d27-86cb-ca2050245080",
+        "DocumentID": 21,
+        "PassageID": "52)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nOrganisations must therefore ensure that they have the appropriate infrastructure in place for secure storage and management of relevant access credentials. These credentials include (but not limited to):\n\n\u2022\tIdentity keys\n\u2022\tSigning keys\n\u2022\tOAuth client IDs and secrets\n\u2022\tUsernames and passwords\n\u2022\tAccess tokens\n"
+    },
+    {
+        "ID": "d0b4386e-8a8d-4df7-bea0-2587f9156c1e",
+        "DocumentID": 21,
+        "PassageID": "53)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nWhere authentication processes are handed off or redirected to other sites or apps, the technical processes should avoid the potential for disclosure or interception of the credentials. The organisation should also maintain the ability for the user to verify the authenticity of the site into which they are entering their credentials such as displaying the relevant URL and lock icon that they are interacting with.\n"
+    },
+    {
+        "ID": "d0bdb6d8-5e2a-4f92-a273-01293b86e47e",
+        "DocumentID": 21,
+        "PassageID": "54)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nThe security of an API is only as good as the organisation\u2019s day-to-day security processes. All APIs should be monitored for unusual behaviour such as changes in IP addresses or users using APIs at unusual times of the day.\n"
+    },
+    {
+        "ID": "93a52fcc-2f92-4654-852c-15fb3d5a2e46",
+        "DocumentID": 21,
+        "PassageID": "55)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nIt is recommended that the ability to write audit logs before and after security related events is in place as this increases the potential to monitor and detect attacks.\n"
+    },
+    {
+        "ID": "8e35f640-5755-424a-93d3-d2520620dd5c",
+        "DocumentID": 21,
+        "PassageID": "56)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nLarger organisations should also look to create a Security Operations Centre (SOC) dedicated to monitoring, assessing and defending enterprise information systems such as APIs, web sites, applications, data servers, networks, hardware and software.\n"
+    },
+    {
+        "ID": "99cecdd7-af58-4fd5-817c-49d5f54c938e",
+        "DocumentID": 21,
+        "PassageID": "57)",
+        "Passage": "API REQUIREMENTS\nError handling\nAll responses to errors should use the commonly used HTTP codes and should not reveal details of the failure unnecessarily as this may provide unintended attack vectors for bad actors.\n\n"
+    },
+    {
+        "ID": "8f2d6ed9-f3a0-4c87-9abc-93c720355393",
+        "DocumentID": 21,
+        "PassageID": "58)",
+        "Passage": "API REQUIREMENTS\nData\nTo enable the interoperability of APIs at all levels (whether among systems, sectors, or geographies), the adoption of common data standards is necessary. Open data standards and ontologies provide a reference point that enables two parties to share data and information in a way that ensures understanding is preserved and the meaning can be conveyed.\nTo that end organisations should adopt international open data standards and ontologies when providing an API in order to ensure maximum interoperability.\n"
+    },
+    {
+        "ID": "fe6b58fc-14fb-46e4-a790-902c6dae6498",
+        "DocumentID": 21,
+        "PassageID": "59)",
+        "Passage": "API REQUIREMENTS\nData\nTo enable the interoperability of APIs at all levels (whether among systems, sectors, or geographies), the adoption of common data standards is necessary. Open data standards and ontologies provide a reference point that enables two parties to share data and information in a way that ensures understanding is preserved and the meaning can be conveyed.\nFor more detailed information on appropriate data standards please see Appendix D.\n"
+    },
+    {
+        "ID": "80da3194-e8d1-4571-a0d2-1c3f89d69349",
+        "DocumentID": 21,
+        "PassageID": "60)",
+        "Passage": "API REQUIREMENTS\nAPI Governance\nBusiness failures have often arisen as a result of the lack of adequate technology-related procedures, including, for example, lack of security measures, systems development methodologies, limited system penetration testing for operating a robust business, and lack of technical leadership and management. The FSRA has therefore included specific Guidance regarding expected controls and processes to help mitigate these issues.\n"
+    },
+    {
+        "ID": "336cc6b9-d8a5-4dd9-9c65-16440a184add",
+        "DocumentID": 21,
+        "PassageID": "61)",
+        "Passage": "API REQUIREMENTS\nVersion control\nVersioning and change control is very important and needs to be managed effectively. As such, organisations should have formalised policies and procedures in respect of the following where relevant:\n-\trelease numbers for all major and minor releases\n-\tbackwards compatibility for all API changes\n-\tsupport for technology developers for major API versions for a specified period\n-\tescalation path for when vulnerabilities come to light\n-\tmake a new endpoint available for significant changes\n"
+    },
+    {
+        "ID": "651f0ae4-2893-4edc-85c4-b86a7b8f7b98",
+        "DocumentID": 21,
+        "PassageID": "62)",
+        "Passage": "API REQUIREMENTS\nVersion control\nIf, however, for some reason the change is not backwards compatible, then the organisation must consider:\n\u2022\tIncrementing a version number in the URL (start with /v1/ and increment with whole numbers).\n\n\u2022\tSupporting both old and new endpoints in parallel for a suitable time period before discontinuing the old one.\n"
+    },
+    {
+        "ID": "51125120-d2b1-43f9-8e10-93e3514dc002",
+        "DocumentID": 21,
+        "PassageID": "63)",
+        "Passage": "API REQUIREMENTS\nDepreciation policies\nClear API depreciation policies should be in place so old client applications are not unnecessarily supported.\n"
+    },
+    {
+        "ID": "1ae5b062-1853-4106-a22c-9c6eae782a88",
+        "DocumentID": 21,
+        "PassageID": "64)",
+        "Passage": "API REQUIREMENTS\nDepreciation policies\nThe time by which users/consumers have to upgrade, and how they will be notified of these deadlines should be clearly stated.\n\n"
+    },
+    {
+        "ID": "89dcb03c-8bfd-4187-8b07-1a7ea8fae436",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX",
+        "Passage": ""
+    },
+    {
+        "ID": "62841d16-8143-4093-b229-4fdbcb6f8a01",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix A:",
+        "Passage": "API Design Comparison"
+    },
+    {
+        "ID": "3d8739a4-cb1c-4166-bde2-947b01877ea5",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix A:.65)",
+        "Passage": "The following table describes the main differences between the SOAP and REST API design styles.\n\n/Table Start\nSOAP\tREST\nSOAP is function driven and focuses on exporting pieces of application \u2018logic\u2019 rather than data. It relies exclusively on XML to provide messaging services.\tREST is data driven and is focused on accessing named \u2018resources\u2019 (which represent data or an object) through a single consistent interface.\nSOAP uses a Web Service Definition Language (WSDL) that describes the functionality offered by a web service for communication between the consumer and provider.\tMost Web services using REST can obtain the needed information using a URL.\n\nREST uses four standard HTTP operations (GET, POST, PUT, and DELETE) to perform tasks on the resources.\nSOAP only permits output in XML.\tREST can output data in many different data formats e.g. XML, Comma Separated Values (CSV and JavaScript Object Notation (JSON).\nSOAP has successful/retry logic built in.\tThere is no inbuilt \u2018re-try\u2019; the client has to re-try if the process fails, as REST is stateless.\nSOAP is good for:\n\u2022\tEnterprise services\n\u2022\tHigh reliability and security\n\u2022\tAsynchronous processing\n\u2022\tLarge data sets\n\u2022\tInteracting with legacy systems\tREST is good for:\n\u2022\tWeb services\n\u2022\tLimited bandwidth (smaller messaging sizes)\n\u2022\tLimited resources (no XML parsing required)\n\u2022\tExposing data over the internet\n\u2022\tCombining content from many different sources\nCommon use cases:\n\u2022\tFinancial services\n\u2022\tPayment gateways\n\u2022\tTelecommunication services\tCommon use cases:\n\u2022\tSocial media services\n\u2022\tSocial networks\n\u2022\tWeb chat services\n\u2022\tMobile service\n\n/Table End\n"
+    },
+    {
+        "ID": "16b46b22-7a38-477a-b2af-aca84f33d5ff",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix B:",
+        "Passage": "API Standards"
+    },
+    {
+        "ID": "5a9976c3-ba32-4119-b214-1d33fef24b04",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix B:.66)",
+        "Passage": "The following describes the standards that should be applied when building APIs.\n/Table Start\nArea/Subject\tStandard\nPublishing of technical, engagement details and data dictionary\tAt a high level the API provider should provide the API documentation and a data dictionary. Code samples, tutorials and a software development kit (SDKs) should also be provided. Documentation and definitions should be in line with industry practices outlined in the Open API Specification (Swagger), the RESTful API Modelling Language specifications (RAML), or the Web Service Definition Language (WSDL) for SOAP APIs.\nAPI architecture/Communication Protocols\n(i.e. the code to call the API)\tRESTful (Representational State Transfer) or SOAP (Simple Object Access Protocol) depending on the use case. Firms should provide for conversion of SOAP to REST or vice versa if relevant.\nMessage/Data format\n(i.e. how the API response/payload will be provided)\tJSON (JavaScript Object Notation) or XML (eXtensible Markup Language) depending on the use case.\nWith field names based on ISO 20022 where relevant.\nTransmission of data\tHTTPS & TLS v1.2 (Transport Layer Security)\nOnboarding of customer onto service\tusername/password and two-factor authentication where appropriate\nAuthorisation\tOAuth 2.0\nN.B RESTful API calls with the HTTPS protocol should use a session-based authentication using OAuth 2.0 and JSON web tokens (JWT)\nAuthentication\tSAML 2.0 or  OpenID\n\nEncryption\tAES, RS, SHA 256-bit where relevant depending on the use case\n\n/Table End\n"
+    },
+    {
+        "ID": "3a463226-f0a6-41fe-9079-ab2854ec5c3b",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix C:",
+        "Passage": "Technology Standards"
+    },
+    {
+        "ID": "8e312de5-ac99-4afd-b9b1-1b48f5404d09",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix C:.67)",
+        "Passage": "The following is a list of European and International standards, where available, that should be considered when building APIs.\n/Figure Start\nThis is a complex table that appears to be a framework or reference guide mapping various standards and regulations across multiple domains in the technology and business process landscape. The table is organized into three main sections: CoE Domains, Cross-Domain Services, and Base Technology Domain.\n\nIn the CoE Domains section, specific areas like RegTech, Trading, Infrastructure, Business/Process Domain (subdivided into Payments, Finance, Funding, Insurance), Identity, Asset, Integration/Management Domain, Reporting, Predictive Analytics, and Immutable Contract are listed, each with associated standards like various ISO/IEC numbers, EN standards, and CEN/TS identifiers.\n\nThe Cross-Domain Services section includes IT Security Techniques, IT Security and Data protection, Security, Anti-Fraud, Risk, Operation, Governance, and IT Governance, along with corresponding standards and best practice references.\n\nLastly, the Base Technology Domain section encompasses Data/Analysis, Cloud-based, Programming Language, Instrumentation and IOT, and Robotics/AI, with their relevant standards listed below each.\n\nThe table is color-coded to differentiate between the domains, and the standards are detailed with a mixture of ISO, EN, CEN/TS, and CWA numbers. Some cells contain dashes, indicating either the absence of a standard or that the field is not applicable.\n\nThis table serves as a comprehensive index for professionals to navigate through a variety of standards applicable to different aspects of their work in technology and business processes.\n/Figure End\n"
+    },
+    {
+        "ID": "966e38bd-88cf-4e05-9411-3ff3764b5c0c",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix D:",
+        "Passage": "Data Standards"
+    },
+    {
+        "ID": "18ab23fa-10bc-4f3b-adbe-18383f43ba9d",
+        "DocumentID": 21,
+        "PassageID": "APPENDIX.Appendix D:.68)",
+        "Passage": "The following describes some of the international data standards that should be applied where relevant for APIs in order to ensure interoperability.\n/Table Start\nOpen data standard/Ontology\tArea/Use\nFinancial Industry Business Ontology (FIBO) https://www.omg.org/hot-topics/finance.htm\nDefines financial industry terms, definitions and synonyms using semantic web principles such as OWL/RDF and widely adopted OMG modeling standards such as UML. Providing a means for integrating disparate technical systems and message formats, and aid in regulatory reporting by providing clear and unambiguous meaning of data from authoritative sources.\nFinancial Industry Regulatory Ontology (FIRO) https://github.com/GRCTC/FIRO\nFIRO is a series of interlinked Ontologies based on industry standards to capture regulatory imperatives and rules in formal semantics. It will enable efficient access to, and smarter consumption of, the wide and complex spectrum of financial services industry regulations.\nFinancial Regulatory Data Format (FIRE) https://github.com/SuadeLabs/fire\nThe Financial Regulatory data format defines a common specification for the transmission of granular data between regulatory systems (in finance)\nInternational Financial Reporting Standards (IFRS) https://www.ifrs.org/\nProvide a common global language for business affairs so that company accounts are understandable and comparable across international boundaries.\nISO20022\nhttps://www.iso20022.org/\nStandard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.\neXtensible Business Reporting Language (xBRL) https://www.xbrl.org\nBusiness documents, such as financial statements, performance reports, or compliance reports. The standard formats allow the documents to be transmitted and parsed between entities easily\nStatistical Data and Metadata eXchange (SDMX) https://sdmx.org\nDesigned to describe statistical data and metadata, normalise their exchange, and improve their efficient sharing across statistical and similar organisations.\nOpen Financial Exchange (OFX) http://www.ofx.net\nOpen Financial Exchange is a reference data standard used for exchanging financial data, and performing transactions between financial institutions and underlying applications.\nAssociation for Cooperative Operations Research and Development (ACORD)\nhttps://www.acord.org/standards-architecture/acord-data-standards\nACORD is the global standards-setting body for the insurance and related financial services industries.\nFinancial products Markup Language (FpML) http://www.fpml.org\nFpML is a standard based on XML and used for data exchange for electronic dealing and processing of derivatives instruments like interest rate derivatives, inflation swaps, dividend derivatives and other structured products.\nFinancial Information eXchange (FIX) http://www.fixtradingcommunity.org\nFIX is the standard used for pre-trade and trade messaging across Financial Markets globally. It describes trade-related messages, and used for automated trading of securities, derivative, and other financial instruments.\nMarket Data Definition Language (MDDL) http://xml.coverpages.org/mddl.html\nMDDL enables the exchange of information necessary to account, analyse, and trade financial instruments.\n\n/Table End"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "ID": "568abb0d-7f8c-4c36-b6d7-79763d3f6b1f",
+        "DocumentID": 32,
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION"
+    },
+    {
+        "ID": "5c24d86a-54c9-4d5a-8f45-f4de5f2851fb",
+        "DocumentID": 32,
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (the \u201cRegulator\u201d) and the Guidance & Policies Manual (\u201cGPM\u201d) of the Regulator. Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR or the Glossary Rulebook (\u201cGLO\u201d)."
+    },
+    {
+        "ID": "6b888c17-62b1-474b-957b-d58433d6ef4d",
+        "DocumentID": 32,
+        "PassageID": "1.2",
+        "Passage": "This Guidance is not an exhaustive source of the Regulator\u2019s policies.  The Regulator is not bound by the statements contained in this Guidance and may impose further, specific conditions to address any additional risks posed by the activities of an Authorised Person."
+    },
+    {
+        "ID": "087eca32-399a-4379-a585-05e6fc546213",
+        "DocumentID": 32,
+        "PassageID": "1.3",
+        "Passage": "The Guidance is relevant to Authorised Persons and Applicants seeking to act as the Fund Manager of a Private Credit Fund, as it describes the Regulator\u2019s interpretation of the requirements which a Fund Manager of a Private Credit Fund must satisfy.  These requirements are in addition to those generally applicable to all Authorised Persons contained in the General Rulebook (\u201cGEN\u201d), as well as those applicable in particular to Fund Managers, via the Fund Rules (\u201cFUNDS\u201d)."
+    },
+    {
+        "ID": "d4a93395-2cb2-43ad-8abb-621d1519216d",
+        "DocumentID": 32,
+        "PassageID": "1.4",
+        "Passage": "In particular, this Guidance highlights the eligibility and authorisation criteria that applicants must satisfy to be authorised as a Fund Manager in respect of a Private Credit Fund, as well as the ongoing regulatory requirements pertaining to Private Credit Funds."
+    },
+    {
+        "ID": "4d8d0d4e-4d95-4b7d-aa94-9ecc21bc1468",
+        "DocumentID": 32,
+        "PassageID": "2.",
+        "Passage": "PRIVATE CREDIT FUNDS"
+    },
+    {
+        "ID": "e05d7db3-5640-4f35-87af-1eff34c89a26",
+        "DocumentID": 32,
+        "PassageID": "2.1",
+        "Passage": "Private Credit Funds are Funds that provide financing to companies as an alternative to traditional financing sources. Private Credit Funds will often have a specific risk appetite and as a result they are often able to provide Credit to start up and smaller businesses that may otherwise find it difficult to obtain lending from traditional sources."
+    },
+    {
+        "ID": "59eb7f04-386a-453a-813b-643f4d1dc970",
+        "DocumentID": 32,
+        "PassageID": "2.2",
+        "Passage": "Private Credit Funds may also participate in non-direct lending via participation in syndicated loans, by purchasing loans from an originating Lender or by investing in trade receivables. In such cases, this Guidance should be read in that context.\nInvestors"
+    },
+    {
+        "ID": "264e2136-0735-4923-9a44-e83c62e685e7",
+        "DocumentID": 32,
+        "PassageID": "2.3",
+        "Passage": "Private Credit Funds provide investors exposure to higher returns by investing in Credit Facilities and debt-related instruments provided by higher-risk debtors.  Such investors should be sophisticated and financially well-resourced, and capable of understanding the risks involved.  As such, the Regulator has limited Private Credit Funds to include only Exempt Funds and Qualified Investor Funds which may be offered to Professional Clients.\n"
+    },
+    {
+        "ID": "585c70a4-318e-4159-9d12-0f4094b9f810",
+        "DocumentID": 32,
+        "PassageID": "2.4",
+        "Passage": "Regulatory framework. The Regulator has developed Rules in FUNDS that impose specific investment and operational requirements on Private Credit Funds and the Fund Managers that manage them.  The Fund Manager of a Private Credit Fund must demonstrate to the Regulator that it has appropriate systems and controls in place that ensure such requirements are met.\n"
+    },
+    {
+        "ID": "735bb348-2806-4a96-8935-cb2ab448aafa",
+        "DocumentID": 32,
+        "PassageID": "3.",
+        "Passage": "INVESTMENT RESTRICTIONS AND DIVERSIFICATION"
+    },
+    {
+        "ID": "222de4b7-c712-4596-8e42-085ee500ba5e",
+        "DocumentID": 32,
+        "PassageID": "3.1",
+        "Passage": "The Regulator has put in place certain investment restrictions whereby Private Credit Funds may not offer Credit to certain borrowers, including, but not limited to, Natural Persons, Affected Persons, speculative investors, Funds or other Lenders."
+    },
+    {
+        "ID": "d387dd36-5755-4d6a-a192-9e240f466175",
+        "DocumentID": 32,
+        "PassageID": "3.2",
+        "Passage": "A Private Credit Fund Manager is also required to ensure that the investment strategy of a Private Credit Fund will result in a diverse set of credit counterparties in order to avoid concentration risk.  A Fund Manager of a Private Credit Fund must establish a clear diversification policy that is achievable within a reasonable, stated timeframe from the launch of the Fund.  Where the Fund does not, or is not likely to, meet its diversification policy, the Regulator expects that the Fund Manager should notify Unitholders and provide options for resolution."
+    },
+    {
+        "ID": "c0749cc1-85a3-4ffe-b115-c633a258ac30",
+        "DocumentID": 32,
+        "PassageID": "4.",
+        "Passage": "SYSTEMS AND CONTROLS \u2013 MINIMUM REQUIREMENTS"
+    },
+    {
+        "ID": "7fb82ae2-e12f-49a3-a577-b49ea692d75b",
+        "DocumentID": 32,
+        "PassageID": "4.1",
+        "Passage": "The Regulator has enacted rules to ensure that Fund Managers of Private Credit Funds implement and maintain suitable systems and controls to address risk, including, but not limited to, the following.\n\n/Table Start\nRequirement\tNote\nRisk Appetite Statement\tThe Fund Manager of a Private Credit Fund must develop, state and adhere to a risk appetite statement for the Fund.  Typically this will drive a Private Credit Fund\u2019s investment policy as stated in the Prospectus and Constitution of the Fund.\nThe risk appetite statement is necessary in order that potential investors in the Fund may understand the type and nature of the Credit Facilities and debt instruments that the Fund intends to invest in and the credit risk profile of the borrowers that the Fund is seeking.\nLending Processes\tThe Fund Manager of a Private Credit Fund must implement and maintain processes to ensure investments in Credit Facilities are only made based on a stated credit risk assessment and pricing methodology.\nThe Regulator understands that such methodologies may differ amongst Fund Managers of Private Credit Funds in line with the stated risk appetite strategy for their respective Funds, and that lending criteria may differ from the standards adopted by conventional lenders.  The Regulator will expect, however, a Fund Manager to be able to demonstrate robust, defined criteria for lending and how such criteria and methods will operate in practice.\nRisk Management\tThe Fund Manager of a Private Credit Fund is expected to employ techniques that are appropriate to the risks facing the Fund, including, but not limited ongoing credit and concentration risk.\nFund Managers will inevitably seek to assess the credit risk of each potential borrower as part of its lending process and will also need to demonstrate how they will measure and mitigate those risks on an ongoing basis. Therefore, the Regulator will expect Fund Managers to be able to demonstrate systems and controls that allow changes in the credit risk profile of borrowers to be identified over the duration of each Credit Facility.\nStress Testing\tThe Fund Manager of a Private Credit Fund must employ stress testing methodologies in order to identify risks that may affect the Fund\u2019s portfolio in adverse scenarios.\nThe Fund Manager must therefore be able to demonstrate to the Regulator that it has systems in place that enable it to regularly stress test the Fund\u2019s portfolio against potential adverse events and market conditions (and combinations thereof).  The Fund Manager must also be able to demonstrate a strategy to allow the Fund to mitigate those risks and to take appropriate action should the identified adverse scenarios arise.\n/Table End"
+    }
+]

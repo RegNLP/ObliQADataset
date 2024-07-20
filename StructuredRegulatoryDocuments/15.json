@@ -1,0 +1,278 @@
+[
+    {
+        "ID": "b5400f40-0133-4951-b543-186e8c2027f5",
+        "DocumentID": 15,
+        "PassageID": "COMMON REPORTING STANDARD REGULATIONS 2017",
+        "Passage": "\nRegulations to implement the standard for automatic exchange of financial account information developed by the Organisation for Economic Co-operation and Development (OECD) .\nDate of Enactment: 9 July 2017\nThe Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, hereby enacts the following Regulations\u2013\n"
+    },
+    {
+        "ID": "39d00b5e-624f-420b-bbc8-33a117c98e43",
+        "DocumentID": 15,
+        "PassageID": "Part 1",
+        "Passage": "Introduction"
+    },
+    {
+        "ID": "5df89b15-44ac-4914-8500-db58093684a1",
+        "DocumentID": 15,
+        "PassageID": "Part 1.1.",
+        "Passage": "Definitions"
+    },
+    {
+        "ID": "aebb9623-4a88-443b-9af6-1aa4f6bf80d5",
+        "DocumentID": 15,
+        "PassageID": "Part 1.1.(1)",
+        "Passage": "In these Regulations capitalised terms will bear the meaning given to them in the Common Reporting Standard, unless otherwise defined below or the context otherwise requires.\n\n/Table Start\nADGM\tmeans the Abu Dhabi Global Market.\nADGM Court\tmeans the Abu Dhabi Global Market court of first instance established under Abu Dhabi Law No. 4 of 2013.\nADGM Financial Institution\tMeans: (i) any Financial Institution that is resident in the ADGM, but excludes any branch of that Financial Institution that is located outside of the ADGM; and (ii) any branch of a Financial Institution that is not resident in the ADGM, if that branch is located in the ADGM.\nCabinet Resolution\tmeans the UAE\u2019s Cabinet of Ministers Resolution No. 93 of 2021 Implementing Certain Provisions of the Multilateral Administrative Agreement for Automatic Exchange of Information, as may be amended or superseded from time to time.\nCommon Reporting Standard\tmeans the standard for automatic exchange of financial account information developed by the OECD as implemented in the UAE, currently set out in the \u2018Automatic Exchange of Financial Account Information Regulations\u2019 attached to the Guidance notes for the Common Reporting Standard dated 3 August 2020 issued by the UAE Competent Authority, as may be amended or superseded from time to time.\nDesignated Officer\tmeans any person, or delegate of that person, appointed by the Regulatory Authority pursuant to the provisions of subsection 5(3).\nGovernment \tmeans the federal government of the UAE.\nOECD\tmeans the Organisation for Economic Co-Operation and Development which was established by the Convention on the Organisation for Economic Co-operation and Development signed in Paris on 14th December 1960.\nRegulatory Authority\tmeans the ADGM Financial Services Regulatory Authority.\nReporting Financial Institution\tMeans any ADGM Financial Institution that is not a Non-Reporting Financial Institution.\nUAE\tmeans the United Arab Emirates.\n\n/Table End\n"
+    },
+    {
+        "ID": "8a7bdb66-8eda-495e-9029-29c21ac6c87c",
+        "DocumentID": 15,
+        "PassageID": "Part 1.2.",
+        "Passage": "Application"
+    },
+    {
+        "ID": "21812ef9-56d8-4e97-a4b0-f43c5721185f",
+        "DocumentID": 15,
+        "PassageID": "Part 1.2.(1)",
+        "Passage": "The Common Reporting Standard and the Cabinet Resolution apply in the ADGM pursuant to these Regulations."
+    },
+    {
+        "ID": "c770b18e-fb37-4e5a-ab7d-432977e005bc",
+        "DocumentID": 15,
+        "PassageID": "Part 1.2.(2)",
+        "Passage": "Any Account Holder, Controlling Person, and Financial Institution subject to the supervision of the Regulatory Authority for purposes of the Common Reporting Standard, the Cabinet Resolution and these Regulations shall comply with the Common Reporting Standard, the Cabinet Resolution and these Regulations."
+    },
+    {
+        "ID": "eaebf5eb-c890-461e-be96-d7922589c9d5",
+        "DocumentID": 15,
+        "PassageID": "Part 1.2.(3)",
+        "Passage": "A contravention of the Common Reporting Standard or the Cabinet Resolution shall constitute a contravention of these Regulations.\n\n"
+    },
+    {
+        "ID": "09c6d337-e892-4ddf-9ae6-b8ba8ab5da3f",
+        "DocumentID": 15,
+        "PassageID": "Part 1.3.",
+        "Passage": "Status of OECD and UAE Competent Authority publications and material"
+    },
+    {
+        "ID": "6847350a-476f-4925-9700-d436e2e70d7b",
+        "DocumentID": 15,
+        "PassageID": "Part 1.3.(1)",
+        "Passage": "For the purposes of these Regulations, any explanatory material made and published by the OECD for the purpose of assisting with the interpretation of the Common Reporting Standard, inclusive of any commentary published by the OECD in respect thereof, is an integral part of the Common Reporting Standard and accordingly applies for the purposes of automatic exchange of financial account information under the Common Reporting Standard, the Cabinet Resolution and these Regulations."
+    },
+    {
+        "ID": "bca26b89-29d7-4acc-892c-6399b857ad1e",
+        "DocumentID": 15,
+        "PassageID": "Part 1.3.(2)",
+        "Passage": "In addition, any explanatory material or guidance issued by the UAE Competent Authority for the purposes of assisting with the implementation of the Common Reporting Standard should be considered when interpreting and complying with these Regulations.\n"
+    },
+    {
+        "ID": "63514f4e-0d26-4136-a494-f67014104da9",
+        "DocumentID": 15,
+        "PassageID": "Part 2",
+        "Passage": "Role and Powers of the Regulatory Authority"
+    },
+    {
+        "ID": "a14a190a-4ac2-4402-9146-74e90211aa19",
+        "DocumentID": 15,
+        "PassageID": "Part 2.4.",
+        "Passage": "Role and powers of the Regulatory Authority"
+    },
+    {
+        "ID": "1e5db18d-fbc0-405c-8422-2128ba817cd2",
+        "DocumentID": 15,
+        "PassageID": "Part 2.4.(1)",
+        "Passage": "The Regulatory Authority is designated as the Regulatory Authority for the ADGM for the purposes of the Common Reporting Standard and the Cabinet Resolution, and has such functions and powers as are conferred, or expressed to be conferred, on it:\n(a)\tby or under these Regulations;\n(b)\tby or under the Common Reporting Standard;\n(c)\tby or under the Cabinet Resolution;\n(d)\tby any other instrument or enactment issued by the ADGM Board of Directors; or\n(e)\tby the UAE Competent Authority or the Government from time to time."
+    },
+    {
+        "ID": "7ab86399-2170-4e32-8bfd-b6296ed50d92",
+        "DocumentID": 15,
+        "PassageID": "Part 2.4.(2)",
+        "Passage": "The Regulatory Authority has the power to do whatever it deems necessary for or in connection with, or reasonably incidental to, performing its functions and exercising its powers granted under these Regulations, the Common Reporting Standard or the Cabinet Resolution, inclusive of but not limited to:\n(a)\tissuing guidance and directives pursuant thereto; and\n(b)\tdelegating its duties and powers under these Regulations, the Common Reporting Standard or the Cabinet Resolution to Designated Officers.\n\n"
+    },
+    {
+        "ID": "2afad9df-5582-411c-b06f-52f7f2f866ff",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.",
+        "Passage": "Powers of inspection and investigation"
+    },
+    {
+        "ID": "254ae832-3ea3-4cb6-a7eb-a4bb184ef1e5",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(1)",
+        "Passage": "Without prejudice to the powers of inspection and investigation set out in the Cabinet Resolution, the Regulatory Authority may:\n(a)\trequire any Account Holder, Controlling Person or Financial Institution to provide records, information, explanations and particulars and to give all the required assistance which the Regulatory Authority may reasonably require in connection with the administration or enforcement of these Regulations;\n(b)\tby notice in writing, require any Account Holder, Controlling Person or Financial Institution to provide to the Regulatory Authority such information as the Regulatory Authority may reasonably require for any purpose relating to the administration or enforcement of these Regulations, such information to be provided or produced before the end of such reasonable period as may be set out in the relevant notice;\n(c)\trequest information from and, at all reasonable times, enter any premises or place of business of a Financial Institution for the purses of:\n(i)\tassessing compliance with these Regulations;\n(ii)\tdetermining whether information: included in an information return made under these Regulations is correct and complete and whether information not included in an information return was correctly not included; and/or\n(iii)\texamining the systems and internal procedures put in place by a Reporting Financial Institution for the purposes of ensuring compliance with that Reporting Financial Institution\u2019s obligations under these Regulations."
+    },
+    {
+        "ID": "8dc5fbb0-4664-499d-a81b-a3d93b00106c",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(2)",
+        "Passage": "The Regulatory Authority may request information from any Account Holder or Controlling Person including, but not limited to Accounting Records and all other records held in connection with the information or certifications provided to a Financial Institution, and the Regulatory Authority may ask the Financial Institution to assist it to obtain such information or records from Account Holders and Controlling Persons."
+    },
+    {
+        "ID": "cfa45898-ba7c-41a0-8458-c1e877395101",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(3)",
+        "Passage": "The Regulatory Authority may appoint Designated Officers to assist it in inspections performed at the premises of Reporting Financial Institutions pursuant to the provisions of subsections 5(1) and (2) and to submit such written reports in respect thereof as the Regulatory Authority may direct."
+    },
+    {
+        "ID": "fe209605-2b02-4c29-bbe8-305619ad7cca",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(4)",
+        "Passage": "The Regulatory Authority may require a Financial Institution to produce a report and/or appoint a skilled person to produce a report."
+    },
+    {
+        "ID": "9ea9c0a2-f8b3-434e-9e49-a6efb09e5322",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(5)",
+        "Passage": "For the purposes of subsection 5(4), sections 203 and 204 of the Financial Services and Markets Regulations 2015 shall apply in relation to requiring a report or appointing a skilled person to produce a report (as the case may be). A Financial Institution shall be read as falling within the scope of \u201cA\u201d for the purposes of the application of those sections."
+    },
+    {
+        "ID": "dc13264d-5778-4d65-a40c-eacf99b59c7c",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(6)",
+        "Passage": "The Regulatory Authority may commence an investigation in relation to a Financial Institution."
+    },
+    {
+        "ID": "fadf9787-6784-4259-81a7-e36cf8992006",
+        "DocumentID": 15,
+        "PassageID": "Part 2.5.(7)",
+        "Passage": "For the purposes of subsection 5(6), sections 205 to 215 and section 217 of the Financial Services and Markets Regulations 2015 shall apply in relation to commencement and conduct of an investigation by the Regulatory Authority of a Financial Institution.\n\n"
+    },
+    {
+        "ID": "b5869782-486d-44f6-b876-bf8e597e19d4",
+        "DocumentID": 15,
+        "PassageID": "Part 3",
+        "Passage": "Reporting and Record keeping"
+    },
+    {
+        "ID": "e0d4c62b-f3cf-4964-8e84-fb2bb3e10b3f",
+        "DocumentID": 15,
+        "PassageID": "Part 3.6.",
+        "Passage": "Collecting and reporting information"
+    },
+    {
+        "ID": "67def562-6eee-4e86-b791-3e05a3751430",
+        "DocumentID": 15,
+        "PassageID": "Part 3.6.(1)",
+        "Passage": "Each Reporting Financial Institution shall collect and report all information in accordance with the Common Reporting Standard, the Cabinet Resolution and these Regulations."
+    },
+    {
+        "ID": "22ea8898-3b1c-42ba-b2d9-5d7729a43235",
+        "DocumentID": 15,
+        "PassageID": "Part 3.6.(2)",
+        "Passage": "Each Reporting Financial Institution shall establish and implement appropriate systems and internal procedures to enable its compliance with the Common Reporting Standard, the Cabinet Resolution and these Regulations.\n\n"
+    },
+    {
+        "ID": "5f0b69ea-5745-4839-9c5c-5950ab208f45",
+        "DocumentID": 15,
+        "PassageID": "Part 3.7.",
+        "Passage": "Record keeping"
+    },
+    {
+        "ID": "890d5683-8b4f-4e5f-a1c9-f553416677f7",
+        "DocumentID": 15,
+        "PassageID": "Part 3.7.(1)",
+        "Passage": "Every Reporting Financial Institution shall keep records of the steps undertaken and any evidence relied upon for the performance of the due diligence procedures and the measures to obtain those records that the Reporting Financial Institution obtains or creates for the purpose of complying with the Common Reporting Standard, the Cabinet Resolution and these Regulations."
+    },
+    {
+        "ID": "e2261508-17ee-4ce6-b877-cb6cd6bfc04a",
+        "DocumentID": 15,
+        "PassageID": "Part 3.7.(2)",
+        "Passage": "Every Reporting Financial Institution that is required to keep, obtain or create records under these Regulations shall retain those records for a period of at least six (6) years after the date of reporting to the Regulatory Authority."
+    },
+    {
+        "ID": "96ba8b75-93af-4a3f-a5b1-f4374c1240da",
+        "DocumentID": 15,
+        "PassageID": "Part 3.7.(3)",
+        "Passage": "Every Reporting Financial Institution required by these Regulations to keep records that does so electronically shall retain them in an electronically readable format for the retention period of six (6) years after the date of reporting it to the Regulatory Authority."
+    },
+    {
+        "ID": "f468364f-4656-4fa0-8ae1-6f399e92ab85",
+        "DocumentID": 15,
+        "PassageID": "Part 3.7.(4)",
+        "Passage": "Every Reporting Financial Institution that obtains or creates records, as required under these Regulations, in a language other than English shall, upon request, provide an English translation to the Regulatory Authority.\n"
+    },
+    {
+        "ID": "c0131cb0-ba32-4456-806a-aee5f5db55c0",
+        "DocumentID": 15,
+        "PassageID": "Part 4",
+        "Passage": "Penalties and contraventions"
+    },
+    {
+        "ID": "d85e250b-59b2-4c8a-ac52-6a7054daba32",
+        "DocumentID": 15,
+        "PassageID": "Part 4.8.",
+        "Passage": "Power to prescribe penalties and procedures"
+    },
+    {
+        "ID": "a900255e-da02-40cd-8c65-94fa582b91f1",
+        "DocumentID": 15,
+        "PassageID": "Part 4.8.(1)",
+        "Passage": "The Regulatory Authority may prescribe:\n(a)\tPenalties and administrative fees and other sanctions in addition to the penalties stipulated in the Cabinet Resolution; and\n(b)\tForms and additional procedures in relation to:\n(i)\tthe imposition and recovery of penalties and administrative fees imposed pursuant to these Regulations (including those stipulated in the Cabinet Resolution);\n(ii)\tthe enforcement of actions required by the Regulatory Authority pursuant to these Regulations; and\n(iii)\tany objection or right of appeal in respect of any penalties or administrative fees or action required or the enforcement thereof."
+    },
+    {
+        "ID": "fc8f19bb-44f7-4fa3-9af8-5400c439109a",
+        "DocumentID": 15,
+        "PassageID": "Part 4.9.",
+        "Passage": "Penalties and appeal"
+    },
+    {
+        "ID": "b005fcaa-e0f0-4453-b7f9-e9bb245e90c0",
+        "DocumentID": 15,
+        "PassageID": "Part 4.9.(1)",
+        "Passage": "An Account Holder, Controlling Person or Financial Institution who:\n(a)\tdoes an act or thing that is prohibited under these Regulations, the Common Reporting Standard or the Cabinet Resolution;\n(b)\tdoes not do an act or thing that is required or directed to do under these Regulations, the Common Reporting Standard or the Cabinet Resolution; or\n(c)\totherwise contravenes these Regulations, the Common Reporting Standard or the Cabinet Resolution,\ncommits a contravention of these Regulations and the Cabinet Resolution and is liable to the penalties and sanctions set out in the Cabinet Resolution, and any other penalty or administrative fee or sanction that may be imposed by the Regulatory Authority pursuant to subsection 8(1)(a)."
+    },
+    {
+        "ID": "4339215f-d0c1-4f24-bb7d-45b0e40af92c",
+        "DocumentID": 15,
+        "PassageID": "Part 4.9.(2)",
+        "Passage": "Any appeal against any penalty or fee or sanction imposed pursuant to subsection 9(1) must be raised pursuant to the relevant provisions of the Cabinet Resolution."
+    },
+    {
+        "ID": "bd456364-3e7f-4eee-86fb-d5d35016a3e8",
+        "DocumentID": 15,
+        "PassageID": "Part 4.10.",
+        "Passage": "Directions to comply"
+    },
+    {
+        "ID": "5d65bfa8-43fa-4a26-abf1-b74a9ba8ffef",
+        "DocumentID": 15,
+        "PassageID": "Part 4.10.(1)",
+        "Passage": "Where the Regulatory Authority, or its delegate, considers that an Account Holder, Controlling Person or Financial Institution has contravened the Common Reporting Standard, the Cabinet Resolution or these Regulations it may by written notice to such person order that certain action be taken to comply with these Regulations."
+    },
+    {
+        "ID": "c4fdaea9-c164-4186-89b6-a66b846759e7",
+        "DocumentID": 15,
+        "PassageID": "Part 4.11.",
+        "Passage": "Anti-Avoidance"
+    },
+    {
+        "ID": "85dccb2e-9a34-4941-aa83-4c646d9d2438",
+        "DocumentID": 15,
+        "PassageID": "Part 4.11.(1)",
+        "Passage": "If a Reporting Financial Institution, person or intermediary enters into any arrangements or engages in a practice, the main purpose or one of the main purposes, of which can reasonably be considered to be to avoid an obligation imposed pursuant to these Regulations, the Reporting Financial Institution, person or intermediary is subject to the obligation as if the Reporting Financial Institution, person or intermediary had not entered into the arrangement or engaged in the practice.\n"
+    },
+    {
+        "ID": "e3665701-dcb7-4f26-9163-cd35174feeae",
+        "DocumentID": 15,
+        "PassageID": "Part 5",
+        "Passage": "Indemnity and effective date"
+    },
+    {
+        "ID": "c227e01d-e535-4bd0-92e6-c0c040758d6d",
+        "DocumentID": 15,
+        "PassageID": "Part 5.12.",
+        "Passage": "Indemnity\nUnless it can be shown that it acted in bad faith, neither the Regulatory Authority, its delegate, nor any Designated Officer can be held liable for any act, attempted act or omission in the performance, purported non-performance or non-performance of its functions in connection with these Regulations."
+    },
+    {
+        "ID": "940c64f2-9efc-42f4-8c00-61407cf0ca56",
+        "DocumentID": 15,
+        "PassageID": "Part 5.13.",
+        "Passage": "Effective date"
+    },
+    {
+        "ID": "9296d18e-34bc-47fd-a5d2-30cf4bb97df8",
+        "DocumentID": 15,
+        "PassageID": "Part 5.13.(1)",
+        "Passage": "These Regulations become effective on date of enactment, except in respect of the following where they shall apply retrospectively:\n(a)\tin respect of Pre-existing Accounts that are subject to due diligence requirements under the Regulations, the effective date for purposes of these Regulations is 31 December 2016; and\n(b)\tin respect of New Accounts that are subject to due diligence requirements under the Regulations, the effective date for purposes of these Regulations is 1 January 2017.\n"
+    }
+]

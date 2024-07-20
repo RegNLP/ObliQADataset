@@ -1,0 +1,770 @@
+[
+    {
+        "ID": "593553b0-55cf-4c09-b45c-b1925372b49b",
+        "DocumentID": 22,
+        "PassageID": "1",
+        "Passage": "INTRODUCTION\n"
+    },
+    {
+        "ID": "58846ff9-52ca-4397-ad50-2b51ddfcc8ff",
+        "DocumentID": 22,
+        "PassageID": "1.(1)",
+        "Passage": "Purpose. The purpose of the Code of Market Conduct (\"CMC\") is to supplement the Market Abuse provisions in Parts 8 and 9 of the Financial Services and Markets Regulations 2015 (\"FSMR\")."
+    },
+    {
+        "ID": "aa6adb23-9c9b-487d-8148-350d4eec6557",
+        "DocumentID": 22,
+        "PassageID": "1.(2)",
+        "Passage": "Purpose. The CMC is intended to:\n(a)\tassist persons in determining whether or not conduct amounts to Market Abuse;\n(b)\tassist persons such as Authorised Persons and Recognised Bodies who may be subject to obligations to monitor for, prevent, or report Market Abuse to comply with their obligations; and\n(c)\tclarify that certain market practices do not, in the Regulator's view, ordinarily amount to Market Abuse."
+    },
+    {
+        "ID": "be643674-6fc6-4dc8-8345-caf90beb2c2d",
+        "DocumentID": 22,
+        "PassageID": "1.(3)",
+        "Passage": "Purpose. The CMC is relevant to any person to whom Parts 8 or 9 of the FSMR apply.  Parts 8 and 9 apply to persons generally, that is:\n(a)\twhether an individual, Body Corporate or body unincorporated; and\n(b)\twhether regulated by the Regulator (such as an Authorised Person or a Recognised Body) or unregulated.\n"
+    },
+    {
+        "ID": "9842a684-97bc-4872-adc7-e53b320cfa83",
+        "DocumentID": 22,
+        "PassageID": "1.(4)",
+        "Passage": "Structure. The Chapters in the CMC generally set out for each type of Market Abuse:\n(a)\tthe text of the prohibition and relevant definitions;\n(b)\tthe Regulator's interpretation of elements of the prohibition (including factors it may take into account in determining whether or not there has been a Contravention);\n(c)\tgeneral or specific examples of conduct that in the Regulator's view may contravene the prohibition; and\n(d)\twhere relevant, defences in the FSMR.\nWhere the CMC sets out the text of a prohibition, definition or defence, it sometimes does so in abbreviated form to assist the reader.  For the precise terms, readers should refer to the FSMR itself.\n\n"
+    },
+    {
+        "ID": "c8dfc082-79fb-4e3e-8dbd-e1a0abc2a020",
+        "DocumentID": 22,
+        "PassageID": "1.(5)",
+        "Passage": "Terminology. Defined terms are identified throughout the CMC by the capitalisation of a word or term and are defined in the Glossary (\"GLO\").  Unless the context otherwise requires, where capitalisation of the initial letter is not used, an expression has its natural meaning."
+    },
+    {
+        "ID": "5ff0bfde-adc6-4cb4-9340-2b6084ea2525",
+        "DocumentID": 22,
+        "PassageID": "1.(6)",
+        "Passage": "Terminology. Unless the context otherwise requires, where the CMC refers to:\n(a)\tParts 8 and 9, the reference is to Parts 8 and 9 of the FSMR;\n(b)\ta section, the reference is to a section in the FSMR;\n(c)\ta prohibition, the reference is to a section in Parts 8 and 9 of the FSMR that prohibits specified conduct;\n(d)\tMarket Abuse, the reference is to conduct which contravenes a provision in Parts 8 and 9 of the FSMR; and\n(e)\tTrading Information, the reference is to information referred to in paragraph \u200e5-2(9) of the CMC.\n"
+    },
+    {
+        "ID": "f85510fc-ea6f-4d6b-85b9-e597fdf2e519",
+        "DocumentID": 22,
+        "PassageID": "1.(7)",
+        "Passage": "CMC not exhaustive. The CMC does not try to exhaustively describe or list:\n(a)\tall examples of Market Abuse, setting out only a few of the many possible examples; or\n(b)\tall factors that the Regulator may take into account in deciding whether or not conduct amounts to Market Abuse.\n"
+    },
+    {
+        "ID": "09c09763-6064-4d23-9214-0f5b0f59f3f1",
+        "DocumentID": 22,
+        "PassageID": "1.(8)",
+        "Passage": "Application to Financial Instruments and Related Instruments. The Market Abuse provisions apply to certain activities or conduct related to Financial Instruments. A \"Financial Instrument\" means any instrument which is admitted to trading on ADGM or for which a request for admission to trading on ADGM has been made."
+    },
+    {
+        "ID": "701dd6f2-183c-4150-a7ab-58ab24fc3f8f",
+        "DocumentID": 22,
+        "PassageID": "1.(9)",
+        "Passage": "Application to Financial Instruments and Related Instruments. Section 92(2) (Insider Dealing) also applies to a \"Related Instrument\", which is defined as meaning:\n\"\u2026in relation to a Financial Instrument, an investment whose price or value depends on the price or value of the Financial Instrument.\"\nFor example, if an Insider has Inside Information relating to an Issuer, A, of Financial Instruments, then a \"Related Instrument\" could include a Derivative relating to the Financial Instruments of A or another Financial Instrument in a member of A's Group, if the price or value of that other Financial Instrument depends, in whole or in part, on the price or value of Financial Instruments of A."
+    },
+    {
+        "ID": "659b7d39-7e7b-4ee7-8c6c-97bb00d9689e",
+        "DocumentID": 22,
+        "PassageID": "1.(10)",
+        "Passage": "Application to Financial Instruments and Related Instruments. Refraining from action may be considered conduct amounting to Market Abuse where a person has failed to discharge a legal or regulatory obligation or has failed to inform those persons to whom he has made certain representations that such representations have ceased to be correct."
+    },
+    {
+        "ID": "eaa2fa8c-2d01-40d2-b78d-ed443a9ada34",
+        "DocumentID": 22,
+        "PassageID": "1.(11)",
+        "Passage": "Application to Financial Instruments and Related Instruments. The Market Abuse provisions apply to Financial Instruments whether or not the Financial Instruments are admitted to an Official List or admitted to trading on a market in the ADGM.  As a result the Market Abuse provisions have a potentially broad application to Financial Instruments in the ADGM or affecting ADGM markets.\n"
+    },
+    {
+        "ID": "4172e4f9-0b7a-472c-ade2-20dd2ed704f2",
+        "DocumentID": 22,
+        "PassageID": "1.(12)",
+        "Passage": "Application to conduct within the ADGM. The Market Abuse prohibitions at section 93(1) are expressed to apply to Behaviour in the ADGM, or in relation to Financial Instruments admitted to trading on a Prescribed Market situated or operating in the ADGM."
+    },
+    {
+        "ID": "093b6925-24fc-404a-87f5-c42b98375251",
+        "DocumentID": 22,
+        "PassageID": "1.(13)",
+        "Passage": "Application to conduct within the ADGM. In addition, the Market Abuse provisions apply to Financial Instruments for which a request for an admission to trading on a Prescribed Market has been made in accordance with section 93(1)(b)(ii)."
+    },
+    {
+        "ID": "a1b18b14-305c-4acf-8f31-08e6b213efe2",
+        "DocumentID": 22,
+        "PassageID": "1.(14)",
+        "Passage": "Application to conduct within the ADGM. The following are examples of conduct which occurs outside the ADGM that, in the Regulator's view may, depending on other factors such as the state of knowledge of the person concerned, fall within the scope of the Market Abuse provisions:\n(a)\ta person outside the ADGM places an order to trade that creates, or is likely to create, an artificial price for a Financial Instrument traded on an Exchange in the ADGM;\n(b)\ta person engages in conduct outside the ADGM that manipulates the price of a benchmark or Financial Instrument and affects the price of a Derivative admitted to trading in the ADGM that is referenced to that benchmark or Financial Instrument;\n(c)\ta person who has Inside Information relating to an Issuer that has Financial Instruments traded on an Exchange in the ADGM discloses that information outside the ADGM to another person (other than in the necessary course of business of the person making the disclosure); and\n(d)\ta person outside the ADGM contacts potential investors in the ADGM and makes statements that are misleading, false or deceptive in order to induce those investors to buy a Financial Instrument.\n"
+    },
+    {
+        "ID": "157e4374-95fa-4072-b997-d3e5206330b0",
+        "DocumentID": 22,
+        "PassageID": "1.(15)",
+        "Passage": "Intention to commit Market Abuse. The Market Abuse prohibitions generally do not require that the person engaging in the relevant conduct intended to commit Market Abuse.  However, a number of Articles require that the person knew or reasonably ought to have known of a certain matter e.g. that conduct would have a certain effect or that information is false or misleading (see, for example, section 102(1) (misleading statements)).\n"
+    },
+    {
+        "ID": "b7dfcc2d-9e2b-41e8-84ef-dd038c3fbc2d",
+        "DocumentID": 22,
+        "PassageID": "1.(16)",
+        "Passage": "Systems and controls to prevent market misconduct. An Authorised Person and Recognised Body is required under GEN Rule 3.3.20(a) to establish and maintain appropriate systems and controls that ensure, as far as reasonably practical, that the Authorised Person or Recognised Body and their Employees do not engage in conduct, or facilitate others to engage in conduct, which may constitute market misconduct.\n"
+    },
+    {
+        "ID": "1ac81b92-ede5-418d-85b7-2db61de8e65f",
+        "DocumentID": 22,
+        "PassageID": "1.(17)",
+        "Passage": "Other provisions that apply to Prospectuses and Authorised Persons. If a misleading or deceptive statement or a material omission occurs in a Prospectus, then separate and specific prohibitions and defences are likely to apply.  These are set out in sections 67 and 68 of the FSMR."
+    },
+    {
+        "ID": "6198d05b-4ae4-4624-aa97-b7e736242537",
+        "DocumentID": 22,
+        "PassageID": "1.(18)",
+        "Passage": "Other provisions that apply to Prospectuses and Authorised Persons. If a Reporting Entity fails to make a timely disclosure of information to the market then section 201 is likely to apply. However, if an Authorised Person discloses information to the market which is false or misleading (and knows or could reasonably be expected to know that it is false or misleading) then the Market Abuse provisions may apply.\n"
+    },
+    {
+        "ID": "e069ec21-b6ef-411d-ab94-569b40c23314",
+        "DocumentID": 22,
+        "PassageID": "2",
+        "Passage": "MARKET MANIPULATION"
+    },
+    {
+        "ID": "b15adcb2-f3ba-44f0-8b58-1e8bd470a4da",
+        "DocumentID": 22,
+        "PassageID": "2.1",
+        "Passage": "Introduction"
+    },
+    {
+        "ID": "fc73bafc-769d-41e1-a518-11e082daed8b",
+        "DocumentID": 22,
+        "PassageID": "2.1.(1)",
+        "Passage": "Section 92(4) of the FSMR provides that market manipulation amounts to:\nBehaviour [consisting] of effecting transactions or orders to trade (otherwise than for legitimate reasons and in conformity with Accepted Market Practices on the relevant market) which -\n(a)\tgive, or are likely to give, a false or misleading impression as to the supply of, or demand for, or as to the price of, one or more Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities; or\n(b)\tsecure the price of one or more such instruments at an abnormal or artificial level."
+    },
+    {
+        "ID": "20ea63b5-9f32-499a-8cb2-c2e120e41978",
+        "DocumentID": 22,
+        "PassageID": "2.1.(2)",
+        "Passage": "The following provisions of this Chapter set out the Regulator's views on conduct that contravenes paragraphs (a) and (b) of section 92(4)."
+    },
+    {
+        "ID": "e6c9a6c8-88f8-4946-832f-74e170f9fd73",
+        "DocumentID": 22,
+        "PassageID": "2.2",
+        "Passage": "Market Manipulation"
+    },
+    {
+        "ID": "169c5f1f-486e-46b2-969e-e92aa99c7c5a",
+        "DocumentID": 22,
+        "PassageID": "2.2.(1)",
+        "Passage": "This provision sets out examples of conduct that, in the Regulator's view, may contravene sections 92(4)(a) and (b) and factors that the Regulator may take into account in considering whether conduct contravenes those Articles.\n"
+    },
+    {
+        "ID": "3b510f3c-6756-4e60-9098-2f8c17c6e160",
+        "DocumentID": 22,
+        "PassageID": "2.2.(2)",
+        "Passage": "Examples of market manipulation. The following are general examples of conduct that, in the Regulator's view, may result in or contribute to a false or misleading impression under section 92(4)(a):\n(a)\tbuying or selling Financial Instruments at the close of the market with the effect of misleading investors who act on the basis of closing prices;\n(b)\tentering orders with a view to creating a false perception of demand or supply;\n(c)\twash trades \u2013 that is, a sale or purchase of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity where there is no change in beneficial interest or market risk, or where the transfer of beneficial interest or market risk is only between parties acting in collusion, resulting in a false appearance of trading activity;\n(d)\tpainting the tape \u2013 that is, entering into a transaction or series of transactions in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity which are shown on a public display to give the impression of activity or price movement in the Financial Instrument;\n(e)\tlayering \u2013 that is, submitting multiple orders in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity away from one side of the order book with the intention of executing a trade on the other side of the order book, where once that trade has taken place, the initial manipulative orders will be removed;\n(f)\tmomentum ignition \u2013 that is, entering orders or a series of orders in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity that are intended to start or exacerbate a trend, and to encourage other participants to accelerate or extend the trend in order to create an opportunity to unwind/open a position at a favourable price; and\n(g)\tquote stuffing \u2013 that is, entering large numbers of orders and/or cancellations/updates to orders in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity to create uncertainty for other market participants, slow down their trading processes, camouflage the person's own strategy, disrupt or delay the functioning of the trading process and/or make it more difficult to identify genuine orders on the trading system.\nWhile some of the above examples are more commonly associated with algorithmic trading, such as high frequency trading, in the Regulator's view, the conduct could amount to Market Abuse whether it occurs using automated systems or manually."
+    },
+    {
+        "ID": "b8611343-8ce6-429f-93cc-7fcf114dc322",
+        "DocumentID": 22,
+        "PassageID": "2.2.(3)",
+        "Passage": "Examples of market manipulation. The following are general examples of conduct that, in the Regulator's view, may create or may be likely to create an artificial price for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity under section 92(4)(b):\n(a)\tmarking the open/marking the close \u2013 that is, buying or selling a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity near the reference time of the trading session (e.g. at opening or closing time) or at the end of a particular period (e.g. at the end of the quarter or a financial year) in order to increase, decrease, maintain or mislead investors as to the reference price (e.g. opening price or closing price);\n(b)\ttransactions where both buy and sell orders for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity are entered at, or nearly at, the same time, with the same price and quantity by the same party, or by parties acting in collusion, in order to position the price of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity at a particular level;\n(c)\ttransactions or orders to trade by a person, or persons acting in collusion, that secure a dominant position over the supply of or demand for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or the underlying Financial Instrument or commodity and which have the effect of fixing, directly or indirectly, purchase or sale prices or creating other unfair trading conditions;\n(d)\tan abusive squeeze \u2013 that is, when a person:\n(i)\twho has a significant influence over the supply of, or demand for, or delivery mechanisms for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or the underlying product of a Derivative; and\n(ii)\thas a position (directly or indirectly) in a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity under which quantities of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity, or product in question are deliverable,\nengages in Behaviour with the purpose of positioning at a distorted level the price at which others have to deliver, take delivery or defer delivery to satisfy their obligations in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity, where this purpose is an actuating purpose and not necessarily the sole purpose of entering into the transaction or transactions;\n(e)\tcolluding in the after-market of an initial public Offer - that is, parties, who have been allocated Financial Instruments in a primary Offering, collude to purchase further tranches of those Financial Instruments when trading begins, in order to force the price of the Financial Instrument to an artificial level and generate interest from other investors, and then sell the Financial Instruments;\n(f)\tcreating a floor (or ceiling) in the price pattern - that is, transactions or orders to trade carried out in such a way as to create obstacles to the price of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity falling below or rising above a certain level; for example, to avoid negative consequences for an Issuer, such as the downgrading of the Issuer's credit rating or to ensure that a Derivative settlement price is above a certain strike price; and\n(g)\tentering into transactions or placing orders in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on one exchange in order to influence improperly the price of a Related Instrument on that exchange or the price of the same Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or a Related Instrument on another exchange."
+    },
+    {
+        "ID": "c7cc0e4d-09d8-4d1a-87fa-0d3aed8d561c",
+        "DocumentID": 22,
+        "PassageID": "2.2.(4)",
+        "Passage": "The following are some more specific examples of conduct that, in the Regulator's view, may contravene sections 92(4)(a) or (b):\n(a)\tA, a trader, accumulates a large position in Commodity Derivatives (whose price will be relevant to the calculation of the settlement value of another Derivative position he holds) just before the close of trading.  A's purpose is to position the price of the Commodity Derivatives at an artificial level so as to make a profit from his Derivative position;\n(b)\tB, a trader, holds a short position that will show a profit if a particular Financial Instrument, which is currently a component of an index, falls out of that index.  Whether the Financial Instrument will fall out of the index depends on the closing price of the Financial Instrument on a particular day.  B places a large sell order in this Financial Instrument just before the close of trading on that day.  His purpose is to position the price of the Financial Instrument at an artificial level so that the Financial Instrument will drop out of the index resulting in his making a profit;\n(c)\ta fund manager, whose quarterly performance will improve if the valuation of his portfolio at the end of the quarter in question is higher rather than lower, places a large order to buy relatively illiquid Shares, which are also components of his portfolio.  The order is to be executed near the close of the last trading day of the quarter.  His purpose is to position the price of those Shares at an artificial level; and\n(d)\tan entity, A, purchases a large number of Shares of an Issuer on its initial public listing.  In the period between that listing and the end of A's financial year, the price of the Issuer's Shares declines significantly.  Near the close of market on the date of A's financial year end, a broker acting for A enters several bids to buy Shares in the Issuer.  The bid prices are well above those at which the Shares had been trading and have the effect of significantly increasing the closing price of the Shares.  The purpose of A making the bids is to increase the price of the Shares, marking up the book value of A's proprietary holdings in the Issuer, thus boosting its own financial position at year end.\n"
+    },
+    {
+        "ID": "402ef88e-1c87-4f68-8336-551cef8fda5d",
+        "DocumentID": 22,
+        "PassageID": "2.2.(5)",
+        "Passage": "General factors. In considering whether conduct may contravene sections 92(4)(a) or (b), the Regulator may take into account factors such as:\n(a)\tthe experience and knowledge of the users of the market in question;\n(b)\tthe structure of the market, including its reporting, notification and transparency requirements;\n(c)\tthe level of liquidity in the market;\n(d)\tthe legal and regulatory requirements of the market concerned;\n(e)\tthe identity and position of the person responsible for the conduct which has been observed; or\n(f)\tthe extent and nature of the visibility or disclosure of the person's activity."
+    },
+    {
+        "ID": "6a6b8b06-6a6b-4399-8f9e-d130e8a62cbc",
+        "DocumentID": 22,
+        "PassageID": "2.2.(6)",
+        "Passage": "General factors. The following factors may, in the Regulator's view, indicate that conduct contravenes sections 92(4)(a) or (b):\n(a)\tif the transaction was executed in a particular way to create a false or misleading impression;\n(b)\tif the order or transaction does not appear to have a legitimate economic rationale;\n(c)\tif the person has another, illegitimate, reason for undertaking the transaction, bid or order to trade; or\n(d)\tif the motivating purpose for the transaction is to induce others to trade in, bid for or to position or move the price of, a Financial Instrument."
+    },
+    {
+        "ID": "a3b06d1a-1d09-4407-84ac-548c11bbbf88",
+        "DocumentID": 22,
+        "PassageID": "2.2.(7)",
+        "Passage": "General factors.The following factors are, in the Regulator's view, likely to indicate that conduct does not contravene sections 92(4)(a) or (b):\n(a)\tif the conduct is pursuant to a prior legal or regulatory obligation owed to a third party; or\n(b)\tif the transaction was carried out in a particular way to comply with the rules of the relevant Exchange about how such transactions are to be executed.\n"
+    },
+    {
+        "ID": "860f4c33-85de-4d92-8434-f11b1f81243b",
+        "DocumentID": 22,
+        "PassageID": "2.2.(8)",
+        "Passage": "Factors relating to giving a false or misleading impression. In considering whether conduct may result in, or contribute to, a false or misleading impression as to the supply of, demand for, or price of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity, the Regulator may take into account factors such as:\n(a)\tthe extent to which orders to trade given, or transactions undertaken, represent a significant proportion of the daily volume of transactions in the relevant Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on the market concerned, in particular when these activities lead to a significant change in the price of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity;\n(b)\tthe extent to which orders to trade given, or transactions undertaken, by persons with a significant buying or selling position in a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity lead to significant changes in the price of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity;\n(c)\twhether transactions undertaken lead to no change in beneficial ownership of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity;\n(d)\tthe extent to which orders to trade given, or transactions undertaken, include position reversals in a short period;\n(e)\tthe extent to which orders to trade given, or transactions undertaken, are concentrated within a short time span in the trading session and lead to a price change which is subsequently reversed;\n(f)\tthe extent to which orders to trade given change the representation of the best bid or Offer prices in a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on a market, or more generally the representation of the order book available to market participants, and are removed before they are executed;\n(g)\tthe extent to which orders to trade are given, or transactions are undertaken, at or around a specific time when reference prices, settlement prices and valuations are calculated and lead to price changes which have an effect on such prices and valuations; or\n(h)\tthe extent to which orders to trade given or transactions undertaken by persons are preceded or followed by a dissemination of false or misleading information by such persons.\n\n"
+    },
+    {
+        "ID": "96c3bd3c-9315-4058-adc7-295da9439bb1",
+        "DocumentID": 22,
+        "PassageID": "2.2.(9)",
+        "Passage": "Factors relating to creating an artificial price. In considering whether or not conduct creates, or is likely to create, an artificial price under section 92(4)(b), the Regulator is likely to take into account factors such as:\n(a)\tthe extent to which the person had a direct or indirect interest in the price or value of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity;\n(b)\tthe extent to which price, rate or option volatility movements, and the volatility of these factors for the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity in question, are outside their normal intra-day, daily, weekly or monthly range; or\n(c)\twhether a person has successively and consistently increased or decreased his bid, Offer or the price he has paid for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity.\n"
+    },
+    {
+        "ID": "cb24486d-3399-40e4-82fa-71597aa81378",
+        "DocumentID": 22,
+        "PassageID": "2.2.(10)",
+        "Passage": "Maximising profit and trading outside normal range. It is unlikely that the conduct of market participants in dealing at times and in sizes most beneficial to them (whether for the purpose of long term investment objectives, risk management or short term speculation) and seeking the maximum profit from their dealings will of itself amount to creating an artificial price."
+    },
+    {
+        "ID": "c9991bba-2650-4b1a-ba32-09f7e7181154",
+        "DocumentID": 22,
+        "PassageID": "2.2.(11)",
+        "Passage": "Maximising profit and trading outside normal range. The fact that prices in the market are trading outside their normal range does not necessarily indicate that someone has engaged in conduct for the purpose of positioning prices at an artificial level.  High or low prices relative to a trading range can be the result of the proper interplay of supply and demand.\n"
+    },
+    {
+        "ID": "7507139f-a581-4404-9df0-a0f619f4d615",
+        "DocumentID": 22,
+        "PassageID": "2.2.(12)",
+        "Passage": "Abusive squeezes. Squeezes occur relatively frequently when the proper interaction of supply and demand leads to market tightness, but this does not of itself indicate that there has been Market Abuse.  Having the power significantly to influence the supply of, or demand for, or delivery mechanisms for a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity (e.g. through ownership, borrowing or reserving the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity in question) does not of itself amount to Market Abuse."
+    },
+    {
+        "ID": "350b6237-da6f-47c6-b04c-10caf56bf9d7",
+        "DocumentID": 22,
+        "PassageID": "2.2.(13)",
+        "Passage": "Abusive squeezes. The following are specific examples of an abusive squeeze that, in the Regulator's view, may contravene section 92 (4)(b):\n(a)\tduring the course of a trading day on a Commodity Derivative Exchange, a trader rapidly builds up a position of more than 90% of the physical inventory underlying a crude oil contract.  The trader fails to Offer to lend the crude oil back to other market participants at a reasonable commercial rate.  The trader then unwinds his position in the Exchange's final settlement window  at rapidly increasing prices, thereby cornering/squeezing the crude oil market.  His conduct causes an abnormal movement in the price of crude oil contracts for forward month delivery; and\n(b)\ta trader with a long position in bond futures, buys or borrows a large amount of the bonds and either refuses to re-lend these bonds or will only lend them to parties he believes will not re-lend to the market.  His purpose is to position the price at which persons with short positions have to deliver to satisfy their obligations at a materially higher level, making him a profit on his position."
+    },
+    {
+        "ID": "e7eb9a97-3b40-4eae-8bf7-3754b4fce42c",
+        "DocumentID": 22,
+        "PassageID": "2.2.(14)",
+        "Passage": "Abusive squeezes. In considering whether a person has engaged in an abusive squeeze that contravenes section 92(4)(b), the Regulator may take into account factors such as:\n(a)\tthe extent to which a person is willing to relax his control or other influence in order to help maintain an orderly market, and the price at which he is willing to do so; for example, conduct is less likely to amount to an abusive squeeze if a person is willing to lend the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or the underlying Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or commodity in question;\n(b)\tthe extent to which the person's activity causes, or risks causing, settlement default by other market participants.  The more widespread the risk of settlement default, the more likely that an abusive squeeze has occurred;\n(c)\tthe extent to which prices under the delivery mechanisms of the market diverge from the prices for delivery of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or underlying Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity, or commodity outside those mechanisms.  The greater the divergence beyond that to be reasonably expected, the more likely that an abusive squeeze has occurred; and\n(d)\tthe extent to which the spot or immediate market compared to the forward market is unusually expensive or inexpensive or the extent to which lending or borrowing rates are unusually expensive or inexpensive.\n\n"
+    },
+    {
+        "ID": "0eb44d9f-7ed0-4f9a-93a2-e9aaba017254",
+        "DocumentID": 22,
+        "PassageID": "2.3",
+        "Passage": "Defences"
+    },
+    {
+        "ID": "cb3e74b0-738f-444b-a04b-ce24bae39881",
+        "DocumentID": 22,
+        "PassageID": "2.3.(1)",
+        "Passage": "A number of defences to section 92(4) are set out in within section 92(4) itself.\n"
+    },
+    {
+        "ID": "277b5e91-5efc-4b1d-a2b2-790aa0039f73",
+        "DocumentID": 22,
+        "PassageID": "2.3.(2)",
+        "Passage": "Market Practice. If a person establishes that they carried out the conduct or practice for legitimate reasons and in conformance with an Accepted Market Practice (see section 92(4)).\n"
+    },
+    {
+        "ID": "0db633a1-413e-4e75-8a15-50ab3c608c5b",
+        "DocumentID": 22,
+        "PassageID": "2.3.(3)",
+        "Passage": "Price Stabilisation. Section 93(3)(b) provides that:\nBehaviour does not amount to Market Abuse for the purposes of these Regulations if \u2026 it conforms with the Price Stabilising Rules\u2026"
+    },
+    {
+        "ID": "6befa69b-50a0-463a-bf02-9fdaa4ed741e",
+        "DocumentID": 22,
+        "PassageID": "2.3.(4)",
+        "Passage": "Price Stabilisation. The effect of section 93(3)(b) is that if a Person establishes that they carried out Price Stabilisation in accordance with MKT 6.2, this conduct will not contravene section 92. MKT 6.2 sets out the relevant Rules relating to carrying on Price Stabilisation that must be complied with.\n"
+    },
+    {
+        "ID": "f3dc59be-fb22-44b0-a851-7225ad6c0199",
+        "DocumentID": 22,
+        "PassageID": "2.3.(5)",
+        "Passage": "Buy-back Programmes. The effect of section 93(3)(a) is that if a Person establishes that they carried out a Buy-back Programme in accordance with MKT 6.2, this conduct will not contravene section 92. MKT 6.2 sets out the relevant Rules relating to carrying on a Buy-back Programme that must be complied with.\n\n"
+    },
+    {
+        "ID": "4729e48a-fbb4-4a21-b3aa-e04680d5582e",
+        "DocumentID": 22,
+        "PassageID": "3",
+        "Passage": "DISSEMINATION OF FALSE OR MISLEADING INFORMATION\nSection 92(6) of the FSMR."
+    },
+    {
+        "ID": "accbcc67-a2f7-4216-a57f-2e829b782418",
+        "DocumentID": 22,
+        "PassageID": "3.(1)",
+        "Passage": "Section 92(6) of the FSMR provides that Behaviour will amount to Market Abuse where it:\n\"\u2026consists of the dissemination of information by any means which gives, or is likely to give, a false or misleading impression as to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity by a person who knew or could reasonably be expected to have known that the information was false or misleading\".\n"
+    },
+    {
+        "ID": "0e9ee065-2362-4ded-9316-052189226b32",
+        "DocumentID": 22,
+        "PassageID": "3.(2)",
+        "Passage": "Means of dissemination. The dissemination of information under section 92(6) could, in the Regulator's view, be by a variety of means, including, for example:\n(a)\tthrough a Regulatory Announcement Service;\n(b)\tthrough media such as the radio, a newspaper or television;\n(c)\tthrough the internet, including any form of social media;\n(d)\tthrough any market information service such as a trading terminal; or\n(e)\tby conveying information verbally to another person.\n"
+    },
+    {
+        "ID": "82f03bbe-5dda-45ca-b0dd-c5b062311cde",
+        "DocumentID": 22,
+        "PassageID": "3.(3)",
+        "Passage": "No transaction required. It should be noted that this type of Market Abuse does not require any transaction to be entered into in connection with the dissemination of information.\n"
+    },
+    {
+        "ID": "c2310748-8c6b-4e04-95ef-fdccf6275cfc",
+        "DocumentID": 22,
+        "PassageID": "3.(4)",
+        "Passage": "Knowledge that the information is false or misleading. Section 92(6) requires that the person who disseminates the information either knows or could reasonably be expected to know that the information is false or misleading.  That is, it sets out either a subjective or objective test relating to knowledge that must be met."
+    },
+    {
+        "ID": "a817aeec-32e6-40e2-9d4b-997880e6e5ec",
+        "DocumentID": 22,
+        "PassageID": "3.(5)",
+        "Passage": "Knowledge that the information is false or misleading. In assessing whether a person could reasonably be expected to know that the information is false or misleading (i.e. the objective test), the Regulator will consider if a reasonable person in that position would know or should have known in all the circumstances that the information was false or misleading."
+    },
+    {
+        "ID": "5a15ce41-9bb1-4ccb-a094-0dac7ac58cd9",
+        "DocumentID": 22,
+        "PassageID": "3.(6)",
+        "Passage": "Knowledge that the information is false or misleading. If a person disseminates information about a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity that is false or misleading and the person is reckless as to whether the information is true or false (e.g. if the person gave no thought as to whether it is true or false), the Regulator will consider that the person could reasonably be expected to know that the information is false or misleading."
+    },
+    {
+        "ID": "58805a4c-91b4-4b78-b2fb-97d04c619950",
+        "DocumentID": 22,
+        "PassageID": "3.(7)",
+        "Passage": "Knowledge that the information is false or misleading. The Regulator would ordinarily consider that a person did not know and could not reasonably be expected to have known that the information is false or misleading if:\n(a)\tan organisation has in place effective Chinese Walls to prevent the exchange of information between different areas within the organisation;\n(b)\tan individual in the organisation did not have access to other information that was being held behind the Chinese Wall; and\n(c)\tthe individual disseminates information that is false or misleading due to his not being aware of that other information (i.e. which makes his information false or misleading) as it is held behind the Chinese Wall.\n"
+    },
+    {
+        "ID": "79bbf2af-e518-4f6f-88fd-f0a6b6b10246",
+        "DocumentID": 22,
+        "PassageID": "3.(8)",
+        "Passage": "Examples of dissemination of false or misleading information. The following are examples of conduct that, in the Regulator's view, may contravene section 92(6):\n(a)\tspreading false or misleading rumours where the person making the dissemination knew or ought to have known that such rumours were false or misleading;\n(b)\tspreading false or misleading information through the media \u2013 for example, a person posts information on an internet forum or via social media which contains false or misleading statements about the Takeover of a Company when the person knows that the information is not true;\n(c)\tdisclosure of false or misleading information by an Issuer \u2013 an Issuer discloses information to the market under its continuous disclosure obligations which gives a false or misleading impression about the true impact of a matter on its Financial Instruments (when it knew or could reasonably be expected to know that the information was false or misleading);\n(d)\treckless submission of false or misleading information regarding a Financial Instrument by a person responsible for such submission through a Regulatory Announcement Service; and\n(e)\tundertaking a course of conduct in order to give a false or misleading impression about a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity.\n"
+    },
+    {
+        "ID": "6fdcab6c-561e-47b1-b5e2-a5ccdd78f6a7",
+        "DocumentID": 22,
+        "PassageID": "5",
+        "Passage": "INSIDER DEALING"
+    },
+    {
+        "ID": "e8dd39f8-1cf8-464d-8d2a-d79eb4d231b8",
+        "DocumentID": 22,
+        "PassageID": "5.1",
+        "Passage": "Section 92(2) of the FSMR"
+    },
+    {
+        "ID": "030e6555-062f-4aee-a31c-6b6041bdc139",
+        "DocumentID": 22,
+        "PassageID": "5.1.(1)",
+        "Passage": "Section 92(2) of the FSMR provides that Insider Dealing occurs when:\n\"\u2026an Insider deals, or attempts to deal, in a Financial Instrument, Related Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on the basis of Inside Information relating to the Financial Instruments, Related Instruments, Accepted Virtual Assets or Accepted Spot Commodities in question.\"\n"
+    },
+    {
+        "ID": "62db0cc8-4d59-4e65-b92c-1b0768f392b8",
+        "DocumentID": 22,
+        "PassageID": "5.2",
+        "Passage": "What is \"Inside Information\"?\n"
+    },
+    {
+        "ID": "ba7db39b-8edf-4a95-94c3-14bd0ddb9c18",
+        "DocumentID": 22,
+        "PassageID": "5.2.(1)",
+        "Passage": "Definition. \"Inside Information\" is defined in section 95(2) as meaning information of a Precise nature which, in relation to Financial Instruments, Related Instruments, Accepted Virtual Assets or Accepted Spot Commodities which are not Commodity Derivatives:\n(a)\tis not generally available;\n(b)\trelates, directly or indirectly, to one or more Reporting Entities or Issuers of the Financial Instruments or to one or more of the Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities; and\n(c)\twould, if generally available, be likely to have a significant effect on the price of the Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities or on the price of Related Instruments."
+    },
+    {
+        "ID": "dc7d57b9-ef78-4bc6-98f6-d0d5e99a7a0a",
+        "DocumentID": 22,
+        "PassageID": "5.2.(2)",
+        "Passage": "Definition. \"Inside Information\" is defined in section 95(3) as information of a Precise nature which, in relation to Financial Instruments or Related Instruments which are Commodity Derivatives:\n(a)\tis not generally available;\n(b)\trelates, directly or indirectly, to one or more such derivatives; and\n(c)\tusers of markets on which the derivatives are traded would expect to receive in accordance with any Accepted Market Practices on those markets.\n"
+    },
+    {
+        "ID": "809589e9-c720-4ec6-a5f8-438c49da1e14",
+        "DocumentID": 22,
+        "PassageID": "5.2.(3)",
+        "Passage": "When is information \"Precise\"? To be \"Inside Information\", information must be of a Precise nature.  Section 95(5) states that information is \"Precise\" if it:\n(a)\tindicates circumstances that exist or may reasonably be expected to come into existence or an event that has occurred or may reasonably be expected to occur; and\n(b)\tis specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event on the price of Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities or Related Instruments."
+    },
+    {
+        "ID": "43dac7cb-60cb-4b35-822f-1e5dbb8fc7f0",
+        "DocumentID": 22,
+        "PassageID": "5.2.(4)",
+        "Passage": "When is information \"Precise\"? The Regulator may also consider that where a protracted process intends to bring about or result in particular circumstances, those circumstances and the intermediate steps of the process which are connected with bringing about such circumstances can also be deemed to be \"Precise\" information.\n\n"
+    },
+    {
+        "ID": "5107d7d4-642e-466e-a4c5-17377a88b6af",
+        "DocumentID": 22,
+        "PassageID": "5.2.(5)",
+        "Passage": "When is information \"generally available\"? Information is only \"Inside Information\" under the definition in section 95(2) if it is not generally available and has not been made available to the public.  The FSMRs do not define what is meant by \"generally available\", although section 95(8) states that information which can be obtained by research or analysis conducted by, or on behalf of, users of a market is to be regarded as being \"generally available\" to them."
+    },
+    {
+        "ID": "cc94197c-2149-4957-b8c8-ef4b323d59b7",
+        "DocumentID": 22,
+        "PassageID": "5.2.(6)",
+        "Passage": "When is information \"generally available\"? The following factors are, in the Regulator's view, likely to indicate that information is \"generally available\" (and therefore is not Inside Information):\n(a)\tif the information has been the subject of a disclosure to the market through a Regulatory Announcement Service or otherwise in accordance with the rules of the relevant market or a requirement in a law;\n(b)\tif the information is contained in records which are open to inspection by the public;\n(c)\tif the information is otherwise generally available, including through the Internet, or some other publication (including if it is only available on payment of a fee), or is derived from information which has been made public;\n(d)\tif the information can be obtained by observation by members of the public without infringing rights or obligations of privacy, property or confidentiality; or\n(e)\tif the information can be obtained by analysing or developing other information which is generally available.\nFor example, if a passenger in a vehicle passing a burning factory calls his broker and tells him to sell Shares in the Company that owns the factory, the passenger will be acting on information which is generally available, since it is information which has been obtained by legitimate means through observation of a public event."
+    },
+    {
+        "ID": "b87c4c5e-339f-4e9f-beeb-25770e56eebd",
+        "DocumentID": 22,
+        "PassageID": "5.2.(7)",
+        "Passage": "When is information \"generally available\"? It is not relevant, in the Regulator's view, in relation to information referred to in paragraph 4 that:\n(a)\tthe information is only generally available outside the ADGM; or\n(b)\tthe observation, research or analysis is only achievable by a person with above average financial resources, expertise or competence.\n"
+    },
+    {
+        "ID": "22b3f3d6-38dd-44da-b0df-d1f1390a8d6a",
+        "DocumentID": 22,
+        "PassageID": "5.2.(8)",
+        "Passage": "When will information have a \"significant effect on price\"? Information is only \"Inside Information\" under the definition in section 95(2) if it would be likely to have a significant effect on the price of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or a Related Instrument. Information would be likely to have a \"significant effect on price\" if and only if it is information of the kind which a reasonable investor would be likely to use as part of the basis of his investment decisions (see section 95(6)). In the Regulator's view, if information is of a kind which a reasonable investor would be likely to use as part of the basis of his investment decisions, then the \"significant effect on price\" test will be satisfied.\n"
+    },
+    {
+        "ID": "e9aadb55-7793-495f-883e-f9718b76fe83",
+        "DocumentID": 22,
+        "PassageID": "5.2.(9)",
+        "Passage": "Trading Information. Section 95(4) provides that information about a person's pending orders in relation to a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity or Related Instrument is also Inside Information.  The Regulator considers that information of the following kinds, referred to in this CMC as \"Trading Information\", relating to pending orders may be Inside Information:\n(a)\tthat Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities of a particular kind have been or are to be acquired or disposed of, or that their acquisition or disposal is under consideration or the subject of negotiation;\n(b)\tthat Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities of a particular kind have not been or are not to be acquired or disposed of;\n(c)\tthe quantity of Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities acquired or disposed of or whose acquisition or disposal is under consideration or the subject of negotiation;\n(d)\tthe price (or range of prices) at which Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities have been or are to be acquired or disposed of or the price (or range of prices) at which Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities whose acquisition or disposal is under consideration or the subject of negotiation may be acquired or disposed of; or\n(e)\tthe identity of the persons involved or likely to be involved in any capacity in an acquisition or disposal."
+    },
+    {
+        "ID": "1318633a-c7ce-4fa7-aca2-1233093e730d",
+        "DocumentID": 22,
+        "PassageID": "5.2.(10)",
+        "Passage": "Trading Information. A person who executes a Client order does not contravene section 92(2) (Insider Dealing) provided he complies with certain conditions (see paragraphs \u200e5-7(8) and \u200e5-7(9) of the CMC)."
+    },
+    {
+        "ID": "78dea780-e39f-407d-855f-5cb46c1b30d7",
+        "DocumentID": 22,
+        "PassageID": "5.2.(11)",
+        "Passage": "Carrying out of own trading intention. A person will form an intention to deal in a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity before doing so. His carrying out of his own intention will not of itself contravene section 92(2) (Insider Dealing).\n"
+    },
+    {
+        "ID": "3066ee4c-aff5-4194-ae6d-c2c2098a9770",
+        "DocumentID": 22,
+        "PassageID": "5.3",
+        "Passage": "Definition Of \"Insider\""
+    },
+    {
+        "ID": "927dee34-d53d-4ff7-90ef-042863f93509",
+        "DocumentID": 22,
+        "PassageID": "5.3.(1)",
+        "Passage": "The term \"Insider\" is defined in section 94 as meaning:\n\"\u2026any person who has Inside Information:\n(a)\tas a result of his membership of an administrative, management or supervisory body of an Issuer of Financial Instruments;\n(b)\tas a result of his holding in the capital of an Issuer of Financial Instruments;\n(c)\tas a result of having access to the information through the exercise of his employment, profession or duties;\n(d)\tas a result of his criminal activities; or\n(e)\twhich he has obtained by other means and which he knows, or could reasonably be expected to know, is Inside Information.\""
+    },
+    {
+        "ID": "12ddd2dc-05bf-4935-a429-102b6b134188",
+        "DocumentID": 22,
+        "PassageID": "5.3.(2)",
+        "Passage": "If a person has Inside Information in any of the circumstances set out in sections 94(a) to (d) then, in the Regulator's view, it is not necessary to show that the person knew that the information concerned was Inside Information.  However, if the person has information in the circumstances set out in section 94(e), then that sub- paragraph requires that the person knew, or could reasonably be expected to know, that the information is Inside Information.  For that purpose, a person could reasonably be expected to know, if:\n(a)\ta normal and reasonable person in the position of the person holding the Inside Information would know or should have known that the person from whom he received such information was an Insider; and\n(b)\ta normal and reasonable person in his position who has Inside Information would have known it is Inside Information.\n"
+    },
+    {
+        "ID": "61b764d2-09a2-4c1b-8d39-53f668c7ef23",
+        "DocumentID": 22,
+        "PassageID": "5.4",
+        "Passage": "Dealing \"On The Basis Of\" Inside Information"
+    },
+    {
+        "ID": "09923519-864f-48a7-a123-52dfa0a02c05",
+        "DocumentID": 22,
+        "PassageID": "5.4.(1)",
+        "Passage": "Factors to be taken into account \"on the basis of\". To contravene section 92(2), it is necessary that the Insider deals or attempts to deal \"on the basis\" of Inside Information.  In the Regulator's view, if the Inside Information is the reason for, or a material influence on, the decision to deal or attempt to deal then this indicates that the dealing or attempt to deal is \"on the basis\" of the Inside Information."
+    },
+    {
+        "ID": "f1c7b284-bf1c-432d-8e30-82912449e3b5",
+        "DocumentID": 22,
+        "PassageID": "5.4.(2)",
+        "Passage": "The following factors are, in the Regulator's view, likely to indicate that the dealing is not \"on the basis of\" Inside Information:\n(a)\tif the decision to deal or attempt to deal was made before the person possessed the relevant Inside Information;\n(b)\tif the person concerned is dealing to satisfy a legal or regulatory obligation which came into being before he possessed the relevant Inside Information; or\n(c)\tif a person is an organisation, if none of the individuals in possession of the Inside Information:\n(i)\thad any involvement in the decision to deal; or\n(ii)\tbehaved in such a way as to influence, directly or indirectly, the decision to engage in the dealing; or\n(iii)\thad any contact with those who were involved in the decision to engage in the dealing whereby the information could have been transmitted.\n\n"
+    },
+    {
+        "ID": "eb0fbe0a-e01f-419a-b8ce-bd613a5f3901",
+        "DocumentID": 22,
+        "PassageID": "5.5",
+        "Passage": "Attempting To Deal And Dealing In Related Instruments\n"
+    },
+    {
+        "ID": "5f2fca21-b189-4f85-bd15-8b59c4eca817",
+        "DocumentID": 22,
+        "PassageID": "5.5.(1)",
+        "Passage": "Attempting to deal. Section 92(2) provides that an Insider shall not directly or indirectly \"deal or attempt to deal in a Financial Instrument , an Accepted Virtual Asset or an Accepted Spot Commodity or Related Instrument\" on the basis of Inside Information."
+    },
+    {
+        "ID": "5f399f4f-3887-429f-92ea-8c41a275fc9f",
+        "DocumentID": 22,
+        "PassageID": "5.5.(2)",
+        "Passage": "Attempting to deal. In the Regulator's view, an \"attempt to deal\" covers circumstances where an Insider takes steps to enter into a transaction but the transaction is not executed.  For example, if an Insider places an order with a broker or instructs another person (such as his investment adviser) to place an order with a broker, even though the order is not subsequently executed.\n"
+    },
+    {
+        "ID": "4d6d9fa5-5edd-4280-9d7b-90fca017f5d7",
+        "DocumentID": 22,
+        "PassageID": "5.5.(3)",
+        "Passage": "Related Instruments. Section 92(2) prohibits an Insider from dealing or attempting to deal in relation to either the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity (i.e. to which the Inside Information relates) or a Related Instrument.  The definition of a \"Related Instrument\" is set out at paragraph 1(9) of the CMC."
+    },
+    {
+        "ID": "62b02740-8e24-4c96-924f-cd3e95edaa0e",
+        "DocumentID": 22,
+        "PassageID": "5.5.(4)",
+        "Passage": "Related Instruments. For example, if an Insider has Inside Information relating to an Issuer, A, of a Financial Instrument, then a \"Related Instrument\" could include a Derivative relating to Financial Instruments of A or a Financial Instrument of another member of A's Group, if the price or value of that other Financial Instrument depends, in whole or in part, on the price or value of Financial Instruments of A.\n"
+    },
+    {
+        "ID": "c63bf53d-dd87-4569-b8fb-d198b927329f",
+        "DocumentID": 22,
+        "PassageID": "5.6",
+        "Passage": "Examples Of Insider Dealing"
+    },
+    {
+        "ID": "3a36cf08-390a-4806-9815-6e20f42fd0c8",
+        "DocumentID": 22,
+        "PassageID": "5.6.(1)",
+        "Passage": "The following are general examples of conduct that, in the Regulator's view, may constitute \u201cInsider Dealing\u201d type of Market Abuse, as set out in section 92(2):\n(a)\ta person who deals on the basis of Inside Information which does not amount to Trading Information;\n(b)\ta person who possesses Inside Information and uses such information to acquire or dispose of, for their own account or for the account of a third party, directly or indirectly, Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities to which that information relates;\n(c)\ta person who enters an order and consequent to the order becomes privy to Inside Information, and then amends or cancels the order based on that Inside Information;\n(d)\tan Officer or Employee of an Issuer becomes aware of Inside Information relating to the Issuer, the Officer or Employee then deals in Financial Instruments of the Issuer on the basis of that information;\n(e)\ta person who generally obtains an unfair advantage from Inside Information to the detriment of third parties who are unaware of such information, by entering into Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities in accordance with that information;\n(f)\tfront running - that is, a transaction for a person's own benefit, on the basis of and ahead of an order which he or another person is to carry out with or for another person (where the information concerning the order is Inside Information), which takes advantage of the anticipated impact of the order on the market;\n(g)\tusing Inside Information obtained as a result of a market sounding (i.e. a discussion with a potential investor to gauge his interest in a potential Offering of a Financial Instrument or the price of the potential Offering) to deal in a Financial Instrument;\n(h)\tin the context of a Takeover, an Offer or potential Offer or entering into a transaction in a Financial Instrument, or in a Related Instrument, on the basis of Inside Information concerning the proposed bid, that provides merely an economic exposure to movements in the price of the target Company's Shares (for example, a Derivative related to the target Company's share price); or\n(i)\tin the context of a Takeover, a person who acts as an adviser to the Offer or potential Offeror dealing for his own benefit in a Financial Instrument or in a Related Instrument on the basis of information concerning the bid which is Inside Information."
+    },
+    {
+        "ID": "634f89b4-c832-4a96-93d6-711694b5a351",
+        "DocumentID": 22,
+        "PassageID": "5.6.(2)",
+        "Passage": "The following are some more specific examples of conduct that, in the Regulator's view, may contravene section 92(2) (Insider Dealing):\n(a)\tA is the CEO of a Company (an Authorised Person) that is about to release its semi-annual financial report. The report will disclose an outstanding claim that will have a significant impact on the Company's financial results. A passes this information on to family members who instruct their broker to sell their Shares in the Company. The family members would have contravened sections 92(2) (Insider Dealing) and A would have contravened section 92(3) (providing Inside Information) (see Chapter 6 of the CMC);\n(b)\tB, an Employee of an oil and gas Company (an Authorised Person) becomes aware through his employment that the Company is about to enter into a new joint venture agreement with another Company that will potentially be very lucrative for the Company.  Before the new joint venture is disclosed to the market, B buys Shares in his employer Company based on his expectation that the price of the Shares will rise significantly once the new joint venture is announced;\n(c)\tC, an Employee of a firm that is providing advisory services to a Company D (an Authorised Person), becomes aware of negotiations for a Takeover of D that is likely to be announced to the market imminently. C buys Shares in D based on his expectation that the Takeover will soon be announced;\n(d)\tD, a dealer on the trading desk of an Authorised Person dealing in Derivatives, accepts a large order from a Client to acquire a long position in Futures. Before executing the order, D trades for the firm and on his personal account by taking a long position in those Futures, based on his expectation that he will be able to sell them at profit due to the significant price increase that will result from the execution of his Client's order. Both trades would contravene section 92(2) (Insider Dealing); and\n(e)\tInvestment bank E has been in discussions with an Issuer about a potential issue of new Financial Instruments by the Issuer. In order to gauge potential investor interest and the terms of the issue, E raises the issue with a potential investor, F, to see if F would be prepared to commit to purchasing some of the Financial Instruments. F uses this Inside Information to deal in other Related Instruments.\n"
+    },
+    {
+        "ID": "9f5ca058-2728-4456-962f-59099a3005bc",
+        "DocumentID": 22,
+        "PassageID": "5.6.(3)",
+        "Passage": "Examples of Insider Dealing \u2013 Commodity Derivatives. The following are some more specific examples of conduct in relation to Commodity Derivatives markets or related spot markets that in the Regulator's view may contravene section 92(2) (Insider Dealing):\n(a)\ta person who deals on the basis of Inside Information which does not amount to Trading Information, including information:\n(i)\trequired to be published by a trading venue in accordance with MIR Rule 3.3.12 about the aggregate positions held by different categories of Persons for the different Commodity Derivatives traded on their venue;\n(ii)\twhich would affect the fundamental characteristics of the Commodity Derivative or the contract on which such Commodity Derivative is based, such as a change of the underlying commodity specifications or of the underlying index of commodities, the periodic reshuffle of the underlying basket or a change of the delivery point;\n(iii)\tabout the stock levels, or movements of commodities in warehouses and storage facilities, required or reasonably expected to be published in accordance with the rules or practices of a Commodity Derivative market;\n(iv)\treasonably expected to be disclosed by public entities, such as Central Banks or national statistical offices or institutes, in relation to official economic statistics and forecasts such as GDP, balance of payments data and inflation rates;\n(v)\treasonably expected to be disclosed by intergovernmental organisations, such as the International Monetary Fund, World Trade Organisation, the Organisation of the Petroleum Exporting Countries, or national economic organisations in relation to macro-economic policy cooperation, trade cooperation and economic statistics and forecasts; and\n(vi)\treasonably expected to be disclosed in a non-discriminatory way by relevant information providers, non-profit organisations and governmental entities;\n(b)\ta person who deals on the basis of Inside Information directly relating to spot commodities on which a Commodity Derivative is based, including:\n(i)\tofficial communications issued by conferences of oil producing countries when relating to decisions on production levels;\n(ii)\tinformation about the production, imports, exports and stocks of commodities and transaction information about activity in the spot market of commodities reasonably expected to be disclosed in accordance with the practices of that spot market;\n(iii)\tstatistical information reasonably expected to be disclosed by public entities at a national level in relation to commodities;\n(iv)\tinformation reasonably expected to be disclosed by inter-agency platforms aimed at enhancing food market transparency and encouraging coordination of policy action in response to market uncertainty, such as the Agricultural Market Information System (AMIS);\n(v)\tinformation reasonably expected to be disclosed by private entities regarding changes in the conditions governing the storage of commodities (opening hours, fees, etc.), their load-in or load-out rate or more generally their capacity to process the commodity for storage and delivery, stock levels, or movements of commodities in warehouses published in accordance with the practices of a spot commodity market; and\n(vi)\tinformation reasonably expected to be disclosed in relation to the existence of an important disease affecting agricultural commodities, or changes in the subsidy policies relating to these products that result from decisions of public entities.\n"
+    },
+    {
+        "ID": "c46bc42f-7260-4db2-b172-838db0966ecc",
+        "DocumentID": 22,
+        "PassageID": "5.7",
+        "Passage": "Defences"
+    },
+    {
+        "ID": "c685f24d-b033-4abc-9af1-8c5399ef11a5",
+        "DocumentID": 22,
+        "PassageID": "5.7.(1)",
+        "Passage": "Some general examples of conduct that may be considered by the Regulator as a defence to Market Abuse include:\n(a)\tthe person is participating in a liquidity scheme which is operated by a Recognised Investment Exchange;\n(b)\tdespite possessing the Inside Information, the person has established, implemented and maintained adequate and effective internal arrangements and procedures that effectively ensure that the person engaging in Market Abuse was not in possession of the Inside Information;\n(c)\tthe person establishes that he reasonably believed that the Inside Information had been disclosed to the market in accordance with the FSMR or the Markets Rules;\n(d)\tthe dealing occurred in the legitimate performance of an underwriting agreement for the Financial Instruments or Related Instruments in question;\n(e)\tthe dealing occurred in the legitimate performance of his functions as a liquidator or receiver;\n(f)\tthe dealing is undertaken solely in the course of the legitimate performance of his functions as a market maker;\n(g)\tthe person executes an unsolicited Client order in Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities or Related Instruments while in possession of Inside Information without contravening section 92(3) (providing Inside Information) or otherwise advising or encouraging the Client in relation to the transaction;\n(h)\tthe dealing is undertaken legitimately and solely in the context of that person's public Takeover bid for the purpose of gaining control of that Authorised Person or a proposed merger with that Authorised Person; or\n(i)\tthe sole purpose of the Authorised Person acquiring its own Shares was to satisfy a legitimate reduction of share capital or to redeem Shares in accordance with the Rules.\nFurther guidance setting out the Regulator's views on some, but not all, of these defences is set out below.\n"
+    },
+    {
+        "ID": "82586828-a155-4b3d-9f47-5207f5828538",
+        "DocumentID": 22,
+        "PassageID": "5.7.(2)",
+        "Passage": "Market making. Dealing undertaken by a person solely in the course of the legitimate performance of his functions as a market maker on his own account will not contravene section 92(2) (Insider Dealing)."
+    },
+    {
+        "ID": "13c3b052-4eac-4402-9d12-078332c7e7a7",
+        "DocumentID": 22,
+        "PassageID": "5.7.(3)",
+        "Passage": "Market making. In the Regulator's view, the following factors are likely to indicate that a person's dealing in a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity is in the course of the legitimate performance of his functions as a market maker:\n(a)\tif the person holds himself out as willing and able to enter into transactions for the sale and purchase of Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities of that description at prices determined by him generally and continuously rather than in respect of a particular transaction;\n(b)\tif the dealing is in the course of the provision of the services referred to in (a) or is in order to hedge a risk arising from such a dealing; and\n(c)\tif Inside Information held by the person or persons who make the decision to deal is limited to Trading Information."
+    },
+    {
+        "ID": "ef4fd58f-0086-429a-9a31-5f8b4075f376",
+        "DocumentID": 22,
+        "PassageID": "5.7.(4)",
+        "Passage": "Market making. In the Regulator's view, if the person acted in Contravention of a regulatory requirement or a requirement of the relevant market, that is a factor that indicates that the person's dealing is not in the legitimate performance of his functions as a market maker.\nOther general examples of conduct that may amount to defences to section 92(2) (Insider Dealing) in the Regulator's view include the following:\n"
+    },
+    {
+        "ID": "8fc1491b-b3e8-44b6-bef1-61e0b57eab5a",
+        "DocumentID": 22,
+        "PassageID": "5.7.(5)",
+        "Passage": "Underwriting. A dealing by a person that occurs in the legitimate performance of an underwriting agreement for the Financial Instruments or Related Instruments in question."
+    },
+    {
+        "ID": "d00d0434-9a91-42b0-88c9-46a7e705731c",
+        "DocumentID": 22,
+        "PassageID": "5.7.(6)",
+        "Passage": "Underwriting. In the Regulator's view, an underwriting agreement is an agreement under which a party agrees to buy, before issue, a specific quantity of Financial Instruments in an issue of Financial Instruments on a given date at a given price, if no other party has purchased or acquired them."
+    },
+    {
+        "ID": "47a69f14-4d80-4d9d-b2ca-354e5a98e7b8",
+        "DocumentID": 22,
+        "PassageID": "5.7.(7)",
+        "Passage": "Underwriting. In the Regulator's view, if the person acted in Contravention of a relevant regulatory requirement or a requirement of the relevant market, that is a factor that indicates that the person's dealing is not in the legitimate performance of his functions under an underwriting agreement.\n"
+    },
+    {
+        "ID": "b4c8c1af-0583-4e05-88c2-d600d800e579",
+        "DocumentID": 22,
+        "PassageID": "5.7.(8)",
+        "Passage": "Execution of Client orders. The execution of an unsolicited Client order in Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities or Related Instruments while in possession of Inside Information if the person executing the order has not:\n(a)\tcontravened section 92(3) i.e. disclosed Inside Information to the Client or procured the Client to deal in the Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities or Related Instruments for which the person executing the order has Inside Information (see Chapter 6 of the CMC); or\n(b)\totherwise advised or encouraged the Client in relation to the transaction."
+    },
+    {
+        "ID": "e377fa04-7e6f-4a29-8c4a-93c2fda1569a",
+        "DocumentID": 22,
+        "PassageID": "5.7.(9)",
+        "Passage": "Execution of Client orders. In the Regulator's view, the following factors are likely to indicate that the person's dealing is the execution of an unsolicited Client order:\n(a)\tif the dealing is initiated by the Client;\n(b)\tif the person has agreed with their Client that it will act in a particular way when carrying out or arranging the carrying out of the order;\n(c)\tif the person's Behaviour was with a view to facilitating or ensuring the effective carrying out of the order;\n(d)\tif the person's Behaviour was reasonable by the proper standards of conduct of the market, and proportional to any risk undertaken by that person;\n(e)\tif the relevant trading by that person on behalf of the Client order either has no impact on the price, or there has been adequate disclosure to the Client that trading will take place without objection from the Client; and\n(f)\tif the person has complied with any applicable conduct of business obligations relating to the execution of the order for the Client."
+    },
+    {
+        "ID": "f39de983-f58d-4b3e-8482-6b6b45b1bbd3",
+        "DocumentID": 22,
+        "PassageID": "5.7.(10)",
+        "Passage": "Execution of Client orders. In the Regulator's view, if the Inside Information is not limited to Trading Information, that is a factor which indicates that the person's dealing does not amount to a dutiful execution of an unsolicited Client order.\n"
+    },
+    {
+        "ID": "b756b123-0c03-45d7-8b0e-0a5efabff22a",
+        "DocumentID": 22,
+        "PassageID": "5.7.(11)",
+        "Passage": "Takeovers and mergers. A dealing undertaken legitimately and solely in the context of a person's public Takeover bid for the purpose of gaining control of the Authorised Person or a proposed merger with the Authorised Person."
+    },
+    {
+        "ID": "95000e91-a511-47bf-8e06-f66a66fa2ac1",
+        "DocumentID": 22,
+        "PassageID": "5.7.(12)",
+        "Passage": "Takeovers and mergers. There are two categories of Inside Information potentially relevant to a Takeover or merger:\n(a)\tinformation that an Offeror or potential Offeror is going to make, or is considering making, an Offer for the target; and\n(b)\tinformation that an Offeror or potential Offeror may obtain through due diligence."
+    },
+    {
+        "ID": "cd30d51b-6665-4023-8f96-21a4637216bf",
+        "DocumentID": 22,
+        "PassageID": "5.7.(13)",
+        "Passage": "Takeovers and mergers. In determining whether or not the dealing is undertaken legitimately and solely in the context of a Takeover bid or merger, the Regulator is likely to take into account factors such as:\n(a)\twhether the transactions concerned are in the target Company's Shares;\n(b)\twhether the transactions concerned are for the sole purpose of gaining control or effecting the merger; and\n(c)\twhether the person has complied with applicable regulatory requirements relating to the Takeover or merger.\n"
+    },
+    {
+        "ID": "30b28a01-ff32-49d3-94aa-70030d617b9d",
+        "DocumentID": 22,
+        "PassageID": "5.7.(14)",
+        "Passage": "Chinese walls. A person may also be regarding as not contravening the Market Abuse provisions by dealing in Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities if:\n(a)\tit had in operation at that time an effective information barrier which could reasonably be expected to ensure that the Inside Information was not communicated to the person or persons who made the decision to deal and that no advice with respect to the transaction or agreement was given to that person or any of those persons by an Insider; and\n(b)\tthe information was not communicated and no such advice was given.\nFor example, if Inside Information is held behind an effective information barrier, from the individuals who make the decision to deal, the dealing by the person may not contravene section 92(2)."
+    },
+    {
+        "ID": "30851444-a695-4704-ab3e-762da6d72e46",
+        "DocumentID": 22,
+        "PassageID": "5.7.(15)",
+        "Passage": "Chinese walls. In the Regulator's view, to rely on this defence, the person must not only have in place information barriers which could reasonably be expected to prevent the communication of the Inside Information, but must also be able to show that the information was not in fact communicated to the person who made the decision to deal.\n"
+    },
+    {
+        "ID": "bc0491cf-2688-42ad-91ec-7ae3a6728dba",
+        "DocumentID": 22,
+        "PassageID": "6",
+        "Passage": "PROVIDING INSIDE INFORMATION"
+    },
+    {
+        "ID": "262f7359-8dc1-47d3-aadc-e5166c98618e",
+        "DocumentID": 22,
+        "PassageID": "6.1",
+        "Passage": "Section 92(3) of the FSMR"
+    },
+    {
+        "ID": "8f77978a-8215-43c3-a41b-20e6843ea3a6",
+        "DocumentID": 22,
+        "PassageID": "6.1.(1)",
+        "Passage": "Section 92(3) prohibits conduct where an Insider discloses Inside Information to another person otherwise than in the proper course of the exercise of his employment, profession or duties."
+    },
+    {
+        "ID": "97664ca9-736f-4735-a63e-4fe88266e0c8",
+        "DocumentID": 22,
+        "PassageID": "6.1.(2)",
+        "Passage": "The relevant definitions of:\n(a)\t\"Insider\" is set out in paragraph \u200e5-3(1) and \u201cInside Information\u201d is set out in paragraphs 5-2(1) and (2) of the CMC;\n(b)\t \"Financial Instrument\" and \"Related Instrument\" are set out at paragraphs 1(8) and 1(9) of the CMC; and\n(c)\t\u201cAccepted Virtual Asset\u201d and \u201cAccepted Spot Commodity\u201d have the meaning provided in Section 258 of FSMR.\n\n"
+    },
+    {
+        "ID": "cdbbedd2-6947-457f-b0ac-72b5896c2990",
+        "DocumentID": 22,
+        "PassageID": "6.2",
+        "Passage": "Disclosure Of Inside Information"
+    },
+    {
+        "ID": "2099b5f8-78a0-43e7-8fc5-0295f590463e",
+        "DocumentID": 22,
+        "PassageID": "6.2.(1)",
+        "Passage": "Section 92(3) of the FSMR provides that Market Abuse will constitute instances where:\n\"\u2026an Insider discloses Inside Information to another person otherwise than in the proper course of the exercise of his employment, profession or duties.\"\n"
+    },
+    {
+        "ID": "ecc61e9a-8e78-4813-b5ee-b57fdb74268a",
+        "DocumentID": 22,
+        "PassageID": "6.2.(2)",
+        "Passage": "Disclosure \"in the necessary course of business\". Section 92(3) does not prohibit the disclosure of Inside Information by an Insider to another person if the disclosure is made in accordance with the Insider's employment, office, profession or duties."
+    },
+    {
+        "ID": "5b6d5c80-773a-4a80-ac50-1b0c2677dec4",
+        "DocumentID": 22,
+        "PassageID": "6.2.(3)",
+        "Passage": "Disclosure \"in the necessary course of business\". The Regulator would ordinarily consider the following disclosures of Inside Information made for regulatory purposes to be made in accordance with the Insider's employment, office, profession or duties:\n(a)\tdisclosure of Inside Information which is required or permitted under the FSMR;\n(b)\tdisclosure of Inside Information to the Regulator for the purpose of fulfilling a legal or regulatory obligation or otherwise to assist the Regulator to perform its functions; or\n(c)\tdisclosure of Inside Information to another regulatory authority for the purpose of fulfilling a legal or regulatory obligation or otherwise for the purpose of assisting that regulatory authority to perform its functions."
+    },
+    {
+        "ID": "9a7e7e39-9cd4-40b9-b947-c5e181ec14cc",
+        "DocumentID": 22,
+        "PassageID": "6.2.(4)",
+        "Passage": "Disclosure \"in the necessary course of business\". In other cases, the Regulator is likely to take into account the following factors in determining whether or not the disclosure was made in the necessary course of business:\n(a)\twhether the disclosure is permitted by the ADGM Rulebook, the rules of the relevant market or regulatory requirements relating to a Takeover;\n(b)\twhether the disclosure is accompanied by the imposition of confidentiality requirements upon the person to whom the disclosure is made and is:\n(i)\treasonable and is to enable a person to perform the proper functions of his employment, profession or duties;\n(ii)\treasonable and is (for example, to a professional adviser) to facilitate, or seek advice about, a transaction or Takeover bid;\n(iii)\treasonable and is for the purpose of facilitating any commercial, financial or investment transaction (including prospective underwriters or places of Financial Instruments);\n(iv)\treasonable and is for the purpose of obtaining a commitment or expression of support in relation to a Takeover Offer; or\n(v)\tin fulfilment of a legal obligation; or\n(c)\twhether:\n(i)\tthe information disclosed is Trading Information;\n(ii)\tthe disclosure is by a person, A, only to the extent necessary, and solely in order, to offer to dispose of the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity to, or acquire the Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity from, the person receiving the information; and\n(iii)\tit is reasonable for A to make the disclosure to enable him to perform the proper functions of his employment, profession or duties.\n"
+    },
+    {
+        "ID": "69c3a513-8fcb-4206-bd98-5d1faa5ca259",
+        "DocumentID": 22,
+        "PassageID": "6.2.(5)",
+        "Passage": "Dealing not required. A person may contravene section 92(3) by disclosing Inside Information to another person even though the recipient does not deal on the basis of that information.  That is, it is sufficient that the Inside Information is disclosed to another person, other than in accordance with the Insider's employment, office, profession or duties, without the need to show that any harm was caused.\n"
+    },
+    {
+        "ID": "89885007-8051-4fb2-acca-1ff30ef4ead7",
+        "DocumentID": 22,
+        "PassageID": "6.2.(6)",
+        "Passage": "Examples of improper disclosure of Inside Information. The following are general examples of Behaviours that, in the Regulator's view, may amount to improper disclosure:\n(a)\tdisclosure of Inside Information by the Director of an Issuer to another in a social context; and\n(b)\tselective briefing of analysts by Directors of Issuers or others who are persons discharging managerial responsibilities."
+    },
+    {
+        "ID": "95f79fc9-f00f-4f1f-a811-683ca34ed4a1",
+        "DocumentID": 22,
+        "PassageID": "6.2.(7)",
+        "Passage": "Examples of improper disclosure of Inside Information. The following are specific examples of conduct that, in the Regulator's view, may contravene section 92(3):\n(a)\tA, a Director of a Company (an Authorised Person) has lunch with a friend, B, who has no connection with the Company or its advisers.  A tells B that his Company has received a Takeover Offer that is at a premium to the current share price at which it is trading;\n(b)\tB is the CEO of a Company (an Authorised Person) that is about to release its annual financial report.  The report will disclose an outstanding claim that will have a significant impact on the Company's financial results.  B passes the information on to family members (who have no role in the Company);\n(c)\tan Officer or Employee of an Issuer selectively briefs analysts about developments relating to the Issuer that have not yet been disclosed to the market; and\n(d)\tthe chairman of an Authorised Person announces his resignation to a journalist before this information has been disclosed to the market as a whole.\n"
+    },
+    {
+        "ID": "6f4d1de9-7a92-4e2c-abf4-1db81f96e171",
+        "DocumentID": 22,
+        "PassageID": "7",
+        "Passage": "INDUCING ANOTHER PERSON TO DEAL"
+    },
+    {
+        "ID": "ccc1bc69-f5cb-4668-a23b-63b9c972177a",
+        "DocumentID": 22,
+        "PassageID": "7.(1)",
+        "Passage": "Section 102(2) of the FSMR. Section 102(2) of the FSMR provides that a person (\"P\"):\n\"\u2026commits an offence if P makes the statement or conceals the facts with the intention of inducing, or is reckless as to whether making it or concealing them may induce, another person (whether or not the person to whom the statement is made)-\n(a)\tto enter into or Offer to enter into, or to refrain from entering or Offering to enter into, a Relevant Agreement, or\n(b)\tto exercise, or refrain from exercising, any rights conferred by a Designated Investment.\""
+    },
+    {
+        "ID": "36d5350a-bb7a-4bd9-9114-6d2b5646cd7d",
+        "DocumentID": 22,
+        "PassageID": "7.(2)",
+        "Passage": "Section 102(2) of the FSMR. Section 102(2) sets out a number of tests relating to knowledge of the person concerned.  It requires that the person making or publishing a statement referred to in sections 102(1)(a) and (b) either knows or is reckless as to whether that statement is false or misleading in a material respect. In addition, the relevant person may contravene section 102(2) above where they dishonestly conceal any material facts either in connection with a statement made by that person or otherwise (see section 102(1)(c)).\n\n"
+    },
+    {
+        "ID": "1be4735c-772f-4e91-b3bc-ff2294fb2923",
+        "DocumentID": 22,
+        "PassageID": "7.(3)",
+        "Passage": "Examples of inducing another person to deal. The following are specific examples of conduct that, in the Regulator's view, may contravene section 102(2):\n(a)\ta person involved in a boiler room operation cold calls investors and as part of his high pressure sales techniques makes exaggerated claims about the prospects of Shares in a Company.  The Shares are in fact of little value, are relatively illiquid and are being sold at an inflated price;\n(b)\ta person, A, circulates marketing information about a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity to a small group of potential investors; the marketing information includes exaggerated claims about the potential future performance of the investment when A knows or ought to know that there is no reasonable basis for making the claims;\n(c)\ta person, B, Offers to sell Shares he owns in a Company to a number of other private investors.  B discloses a range of positive information about the Company's prospects but fails to disclose other information about financial difficulties the Company has recently experienced; and\n(d)\tC, a financial adviser who is managing Financial Instruments or Accepted Virtual Assets for a Client, records false or misleading information about the value of investments in the Client's portfolio.  His purpose is to ensure that portfolio account statements sent to the Client show the value of the portfolio to be higher than its actual value, in order to induce the Client to provide funds to purchase further Financial Instruments or Accepted Virtual Assets.\nThe Regulator notes that some of the above examples may also contravene other sections such as section 102 (misleading statements).\n"
+    },
+    {
+        "ID": "3a0c4ced-b438-4107-b174-9509860a8beb",
+        "DocumentID": 22,
+        "PassageID": "8",
+        "Passage": "SPECIFIC MARKET PRACTICES"
+    },
+    {
+        "ID": "3c23dbc7-0efe-4b9c-8c07-21798800f8db",
+        "DocumentID": 22,
+        "PassageID": "8.(1)",
+        "Passage": "In this Rule, the Regulator sets out some guidance about the application of the Market Abuse provisions to some specific market practices.\n"
+    },
+    {
+        "ID": "dcc1cad9-97d7-4adc-990d-29a15c2df80d",
+        "DocumentID": 22,
+        "PassageID": "8.(2)",
+        "Passage": "Stock lending and collateral. A stock lending or borrowing transaction or a repo or reverse repo transaction, or a transaction involving the provision of collateral, will, in the Regulator's view, not usually of itself constitute Market Abuse.\n"
+    },
+    {
+        "ID": "09c6e363-8747-4071-b01a-f953181b545c",
+        "DocumentID": 22,
+        "PassageID": "8.(3)",
+        "Passage": "Short Selling. Short Selling is ordinarily a legitimate market practice that, in the Regulator's view, will not usually of itself constitute Market Abuse. In certain circumstances however, Short Selling when combined with other additional factors may amount to Market Abuse, for example:\n(a)\tif a person takes a short position in the Shares of a Company and then spreads false rumours about the Company in order to drive down the share price;\n(b)\tif an Insider enters into a Short Sale of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity on the basis of Inside Information; or\n(c)\tif a person enters into a Short Sale of a Financial Instrument, an Accepted Virtual Asset or an Accepted Spot Commodity without any reasonable possibility of being able to settle the short position.\n"
+    },
+    {
+        "ID": "4b26e9c5-c684-45b6-bda3-2b466dd23a96",
+        "DocumentID": 22,
+        "PassageID": "8.(4)",
+        "Passage": "Market Making. The legitimate performance of market making will not usually constitute Market Abuse \u2013 see paragraphs \u200e5-7(2) to \u200e5-7(4) of the CMC.\nOther general conduct which may amount to defences to Market Abuse include:\n"
+    },
+    {
+        "ID": "073344d1-3deb-4eeb-bfb2-c4eab2ad3436",
+        "DocumentID": 22,
+        "PassageID": "8.(5)",
+        "Passage": "Execution of Client Orders. The execution of an unsolicited Client order if certain conditions are satisfied (see paragraphs \u200e5-7(8) to \u200e5-7(10) of the CMC).\n"
+    },
+    {
+        "ID": "36bff738-26ee-4d76-ba4f-f749f5511157",
+        "DocumentID": 22,
+        "PassageID": "8.(6)",
+        "Passage": "Underwriting. The legitimate performance of underwriting functions may also not amount to Market Abuse (see paragraph \u200e5-7(5) of the CMC).\n"
+    },
+    {
+        "ID": "6ab7a6bc-fcc5-432b-803c-a42f25a7d0e9",
+        "DocumentID": 22,
+        "PassageID": "9",
+        "Passage": "ENFORCEMENT POWERS"
+    },
+    {
+        "ID": "85beec49-560c-4776-aac9-739676cc3582",
+        "DocumentID": 22,
+        "PassageID": "9.(1)",
+        "Passage": "If the Regulator considers that a person has engaged in Market Abuse it may impose a range of different sanctions under Part 19 of the FSMR, such as:\n(a)\tissuing the person with a private warning;\n(b)\tcensuring the person;\n(c)\tfining the person such amount as it considers appropriate;\n(d)\tsuspending any Financial Services Permission which the person has to carry on a Regulated Activity;\n(e)\timposing such limitations or other restrictions in relation to the carrying on of a Regulated Activity by the person; and\n(f)\tissuing a Prohibition Order."
+    },
+    {
+        "ID": "d2788dce-3778-49d3-91b3-8a4cc2546693",
+        "DocumentID": 22,
+        "PassageID": "9.(2)",
+        "Passage": "The Regulator may also decide to take other types of action under against a person whom it considers has engaged in Market Abuse such as:\n(a)\ttaking action in respect of a Financial Services Permission held by the person;\n(b)\trestricting the person from performing any functions connected with Regulated Activities in or from the ADGM; or\n(c)\tapplying to the Court for an order against the person."
+    },
+    {
+        "ID": "33650eea-511d-49eb-a222-3d0f09144003",
+        "DocumentID": 22,
+        "PassageID": "9.(3)",
+        "Passage": "In exercising its powers, the Regulator may also take into account all relevant circumstances, including, where appropriate:\n(a)\tthe gravity and duration of the breach;\n(b)\tthe degree of responsibility of the person responsible for the breach;\n(c)\tthe financial strength of the person responsible for the breach;\n(d)\tthe importance of the profits gained or losses avoided by the person responsible for the breach, insofar as such values can be determined;\n(e)\tthe level of cooperation of the person responsible for the breach with the Regulator;\n(f)\tany previous breaches by the person responsible for the breach; and\n(g)\tmeasures taken by the person responsible for the breach to prevent its reoccurrence."
+    },
+    {
+        "ID": "3860f58f-f140-4859-a135-81a035b9a80b",
+        "DocumentID": 22,
+        "PassageID": "9.(4)",
+        "Passage": "For the purposes of identifying Market Abuse, investors are free to report orders and transactions relating to Financial Instruments, Accepted Virtual Assets or Accepted Spot Commodities, including any cancellation or modification thereof, that could constitute Insider Dealing, market manipulation or attempted Insider Dealing or market manipulation, to the Regulator."
+    },
+    {
+        "ID": "db628747-354f-45a1-86b6-5bf72e78c758",
+        "DocumentID": 22,
+        "PassageID": "9.(5)",
+        "Passage": "Further information about the Regulator's enforcement powers and decision-making procedures can be found in Part 19 of the FSMR."
+    }
+]

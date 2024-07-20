@@ -1,0 +1,1808 @@
+[
+    {
+        "ID": "1be08f3c-bd4a-4be3-b449-9a244f1a982f",
+        "DocumentID": 2,
+        "PassageID": "1",
+        "Passage": "GENERAL PROVISIONS"
+    },
+    {
+        "ID": "64606c3b-28a4-4a5a-ab23-691536b63bb0",
+        "DocumentID": 2,
+        "PassageID": "1.1",
+        "Passage": "Application\nThis Rulebook shall apply to Captive Insurers subject to alternative provision in these Rules or where the context otherwise requires."
+    },
+    {
+        "ID": "cbfa1f0f-949c-42cc-bf31-8242720fdde4",
+        "DocumentID": 2,
+        "PassageID": "1.2",
+        "Passage": "Captive Insurance Business"
+    },
+    {
+        "ID": "ee6c90c9-3b12-416e-bbf2-40e41029fa7c",
+        "DocumentID": 2,
+        "PassageID": "1.2.1",
+        "Passage": "Captive Insurance Business means the business of effecting or carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer."
+    },
+    {
+        "ID": "90e42d43-eda7-4b6c-b55c-30e4ebbceed1",
+        "DocumentID": 2,
+        "PassageID": "1.2.2",
+        "Passage": "For this purpose, a Class 1, Class 2, Class 3 or Class 4 Captive Insurer may effect or carry out contracts that are limited to contracts of reinsurance for risks insured by the Cedant."
+    },
+    {
+        "ID": "00658b31-27b0-4324-b8aa-dab4f01a0c59",
+        "DocumentID": 2,
+        "PassageID": "1.3",
+        "Passage": "Classes of Captive Insurance Business"
+    },
+    {
+        "ID": "9c6a7e3f-f2f3-4230-898e-3d38ac2a0ff1",
+        "DocumentID": 2,
+        "PassageID": "1.3.1",
+        "Passage": "A Captive Insurer is an Authorised Person permitted under the conditions of its Financial Services Permission to carry on Captive Insurance Business as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer."
+    },
+    {
+        "ID": "3e86e67a-6d1b-4071-8a8e-57ecf5aee94e",
+        "DocumentID": 2,
+        "PassageID": "1.3.2",
+        "Passage": "An Cell Company may carry on Captive Insurance Business through some or all of its Cells (those Cells carrying on Captive Insurance Business being a Class 1, Class 2, Class 3 or Class 4 Captive Cell, as the case may be). References to a Captive Insurer in these Rules shall be construed to include, where relevant, a Cell Company maintaining one or more Captive Cells."
+    },
+    {
+        "ID": "7724afb7-aca9-486a-b938-e1618672f253",
+        "DocumentID": 2,
+        "PassageID": "1.3.3",
+        "Passage": "An insurer that is not incorporated in the ADGM cannot be a Captive Insurer."
+    },
+    {
+        "ID": "ba71c2f7-124c-4333-87f3-fd9acd595685",
+        "DocumentID": 2,
+        "PassageID": "1.4",
+        "Passage": "Class 1 Captive Insurer\nA Class 1 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group to which the insurer belongs."
+    },
+    {
+        "ID": "b3f969eb-c834-4104-9d04-ccaf84c07ed3",
+        "DocumentID": 2,
+        "PassageID": "1.5",
+        "Passage": "Class 2 Captive Insurer\nA Class 2 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the insurer belongs."
+    },
+    {
+        "ID": "a81dc6a7-f3a9-4d43-97c7-486f36899ad0",
+        "DocumentID": 2,
+        "PassageID": "1.6",
+        "Passage": "Class 3 Captive Insurer\nA Class 3 Captive Insurer is a Captive Insurer that:\n(a)\tis permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of persons who engage in similar, related or common: (i) business; (ii) activities; (iii) trade; (iv) services; or (v) operations; and\n(b)\tis owned by the persons mentioned in paragraph (a) or by a Body Corporate of which all such persons are members."
+    },
+    {
+        "ID": "c594723b-c904-4ed3-9fea-208dd9b020ca",
+        "DocumentID": 2,
+        "PassageID": "1.7",
+        "Passage": "Class 4 Captive Insurer"
+    },
+    {
+        "ID": "2556d3db-72b7-4c3d-8090-bda51d5bcbf7",
+        "DocumentID": 2,
+        "PassageID": "1.7.1",
+        "Passage": "The Regulator may decide that any entity that does not meet the requirements for a Class 1 Captive Insurer, Class 2 Captive Insurer or Class 3 Captive Insurer is a Class 4 Captive Insurer."
+    },
+    {
+        "ID": "9eb2cb84-e875-4c2a-a596-23afcde26b6b",
+        "DocumentID": 2,
+        "PassageID": "1.7.2",
+        "Passage": "Without limiting Rule \u200e1.7.1, the Regulator may take into account the following matters in deciding whether an entity is a Class 4 Captive Insurer:\n(a)\tthe business rationale for making the entity a Captive Insurer;\n(b)\tthe use or non-use of the entity as a risk management tool;\n(c)\tthe nature of the interests of the shareholders or members of the entity and whether they are aligned, or have some commonality with, the policyholder;\n(d)\tany unique or expert knowledge of the shareholders or members of the entity about the risks to be insured;\n(e)\tthe appropriateness of the structure for the proposed activities or whether the business is more akin to a commercial insurer; and\n(f)\twhether the entity provides insurance to policyholders in relation to activities connected, conducted, controlled, related, managed, serviced or sold by the shareholders or members of the entity to these policyholders."
+    },
+    {
+        "ID": "de357da4-7ecf-4042-ac13-a954f5bc7fab",
+        "DocumentID": 2,
+        "PassageID": "1.8",
+        "Passage": "Captive Insurance Management"
+    },
+    {
+        "ID": "05468bb1-1a85-4efe-8eb0-26e9190be3fb",
+        "DocumentID": 2,
+        "PassageID": "1.8.1",
+        "Passage": "A Captive Insurance Manager is an Authorised Person permitted under the conditions of its Financial Services Permission to carry on Captive Insurance Management."
+    },
+    {
+        "ID": "53caaac8-abbd-4950-bbc7-b0f45757fa54",
+        "DocumentID": 2,
+        "PassageID": "1.8.2",
+        "Passage": "Captive Insurance Management is the administration of, and exercise of, managerial functions for a Captive Insurer and includes the administration of Contracts of Insurance for the insurer.\n"
+    },
+    {
+        "ID": "5707f053-3cbd-4cb9-8b25-a8fe517e0fd5",
+        "DocumentID": 2,
+        "PassageID": "2",
+        "Passage": "GENERAL PRUDENTIAL RULES"
+    },
+    {
+        "ID": "be7d5392-7270-46c4-b629-2a0acabc0044",
+        "DocumentID": 2,
+        "PassageID": "2.1",
+        "Passage": "Financial resources"
+    },
+    {
+        "ID": "6659b9a7-51a9-4151-8804-396696df6949",
+        "DocumentID": 2,
+        "PassageID": "2.1.1",
+        "Passage": "A Captive Insurer must have and maintain at all times financial resources of the kinds and amounts required by and calculated in accordance with this Chapter."
+    },
+    {
+        "ID": "d6479a1b-8f50-4220-a1ad-9929fde77a03",
+        "DocumentID": 2,
+        "PassageID": "2.1.2",
+        "Passage": "A Captive Insurer must also have and maintain at all times additional financial resources which are adequate in relation to the nature, size and complexity of its business to ensure that there is no significant risk that liabilities cannot be met as they fall due."
+    },
+    {
+        "ID": "e4dd993f-a0ae-4615-a330-ad44bf9cb8df",
+        "DocumentID": 2,
+        "PassageID": "2.1.3",
+        "Passage": "A Captive Insurer must have in place appropriate systems and controls to enable it to:\n(a)\tmonitor its minimum capital and solvency requirements; and\n(b)\tshow, at all times, whether it complies with this Chapter."
+    },
+    {
+        "ID": "16438437-ec24-4ae1-a18c-58fb076ab2ae",
+        "DocumentID": 2,
+        "PassageID": "2.2",
+        "Passage": "Minimum capital"
+    },
+    {
+        "ID": "7ef3dbb6-d086-4d2f-bc55-6fe4e6b67a43",
+        "DocumentID": 2,
+        "PassageID": "2.2.1",
+        "Passage": "Minimum capital requirements\n(1)\tA Captive Insurer must have and maintain at all times the minimum capital required under this Chapter\n(2)\tThe minimum capital requirement for a Captive Insurer is the highest of the following:\n(a)\tthe base capital requirement for the Captive Insurer under Rule \u200e2.2.2;\n(b)\tthe premium risk component under Rule \u200e2.2.3; and\n(c)\tthe technical provision risk component under Rule \u200e2.2.4 or Rule \u200e2.2.5.\n(3)\tNotwithstanding Rule \u200e2.2.1(2) above, the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator\u2019s own initiative) to comply with a higher minimum capital requirement than as set out in these Rules."
+    },
+    {
+        "ID": "8d1801dc-db03-4cd2-96f2-e95dfc73fcd7",
+        "DocumentID": 2,
+        "PassageID": "2.2.2",
+        "Passage": "Base capital requirement\nThe base capital requirement for a Captive Insurer is:\n(a)\tfor a Class 1 Captive Insurer: $150,000;\n(b)\tfor a Class 2 Captive Insurer: $250,000 (unless the Regulator sets a different amount);\n(c)\tfor a Class 3 Captive Insurer: $500,000 (unless the Regulator sets a different amount); and\n(d)\tfor a Class 4 Captive Insurer: $1 million (unless the Regulator sets a different amount).\n"
+    },
+    {
+        "ID": "fef8d87d-a986-4aa1-8210-6f7ff16a63cb",
+        "DocumentID": 2,
+        "PassageID": "2.2.3",
+        "Passage": "Premium risk component\nThe premium risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer is the amount calculated in accordance with the following formula:\n18% x Captive Insurer's Net Written Premium up to $5 million\n+\n16% x Captive Insurer's Net Written Premium in excess of $5 million"
+    },
+    {
+        "ID": "ac525af1-470b-4d97-82dd-042a63cab24d",
+        "DocumentID": 2,
+        "PassageID": "2.2.4",
+        "Passage": "Technical provision risk component \u2013 Captive Insurers conducting general Insurance Business\n"
+    },
+    {
+        "ID": "d4852a4c-f732-4838-8f6b-c003e070b62c",
+        "DocumentID": 2,
+        "PassageID": "2.2.4.(1)",
+        "Passage": "The technical provision risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts General Insurance Business is the amount calculated in accordance with the following formula:\n5% x net claims reserve under general Contracts of Insurance,\nwhere net claims reserve, as at a date, is the amount of the Captive Insurer's provisions for:\ni.\tclaims incurred but not yet paid as at the date, including claims incurred but not yet reported; and\nii.\tdirect and indirect claims settlement expenses for those claims,\nless the amount of reinsurance and other recoveries expected to be received in respect of those claims."
+    },
+    {
+        "ID": "759299ec-7823-46b6-a7ae-4ad78aeb1c01",
+        "DocumentID": 2,
+        "PassageID": "2.2.4.(2)",
+        "Passage": "Notwithstanding Rule \u200e2.2.4(1), the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator's own initiative) to include a particular Contract of Insurance or class of Contracts of Insurance in the Captive Insurer's net claims reserve."
+    },
+    {
+        "ID": "9252ea27-4888-48c4-9a7a-7fd55aa07541",
+        "DocumentID": 2,
+        "PassageID": "2.2.5",
+        "Passage": "Technical provision risk component \u2013 Captive Insurers conducting Long-Term Insurance Business\nThe technical provision risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts Long-Term Insurance Business is 2.5% of the policyholder liabilities calculated using actuarial methods for Long-Term Insurance."
+    },
+    {
+        "ID": "61fb1b63-35df-4ace-ab41-986c3594b4f6",
+        "DocumentID": 2,
+        "PassageID": "2.2.6",
+        "Passage": "Regulator to have regard to certain matters"
+    },
+    {
+        "ID": "247ea2a9-4b0e-442f-9597-c9b4b5ab4787",
+        "DocumentID": 2,
+        "PassageID": "2.2.6.(1)",
+        "Passage": "In determining an amount for a Class 2 or Class 4 Captive Insurer under this Chapter, the Regulator must have regard to the nature, size and complexity of the Captive Insurer's business."
+    },
+    {
+        "ID": "2affa187-b3e3-4438-8d61-ccabc9f0c736",
+        "DocumentID": 2,
+        "PassageID": "2.2.6.(2)",
+        "Passage": "Without limiting Rule \u200e2.2.6(1), the Regulator may, in determining an amount for a Class 2 Captive Insurer, take into account the following:\n\n(a)\tthe third party risks the Class 2 Captive Insurer expects to insure;\n(b)\thow Closely Linked the business or operations giving rise to the third party risks are to the business or operations of the Group to which the Class 2 Captive Insurer belongs;\n(c)\tthe percentage of Gross Written Premium (up to 20%) that the Class 2 Captive Insurer intends to obtain from third party risks; and\n(d)\tany burden or undue risks to the Cedant or other policyholders.\n(3)\tWithout limiting Rule \u200e2.2.6(1), the Regulator may take into account the matters in Rule \u200e1.7.2 in determining an amount for a Class 4 Captive Insurer."
+    },
+    {
+        "ID": "1404972a-4130-4ef2-86ed-e8dcebe34b85",
+        "DocumentID": 2,
+        "PassageID": "2.2.7",
+        "Passage": "Obligation to inform Regulator of any breach of Rule 2.2\nIf a Captive Insurer becomes aware, or has reasonable grounds to believe that it is or may be, or may be about to be, in breach of any provision of this Chapter, it must:\n(a)\ttell the Regulator orally about the matter immediately but within one Business Day;\n(b)\tby written notice given to the Regulator by no later than the next Business Day:\n(i)\tconfirm the oral notification;\n(ii)\texplain the nature of the breach or why the Captive Insurer considers it may be (or may be about to be) in breach of the provision; and\n(iii)\tset out the action that the Captive Insurer proposes to take about the breach or to avoid the breach; and\n(c)\tnot make any distribution to its shareholders or members, whether by way of dividends or otherwise, without the Regulator's written permission."
+    },
+    {
+        "ID": "75cb1973-447f-45df-9aa4-e0c0a510adc7",
+        "DocumentID": 2,
+        "PassageID": "2.3",
+        "Passage": "Prudential Requirements \u2013 reporting obligations"
+    },
+    {
+        "ID": "dff7cc24-d312-4a2d-8a77-a10f7fa57130",
+        "DocumentID": 2,
+        "PassageID": "2.3.1",
+        "Passage": "Purpose"
+    },
+    {
+        "ID": "fbf1ab67-8327-4409-896d-53c3d4ac4a14",
+        "DocumentID": 2,
+        "PassageID": "2.3.1.(1)",
+        "Passage": "In this Rule \u200e2.3 and the forms as specified by the Regulator from time to time, unless the term 'annual Regulatory Return' or 'quarterly Regulatory Return' is used, the term 'Return' includes both of those Returns."
+    },
+    {
+        "ID": "8ea0730b-5979-4c66-a2cf-f8c59051f3ad",
+        "DocumentID": 2,
+        "PassageID": "2.3.1.(2)",
+        "Passage": "The Regulator may, by written notice given to a Captive Insurer:\n(a)\trequire the firm to prepare additional prudential returns; or\n(b)\texempt the firm from the requirement to prepare Returns or a particular Return."
+    },
+    {
+        "ID": "319f4d41-b674-4562-b19e-47ce83b6fe87",
+        "DocumentID": 2,
+        "PassageID": "2.3.1.(3)",
+        "Passage": "An exemption under Rule 2.3.1(2)(b) may be subject to conditions, restrictions or requirements. A Captive Insurer given an exemption under Rule 2.3.1(2)(b) must comply with all conditions, restrictions and requirements to which the exemption is subject."
+    },
+    {
+        "ID": "69290a7e-48b2-40da-9524-c2dc2626c69a",
+        "DocumentID": 2,
+        "PassageID": "2.3.2",
+        "Passage": "Annual Regulatory Return"
+    },
+    {
+        "ID": "7e7168cc-78d5-4da9-a319-c7503a8167a5",
+        "DocumentID": 2,
+        "PassageID": "2.3.2.(1)",
+        "Passage": "A Captive Insurer must, at the end of each reporting period, prepare an annual Regulatory Return."
+    },
+    {
+        "ID": "56b77388-b022-4fa1-908f-14895ccef68b",
+        "DocumentID": 2,
+        "PassageID": "2.3.2.(2)",
+        "Passage": "The annual Regulatory Return must comprise the statements set out in this Rule 2.3, together with any Supplementary Notes pertaining to those forms, and including a Statement by Directors."
+    },
+    {
+        "ID": "fdcd723f-936f-4ee7-89c4-4b6fa1ed38cc",
+        "DocumentID": 2,
+        "PassageID": "2.3.2.(3)",
+        "Passage": "The form and content of the statements comprising the annual Regulatory Return (including the Statement by Directors) is set out in this Rule \u200e2.3 and the Electronic Prudential Reporting System (EPRS) of the Regulator."
+    },
+    {
+        "ID": "82b8c109-6140-4d44-b7d8-83ee573e7974",
+        "DocumentID": 2,
+        "PassageID": "2.3.2.(4)",
+        "Passage": "Where a Captive Insurer includes in its annual Regulatory Return a value for General Insurance Liabilities or for assets associated with those liabilities which is inconsistent with the amount referred to in Rule \u200e7.2.3(b), the Captive Insurer must notify the Regulator in writing of:\n(a)\tthe reasons for not including in its annual Regulatory Return the value of General Insurance Liabilities or of associated assets as reported by the Actuary; and\n(b)\tdetails of the alternative assumptions and methodologies used for determining the value of General Insurance Liabilities or of associated assets."
+    },
+    {
+        "ID": "cb4fc3a9-adab-4ef7-a50e-4f7f4adad81b",
+        "DocumentID": 2,
+        "PassageID": "2.3.2.(5)",
+        "Passage": "Where a Captive Insurer includes in its annual Regulatory Return a value for Long-Term Insurance liabilities which is inconsistent with the amount referred to in Rule \u200e7.3.6(e), the Captive Insurer must notify the Regulator in writing of;\n(a)\tthe reasons for not including in its annual Regulatory Return the value of Long-Term Insurance liabilities as reported by the Actuary; and\n(b)\tdetails of the alternative assumptions and methods used by the Captive Insurer for determining the value of Long-Term Insurance liabilities."
+    },
+    {
+        "ID": "174996f2-7d9c-417e-a757-ea76de7f8616",
+        "DocumentID": 2,
+        "PassageID": "2.3.3",
+        "Passage": "Quarterly Regulatory Return"
+    },
+    {
+        "ID": "353fb55d-c991-4130-a8f9-076231704732",
+        "DocumentID": 2,
+        "PassageID": "2.3.3.(1)",
+        "Passage": "Except as otherwise provided in this Rule \u200e2.3, a Captive Insurer must, at the end of March, June, September and December in each year, prepare a quarterly Regulatory Return in respect of the period commencing at the start of the Captive Insurer's reporting period and ending on that date."
+    },
+    {
+        "ID": "55495ce2-6b69-4dbb-8b74-1bc3ccee0f03",
+        "DocumentID": 2,
+        "PassageID": "2.3.3.(2)",
+        "Passage": "The quarterly Regulatory Return must comprise the statements set out in this Rule \u200e2.3, together with any Supplementary Notes pertaining to those forms, and including a Statement by Directors."
+    },
+    {
+        "ID": "dcc6e274-937d-422a-810f-a4a2ed98c1b0",
+        "DocumentID": 2,
+        "PassageID": "2.3.3.(3)",
+        "Passage": "The form and content of the statements comprising the quarterly Regulatory Return (including the Statement by Directors) are set out in this Rule \u200e2.3, and EPRS."
+    },
+    {
+        "ID": "cb430d25-5ea4-46d1-92cf-e43c8db480a4",
+        "DocumentID": 2,
+        "PassageID": "2.3.3.(4)",
+        "Passage": "Class 1 Captive Insurers are not required to prepare a quarterly Regulatory Return unless required in writing by the Regulator to do so."
+    },
+    {
+        "ID": "e4e9c1a0-8d99-4ec1-ac3f-ee042b65d216",
+        "DocumentID": 2,
+        "PassageID": "2.3.4",
+        "Passage": "Audit of annual Regulatory Return"
+    },
+    {
+        "ID": "38d38dee-f247-4de8-acd9-cdf339b3fdcf",
+        "DocumentID": 2,
+        "PassageID": "2.3.4.(1)",
+        "Passage": "Subject to Rule \u200e2.3.4(2), the annual Regulatory Return of every Captive Insurer must be audited in accordance with International Standards on Auditing relevant to the audit of the annual Regulatory Return, by the Captive Insurer's Auditor."
+    },
+    {
+        "ID": "884ebcc9-e7b7-4b98-91fc-226d898304d9",
+        "DocumentID": 2,
+        "PassageID": "2.3.4.(2)",
+        "Passage": "The statements in the annual Regulatory Return that are not subject to audit are set out in this Rule \u200e2.3, and EPRS."
+    },
+    {
+        "ID": "345afca1-f4a8-4a0a-ba2c-7a483c56320a",
+        "DocumentID": 2,
+        "PassageID": "2.3.4.(3)",
+        "Passage": "The report of the Auditor on the annual Regulatory Return must be made in writing to the Directors of the Captive Insurer and to the Regulator and must state whether, in the opinion of the Auditor and so far as concerns those parts of the annual Regulatory Return that are subject to audit:\n(a)\tthe annual Regulatory Return has been prepared in accordance with this Chapter;\n(b)\tthe statements in the annual Regulatory Return present fairly, in accordance with the basis of preparation prescribed in this Chapter, the financial position of the Captive Insurer as at the reporting date and financial performance of the Captive Insurer during the reporting period ended on that date, and the other information required to be presented; and\n(c)\tthe statements in the annual Regulatory Return are in accordance with the books and records of the Captive Insurer."
+    },
+    {
+        "ID": "2f045ee3-2fba-4531-a3f1-d51e1a180f5b",
+        "DocumentID": 2,
+        "PassageID": "2.3.5",
+        "Passage": "Completion of forms for global and Fund reporting units"
+    },
+    {
+        "ID": "c82c14a2-dcda-4d27-b687-e92c641d35e7",
+        "DocumentID": 2,
+        "PassageID": "2.3.5.(1)",
+        "Passage": "A Return must be completed in respect of each of the reporting units set out in this Rule that applies to the Captive Insurer."
+    },
+    {
+        "ID": "59d9f62b-c9e9-41e9-8128-ca1e2f8bc90a",
+        "DocumentID": 2,
+        "PassageID": "2.3.5.(2)",
+        "Passage": "There are two types of reporting units in respect of which a Captive Insurer may be required to submit a Return. These are referred to in this Chapter and the forms as the global reporting unit and the Fund reporting unit. In the case of a Captive Insurer which is a Cell Company, the global reporting unit shall apply separately at a cellular and non-cellular level as provided in Rules \u200e2.3.5(3)(b) and \u200e2.3.5(4) below. The Returns in respect of these reporting units are referred to respectively in this Chapter and the forms as the Global Return (along with, in the case of a Cell Company, a Cell Return in respect of each Captive Cell) and the Fund Return."
+    },
+    {
+        "ID": "efc14ccc-cdcd-4c0d-b035-889aa29527d9",
+        "DocumentID": 2,
+        "PassageID": "2.3.5.(3)",
+        "Passage": "Every Captive Insurer that is required by Rule \u200e2.3.2 or Rule \u200e2.3.3 to complete a Return must complete a Global Return. A Global Return has the following characteristics:\n(a)\tsubject to Rule \u200e2.3.5(3)(b), a Global Return includes all of the assets, liabilities, equity, revenues and expenses of the Captive Insurer, regardless of the residency status or location of the Captive Insurer, of the customer or of any asset or liability; and\n(b)\tthe Global Return of a Cell Company does not include any assets, liabilities, equity revenues or expenses that are attributable to a Captive Cell."
+    },
+    {
+        "ID": "ac90a299-b401-4a64-9f50-c3c03d9aea7e",
+        "DocumentID": 2,
+        "PassageID": "2.3.5.(4)",
+        "Passage": "Except as provided otherwise in this Chapter, a Captive Insurer that is a Cell Company must, each time a Global Return is completed as provided in Rule \u200e2.3.5(3)(b), separately complete a Cell Return in respect of each Captive Cell that it maintains. A Cell Return includes all of the assets, liabilities, equity, revenues and expenses attributable to the Captive Cell, regardless of the residency status or location of the customer or of any asset or liability.  A Captive Insurer that is a Cell Company is not required to complete a Cell Return each time a quarterly Regulatory Return is completed in respect of any Cell maintained by it that is a Class 1 Captive Cell unless required by the Regulator to do so."
+    },
+    {
+        "ID": "516fc7c7-6a67-4735-bdc3-8ec6ffe657ae",
+        "DocumentID": 2,
+        "PassageID": "2.3.5.(5)",
+        "Passage": "Except as provided otherwise in this Chapter, a Captive Insurer that maintains any Long-Term Insurance Fund must complete a Fund Return in respect of each Long-Term Insurance Fund that it maintains. A Fund Return includes all of the assets, liabilities, revenues and expenses attributable to the Fund, regardless of the residency status or location of the customer or of any asset or liability. A Captive Insurer to which this Rule applies is not required to complete a Fund Return in the following cases:\n(a)\twhere the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Global Return; and\n(b)\twhere, in the case of a Captive Insurer which is a Cell Company, a Captive Cell of the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Cell Return."
+    },
+    {
+        "ID": "293f0f84-8e42-48b9-8998-7f759a03e062",
+        "DocumentID": 2,
+        "PassageID": "2.3.6",
+        "Passage": "Content of Returns"
+    },
+    {
+        "ID": "a00d0014-a60c-498a-be1a-d0a1689d35ac",
+        "DocumentID": 2,
+        "PassageID": "2.3.6.(1)",
+        "Passage": "The annual Regulatory Return comprises the prudential reporting forms specified by the Regulator, together with any Supplementary Notes pertaining to those forms specified in these Rules or by the Regulator and the Statement by Directors referred to in Rule \u200e2.3.10."
+    },
+    {
+        "ID": "d62152be-f556-4228-9ace-3a939d03630f",
+        "DocumentID": 2,
+        "PassageID": "2.3.6.(2)",
+        "Passage": "Items must be disclosed in the Returns in accordance with the instructional guidelines and the prudential reporting systems specified by the Regulator, subject to the effects of other provisions of this Chapter."
+    },
+    {
+        "ID": "37ffbba3-4b49-43ac-a7eb-6a22665d2ce2",
+        "DocumentID": 2,
+        "PassageID": "2.3.6.(3)",
+        "Passage": "Where an item is described in a Return as the result of a mathematical calculation, that mathematical calculation must be used to determine that item except where these Rules or the relevant instructional guidelines require otherwise.\n"
+    },
+    {
+        "ID": "b46f58a9-9fd7-4876-b5c9-5cf39d1495eb",
+        "DocumentID": 2,
+        "PassageID": "2.3.7",
+        "Passage": "Submission of Returns to the Regulator"
+    },
+    {
+        "ID": "b6bc8589-c848-49c5-8bb6-4a539b5d72db",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(1)",
+        "Passage": "A Captive Insurer must submit its annual Regulatory Return in writing to the Regulator within four months of the Captive Insurer's reporting date."
+    },
+    {
+        "ID": "81a0354e-9c77-49c5-8c3e-9262cc856866",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(2)",
+        "Passage": "A Captive Insurer must prepare and submit its annual Regulatory Return in the following manner:\n(a)\tthe annual Regulatory Return must be submitted to the Regulator using EPRS:\n(i)\tin accordance with any instructions set out in the notice and any instructions provided through such a system or specified in this Chapter; and\n(ii)\twithin four months of the Captive Insurer's reporting date;\n(b)\tthe Statement by Directors need not be submitted to the Regulator, but must be signed and a copy maintained in accordance with Rules \u200e2.3.7(3) and \u200e2.3.7(4); and\n(c)\tthe Global Return for a Branch must be submitted in the manner provided in Rule 2.3.7(1)."
+    },
+    {
+        "ID": "f28c4a1d-fe55-4b65-beb7-0c57b07b4154",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(3)",
+        "Passage": "The Statement by Directors forming part of the annual Regulatory Return must be signed before the time of submission by:\n(a)\tthe Senior Executive Officer; and\n(b)\ta Director of the Captive Insurer not being the Senior Executive Officer."
+    },
+    {
+        "ID": "20ede1be-a00c-466a-a3d1-d44e17f3fdb0",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(4)",
+        "Passage": "An original signed hard copy of the Statement by Directors, together with a copy of the annual Regulatory Return submitted to the Regulator using EPRS, must be kept for at least six years for inspection by the Regulator."
+    },
+    {
+        "ID": "26c32e16-74c1-4235-ac3c-ce62f613c64f",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(5)",
+        "Passage": "The Auditor's report on the annual Regulatory Return and any actuarial report prepared as at the reporting date must be submitted in writing by the Captive Insurer to the Regulator within four months of the Captive Insurer's reporting date."
+    },
+    {
+        "ID": "5f5bb766-e2a9-4c28-a8c0-a4a2ba33ec9e",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(6)",
+        "Passage": "An Auditor's report or an actuarial report submitted to the Regulator must be signed by the Auditor or the Actuary preparing that report."
+    },
+    {
+        "ID": "000349fb-7998-497b-9283-83854702c94c",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(7)",
+        "Passage": "Subject to Rule \u200e2.3.7(8), a Captive Insurer must submit its quarterly Regulatory Return in writing to the Regulator within two months of the end of each period in respect of which the Captive Insurer is required to prepare a quarterly Regulatory Return."
+    },
+    {
+        "ID": "7cd4b5ba-378a-4ec4-8abf-f95db3e5e802",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(8)",
+        "Passage": "When the Regulator has issued a notice announcing that EPRS is in operation, a Captive Insurer must, from the date specified in the notice, prepare and submit its quarterly Regulatory Return in the following manner:\n(a)\tthe quarterly Regulatory Return, excepting the parts of the quarterly Regulatory Return referred to in \u200e2.3.7(8)(b) and \u200e2.3.7(8)(c), must be submitted to the Regulator using EPRS:\n(i)\tin accordance with any instructions set out in the notice and any instructions provided through such a system or specified in this Chapter; and\n(ii)\twithin two months of the Captive Insurer's reporting date;\n(b)\tthe Statement by Directors must be signed and a copy maintained in accordance with Rules \u200e2.3.7(9) and \u200e2.3.7(10); and\n(c)\tthe Global Return for a Branch must be submitted in the manner provided in Rule \u200e2.3.7(7)."
+    },
+    {
+        "ID": "61908475-17fe-49f8-9c90-1c265351982c",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(9)",
+        "Passage": "The Statement by Directors forming part of the quarterly Regulatory Return must be signed before the time of submission by one Director of the Captive Insurer."
+    },
+    {
+        "ID": "14293b37-cfbf-4366-a406-b0d5f3d57644",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(10)",
+        "Passage": "An original signed hard copy of the Statement by Directors, together with a copy of the quarterly Regulatory Return submitted to the Regulator using EPRS, must be kept for at least six years for inspection by the Regulator."
+    },
+    {
+        "ID": "716b4030-256d-4d42-8348-643a8842cbbe",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(11)",
+        "Passage": "If within twenty-four months of the date that an annual Regulatory Return or quarterly Regulatory Return is submitted to the Regulator, the Regulator notifies the Captive Insurer that a Return appears to be inaccurate or incomplete, the Captive Insurer must consider the matter and within one month of the date of notification it must correct any inaccuracies, make good any omissions and re-submit the relevant parts of the Return."
+    },
+    {
+        "ID": "bd20b145-954e-4dfa-937f-019b0dc499b2",
+        "DocumentID": 2,
+        "PassageID": "2.3.7.(12)",
+        "Passage": "A Captive Insurer must submit, at the same time as every annual Regulatory Return of that insurer or as soon as practicable thereafter, any report on the affairs of the Captive Insurer submitted to the shareholders or policyholders of the Captive Insurer in respect of the reporting period to which the annual Regulatory Return relates."
+    },
+    {
+        "ID": "1c6d26ad-0cb7-4c63-b0b0-0fb2121ccb17",
+        "DocumentID": 2,
+        "PassageID": "2.3.8",
+        "Passage": "Reporting of group capital adequacy\nA Captive Insurer must comply with the requirements of PIN 6.7 pertaining to the reporting of group capital adequacy."
+    },
+    {
+        "ID": "6d2f0d8a-8ddc-45b1-ab05-2aef3bf90873",
+        "DocumentID": 2,
+        "PassageID": "2.3.9",
+        "Passage": "General provisions relating to the completion of forms"
+    },
+    {
+        "ID": "73c4647e-2706-4752-a2b8-2499085fa8b6",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(1)",
+        "Passage": "Supplementary Notes must be presented in accordance with any instructions specified by the Regulator, including instructions provided through the prudential reporting system specified by the Regulator. Each Supplementary Note must identify the form to which it relates."
+    },
+    {
+        "ID": "1b364156-80ed-41ec-8cbf-8cff7dba606b",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(2)",
+        "Passage": "Returns must be presented in English."
+    },
+    {
+        "ID": "30fb35bd-060f-4298-9b8c-7eb77c0bd156",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(3)",
+        "Passage": "Where the format of a form requires the presentation of comparative information, the comparative information shall be presented according to the following principles:\n(a)\tin the case of a form forming part of the annual Regulatory Return, the comparative information shall be that presented in the annual Regulatory Return for the previous reporting period;\n(b)\tin the case of a form forming part of the quarterly Regulatory Return, the comparative information shall be that presented in the quarterly Regulatory Return for the corresponding quarter in the previous calendar year;\n(c)\tcomparative information shall be presented unless:\n(i)\tthe Captive Insurer did not exist at any time during the comparative period (whether or not it was a Captive Insurer); or\n(ii)\tin the case of a Cell Return or a Fund Return, the Captive Cell or the Long-Term Insurance Fund to which the Return relates did not exist at any time during the comparative period;\n(d)\ta Captive Insurer that is required to present comparative information in a Return, and that was not required to prepare a Return in respect of the comparative period, must present comparative information that would have been presented in the Return covering the comparative period, if the Captive Insurer had been required to prepare that Return; and\n(e)\tcomparative information shall not be changed from the time it was first presented, unless re-presentation is necessary for the interpretation of the Return. Where comparative information is changed, the Captive Insurer must include in the Return a Supplementary Note showing the nature of the change and the reason for it."
+    },
+    {
+        "ID": "e59bb891-8848-4ca9-b5bb-3587bf68d97d",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(4)",
+        "Passage": "The annual Regulatory Return, including the Statement by Directors, is subject to audit, except where this Chapter 2 or the form instructional guidelines state that a form is not subject to audit."
+    },
+    {
+        "ID": "99a47f62-646c-45fd-982a-088cb4de6913",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(5)",
+        "Passage": "Each page of the Statement by Directors must show:\n(a)\tthe words 'annual Regulatory Return' or 'quarterly Regulatory Return', as applicable;\n(b)\tthe Captive Insurer's licence number;\n(c)\tthe Captive Insurer's name;\n(d)\tthe reporting period to which the Return relates;\n(e)\twhether the Return is a Global, Cell or Fund Return; and\n(f)\twhere the return relates to a Captive Cell or a Long-Term Insurance Fund, sufficient information to identify the Captive Cell or Long-Term Insurance Fund in question."
+    },
+    {
+        "ID": "cca9dbac-a947-43a6-a2a0-108f558a1013",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(6)",
+        "Passage": "Where this Chapter 2 or the form requires information to be presented for different Classes of Business or for different types of insurance contract (for example, direct insurance, facultative reinsurance, proportional reinsurance treaty and non-proportional reinsurance treaty), a Captive Insurer required to complete the form must present the relevant information in respect of all Classes of Business and types of contract, except under the following circumstances so far as concerns businesses other than Direct-Long Term Insurance Business of an ADGM Incorporated Insurer:\n(a)\twhere an item of numerical information in respect of a Class of Business for a type of insurance contract is less than 2% of the total such numerical information in respect of all Classes of Business for that type of insurance contract, the Captive Insurer may aggregate that numerical information for that Class of Business for that type of insurance contract with the same item of information for the Class of Business for that type of contract in which that item of information is the largest; and\n(b)\twhere an item of numerical information in respect of a type of insurance contract for a Class of Business is less than 2% of the total such numerical information in respect of all types of insurance contract for that Class of Business, the Captive Insurer may aggregate that numerical information for that type of insurance contract for that Class of Business with the same item of information for the type of insurance contract for that Class of Business in which that item of information is the largest."
+    },
+    {
+        "ID": "833ffd25-5c43-455c-a99f-aedffe56c66a",
+        "DocumentID": 2,
+        "PassageID": "2.3.9.(7)",
+        "Passage": "Where a Captive Insurer arranges its affairs such that a Captive Cell or Long-Term Insurance Fund maintained by it pays or receives income in the form of interest, dividends, rental, recharge of management expenses or other investment income, from another reporting unit of the Captive Insurer, that income must be shown gross as an expense in the reporting unit bearing the expense, and as income in the reporting unit receiving the income. Where, however, the same reporting unit records the income and the expense, the two must be netted."
+    },
+    {
+        "ID": "82ee012b-8390-4e30-9be0-e0d7ba88eb25",
+        "DocumentID": 2,
+        "PassageID": "2.3.10",
+        "Passage": "Statement by directors"
+    },
+    {
+        "ID": "4e3834d8-b451-47c1-81da-2a802fb3d10b",
+        "DocumentID": 2,
+        "PassageID": "2.3.10.(1)",
+        "Passage": "Every Return must include a Statement by Directors, in accordance with this Rule."
+    },
+    {
+        "ID": "53fd67fc-2378-4d9d-a1a1-81be36751b1b",
+        "DocumentID": 2,
+        "PassageID": "2.3.10.(2)",
+        "Passage": "The Statement by Directors forming part of the annual Regulatory Return must state that:\n(a)\tthe annual Regulatory Return has been prepared in accordance with the provisions of PIN, this Chapter 2 and the instructional guidelines and prudential reporting systems specified by the Regulator;\n(b)\tproper accounting records have been maintained and adequate information obtained by the Captive Insurer;\n(c)\tappropriate systems and controls have been established and maintained by the Captive Insurer over its transactions and records;\n(d)\tthe Captive Insurer has complied with the provisions of Rule 2.2 of these Rules throughout the reporting period; and\n(e)\tthe Captive Insurer complies, as at the date of the statement, with those provisions of PIN that are applicable to it."
+    },
+    {
+        "ID": "b044cdce-b6ca-47b5-8e7c-d6773b5c09f5",
+        "DocumentID": 2,
+        "PassageID": "2.3.10.(3)",
+        "Passage": "The Statement by Directors forming part of the quarterly Regulatory Return must state that:\n(a)\tthe quarterly Regulatory Return has been prepared in accordance with the provisions of PIN, this Chapter 2 and the instructional guidelines and prudential reporting systems specified by the Regulator; and\n(b)\tthe Captive Insurer complies, as at the date of the statement, with those provisions of  PIN that are applicable to it."
+    },
+    {
+        "ID": "e9e740ea-7c42-4493-9dbb-0bdeb102b936",
+        "DocumentID": 2,
+        "PassageID": "2.3.10.(4)",
+        "Passage": "If in the opinion of the directors it would be untrue to make one or more of the statements referred to in Rule \u200e2.3.10(3)(a) or Rule \u200e2.3.10(3)(b) the statements concerned must be omitted and the Captive Insurer must instead state in a Supplementary Note that the directors are unable to make the statements in question, and must give the reasons for that inability."
+    },
+    {
+        "ID": "f43f98f5-96bc-4fe5-be79-d8c747cf52e3",
+        "DocumentID": 2,
+        "PassageID": "2.4",
+        "Passage": "Management and control of risk"
+    },
+    {
+        "ID": "9f1e389b-7c8f-426a-aba8-5d002c762a0f",
+        "DocumentID": 2,
+        "PassageID": "2.4.1",
+        "Passage": "Risk management"
+    },
+    {
+        "ID": "eb78c1e8-1a5f-4b5f-ae3c-0381516e99a2",
+        "DocumentID": 2,
+        "PassageID": "2.4.1.(1)",
+        "Passage": "A Captive Insurer's risk management systems must:\n(a)\tbe appropriate to the size, business mix and complexity of the Captive Insurer's operations; and\n(b)\taddress all material risks, financial and non-financial, to which the Captive Insurer is likely to be exposed."
+    },
+    {
+        "ID": "1c63ca5e-372e-473d-b96d-0ab8722e0883",
+        "DocumentID": 2,
+        "PassageID": "2.4.1.(2)",
+        "Passage": "The risk management systems maintained by a Captive Insurer must include:\n(a)\ta written risk management strategy approved by senior management, which in the opinion of senior management addresses all material risks to which the Captive Insurer is likely to be exposed;\n(b)\trisk management policies and procedures that in the opinion of senior management are adequate to identify, assess, mitigate, control, monitor and report on the material risks to which the Captive Insurer is exposed; and\n(c)\tclearly identified managerial responsibilities and controls, designed to ensure that the policies and procedures established for risk management are adhered to at all times."
+    },
+    {
+        "ID": "4aecceb1-09f7-4dfc-89cc-046751d5976f",
+        "DocumentID": 2,
+        "PassageID": "2.4.2",
+        "Passage": "Management of particular risks\nWithout prejudice to the generality of Rule \u200e2.4(1, a Captive Insurer must develop, implement and maintain a risk management system to identify and address risks, including but not limited to:\n(a)\treserving risk;\n(b)\tinvestment risk (including risks associated with the use of Derivatives);\n(c)\tunderwriting risk;\n(d)\tmarket risk;\n(e)\tliquidity management risk;\n(f)\tcredit quality risk;\n(g)\tfraud and other fiduciary risks;\n(h)\tcompliance risk;\n(i)\toutsourcing risk; and\n(j)\treinsurance risk.  Reinsurance risk refers to risks associated with the Captive Insurer's use of reinsurance arrangements as Cedant."
+    },
+    {
+        "ID": "5ea06ee5-80f0-4aba-9158-275bfa0d184c",
+        "DocumentID": 2,
+        "PassageID": "2.4.3",
+        "Passage": "Record-keeping\nA Captive Insurer must maintain records adequate to enable it to:\n(a)\tfulfil its obligations under Contracts of Insurance effected by it; and\n(b)\tdemonstrate that it complies with these Rules."
+    },
+    {
+        "ID": "01b1bf29-16e6-4a5c-a18d-f7b607af968e",
+        "DocumentID": 2,
+        "PassageID": "2.5",
+        "Passage": "Restrictions on Captive Insurance Business\nA Captive Insurer must comply with the restrictions in FSMR on the business which it may undertake and in particular with Part 4 (Authorisation).\n\n"
+    },
+    {
+        "ID": "277676b3-cad6-405c-92bd-f5a505966b59",
+        "DocumentID": 2,
+        "PassageID": "3",
+        "Passage": "ELIGIBLE CAPITAL"
+    },
+    {
+        "ID": "7468cd4c-5ea3-41c8-9097-c4c2537775ea",
+        "DocumentID": 2,
+        "PassageID": "3.1.1",
+        "Passage": "Eligible capital\nEligible capital of a Captive Insurer means an instrument or other asset that is included in calculating the Captive Insurer's minimum capital requirement under Rule \u200e2.2."
+    },
+    {
+        "ID": "347d1887-5e76-4290-94d5-a6bb78ec07ca",
+        "DocumentID": 2,
+        "PassageID": "3.1.2",
+        "Passage": "Eligible capital amount"
+    },
+    {
+        "ID": "8c151d92-d6cf-4e8e-9765-08d1d2b1dcba",
+        "DocumentID": 2,
+        "PassageID": "3.1.2.(1)",
+        "Passage": "The total eligible capital of a Captive Insurer is the amount of the Captive Insurer's eligible capital, calculated in accordance with the following formula:\nEligible capital \u2013 required deduction\nwhere:\nEligible capital means the sum of the Captive Insurer\u2019s \u2014\n(a)\tpermanent share capital;\n(b)\tretained earnings or losses;\n(c)\tthe following items up to an amount not exceeding 50% of the sum of paragraphs (a) and (b) above:\n(d)\tqualifying letters of credit under Rule \u200e3.1.4; and\n(e)\tany other instrument permitted by the Regulator under Rule \u200e3.1.2(2)(a).\nRequired deduction, for a Captive Insurer, means the sum of\u2014\n(i)\tinvestments in Subsidiaries and Associates;\n(ii)\tintangible assets; and\n(iii)\tany other asset that the Regulator directs, under Rule \u200e3.1.2(2)(b), the Captive Insurer to include."
+    },
+    {
+        "ID": "3f99eb7a-1318-487f-a35d-3c130de750ee",
+        "DocumentID": 2,
+        "PassageID": "3.1.2.(2)",
+        "Passage": "For calculating the Captive Insurer's total eligible capital, the Regulator may, by written notice, do any one or more of the following:\n(a)\tallow the Captive Insurer to include an instrument as eligible capital;\n(b)\tdirect the Captive Insurer to include an asset as a required deduction;\n(c)\tallow the Captive Insurer to exceed the 50% limit in paragraph (cof the definition of eligible capital in Rule \u200e3.1.2(1)."
+    },
+    {
+        "ID": "917a26d4-ee14-4ab6-9dfc-1067f6ff20bb",
+        "DocumentID": 2,
+        "PassageID": "3.1.2.(3)",
+        "Passage": "Permission under Rules \u200e3.1.2(2)(a) or \u200e3.1.2(2)(c) may be given on application of the Captive Insurer or on the Regulator's own initiative."
+    },
+    {
+        "ID": "6a335ef5-d286-4e4a-bf5e-13e0acd44de7",
+        "DocumentID": 2,
+        "PassageID": "3.1.3",
+        "Passage": "Permanent Share Capital\nPermanent Share Capital means ordinary share capital or an equivalent capital instrument which meets the following conditions:\n(a)\tit is fully paid up and subscription to it is not financed directly or indirectly by the issuer;\n(b)\tit is directly issued;\n(c)\tit is recognised as equity under applicable national accounting standards and insolvency law and gives investors a claim as shareholder or equivalent status;\n(d)\tit is simple and the terms upon which it is issued are clearly defined;\n(e)\tit is undated and non-redeemable except with the prior written consent of the Regulator;\n(f)\tit does not give the holder a right to require redemption and its terms do not create any expectation that it will be redeemed at any point;\n(g)\tit is immediately and fully available to the Captive Insurer to absorb losses on a going concern basis;\n(h)\tit ranks for repayment upon winding up or insolvency pari passu with all other Permanent Share Capital and after all other debts and liabilities;\n(i)\tit is not subject to a guarantee, pledge or other credit enhancement that could legally or economically enhance its seniority in the insolvency or liquidation of the Captive Insurer; and\n(j)\tany dividends and other charges in relation to Permanent Share Capital are:\n(a)\tpayable only out of accumulated realised profits;\n(b)\tpayable only at the option of the Captive Insurer;\n(c)\tnon-cumulative;\n(d)\tnot fixed, capped or otherwise ascertainable in advance of being declared;\n(e)\tnot calculated by reference to the amount paid in at issuance; and\n(f)\tnot such as to trigger the insolvency of the Captive Insurer in the event of non-payment."
+    },
+    {
+        "ID": "594cf36e-a730-4e3d-86da-5e20f6f5f589",
+        "DocumentID": 2,
+        "PassageID": "3.1.4",
+        "Passage": "Qualifying letters of credit"
+    },
+    {
+        "ID": "09531ba6-44f7-4113-bdf4-943582ecc05c",
+        "DocumentID": 2,
+        "PassageID": "3.1.4.(1)",
+        "Passage": "A letter of credit is a qualifying letter of credit if:\n(a)\tit meets the requirements in Rule \u200e3.1.4(2); and\n(b)\tthe Regulator allows, under Rule 2(2)(a), that it be included as eligible capital."
+    },
+    {
+        "ID": "27f296e6-bc33-466d-b0c3-d6ff38a741d3",
+        "DocumentID": 2,
+        "PassageID": "3.1.4.(2)",
+        "Passage": "A letter of credit meets the requirements of this Rule 3.1.4(2) if:\n(a)\tit is unconditional and irrevocable;\n(b)\tit does not contain a subordination clause;\n(c)\tit is legally enforceable in ADGM or any other jurisdiction approved for this purpose by the Regulator;\n(d)\tit cannot be cancelled or amended without the consent of all parties;\n(e)\tit is for a fixed amount;\n(f)\tit is renewable annually;\n(g)\tthe terms of the agreement between the bank and the Captive Insurer do not require the Captive Insurer to give collateral to the bank for issuing the letter of credit; and\n(h)\tthe bank that provides the letter of credit is, at the time of issue, and afterwards:\n(i)\trated at least BBB+ by Standard & Poor's or the equivalent by another Approved Rating Agency; and\n(ii)\tregulated in ADGM or any other jurisdiction approved for this purpose by the Regulator."
+    },
+    {
+        "ID": "2e5acb68-0711-4ed0-9041-a906eb239063",
+        "DocumentID": 2,
+        "PassageID": "3.1.4.(3)",
+        "Passage": "A letter of credit is, or is taken to be, legally enforceable in ADGM or any other jurisdiction approved for this purpose by the Regulator if:\n(a)\tit is issued by a bank regulated in ADGM; or\n(b)\tit is issued by a bank regulated in any jurisdiction approved for this purpose by the Regulator and the Captive Insurer has an appropriate legal opinion that the letter of credit is enforceable in ADGM or that jurisdiction."
+    },
+    {
+        "ID": "8fca9e3b-0d28-4206-a3fb-6f17261ec492",
+        "DocumentID": 2,
+        "PassageID": "3.1.4.(4)",
+        "Passage": "If a letter of credit ceases to be a qualifying letter of credit, the Captive Insurer must:\n(a)\timmediately tell the Regulator in writing; and\n(b)\ttake the necessary steps to ensure that the Captive Insurer continues to meet its minimum capital requirement under Rule \u200e2.2 (for example, by obtaining replacement qualifying letters of credit)."
+    },
+    {
+        "ID": "4cc9b01c-f367-43b6-ba97-87038229db56",
+        "DocumentID": 2,
+        "PassageID": "3.1.5",
+        "Passage": "Intangible assets"
+    },
+    {
+        "ID": "018445fc-1f2a-4774-8c9d-96727c69f100",
+        "DocumentID": 2,
+        "PassageID": "3.1.5.(1)",
+        "Passage": "Intangible assets of a Captive Insurer include:\n(a)\tgoodwill;\n(b)\tcapitalised development costs;\n(c)\tbrand names;\n(d)\ttrademarks, patents and similar intellectual property rights; and\n(e)\tlicences."
+    },
+    {
+        "ID": "d2baf1cd-25af-4baa-9ba0-e668cc47993f",
+        "DocumentID": 2,
+        "PassageID": "3.1.5.(2)",
+        "Passage": "The amount of deduction for intangible assets must be based on the full balance sheet value of the assets."
+    },
+    {
+        "ID": "3e921464-2bf5-46de-b079-8081d9e574a9",
+        "DocumentID": 2,
+        "PassageID": "3.1.6",
+        "Passage": "Asset Requirements"
+    },
+    {
+        "ID": "c5517eb1-c401-4e59-bdf7-b65c7b34233e",
+        "DocumentID": 2,
+        "PassageID": "3.1.6.(1)",
+        "Passage": "A Captive Insurer must invest its assets in such a manner as to ensure the security, quality, liquidity and profitability of the portfolio as a whole and shall only invest in assets whose risks it can properly identify, measure, monitor, manage, control and report, and appropriately take into account in accordance with Chapter 6."
+    },
+    {
+        "ID": "c5de59a4-723a-4b44-aa8e-fd85fc3bfb01",
+        "DocumentID": 2,
+        "PassageID": "3.1.6.(2)",
+        "Passage": "A Captive Insurer must invest its assets held to cover the technical provisions in a manner appropriate to the nature and duration of the insurance and/or reinsurance liabilities."
+    },
+    {
+        "ID": "d51ee1c3-dd06-4673-a49e-dcc9becc3ea2",
+        "DocumentID": 2,
+        "PassageID": "3.1.6.(3)",
+        "Passage": "A Captive Insurer must not invest its assets in a manner that places excessive reliance on any particular asset issuer or group of issuers or geographical area or which results in an excessive accumulation of risk in the portfolio as a whole.\n\n"
+    },
+    {
+        "ID": "a22a742e-0450-4bd3-a631-7879bd4f930d",
+        "DocumentID": 2,
+        "PassageID": "4",
+        "Passage": "ADDITIONAL REQUIREMENTS FOR CELL COMPANIES"
+    },
+    {
+        "ID": "48ee20ca-5d6a-4b8f-a5fb-4e3d6c7b25f9",
+        "DocumentID": 2,
+        "PassageID": "4.1",
+        "Passage": "Definitions\nFor the purpose of Rule 4.1:\n(a)\tnet Cellular Assets of a Captive Cell are the assets attributable to the Captive Cell (other than any deductible assets) less the liabilities attributable to the Captive Cell;\n(b)\tnon-cellular eligible capital of a Captive Insurer that is a Cell Company means the Insurer's eligible capital calculated in accordance with Chapter 3, but excluding:\n(a)\tCell Shares; and\n(b)\tany capital instruments or equity reserves that are attributable to a Captive Cell; and\n(c)\trecourse agreement means an agreement under which a Cell is entitled to have recourse to Non-Cellular Assets."
+    },
+    {
+        "ID": "8dbcbab1-e2e7-4db9-9150-6cd35c46aa75",
+        "DocumentID": 2,
+        "PassageID": "4.2",
+        "Passage": "General requirement"
+    },
+    {
+        "ID": "dbe3fe89-3c5b-4979-ab7a-ef52de795825",
+        "DocumentID": 2,
+        "PassageID": "4.2.1",
+        "Passage": "A Captive Insurer that is a Cell Company must at all times hold non-cellular eligible capital of at least $50,000."
+    },
+    {
+        "ID": "b017f138-74e5-405d-bbb9-ea78b90f9ec9",
+        "DocumentID": 2,
+        "PassageID": "4.2.2",
+        "Passage": "Subject to Rule \u200e4.2.3, if a Captive Cell has recourse to the Non-Cellular Assets of the Cell Company under one or more recourse agreements which have been approved by the Regulator, those Non-Cellular Assets may be included for the purpose of satisfying the requirement in Rule \u200e4.2.1."
+    },
+    {
+        "ID": "aae3a5b7-7103-4b84-8029-07af9f77ddbc",
+        "DocumentID": 2,
+        "PassageID": "4.2.3",
+        "Passage": "The Regulator may, by written notice, direct a Captive Cell to include or exclude Non-Cellular Assets under a recourse agreement for the purpose of satisfying the requirement in Rule \u200e4.2.1."
+    },
+    {
+        "ID": "b7fc20b0-6fb5-4ad3-9ec5-340ad41bd2eb",
+        "DocumentID": 2,
+        "PassageID": "4.2.4",
+        "Passage": "Pursuant to the power in Rule \u200e2.3.1(2)(a), in the event that a Captive Cell relies on a recourse agreement for the purpose of Rule \u200e4.2.2, the Regulator may (by written notice) require the Captive Insurer to report on its cellular and non-cellular financial resources and capital requirements on an aggregated basis."
+    },
+    {
+        "ID": "4cc9daba-f672-44b5-b498-6fcf47617179",
+        "DocumentID": 2,
+        "PassageID": "4.3",
+        "Passage": "Captive Insurers that are Cell Companies to conduct Insurance Business only through Captive Cells\nA Captive Insurer that is a Cell Company must ensure that, when it conducts Captive Insurance Business, each Contract of Insurance is attributable to a particular Captive Cell of the Captive Insurer."
+    },
+    {
+        "ID": "b9428e25-67a6-422d-bfb8-cea746aa9bb7",
+        "DocumentID": 2,
+        "PassageID": "4.4",
+        "Passage": "Minimum solvency criterion"
+    },
+    {
+        "ID": "c072ed7d-af2a-4802-b16f-4355aa292817",
+        "DocumentID": 2,
+        "PassageID": "4.4.1",
+        "Passage": "A Captive Cell that is conducting Captive Insurance Business (an active Cell) must meet the minimum solvency criterion."
+    },
+    {
+        "ID": "445f3003-a920-48df-9599-a9fcbae86669",
+        "DocumentID": 2,
+        "PassageID": "4.4.2",
+        "Passage": "An active Cell must comply with Rule \u200e4.4.1 by maintaining the higher of:\n(a)\tnet Cellular Assets of at least $50,000; and\n(b)\tthe risk-based minimum solvency requirement in Rule \u200e4.5."
+    },
+    {
+        "ID": "5eda4b41-418e-4367-98b7-f585a24cfcc1",
+        "DocumentID": 2,
+        "PassageID": "4.5",
+        "Passage": "Risk-based minimum solvency requirement"
+    },
+    {
+        "ID": "f264397f-6b6f-4eb6-8ddc-b5e9bbc673c8",
+        "DocumentID": 2,
+        "PassageID": "4.5.1",
+        "Passage": "The risk-based minimum solvency requirement for a Captive Cell is that the amount of the Captive Cell's net Cellular Assets must be greater than the liabilities attributable to the Captive Cell by at least the greater of:\n(a)\tthe Captive Cell's premium risk component; and\n(b)\tits technical provision risk component."
+    },
+    {
+        "ID": "6ae597e3-2952-407a-805b-9cac09362f8f",
+        "DocumentID": 2,
+        "PassageID": "4.5.2",
+        "Passage": "In this Rule, deductible assets of a Captive Cell means:\n(a)\tinvestments in Subsidiaries and Associates;\n(b)\tintangible assets; and\n(c)\tany other asset that the Regulator has directed the Captive Insurer to include under Rule \u200e3.1.2(2)(b)."
+    },
+    {
+        "ID": "62c4468b-a646-4a78-8f7b-fcd384c8ebd3",
+        "DocumentID": 2,
+        "PassageID": "4.6",
+        "Passage": "Premium risk component for a Captive Cell"
+    },
+    {
+        "ID": "c4355a33-cc3d-44e3-a151-b1ec5fcace48",
+        "DocumentID": 2,
+        "PassageID": "4.6.1",
+        "Passage": "The premium risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer is the amount calculated in accordance with the following formula:\n18% \u00d7 Captive Cell's Net Written Premium up to $5 million\nPLUS\n16% \u00d7 Captive Cell's Net Written Premium in excess of $5 million"
+    },
+    {
+        "ID": "f01c34cd-70e6-4847-946e-bd016dc3ca32",
+        "DocumentID": 2,
+        "PassageID": "4.7",
+        "Passage": "Technical provision risk component \u2013 Captive Cells conducting General Insurance Business"
+    },
+    {
+        "ID": "bf76d625-a219-4603-b215-6a55ba08c461",
+        "DocumentID": 2,
+        "PassageID": "4.7.1",
+        "Passage": "The technical provision risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts General Insurance Business is the amount calculated in accordance with the following formula:\n5% \u00d7 net claims reserve under general Contracts of Insurance\nwhere net claims reserve, as at a date, is the amount of the Captive Insurer's provisions for:\ni.\tclaims incurred but not yet paid as at the date, including claims incurred but not yet reported; and\nii.\tdirect and indirect claims settlement expenses for those claims,\nless the amount of reinsurance and other recoveries expected to be received in respect of those claims."
+    },
+    {
+        "ID": "08d81e07-46d9-45fe-8fd3-5739dcd9e5a7",
+        "DocumentID": 2,
+        "PassageID": "4.7.2",
+        "Passage": "Notwithstanding Rule \u200e4.7.1, the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator's own initiative) to include a particular Contract of Insurance or class of Contracts of Insurance in the net claims reserve of a Captive Cell of the Captive Insurer."
+    },
+    {
+        "ID": "47d7257f-179d-4b77-98b4-17969dcb1330",
+        "DocumentID": 2,
+        "PassageID": "4.8",
+        "Passage": "Technical provision risk component \u2013 Captive Cells conducting Long-Term Insurance Business\nThe technical provision risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts Long-Term Insurance Business is 2.5% of the policyholder liabilities calculated using actuarial methods for Long-Term Insurance.\n\n"
+    },
+    {
+        "ID": "e507614b-0049-4237-90ff-2356e35c056c",
+        "DocumentID": 2,
+        "PassageID": "5",
+        "Passage": "MANAGERIAL FUNCTIONS"
+    },
+    {
+        "ID": "13ff2b6c-b783-451f-9ab5-12bd621d876b",
+        "DocumentID": 2,
+        "PassageID": "5.1",
+        "Passage": "Management systems and controls\nThe provisions relating to the management systems and controls with which a Captive Insurer must comply are set out in GEN 3."
+    },
+    {
+        "ID": "07e025ea-8e06-47a1-bc0a-3e5cb2ae1658",
+        "DocumentID": 2,
+        "PassageID": "5.2",
+        "Passage": "Outsourcing\nA Captive Insurer may outsource its managerial functions to a Captive Insurance Manager (but not any other party), subject to the requirements of GEN 3.3.\n\n"
+    },
+    {
+        "ID": "5f537af7-287d-442e-b132-3e95b850c033",
+        "DocumentID": 2,
+        "PassageID": "6",
+        "Passage": "VALUATION OF ASSETS AND LIABILITIES"
+    },
+    {
+        "ID": "9b9fc543-e770-48e2-874b-2cb9c9237147",
+        "DocumentID": 2,
+        "PassageID": "6.1",
+        "Passage": "General provisions"
+    },
+    {
+        "ID": "c90be3bc-a153-41fd-904d-3dfdeeb15b40",
+        "DocumentID": 2,
+        "PassageID": "6.1.1",
+        "Passage": "Subject to Rules \u200e6.1.2, \u200e6.1.3, and \u200e6.1.4, a Captive Insurer must value its assets and liabilities in accordance with this Chapter."
+    },
+    {
+        "ID": "8b46c580-bbe4-4776-9439-419212a3c903",
+        "DocumentID": 2,
+        "PassageID": "6.1.2",
+        "Passage": "A Captive Insurer may value an asset at less than the value measured in accordance with this Chapter."
+    },
+    {
+        "ID": "814f553c-54bd-4399-a87c-4e69ad260e30",
+        "DocumentID": 2,
+        "PassageID": "6.1.3",
+        "Passage": "A Captive Insurer may value a liability at more than the value measured in accordance with this Chapter."
+    },
+    {
+        "ID": "d50b8a0f-8e9c-4cb4-a9c3-aee3c90e0d04",
+        "DocumentID": 2,
+        "PassageID": "6.1.4",
+        "Passage": "Notwithstanding any other provision of this Chapter, the Regulator may, by written notice, direct a Captive Insurer to measure an asset or a liability in accordance with principles specified by the Regulator in that written notice."
+    },
+    {
+        "ID": "a24cbc96-936a-4d37-a0e7-9555263276d0",
+        "DocumentID": 2,
+        "PassageID": "6.2",
+        "Passage": "Classification of contracts"
+    },
+    {
+        "ID": "cf21d268-e7fb-4453-a59e-c65ac52ef85d",
+        "DocumentID": 2,
+        "PassageID": "6.2.1",
+        "Passage": "A Captive Insurer must, in its own records, classify all Contracts of Insurance effected by it as Captive Insurer and all contracts of reinsurance entered into by it as Cedant, according to the Class of Business to which the contracts relate."
+    },
+    {
+        "ID": "feeccc72-2123-4b9e-94e5-293ac98f0f0f",
+        "DocumentID": 2,
+        "PassageID": "6.2.2",
+        "Passage": "Where a contract relates to more than one Class of Business, the Captive Insurer must record separately the portions of the contract that relate to each Class of Business, except that immaterial portions need not be separately recorded."
+    },
+    {
+        "ID": "f9894ef5-14c6-414d-a584-79c27bb04d9c",
+        "DocumentID": 2,
+        "PassageID": "6.3",
+        "Passage": "Accounting standards and principles"
+    },
+    {
+        "ID": "f817271a-fbfc-4adf-b314-72fc11e1aa56",
+        "DocumentID": 2,
+        "PassageID": "6.3.1",
+        "Passage": "Except where these Rules provide for a different method of recognition or valuation, whenever a Rule refers to an asset, liability, equity or income statement item, a Captive Insurer must, for the purpose of that Rule, recognise the asset, liability, equity or income statement item and measure its value in accordance with IFRS or any other accounting standards as applicable to the Captive Insurer for the purpose of its external financial reporting."
+    },
+    {
+        "ID": "e78e3995-5b4f-4c92-95bb-dac533078a8c",
+        "DocumentID": 2,
+        "PassageID": "6.3.2",
+        "Passage": "Rule \u200e6.3.1 applies whenever a Rule refers to the value or amount of an asset, liability, equity or income statement item, including:\n(a)\twhether, and when, to recognise or de-recognise an asset or liability;\n(b)\tthe amount at which to value an asset, liability, equity or income statement item; and\n(c)\twhich description to place on an asset, liability, equity or income statement item."
+    },
+    {
+        "ID": "df889dc9-7f26-42d8-89a1-2827ee13f7b6",
+        "DocumentID": 2,
+        "PassageID": "6.4",
+        "Passage": "Adjustments to accounting values"
+    },
+    {
+        "ID": "932ac703-efbe-4a37-b94d-88dd21d67db5",
+        "DocumentID": 2,
+        "PassageID": "6.4.1",
+        "Passage": "For the purpose of these Rules, except where a Rule provides for a different method of recognition or valuation, when a Captive Insurer, upon initial recognition, designates its liabilities as at fair value through profit or loss, it must always adjust any value calculated in accordance with Rule \u200e6.3 by subtracting any unrealised gains or adding back in any unrealised losses which are not attributable to changes in a benchmark interest rate."
+    },
+    {
+        "ID": "f46bfa32-18b7-4569-aaca-6c16fbf6a78e",
+        "DocumentID": 2,
+        "PassageID": "6.4.2",
+        "Passage": "The provisions of Rule \u200e6.4.1 apply only to the extent that the items referred to in that paragraph would otherwise be recognised under the accounting requirements applicable to the Captive Insurer."
+    },
+    {
+        "ID": "d4cd0c23-a01d-4ad7-8e80-d756c9d506d9",
+        "DocumentID": 2,
+        "PassageID": "6.5",
+        "Passage": "General requirements: methods of valuation and systems and controls"
+    },
+    {
+        "ID": "3334a995-2da7-4c53-8c1c-e1fe41d8844f",
+        "DocumentID": 2,
+        "PassageID": "6.5.1",
+        "Passage": "A Captive Insurer must establish and maintain systems and controls sufficient to provide prudent and reliable valuation estimates."
+    },
+    {
+        "ID": "17723b37-a53e-4ad9-aabb-f9cfccf39dec",
+        "DocumentID": 2,
+        "PassageID": "6.5.2",
+        "Passage": "Systems and controls under Rule \u200e6.5.1 must include documented policies and procedures for the process of valuation, including clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and a review of their appropriateness, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, month-end and ad-hoc verification procedures and, where relevant, guidelines for the use of unobservable inputs reflecting a Captive Insurer's assumptions of what market participants would use in pricing the position."
+    },
+    {
+        "ID": "85fa5acb-d2a4-438e-b0a3-1ecd84e19554",
+        "DocumentID": 2,
+        "PassageID": "6.6",
+        "Passage": "General requirements: marking to market"
+    },
+    {
+        "ID": "7b75295d-3023-4980-9ca8-71a527649045",
+        "DocumentID": 2,
+        "PassageID": "6.6.1",
+        "Passage": "Subject to the exceptions set out in this Chapter, Rule \u200e6.6.2 applies in relation to the valuation of Investments that are, or amounts arising from the disposal of:\n(a)\tdebt securities, bonds and other money-market and capital-market instruments;\n(b)\tloans;\n(c)\tshares and other variable yield participations;\n(d)\tunits in Collective Investment Funds;\n(e)\tDerivatives; and\n(f)\tany balance sheet position measured at market value or fair value."
+    },
+    {
+        "ID": "d3ab7118-2ac1-4bd3-a89d-3f2776cb744f",
+        "DocumentID": 2,
+        "PassageID": "6.6.2",
+        "Passage": "Wherever possible, a Captive Insurer must mark-to-market in order to measure the value of the investments and positions to which this Rule applies under Rule 6.6.1. Marking to market is valuation at readily available close out prices from independent sources."
+    },
+    {
+        "ID": "d28d0301-2940-45b9-8090-2206e131aa5a",
+        "DocumentID": 2,
+        "PassageID": "6.6.3",
+        "Passage": "For the purposes of Rule \u200e6.6.2, examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers."
+    },
+    {
+        "ID": "4ca118e3-2917-4365-b419-ddb3458ed181",
+        "DocumentID": 2,
+        "PassageID": "6.6.4",
+        "Passage": "When marking to market, a Captive Insurer must use the more prudent side of bid/offer."
+    },
+    {
+        "ID": "55dbb317-72ea-43dd-9d17-be0327b4ecff",
+        "DocumentID": 2,
+        "PassageID": "6.7",
+        "Passage": "General requirements: independent price verification"
+    },
+    {
+        "ID": "a7de4cb1-0505-46f3-a568-075bdd30722d",
+        "DocumentID": 2,
+        "PassageID": "6.7.1",
+        "Passage": "A Captive Insurer must perform independent price verification. This is the process by which market prices or model inputs are regularly verified for accuracy and independence."
+    },
+    {
+        "ID": "aa853f3d-a895-48e8-af54-c3735813308a",
+        "DocumentID": 2,
+        "PassageID": "6.7.2",
+        "Passage": "For independent price verification, where independent pricing sources are not available or pricing sources are more subjective (for example, only one available broker quote), prudent measures such as valuation adjustments may be appropriate."
+    },
+    {
+        "ID": "ddc19948-e48f-47ec-8075-a70ec68ac45c",
+        "DocumentID": 2,
+        "PassageID": "6.8",
+        "Passage": "General requirements: valuation adjustments"
+    },
+    {
+        "ID": "1d481e28-ab36-446f-ad1e-4e6806b67521",
+        "DocumentID": 2,
+        "PassageID": "6.8.1",
+        "Passage": "A Captive Insurer must establish and maintain procedures for considering valuation reserves. These procedures must be compliant with the requirements set out in this Rule."
+    },
+    {
+        "ID": "b0aa130c-36da-48f0-95f3-c0464a7df695",
+        "DocumentID": 2,
+        "PassageID": "6.8.2",
+        "Passage": "A Captive Insurer using third party valuations, or marking to model, must consider whether valuation reserves are necessary."
+    },
+    {
+        "ID": "6666bef2-236c-4b5a-82c5-645ecdf73892",
+        "DocumentID": 2,
+        "PassageID": "6.8.3",
+        "Passage": "A Captive Insurer must consider the need for establishing reserves for less liquid positions and, on an on-going basis, review their continued appropriateness in accordance with the requirements set out in this Rule. Less liquid positions could arise from both market events and institution-related situations e.g. concentration positions and/or stale positions."
+    },
+    {
+        "ID": "62488693-0ea3-4789-8687-176e315ef4bd",
+        "DocumentID": 2,
+        "PassageID": "6.9",
+        "Passage": "Recognition and measurement of Insurance Liabilities and establishment of technical provisions"
+    },
+    {
+        "ID": "04b339d7-dd69-4f80-878f-26ea56a80718",
+        "DocumentID": 2,
+        "PassageID": "6.9.1",
+        "Passage": "A Captive Insurer must establish technical provisions in respect of all of its insurance and reinsurance obligations to policyholders and beneficiaries of insurance and contracts of reinsurance."
+    },
+    {
+        "ID": "a4c9d1c1-57bd-4aa1-8c3c-d82ff18624c1",
+        "DocumentID": 2,
+        "PassageID": "6.9.2",
+        "Passage": "The value of technical provisions established by a Captive Insurer must:\n(a)\tcorrespond to the current amount the Captive Insurer would have to pay if it were to transfer its insurance and reinsurance obligations immediately to another entity; and\n(b)\texcept where the alternative approach is permitted in accordance with Rule \u200e6.9.10, be equal to the sum of a best estimate and a risk margin."
+    },
+    {
+        "ID": "a624d5cd-2839-4320-837a-be1acf2a9e40",
+        "DocumentID": 2,
+        "PassageID": "6.9.3",
+        "Passage": "A Captive Insurer must calculate its technical provisions:\n(a)\tmaking use of, and consistent with, information provided by the financial markets and generally available data on underwriting risks;\n(b)\tin a prudent, reliable and objective manner;\n(c)\ttaking account of all expenses that will be incurred in servicing the obligations arising under the Captive Insurer's insurance and contracts of reinsurance;\n(d)\ttaking account of inflation, including expenses and claims inflation in respect of the obligations arising under the Captive Insurer's insurance and contracts of reinsurance;\n(e)\ttaking account of all payments to policyholders and beneficiaries, including future discretionary bonuses (if any), which the Captive Insurer expects to make, whether or not those payments are contractually guaranteed;\n(f)\ttaking account of the value of financial guarantees and any contractual options included in the Captive Insurer's insurance and reinsurance policies; and\n(g)\tapplying assumptions relating to the likelihood that policyholders will exercise contractual options, including lapses and surrenders, that are realistic and based on current and credible information and which take account, either explicitly or implicitly, of the impact that future changes in financial and non-financial conditions may have on the exercise of those options."
+    },
+    {
+        "ID": "5fe73a36-e772-40dd-9076-b19cc9aa602f",
+        "DocumentID": 2,
+        "PassageID": "6.9.4",
+        "Passage": "The best estimate calculated by a Captive Insurer must correspond to the probability-weighted average of future cash-flows under the Captive Insurer's insurance and contracts of reinsurance, taking account of the time value of money using the relevant discount rate applying pursuant to Rule \u200e6.12."
+    },
+    {
+        "ID": "8b1d9723-c2ae-49b5-85d9-e86995dde92f",
+        "DocumentID": 2,
+        "PassageID": "6.9.5",
+        "Passage": "A Captive Insurer must calculate the best estimate:\n(a)\tbased upon up-to-date and credible information and realistic assumptions and using adequate, applicable and relevant actuarial and statistical methods;\n(b)\ttaking account of all the cash in- and out-flows required to settle the obligations arising under the Insurer's insurance and contracts of reinsurance; and\n(c)\tgross, without deduction of the amounts recoverable from contracts of reinsurance entered into by the Captive Insurer as Cedant."
+    },
+    {
+        "ID": "f706bfa3-ed73-40ae-ae88-25076cc842d7",
+        "DocumentID": 2,
+        "PassageID": "6.9.6",
+        "Passage": "A Captive Insurer must calculate the risk margin so as to ensure that the value of the technical provisions is equivalent to the amount that another entity would be expected to require in order to take over and meet the obligations arising under the Captive Insurer's insurance and contracts of reinsurance."
+    },
+    {
+        "ID": "72488dc3-191f-4d6c-81b9-685ff8970654",
+        "DocumentID": 2,
+        "PassageID": "6.9.7",
+        "Passage": "A Captive Insurer must calculate the best estimate and the risk margin separately."
+    },
+    {
+        "ID": "ee04dffb-6bd5-4deb-b2a3-7b7758dd4d0e",
+        "DocumentID": 2,
+        "PassageID": "6.9.8",
+        "Passage": "A Captive Insurer must calculate the risk margin by determining the cost of providing an amount of Adjusted Capital Resources equal to the minimum capital requirement provided for in Rule \u200e2.2 in respect of the obligations under the Captive Insurer's insurance and contracts of reinsurance over the lifetime thereof."
+    },
+    {
+        "ID": "b5c7149f-3701-478a-b368-f94d2dbe74ac",
+        "DocumentID": 2,
+        "PassageID": "6.9.9",
+        "Passage": "The Regulator may specify the cost of capital that applies under Rule \u200e6.9.8."
+    },
+    {
+        "ID": "e14284bf-bc7e-43ea-a5c6-ce9537de6f2b",
+        "DocumentID": 2,
+        "PassageID": "6.9.10",
+        "Passage": "Notwithstanding Rule \u200e6.9.7 and Rule \u200e6.9.2(b) where future cash flows associated with obligations under a Captive Insurer's insurance and contracts of reinsurance can be replicated reliably using Financial Instruments for which a reliable market value is observable, a Captive Insurer must determine the value of technical provisions associated with those future cash flows on the basis of the market value of those Financial Instruments. In this case, separate calculations of the best estimate and the risk margin are not required."
+    },
+    {
+        "ID": "8454904a-2535-4c6d-ae14-46d337fc501f",
+        "DocumentID": 2,
+        "PassageID": "6.9.11",
+        "Passage": "The Regulator may specify actuarial principles to be used by a Captive Insurer in relation to the recognition and measurement of Insurance Liabilities and the establishment of technical provisions."
+    },
+    {
+        "ID": "6c08d8c9-39a1-4ead-b646-ea00c3d94df7",
+        "DocumentID": 2,
+        "PassageID": "6.10",
+        "Passage": "Recognition and measurement of insurance assets and incurred liabilities in respect of General Insurance"
+    },
+    {
+        "ID": "6ff462a8-e528-47e7-a71b-a09f141e7058",
+        "DocumentID": 2,
+        "PassageID": "6.10.1",
+        "Passage": "This Rule applies to assets and liabilities in respect of general Contracts of Insurance."
+    },
+    {
+        "ID": "a8c2fcb2-1a1d-4f0b-91f9-111237287cf5",
+        "DocumentID": 2,
+        "PassageID": "6.10.2",
+        "Passage": "Premiums in respect of direct Contracts of Insurance, facultative contracts of reinsurance and non-proportional treaty contracts of reinsurance entered into by a Captive Insurer as insurer must be treated as receivable from the date of entering into the insurance contract."
+    },
+    {
+        "ID": "39e598b2-04bd-4dc4-887c-d4d2329779bd",
+        "DocumentID": 2,
+        "PassageID": "6.10.3",
+        "Passage": "Premiums in respect of proportional treaty contracts of reinsurance entered into by a Captive Insurer as reinsurer must be treated as receivable in accordance with the pattern of the Cedant entering into the underlying Contracts of Insurance."
+    },
+    {
+        "ID": "37b3f04c-2b7f-417a-85e7-ea522345ad68",
+        "DocumentID": 2,
+        "PassageID": "6.10.4",
+        "Passage": "Premiums in respect of facultative contracts of reinsurance and non-proportional treaty contracts entered into by a Captive Insurer as Cedant must be treated as payable from the date of entering into the reinsurance contract."
+    },
+    {
+        "ID": "5f7161e6-e85e-417d-9082-62ea87f26525",
+        "DocumentID": 2,
+        "PassageID": "6.10.5",
+        "Passage": "Premiums in respect of proportional treaty contracts of reinsurance entered into by a Captive Insurer as Cedant must be treated as payable in accordance with the pattern of effecting the underlying Contracts of Insurance."
+    },
+    {
+        "ID": "cfd1677b-c9bf-43b0-afc2-dbc3b4d2596b",
+        "DocumentID": 2,
+        "PassageID": "6.10.6",
+        "Passage": "A Captive Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date."
+    },
+    {
+        "ID": "a9cea651-de53-43c8-9f7f-2612ab06e363",
+        "DocumentID": 2,
+        "PassageID": "6.10.7",
+        "Passage": "A Captive Insurer may treat as an asset the value of reinsurance receivables and other recoveries expected to be received in respect of claims."
+    },
+    {
+        "ID": "ddb2b4d8-32d3-4ba6-82fd-ad5490223754",
+        "DocumentID": 2,
+        "PassageID": "6.10.8",
+        "Passage": "Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts."
+    },
+    {
+        "ID": "d0593b5b-a769-467b-bdb2-7d33725fdeb6",
+        "DocumentID": 2,
+        "PassageID": "6.11",
+        "Passage": "Recognition and measurement of assets and incurred liabilities in respect of Long-Term Insurance"
+    },
+    {
+        "ID": "bc0b4765-ab88-4d0d-9cf2-7bebed14f43c",
+        "DocumentID": 2,
+        "PassageID": "6.11.1",
+        "Passage": "This Rule applies to assets and liabilities in respect of Long-Term Insurance contracts."
+    },
+    {
+        "ID": "39bab763-60aa-4fd5-a570-b06e81d271c6",
+        "DocumentID": 2,
+        "PassageID": "6.11.2",
+        "Passage": "Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as insurer must be treated as receivable from the date on which they are due and receivable."
+    },
+    {
+        "ID": "6a0c2291-ff90-457f-aa58-c3a856475cad",
+        "DocumentID": 2,
+        "PassageID": "6.11.3",
+        "Passage": "Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as Cedant must be treated as payable from the date on which they are due and payable."
+    },
+    {
+        "ID": "8d5c9bc8-4eb7-4d25-83df-06e2aab58835",
+        "DocumentID": 2,
+        "PassageID": "6.11.4",
+        "Passage": "Acquisition costs incurred in respect of Contracts of Insurance entered into by a Captive Insurer must be treated as payable:\n(a)\tin the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and\n(b)\tin the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected."
+    },
+    {
+        "ID": "b06d1bc8-7d31-4c65-85d1-0781e34040d0",
+        "DocumentID": 2,
+        "PassageID": "6.11.5",
+        "Passage": "A Captive Insurer must treat as a liability the amount of Policy Benefits that are due for payment on or before the Solvency Reference Date."
+    },
+    {
+        "ID": "34533429-1697-4991-b660-66348e2d01af",
+        "DocumentID": 2,
+        "PassageID": "6.11.6",
+        "Passage": "A Captive Insurer may treat as an asset the value of reinsurance receivables and other recoveries expected to be received in respect of claims."
+    },
+    {
+        "ID": "c7930f24-9007-41d1-9c7c-c71c5b8c85e8",
+        "DocumentID": 2,
+        "PassageID": "6.11.7",
+        "Passage": "Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts."
+    },
+    {
+        "ID": "b8b02d55-edc3-42d0-b4bd-a419336e48e7",
+        "DocumentID": 2,
+        "PassageID": "6.12",
+        "Passage": "Discount rates"
+    },
+    {
+        "ID": "17589022-3a92-426a-b344-c5897926aa7d",
+        "DocumentID": 2,
+        "PassageID": "6.12.1",
+        "Passage": "The Regulator may specify actuarial principles to be used by a Captive Insurer in determining the discount rate."
+    },
+    {
+        "ID": "c700f687-c569-4605-bda2-e274992b460a",
+        "DocumentID": 2,
+        "PassageID": "6.12.2",
+        "Passage": "For the purposes of determining the net present value of expected future payments in accordance with Rule \u200e6.10 or \u200e6.11, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:\n(a)\tare AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and\n(b)\thave a similar expected payment profile to the liability being measured.\n"
+    },
+    {
+        "ID": "1f357884-a872-45fa-8149-69ec3a6d1c97",
+        "DocumentID": 2,
+        "PassageID": "6.12.3",
+        "Passage": "For the purposes of determining the net present value of expected future receipts in accordance with Rule \u200e6.10.8, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:\n(a)\tare AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and\n(b)\thave a similar expected payment profile to the liability being measured."
+    },
+    {
+        "ID": "0c9b2820-bb7f-4966-9963-eeb9717dc1aa",
+        "DocumentID": 2,
+        "PassageID": "6.12.4",
+        "Passage": "PIN 4.1.4 applies in respect of determination of ratings for the purposes of Rules \u200e6.12.2 and \u200e6.12.3."
+    },
+    {
+        "ID": "0a20916a-3d22-4c35-b7b7-4aa10c18668a",
+        "DocumentID": 2,
+        "PassageID": "6.13",
+        "Passage": "Transfer of risk by a Captive Insurer to an ISPV"
+    },
+    {
+        "ID": "72326885-9c8d-4f15-8109-284524a8dc4a",
+        "DocumentID": 2,
+        "PassageID": "6.13.1",
+        "Passage": "A Captive Insurer may not:\n(a)\ttreat amounts recoverable from an ISPV as:\n(a)\tan asset; or\n(b)\treinsurance for the purposes of calculating its liabilities under Contracts of Insurance it has effected; or\n(b)\totherwise ascribe a value to such amounts,\nunless it has first obtained a waiver from the Regulator."
+    },
+    {
+        "ID": "d08b4260-0e67-4a8c-89f0-6bdbe4c7ce3b",
+        "DocumentID": 2,
+        "PassageID": "6.14",
+        "Passage": "Recognition of reinsurance receivables\nA Captive Insurer may only treat an expected receivable under a reinsurance contract in relation to which it is a Cedant as an asset or take account of it for the purposes of calculating its liabilities under Contracts of Insurance it has effected if the contractual arrangements and the transfer of risk are legally effective and enforceable in all relevant jurisdictions and either the relevant reinsurer is solvent or the Captive Insurer has the benefit of legally effective collateral having a value equal to or greater than the amount of the expected receivable.\n"
+    },
+    {
+        "ID": "b541bf74-1117-4685-9753-bec8a5284a82",
+        "DocumentID": 2,
+        "PassageID": "7",
+        "Passage": "ACTUARIAL REPORTING"
+    },
+    {
+        "ID": "c3977843-6eac-4884-b077-c753a337c8c4",
+        "DocumentID": 2,
+        "PassageID": "7.1",
+        "Passage": "Introduction"
+    },
+    {
+        "ID": "e6a4f870-0af6-4fc4-9aa6-3b3b946d4d65",
+        "DocumentID": 2,
+        "PassageID": "7.1.1",
+        "Passage": "A Captive Insurer that conducts Long-Term Insurance Business must prepare a written report as provided for in this Chapter on at least an annual basis."
+    },
+    {
+        "ID": "5879bc10-16d8-4344-a728-869c88e74ed2",
+        "DocumentID": 2,
+        "PassageID": "7.1.2",
+        "Passage": "A Captive Insurer that conducts General Insurance Business must:\n(a)\tconsider, on an annual basis, the need to prepare a written report as provided for in this Chapter; and\n(b)\tprepare a written report as provided for in this Chapter at least once every three years."
+    },
+    {
+        "ID": "6cc6eb86-6f5f-43d3-9212-dfc8c1e931c8",
+        "DocumentID": 2,
+        "PassageID": "7.2",
+        "Passage": "Obligations of Captive Insurers conducting General Insurance Business"
+    },
+    {
+        "ID": "3d303fe7-55bb-41ff-a900-d9f361ae7d63",
+        "DocumentID": 2,
+        "PassageID": "7.2.1",
+        "Passage": "Subject to Rule \u200e7.2.2, this Rule applies to Captive Insurers conducting General Insurance Business."
+    },
+    {
+        "ID": "1679afa4-51fb-4e0c-9fef-7aa1cb33edc1",
+        "DocumentID": 2,
+        "PassageID": "7.2.2",
+        "Passage": "Where a Captive Insurer attributes General Insurance Business to a Long-Term Insurance Fund in accordance with Rule \u200e8.2.2(2), this Rule does not apply to that business."
+    },
+    {
+        "ID": "b1dbc5b2-6449-4626-befa-898c1723ccae",
+        "DocumentID": 2,
+        "PassageID": "7.2.3",
+        "Passage": "Every Captive Insurer must provide to the Regulator as at each reporting date a written report relating to its General Insurance Business, prepared by an Actuary who has the qualifications set out in Rule \u200e7.6.  This report must provide details in respect of each Class of Business, of:\n(a)\tsignificant aspects of the recent experience of the Captive Insurer;\n(b)\tthe Actuary's estimate of the value of General Insurance Liabilities and of assets arising in respect of those liabilities, determined in accordance with Chapter 6;\n(c)\twhere there has been a change in the assumptions or in valuation method from that adopted at the previous valuation, the effect of these changes on the General Insurance Liabilities and assets arising in respect of those liabilities, as at the reporting date;\n(d)\tthe adequacy and appropriateness of data made available to the Actuary by the Captive Insurer;\n(e)\tprocedures undertaken by the Actuary to assess the reliability of the data;\n(f)\tthe model or models used by the Actuary;\n(g)\tthe assumptions used by the Actuary in the valuation process including, without limitation, assumptions made as to inflation and discount rates, future expense rates and where relevant, future investment income;\n(h)\tthe approach taken to estimate the variability of the estimate; and\n(i)\tthe nature and findings of sensitivity analyses undertaken."
+    },
+    {
+        "ID": "0003547a-4d21-4e91-b03f-5da936e9b54f",
+        "DocumentID": 2,
+        "PassageID": "7.3",
+        "Passage": "Obligations of Captive Insurers conducting Long-Term Insurance Business"
+    },
+    {
+        "ID": "710c11bc-fb27-471d-8c7d-ec8d58fc0c3f",
+        "DocumentID": 2,
+        "PassageID": "7.3.1",
+        "Passage": "This Rule applies to Captive Insurers conducting Long-Term Insurance Business."
+    },
+    {
+        "ID": "525bb910-875b-4fa3-96ce-b6f565d98fe7",
+        "DocumentID": 2,
+        "PassageID": "7.3.2",
+        "Passage": "Every Captive Insurer must arrange for an actuarial investigation to be made into its financial condition in respect of its Long-Term Insurance Business.  Such investigation must include a determination of the liabilities of the Captive Insurer attributable to its Long-Term Insurance Business and an investigation of the assets and liabilities of every Long-Term Insurance Fund maintained or deemed to be maintained by it (including a determination of surplus in each such fund)."
+    },
+    {
+        "ID": "3896eac1-41db-4f00-93ca-29b7d1ab40e4",
+        "DocumentID": 2,
+        "PassageID": "7.3.3",
+        "Passage": "An investigation of the type set out in Rule \u200e7.3.2 must be performed at the end of every annual reporting period of the Captive Insurer."
+    },
+    {
+        "ID": "eafa6da9-6a48-49aa-98a4-dff3517f0c22",
+        "DocumentID": 2,
+        "PassageID": "7.3.4",
+        "Passage": "An actuarial investigation under this Rule must be performed by an Actuary who has the qualifications set out in Rule \u200e7.6, and must be conducted according to principles approved by the Regulator."
+    },
+    {
+        "ID": "6dd34dbd-6cdf-4984-b4c3-9fabf21973a5",
+        "DocumentID": 2,
+        "PassageID": "7.3.5",
+        "Passage": "When a Captive Insurer arranges for an actuarial investigation under this Rule, the Captive Insurer must provide to the Regulator a written report of the investigation prepared by the Actuary conducting the actuarial investigation. Such report must be prepared no later than four months from the date of the actuarial investigation and must be submitted to the Regulator in accordance with Rule \u200e7.4.2."
+    },
+    {
+        "ID": "76818fb2-44ad-4883-9872-8cf9add20975",
+        "DocumentID": 2,
+        "PassageID": "7.3.6",
+        "Passage": "This report must provide details of, in respect of each Class of Business:\n(a)\tthe product range (including details of any significant changes in products during the period to which the report relates);\n(b)\tany discretionary charges and benefits, options and guarantees, and reversionary bonus entitlements, where such features are included in a product;\n(c)\treinsurance arrangements;\n(d)\tsignificant aspects of the recent experience of the Insurer, including, where relevant, a commentary on significant deviations of actual experience compared to the assumptions made in the previous valuation;\n(e)\tthe Actuary's estimate of the value of Long-Term Insurance liabilities, determined in accordance with Chapter 6;\n(f)\tthe method and assumptions used by the Actuary in the valuation process, including, where relevant, a commentary on significant differences between the assumptions used and recent actual experience of the Insurer and a description of any non-standard method;\n(g)\tany expense reserves, mismatching reserves and any other special reserves included by the Actuary in the value of the Long-Term Insurance liabilities, or recommended by the Actuary to be maintained, although not included in the valuation;\n(h)\ta determination of the value of surplus in the Long-Term Insurance Fund, before any distribution of such surplus;\n(i)\ta description of the Invested Assets used to determine the risk-adjusted yield on which the discount rate used in the valuation was based;\n(j)\tthe adequacy and appropriateness of data made available to the Actuary by the Captive Insurer;\n(k)\tprocedures undertaken by the Actuary to assess the reliability of the data;\n(l)\tthe model or models used by the Actuary;\n(m)\tthe approach taken to estimate the variability of the estimate;\n(n)\tthe sensitivity analyses undertaken;\n(o)\tany significant changes to the matters reported on during the period since the previous valuation, including in the case of the matters referred to in (f), and otherwise where relevant, an estimate of the effect of these changes on the Long-Term Insurance liabilities as at the Reference Date; and\n(p)\tcommentary on any other factors affecting the valuation."
+    },
+    {
+        "ID": "702a6862-b5ed-469f-97ca-9647b7c5ba99",
+        "DocumentID": 2,
+        "PassageID": "7.3.7",
+        "Passage": "Subject to Rule \u200e7.3.8, where a Captive Insurer carries on Direct Long-Term Insurance Business, the report referred to in Rule \u200e7.3.5 must include the information set out in Rule \u200e7.3.6 segregated by the jurisdiction in which it is carried on."
+    },
+    {
+        "ID": "d2ceabda-faad-48c3-8023-71ba3f714bad",
+        "DocumentID": 2,
+        "PassageID": "7.3.8",
+        "Passage": "Where business in a jurisdiction is of limited significance, disclosures may, at the discretion of the Actuary, be aggregated for those jurisdictions."
+    },
+    {
+        "ID": "afec0e2c-e3a0-4d82-b069-4d082aef92ba",
+        "DocumentID": 2,
+        "PassageID": "7.4",
+        "Passage": "Additional provisions relating to the report"
+    },
+    {
+        "ID": "be2a7c6a-1676-4286-bf75-94e2e0d0695a",
+        "DocumentID": 2,
+        "PassageID": "7.4.1",
+        "Passage": "When appointing an Actuary to prepare a report under Rule \u200e7.2 or \u200e7.3, a Captive Insurer must ensure that there is an agreement in writing which legally binds the Actuary in accordance with the following provisions:\n(a)\tthe contract must require the Actuary to prepare his report in accordance with the provisions of Rule \u200e7.2 or \u200e7.3 as the case may be;\n(b)\tthe contract must require the Actuary to prepare the report using assumptions and methods that are appropriate for the purposes of the actuarial investigation and report and which comply with the requirements of these Rules;\n(c)\tthe contract must require the Actuary to deliver the report to the Captive Insurer's Directors within such time as to give the Directors a reasonable opportunity to consider and use the report in preparing the Captive Insurer's annual Regulatory Return for the reporting period ended on the reporting date;\n(d)\tthe contract must require and permit the Actuary to address the Directors of the Captive Insurer if the Actuary believes that there is a matter relating to the financial position or operations of the Captive Insurer that should be brought to the attention of the Directors; and\n(e)\tthe contract must require and permit the Actuary to address the Regulator if the Actuary believes that a matter will not be adequately dealt with simply by bringing it to the attention of the Directors."
+    },
+    {
+        "ID": "fc9ce666-7a8c-45b3-9c98-e1b76cbd92ca",
+        "DocumentID": 2,
+        "PassageID": "7.4.2",
+        "Passage": "The Captive Insurer must submit the reports referred to in Rule \u200e7.2 and Rule \u200e7.3 to the Regulator at the same time as it submits its annual Regulatory Return for the reporting period ended on the reporting date."
+    },
+    {
+        "ID": "7d050cc6-4d84-4cfc-8851-603590f1682e",
+        "DocumentID": 2,
+        "PassageID": "7.4.3",
+        "Passage": "Abbreviated details may be provided in a report prepared under the requirements of this Chapter in respect of a Class of Business that is not material."
+    },
+    {
+        "ID": "2d6a4a4a-f2b9-4790-acab-cff2153e87bb",
+        "DocumentID": 2,
+        "PassageID": "7.5",
+        "Passage": "Captive Insurers must ensure access to relevant data etc"
+    },
+    {
+        "ID": "bd52d544-e55a-45ad-9e4d-3023c005897f",
+        "DocumentID": 2,
+        "PassageID": "7.5.1",
+        "Passage": "A Captive Insurer that has appointed an Actuary to provide a report under Rule \u200e7.2 or \u200e7.3 must make arrangements to enable the Actuary to undertake his functions, and in particular must:\n(a)\tkeep the Actuary informed of the Captive Insurer's business and other plans;\n(b)\tensure that the Actuary is fully informed of these Rules applicable to the Captive Insurer, as well as any other information that the Regulator has provided to the Captive Insurer that may assist the Actuary in performing his duties; and\n(c)\tensure that the Actuary has access at appropriate times to all relevant data and people which the Actuary reasonably believes is necessary to fulfil his obligations to the Captive Insurer in respect of this Chapter."
+    },
+    {
+        "ID": "8c82a45f-e7b6-4eec-9b56-6bd8808faa8a",
+        "DocumentID": 2,
+        "PassageID": "7.6",
+        "Passage": "Qualifications of the Actuary"
+    },
+    {
+        "ID": "c24f92fb-b224-4b11-8cbd-efdf45a74e3b",
+        "DocumentID": 2,
+        "PassageID": "7.6.1",
+        "Passage": "An Actuary appointed to provide an actuarial report under this Chapter must:\n(a)\tbe experienced in determining liabilities in the Classes of Business dealt with in the actuarial report;\n(b)\thave the required skill and experience to perform his functions under the Rules and Regulations; and\n(c)\tnot perform the function of Chairman or Chief Executive Office of the Captive Insurer or any other function on behalf of the Captive Insurer which could give rise to a significant conflict of interest."
+    },
+    {
+        "ID": "2f20c0ed-eb32-4fc8-afbc-19a53861e3e8",
+        "DocumentID": 2,
+        "PassageID": "7.6.2",
+        "Passage": "A Captive Insurer must notify the Regulator in writing of the name, professional qualifications and relevant experience of each person that the Captive Insurer proposes to appoint to provide an actuarial report under this Chapter."
+    },
+    {
+        "ID": "d9f1cbcf-1849-489a-a53d-22dd660e1740",
+        "DocumentID": 2,
+        "PassageID": "7.6.3",
+        "Passage": "The Regulator may, if it does not believe that the Actuary proposed by the Captive Insurer possesses the qualifications set out in Rule \u200e7.6.1, notify the Captive Insurer in writing that another Actuary must be appointed."
+    },
+    {
+        "ID": "23432f36-a2ac-4b44-885a-ef32c7ec2dd0",
+        "DocumentID": 2,
+        "PassageID": "8",
+        "Passage": "ADDITIONAL REQUIREMENTS FOR LONG-TERM INSURANCE BUSINESS"
+    },
+    {
+        "ID": "5da860f8-07db-4014-bcbd-f72a93f1e276",
+        "DocumentID": 2,
+        "PassageID": "8.1",
+        "Passage": "Establishment of Long-Term Insurance Funds\nA Captive Insurer that is required, under the provisions of Rule \u200e8.2, to establish or maintain a Long-Term Insurance Fund in respect of a part of its business must identify separately in its books and records the assets, liabilities, revenues and expenses attributable to that business.  Those assets, liabilities, revenues and expenses must be recorded separately and accounted for as a Long-Term Insurance Fund."
+    },
+    {
+        "ID": "510a1a41-dd30-47bf-b331-893b2b70a469",
+        "DocumentID": 2,
+        "PassageID": "8.1.1",
+        "Passage": "Captive Insurer not a Cell Company\nWhere a Captive Insurer that is not a Cell Company carries on Long-Term Insurance Business that, under the provisions of Rule \u200e8.2, must be attributed to a Long-Term Insurance Fund, it must either:\n(a)\testablish one or more Long-Term Insurance Funds; or\n(b)\tnotify the Regulator in writing that the Captive Insurer is deemed to constitute a single Long-Term Insurance Fund."
+    },
+    {
+        "ID": "4f917cc2-fb91-491e-80f8-4056a08a4234",
+        "DocumentID": 2,
+        "PassageID": "8.1.2",
+        "Passage": "Captive Insurer a Cell Company\nWhere a Captive Insurer that is a Cell Company carries on, through a Captive Cell, Long-Term Insurance Business that, under the provisions of Rule \u200e8.2, must be attributed to a Long-Term Insurance Fund, it must either:\n(a)\testablish, in respect of that Captive Cell, one or more Long-Term Insurance Funds; or\n(b)\tnotify the Regulator in writing that the Captive Cell is deemed to constitute a single Long-Term Insurance Fund."
+    },
+    {
+        "ID": "f6bf482b-33ba-4cf1-9375-26e6bfeb7ca7",
+        "DocumentID": 2,
+        "PassageID": "8.1.3",
+        "Passage": "Residual discretion of the Regulator\nNotwithstanding Rule 8.1.1 and 8.1.2, the Regulator may, at its sole discretion, direct that a Captive Insurer which conducts Long-Term Insurance Business establish one or more Long-Term Insurance Funds in respect of its Long-Term Insurance Business or any part of such business."
+    },
+    {
+        "ID": "a3349dd7-bd5a-4aaa-a18e-bd8ac2900e34",
+        "DocumentID": 2,
+        "PassageID": "8.2",
+        "Passage": "Attribution of contracts to Long-Term Insurance Fund"
+    },
+    {
+        "ID": "e6717ff1-cd8d-433f-81fd-cc32d6eb4834",
+        "DocumentID": 2,
+        "PassageID": "8.2.1",
+        "Passage": "Attribution of all Long-Term Insurance contracts\nAll contracts of Long-Term Insurance effected by a Captive Insurer must be attributed to a Long-Term Insurance Fund."
+    },
+    {
+        "ID": "a9882f6c-d109-4cc3-aa6d-c936c15f6ca2",
+        "DocumentID": 2,
+        "PassageID": "8.2.2",
+        "Passage": "Attribution of general Contracts of Insurance\n(1)\tExcept as permitted by Rule \u200e8.2.2(2), a Captive Insurer may not attribute general Contracts of Insurance to a Long-Term Insurance Fund.\n(2)\tA Captive Insurer may attribute Contracts of Insurance in General Insurance Class 1 or Class 2 to a Long-Term Insurance Fund."
+    },
+    {
+        "ID": "e5daaf29-e053-4b31-9d67-9d37e89baa1c",
+        "DocumentID": 2,
+        "PassageID": "8.3",
+        "Passage": "Segregation of assets and liabilities"
+    },
+    {
+        "ID": "6991a86c-cc45-423f-9a2f-71cdafb0d6b3",
+        "DocumentID": 2,
+        "PassageID": "8.3.1",
+        "Passage": "All assets, liabilities, revenues and expenses in respect of a Contract of Insurance that is attributed to a Long-Term Insurance Fund must be recorded as assets, liabilities, revenues and expenses of that Long-Term Insurance Fund."
+    },
+    {
+        "ID": "5f1f1998-5e6f-49d8-b528-85cfd8bd7b5b",
+        "DocumentID": 2,
+        "PassageID": "8.3.2",
+        "Passage": "A Captive Insurer may at any time attribute any of its assets to a Long-Term Insurance Fund that were not previously attributed to such a Long-Term Insurance Fund."
+    },
+    {
+        "ID": "eeb0c122-e684-483d-bb23-cd9905c25581",
+        "DocumentID": 2,
+        "PassageID": "8.3.3",
+        "Passage": "All revenues and expenses arising by way of earnings, revaluation or other change to the assets and liabilities of a Long-Term Insurance Fund must be recorded as revenues and expenses, or movements in capital, of that Long-Term Insurance Fund."
+    },
+    {
+        "ID": "54d9a0ff-c297-4c5a-b123-40ff5ee73577",
+        "DocumentID": 2,
+        "PassageID": "8.3.4",
+        "Passage": "A Captive Insurer which is required to maintain a Long-Term Insurance Fund must maintain adequate accounting and other records to identify the contracts and the assets, liabilities, revenues and expenses attributable to the Long-Term Insurance Fund."
+    },
+    {
+        "ID": "d8360be1-cec8-4fdd-ab08-93f6f674a872",
+        "DocumentID": 2,
+        "PassageID": "8.4",
+        "Passage": "Limitation on use of assets in Long-Term Insurance Fund"
+    },
+    {
+        "ID": "3ae0f0fc-7c6f-484f-88be-e24a82afb655",
+        "DocumentID": 2,
+        "PassageID": "8.4.1",
+        "Passage": "Assets to be used only for contracts attributed\nExcept as provided in this Rule, assets that are attributable to a Long-Term Insurance Fund must be applied only for the purposes of the business attributed to the Long-Term Insurance Fund."
+    },
+    {
+        "ID": "967dff86-2664-49ee-82a4-4952ce463102",
+        "DocumentID": 2,
+        "PassageID": "8.4.2",
+        "Passage": "Assets not to be transferred for other purposes\nAssets attributable to a Long-Term Insurance Fund may not be transferred so as to be available for other purposes of the Captive Insurer except:\n(a)\twhere the transfer constitutes appropriation of a surplus determined in accordance with Rule \u200e7.3.2, provided that the transfer is performed within four months of the Reference Date of the actuarial investigation referred to in that Rule;\n(b)\twhere the transfer constitutes a payment of dividend or return of Capital, in accordance with Rules \u200e8.4.3 and \u200e8.4.4;\n(c)\twhere the transfer is made in exchange for other assets at fair value;\n(d)\twhere the transfer constitutes reimbursement of expenditure borne on behalf of the Long-Term Insurance Fund, and in respect of expenses attributable to the Long-Term Insurance Fund; or\n(e)\twhere the transfer constitutes reattribution of assets attributed to the Long-Term Insurance Fund in error.\n"
+    },
+    {
+        "ID": "830ba52c-9274-4dc5-8267-b3e45d6cfe97",
+        "DocumentID": 2,
+        "PassageID": "8.4.3",
+        "Passage": "Distributions\nAssets attributable to a Long-Term Insurance Fund must not be distributed by way of dividend or by way of return of Capital, except by a Captive Insurer or a Captive Cell that is deemed to constitute a single Long-Term Insurance Fund."
+    },
+    {
+        "ID": "a2b13dae-0c69-4857-9763-404787526f9c",
+        "DocumentID": 2,
+        "PassageID": "8.4.4",
+        "Passage": "Distributions by a Captive Insurer or Captive Cell deemed to constitute single Long-Term Insurance Fund\nA dividend or return of Capital by a Captive Insurer or a Captive Cell that is deemed to constitute a single Long-Term Insurance Fund may only be made where the dividend or return of Capital constitutes appropriation of a surplus determined in accordance with Rule \u200e7.3.2, and:\n(a)\tif the payment is made within four months of the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Captive Insurer or the Captive Cell since that Reference Date to exceed the amount of that surplus; or\n(b)\tif the payment is made more than four months after the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Captive Insurer or the Captive Cell since that Reference Date to exceed 50% of the amount of that surplus."
+    },
+    {
+        "ID": "d087da29-9721-41da-b4bf-abceaf589512",
+        "DocumentID": 2,
+        "PassageID": "8.4.5",
+        "Passage": "Assets not to be lent\nAssets attributable to a Long-Term Insurance Fund must not be lent or otherwise made available for use for any other purposes of the Captive Insurer or any purposes of any party Related to the Captive Insurer."
+    },
+    {
+        "ID": "70eb475c-ca7f-480b-afc2-c6d773167f2d",
+        "DocumentID": 2,
+        "PassageID": "8.4.6",
+        "Passage": "Prohibited Arrangements\nA Captive Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, where a Long-Term Insurance Fund of the Captive Insurer stands in as though the Captive Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the Cedant."
+    },
+    {
+        "ID": "d7affa34-b581-4f0d-bc62-8f9e03b1db9e",
+        "DocumentID": 2,
+        "PassageID": "8.5",
+        "Passage": "Other requirements"
+    },
+    {
+        "ID": "e4fbd748-9947-4fd8-b3ab-f0d840259597",
+        "DocumentID": 2,
+        "PassageID": "8.5.1",
+        "Passage": "Except as permitted in this Rule, a Captive Insurer must not effect any Direct Long-Term Insurance contract, the terms of which include any of the following:\n(a)\tinvestment components of Policy Benefits, that are wholly or partly guaranteed;\n(b)\toptions to receive Policy Benefits on expiry, maturity or surrender as annuities, where annuity rates are wholly or partly guaranteed at the inception of the contract;\n(c)\tbonuses on participating contracts where those bonuses become vested Policy Benefits or guaranteed by the Captive Insurer at a date prior to expiry, maturity or surrender; or\n(d)\tother options or discretionary Policy Benefits that expose the Captive Insurer to investment, expense or other risk that is not readily definable at the inception of the contract."
+    },
+    {
+        "ID": "cdd59029-1e81-47c7-a3e1-586ec079b332",
+        "DocumentID": 2,
+        "PassageID": "8.5.2",
+        "Passage": "A Captive Insurer may request for permission from the Regulator to effect Direct Long-Term Insurance contracts with features of the kind referred to in Rule \u200e8.5.1.  A request must be made in writing and must include:\n(a)\tdetails of the terms of the proposed contracts;\n(b)\tan explanation of how the Captive Insurer intends to price such contracts, and to value them for the purposes of its capital adequacy calculations; and\n(c)\tan explanation of how the Captive Insurer intends to quantify, monitor and manage the risks to its capital adequacy represented by such features of contracts."
+    },
+    {
+        "ID": "abcf927b-c01f-4b79-94fb-fede60f5c072",
+        "DocumentID": 2,
+        "PassageID": "8.5.3",
+        "Passage": "The Regulator may grant a Captive Insurer permission to effect Direct Long-Term Insurance contracts having one or more features of the kind referred to in Rule \u200e8.5.1. Permission shall be given in writing and shall be subject to such terms or conditions as the Regulator may specify in its notice granting permission. Where any terms and conditions are imposed on the Captive Insurer, the Captive Insurer shall comply with such terms and conditions."
+    },
+    {
+        "ID": "6ae7b0a0-acda-47b8-ba38-7946ae5d99d4",
+        "DocumentID": 2,
+        "PassageID": "8.5.4",
+        "Passage": "The Regulator may on its own initiative at any time vary or revoke permission given under Rule \u200e8.5.3. Variation or revocation shall be communicated to the Captive Insurer in writing."
+    },
+    {
+        "ID": "346e0ae5-4d91-4c8a-81c4-90cd23f44c86",
+        "DocumentID": 2,
+        "PassageID": "8.5.5",
+        "Passage": "A Captive Insurer which undertakes Direct Long-Term Insurance Business must supervise adequately the conduct of its Direct Long-Term Insurance Business in each jurisdiction in which that Business is undertaken.\n\n"
+    },
+    {
+        "ID": "94dc11fb-a942-48a3-80f3-66267df6eeb8",
+        "DocumentID": 2,
+        "PassageID": "9",
+        "Passage": "TRANSFER OF INSURANCE BUSINESS"
+    },
+    {
+        "ID": "31ea053f-be50-46b2-83f0-56737617bfac",
+        "DocumentID": 2,
+        "PassageID": "9.1",
+        "Passage": "Accounting and Auditing\nA Captive Insurer must comply with the business transfer provisions set out in Part 7 of FSMR.\n\n"
+    },
+    {
+        "ID": "798eb938-2586-4577-b130-860dd19a4f72",
+        "DocumentID": 2,
+        "PassageID": "10",
+        "Passage": "CAPTIVE INSURERS IN RUN-OFF"
+    },
+    {
+        "ID": "a81be25b-d016-445c-af46-97e14b6cc177",
+        "DocumentID": 2,
+        "PassageID": "10.1",
+        "Passage": "General provisions"
+    },
+    {
+        "ID": "a1edb212-4c7a-4ea8-8c6e-b9b107dc3156",
+        "DocumentID": 2,
+        "PassageID": "10.1.1",
+        "Passage": "Terms and concepts relating to run-offs"
+    },
+    {
+        "ID": "3e300fb2-9561-4a94-803e-5e54a461b72d",
+        "DocumentID": 2,
+        "PassageID": "10.1.1.(1)",
+        "Passage": "For the purposes of this Chapter, in determining whether a Captive Insurer is effecting Contracts of Insurance, or has ceased to effect Contracts of Insurance, including Contracts of Insurance effected through a Captive Cell or Long-Term Insurance Fund, Contracts of Insurance effected under a term of an existing Contract of Insurance shall be disregarded."
+    },
+    {
+        "ID": "a507468b-40f7-4e05-87e5-44871f967c4e",
+        "DocumentID": 2,
+        "PassageID": "10.1.1.(2)",
+        "Passage": "In this Chapter:\n(a)\ta Captive Insurer in run-off means a Captive Insurer that has ceased to effect Contracts of Insurance in respect of the whole of its Insurance Business, and a Captive Cell in run-off and a Long-Term Insurance Fund in run-off are to be construed accordingly; and\n(b)\tgoing into run-off or placing Insurance Business into run-off means ceasing to effect Contracts of Insurance, and placing a Captive Cell or a Long-Term Insurance Fund into run-off are to be construed accordingly."
+    },
+    {
+        "ID": "e29b5ae0-ac29-4eb5-b860-0aee7c538420",
+        "DocumentID": 2,
+        "PassageID": "10.2",
+        "Passage": "Notices and run-off plans"
+    },
+    {
+        "ID": "807aa2c9-6928-4ae8-b5b8-909c64ffe88c",
+        "DocumentID": 2,
+        "PassageID": "10.2.1",
+        "Passage": "Ceasing to effect contracts in a Class of Business\nThis Rule \u200e10.2 applies to a Captive Insurer that ceases or decides to cease to effect new Contracts of Insurance:\n(a)\tin a Class of Business in which the Captive Insurer has previously carried on Insurance Business; or\n(b)\tin respect of a Captive Cell or Long-Term Insurance Fund, in a Class of Business in which the Captive Insurer has previously carried on Insurance Business through that Captive Cell or Long-Term Insurance Fund."
+    },
+    {
+        "ID": "345cd868-a23e-4fd5-8d27-8b1e125b81f2",
+        "DocumentID": 2,
+        "PassageID": "10.2.2",
+        "Passage": "Notification to the Regulator"
+    },
+    {
+        "ID": "5f90f3fc-74e1-46ab-bc70-196d117eaae5",
+        "DocumentID": 2,
+        "PassageID": "10.2.2.(1)",
+        "Passage": "A Captive Insurer to which this Rule \u200e10.2 applies must, within twenty-eight days of deciding to cease to effect new Contracts of Insurance in a Class of Business, notify the Regulator of its decision, in a written notice specifying the following details:\n(a)\tthe effective date of the decision to cease effecting Contracts of Insurance;\n(b)\tthe Class of Business to which the decision relates; and\n(c)\twhere relevant, Captive Cell or Long-Term Insurance Fund to which the decision relates."
+    },
+    {
+        "ID": "15d5cc58-49ea-4387-a9f4-6015c6919df3",
+        "DocumentID": 2,
+        "PassageID": "10.2.2.(2)",
+        "Passage": "A Captive Insurer which has provided a notice to the Regulator in accordance with Rule \u200e10.2.2(1) must not effect any Contracts of Insurance in that Class of Business without the written permission of the Regulator. Where the notice referred to in Rule \u200e10.2.2(1) relates to a Captive Cell or Long-Term Insurance Fund of the Captive Insurer, the restriction set out in this Rule applies only to that Captive Cell or Long-Term Insurance Fund."
+    },
+    {
+        "ID": "b7b950be-02e6-464e-9e88-7d47e32f7e8b",
+        "DocumentID": 2,
+        "PassageID": "10.2.3",
+        "Passage": "Run-off plan \u2013 Captive Insurer decides to go into run-off"
+    },
+    {
+        "ID": "955094cb-fdf3-4442-a2f0-010718637113",
+        "DocumentID": 2,
+        "PassageID": "10.2.3.(1)",
+        "Passage": "This Rule applies to:\n(a)\tCaptive Insurers that are in run-off or that maintain Captive Cells or Long-Term Insurance Funds that are in run-off;\n(b)\tCaptive Insurers that go into run-off or that place Captive Cells or Long-Term Insurance Funds into run-off;\n(c)\tCaptive Insurers that make a decision to go into run-off or to place a Captive Cell or Long-Term Insurance Fund into run-off; and\n(d)\tCaptive Insurers whose Financial Services Permission to effect Contracts of Insurance in respect of their entire Insurance Business or in respect of the entire business of a Captive Cell or Long-Term Insurance Fund is withdrawn by the Regulator."
+    },
+    {
+        "ID": "5ceb60e7-47b2-4834-a4bc-888c8d593bc6",
+        "DocumentID": 2,
+        "PassageID": "10.2.3.(2)",
+        "Passage": "If a Captive Insurer takes a decision to go into run-off or to place a Captive Cell or Long-Term Insurance Fund into run-off, the Captive Insurer must, at the same time as the notice referred to in Rule \u200e10.2.2(1), provide the Regulator with a written run-off plan in respect of the Insurance Business being placed into run-off."
+    },
+    {
+        "ID": "e9f12226-e34a-4b7d-a684-a1aec9b50118",
+        "DocumentID": 2,
+        "PassageID": "10.2.4",
+        "Passage": "Run-off Plan \u2013 Regulator withdraws Captive Insurer's permission\nIf the Regulator withdraws a Captive Insurer's permission to effect Contracts of Insurance in respect of the Captive Insurer's entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund, the Captive Insurer must, within twenty-eight days of the written notice of withdrawal of permission (or, if later, the period specified in that notice), provide the Regulator with a written run-off plan in respect of that Insurance Business."
+    },
+    {
+        "ID": "abdd86ad-5013-4210-9b32-626d25547ca7",
+        "DocumentID": 2,
+        "PassageID": "10.2.5",
+        "Passage": "Period of run-off plan"
+    },
+    {
+        "ID": "fe000bb4-0552-46e8-983b-1320fa760e47",
+        "DocumentID": 2,
+        "PassageID": "10.2.5.(1)",
+        "Passage": "A run-off plan provided to the Regulator in accordance with this Rule must cover the run-off period until all liabilities to policyholders relating to the Insurance Business in run-off are met and must include:\n(a)\tan explanation of how, and to what extent, all liabilities to policyholders will be met in full as they fall due;\n(b)\tan explanation of how the Captive Insurer will comply with the requirements in Chapter 2 until such time as all liabilities owed to policyholders are met in full;\n(c)\ta description, appropriate to the size and complexity of the Captive Insurer's business, of the Captive Insurer's business strategy;\n(d)\tfinancial projections showing, in a form appropriate to the nature, size, and complexity of the Captive Insurer's operations, the forecast financial position of the Captive Insurer as at the end of each reporting period during the period to which the run-off plan relates; and\n(e)\tan assessment of the sensitivity of the financial position of the Captive Insurer to stress arising from realistic scenarios relevant to the circumstances of the Captive Insurer."
+    },
+    {
+        "ID": "9c03e8fb-617a-446c-ac0b-b34277e2f7c4",
+        "DocumentID": 2,
+        "PassageID": "10.2.5.(2)",
+        "Passage": "Where a Captive Insurer's Insurance Business in run-off relates to a Captive Cell or Long-Term Insurance Fund of that Captive Insurer, the run-off plan must deal with the matters set out in Rule \u200e10.2.5(1) so far as they relate to that Captive Cell or Long-Term Insurance Fund."
+    },
+    {
+        "ID": "f31884c4-906d-4b05-a3de-f7734c9fceba",
+        "DocumentID": 2,
+        "PassageID": "10.2.6",
+        "Passage": "Captive Insurers to monitor run-off plan etc\nA Captive Insurer that has provided a written run-off plan to the Regulator must monitor the matters contained in the run-off plan and must notify the Regulator promptly and in writing of any significant departure from the run-off plan."
+    },
+    {
+        "ID": "23342763-9de5-4f14-a84b-988d4ae2f344",
+        "DocumentID": 2,
+        "PassageID": "10.2.7",
+        "Passage": "Amended run-off plan\nWhere a Captive Insurer has notified a matter to the Regulator in accordance with Rule \u200e10.2.6, the Regulator may by notice in writing require the Captive Insurer to provide an amended run-off plan. The Captive Insurer must provide an amended run-off plan within twenty-eight days of receipt of the notice, unless the notice specifies a longer period."
+    },
+    {
+        "ID": "e14c2906-f43c-4489-a030-27a3b6ad9fc5",
+        "DocumentID": 2,
+        "PassageID": "10.3",
+        "Passage": "Provisions for collateral for Captive Insurers in run-off"
+    },
+    {
+        "ID": "22f6ec7d-e880-42de-8012-22cab08dc7ff",
+        "DocumentID": 2,
+        "PassageID": "10.3.1",
+        "Passage": "Application\nThis Rule applies only to a Captive Insurer that:\n(a)\tis in run-off in relation to its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund;\n(b)\thas provided a notice to the Regulator in accordance with Rule \u200e10.2.2 in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund; or\n(c)\thas received a written notice from the Regulator withdrawing its Permission to effect Contracts of Insurance in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund."
+    },
+    {
+        "ID": "4857c45b-7c79-411c-b58e-9855c543ec36",
+        "DocumentID": 2,
+        "PassageID": "10.3.2",
+        "Passage": "Regulator may issue collateral notice"
+    },
+    {
+        "ID": "5e621133-6c3b-411a-8ce1-0064086fd0e7",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(1)",
+        "Passage": "The Regulator may, by written notice (referred to in this Chapter as a 'collateral notice'), require a Captive Insurer to make available assets:\n(a)\tof a type and in a manner described in Rule \u200e10.3.2(5); and\n(b)\thaving a value, determined in accordance with the provisions of Chapter 6, of the lower of:\n(i)\tthe amount, if any, specified in the notice; and\n(ii)\tthe amount determined in accordance with Rule \u200e10.3.2(4)."
+    },
+    {
+        "ID": "3a4b6cc1-14c8-4055-8511-ce9c4fc7bc64",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(2)",
+        "Passage": "A Captive Insurer must comply with the requirements of a collateral notice within the period (if any) specified in the notice, or within two months of the date of the notice, whichever is the longer."
+    },
+    {
+        "ID": "5a7d84a5-f46a-4936-ab4d-1afdf2362f87",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(3)",
+        "Passage": "The Regulator may at any time, by written notice to the Captive Insurer, vary or revoke a collateral notice issued under Rule \u200e10.3.2(1)."
+    },
+    {
+        "ID": "9585f95e-ae97-44a1-966f-ec94cc458c39",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(4)",
+        "Passage": "The amount referred to in Rule \u200e10.3.2(1)(b) is calculated as follows:\n(a)\tin the case of a Captive Cell of a Captive Insurer which is a Cell Company, the sum of the following two amounts:\n(i)\tthe Insurance Liabilities attributable to that Captive Cell; and\n(ii)\tthe Minimum Cellular Capital Requirement applicable to that Captive Cell.\n(b)\tin the case of a Long-Term Insurance Fund, subject to Rules \u200e10.3.2(4)(c) and \u200e10.3.2(4)(d), the sum of the following two amounts:\n(i)\tthe Insurance Liabilities attributable to that Long-Term Insurance Fund; and\n(ii)\tthe Minimum Fund Capital Requirement applicable to that Long-Term Insurance Fund;\n(c)\tin the case of a Captive Insurer that is not a Cell Company, the sum of the following two amounts:\n(i)\tthe Captive Insurer's Insurance Liabilities; and\n(ii)\tthe Captive Insurer's minimum capital requirement as provided for in Rule 2.2.\n(d)\tin the case of a Captive Insurer to which Rules \u200e10.3.2(4)(a) and \u200e10.3.2(4)(c) both apply, the amount set out in \u200e10.3.2(4)(a); and\n(e)\tin the case of a Captive Insurer to which Rules \u200e10.3.2(4)(c) and \u200e10.3.2(4)(d) both apply, the amount set out in Rule \u200e10.3.2(4)(d)."
+    },
+    {
+        "ID": "415e016d-a21f-41c7-b6c7-8e63c3ec8c36",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(5)",
+        "Passage": "The assets referred to in Rule \u200e10.3.2(1) must be made available in one of or a combination of the two arrangements:\n(a)\tassets of a type described in PIN 4.6.3 may be deposited with a custodian nominated or approved in writing by the Regulator; or\n(b)\ta Person, whose activities are primarily financial in nature and is nominated or approved in writing by the Regulator, may issue a confirmed letter of credit in favour of the Regulator, for the amount of the assets required to be made available."
+    },
+    {
+        "ID": "b2422fb8-ea35-49f0-aaef-df533b54f50f",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(6)",
+        "Passage": "The terms and conditions of a custody arrangement referred to in Rule \u200e10.3.2(5)(a) or a letter of credit referred to in Rule \u200e10.3.2(5)(b) and any change to those terms and conditions, must be notified to the Regulator, which may within two months of such notification require the Captive Insurer to make any change to the terms and conditions of the arrangement or letter of credit."
+    },
+    {
+        "ID": "c46053ba-bb29-4f8f-bdfe-80f16097eea6",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(7)",
+        "Passage": "The Regulator may, by written notice to a Captive Insurer, require the Captive Insurer to charge in favour of the Regulator part or all of any assets deposited with a custodian in accordance with Rule \u200e10.3.2(5)(a)."
+    },
+    {
+        "ID": "afedadb5-1dfb-46e6-b715-36761c15832d",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(8)",
+        "Passage": "The Captive Insurer must reassess, as at the end of March, June, September and December in each year, the amount of the assets that the Captive Insurer is required by a collateral notice to make available, and the amount of assets made available by the Captive Insurer."
+    },
+    {
+        "ID": "b8f4bb01-5056-433b-bcc1-74035d862ee4",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(9)",
+        "Passage": "The Captive Insurer must report to the Regulator, within two months of the date as at which the reassessment referred to in Rule \u200e10.3.2(8) is performed, the results of that reassessment and details of any action taken or proposed to be taken as a result of that assessment."
+    },
+    {
+        "ID": "66346d80-f3bd-45ea-9564-89d50e0f0215",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(10)",
+        "Passage": "If the reassessment referred to in Rule \u200e10.3.2(8) shows that the amount of assets made available is less than the amount that the Captive Insurer is required to make available, the Captive Insurer must, within two months of the effective date of the reassessment, make additional assets available so that the Captive Insurer complies with the requirements of the collateral notice."
+    },
+    {
+        "ID": "50cf5dd3-72e8-45d1-9808-d6646e4b2c86",
+        "DocumentID": 2,
+        "PassageID": "10.3.2.(11)",
+        "Passage": "If the reassessment shows that the amount of assets made available is more than the amount that the Captive Insurer is required to make available, the Captive Insurer may, with the written consent of the Regulator, remove assets from those made available provided that the Captive Insurer complies with the requirements of the collateral notice after the assets have been removed."
+    },
+    {
+        "ID": "2ec5ac46-168c-4403-b293-08502ff40167",
+        "DocumentID": 2,
+        "PassageID": "10.3.3",
+        "Passage": "Captive Insurers in run-off must notify Regulator of certain contracts"
+    },
+    {
+        "ID": "4935c427-8c5d-4dda-9d9f-f144cab38205",
+        "DocumentID": 2,
+        "PassageID": "10.3.3.(1)",
+        "Passage": "This Rule applies to any Captive Insurer referred to in Rule \u200e10.3.1."
+    },
+    {
+        "ID": "7cca4047-4ff1-4682-8e55-7390fef5fddc",
+        "DocumentID": 2,
+        "PassageID": "10.3.3.(2)",
+        "Passage": "A Captive Insurer to which this Rule applies must inform the Regulator in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Captive Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Captive Insurer places that Insurance Business into run-off, and that is of any of the following types:\n(a)\tcontracts, other than Contracts of Insurance effected by the Captive Insurer prior to going into run-off, with parties that are Related to the Captive Insurer;\n(b)\tcontracts relating to the management of the Insurance Business in run-off, and any other contracts with the same counterparty or parties Related to that counterparty; or\n(c)\tcontracts for reinsurance of the Insurance Business that is in run-off, and any other contracts with the same counterparty or parties Related to that counterparty."
+    },
+    {
+        "ID": "3205bfdb-e4c8-4f8a-b7c4-2a80aad2252d",
+        "DocumentID": 2,
+        "PassageID": "10.3.4",
+        "Passage": "Regulator may request additional information\nThe Regulator may by written notice require a Captive Insurer to provide additional information as specified in that notice in respect of any contract notified to the Regulator in accordance with Rule \u200e10.3.3(2)."
+    },
+    {
+        "ID": "ff5cd5ed-bc40-4945-ae1e-6bec341a6a60",
+        "DocumentID": 2,
+        "PassageID": "10.4",
+        "Passage": "Limitations on distributions by ADGM Captive Insurers in run-off\nNo Captive Insurer that is in run-off may make any distribution of profits or surplus however called or described, or return of capital, or any payment of management fees (other than fees payable under a contract notified to the Regulator in accordance with Rule \u200e10.3.3(2) without the written consent of the Regulator. Any such distribution or return of capital or payment of management fees must be made within the period, if any, specified in the written notice of consent given by the Regulator.\n"
+    }
+]

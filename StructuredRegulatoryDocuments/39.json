@@ -1,0 +1,344 @@
+[
+    {
+        "ID": "3c072050-d273-4555-a2de-70572e8be73d",
+        "DocumentID": 39,
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION"
+    },
+    {
+        "ID": "f6ab2eab-91b3-43c8-b241-6c146cf50897",
+        "DocumentID": 39,
+        "PassageID": "1.1",
+        "Passage": "This Supplementary Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (the \u201cRegulator\u201d) and the Guidance & Policies Manual (\u201cGPM\u201d) of the Regulator. Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary Rulebook (\u201cGLO\u201d)."
+    },
+    {
+        "ID": "18fe0f1f-849f-460f-b7c6-5a53d64daed3",
+        "DocumentID": 39,
+        "PassageID": "1.2",
+        "Passage": "This Guidance is not an exhaustive source of the Regulator\u2019s policies. The Regulator is not bound by the statements contained in this Guidance and may impose further, specific conditions to address any additional risks posed by the activities of an Authorised Person."
+    },
+    {
+        "ID": "517f4669-26f8-44ca-8e4f-921a7e2ce198",
+        "DocumentID": 39,
+        "PassageID": "1.3",
+        "Passage": "This Supplementary Guidance provides guidance, additional to that appearing in the relevant Rulebooks, on the Rules for the granting of designations and use of the associated designation marks in relation to:\n\u2022\tADGM Green Funds and ADGM Climate Transition Funds;\n\u2022\tADGM Green Portfolios and ADGM Climate Transition Portfolios;\n\u2022\tADGM Green Bonds and ADGM Sustainability-Linked Bonds; and\n\u2022\tADGM Green Sukuks and ADGM Sustainability-Linked Sukuks."
+    },
+    {
+        "ID": "a77dd5d6-98d7-4860-a0ed-9b6c8b85bddc",
+        "DocumentID": 39,
+        "PassageID": "1.4",
+        "Passage": "The designations are voluntary, i.e. on opt-in basis, and issued by the Regulator upon application or notification. Upon receipt of a designation, a Person may use the relevant mark corresponding to the designation received in its communications, subject to receiving appropriate permission from the Regulator. The granting and use of an ADGM Designation is not a guarantee issued by the Regulator of the recipient\u2019s compliance with applicable Rules. Instead, it signifies that the recipient purports to have invested in or be investing in green or greening economic activities in accordance with applicable Rules."
+    },
+    {
+        "ID": "168318c0-2a5b-46e9-b864-5a0522514847",
+        "DocumentID": 39,
+        "PassageID": "2.",
+        "Passage": "TAXONOMIES AND ATTESTATION REQUIREMENTS \u2013 FUNDS AND MODEL PORTFOLIOS\n"
+    },
+    {
+        "ID": "ef13b28a-5352-40e4-8ef9-a798ecb4142e",
+        "DocumentID": 39,
+        "PassageID": "2.1",
+        "Passage": "Acceptable Green Taxonomies. An ADGM Green Fund may choose any published, credible and independent green taxonomy as a reference against which its assets will be assessed as to their being environmentally sustainable. As green taxonomies tend to describe economic activities prioritised in the jurisdiction in which they are published, the Fund Manager is given flexibility to select the most suitable taxonomy considering the strategy of the Fund, rather than specifying one specific green taxonomy must be used."
+    },
+    {
+        "ID": "b8861fca-01c1-456c-9244-4d0b562d4cd9",
+        "DocumentID": 39,
+        "PassageID": "2.2",
+        "Passage": "Acceptable Green Taxonomies. The Regulator would usually consider only a taxonomy published by another regulatory or supranational body to be an \u201cAcceptable Green Taxonomy\u201d or \u201cAcceptable Climate Transition Taxonomy\u201d as defined in the Glossary. A taxonomy published by a market participant or group of market participants is significantly less likely to meet the \u201cindependent\u201d requirement of those terms. At present, the following taxonomies are considered acceptable by the Regulator:\na)\tthe EU Green Taxonomy;\nb)\tthe ASEAN Sustainable Finance Taxonomy;\nc)\tthe Common Principles for Climate Mitigation Finance Tracking."
+    },
+    {
+        "ID": "c6573994-75fd-4500-b125-4fee097fd2c4",
+        "DocumentID": 39,
+        "PassageID": "2.3",
+        "Passage": "Acceptable Green Taxonomies. In the future, the scope of taxonomies deemed to be acceptable to the Regulator, as currently indicated under section  20.2 of the Fund Rules (\u201cFUNDS\u201d) may be expanded. It is likely to include any UAE green taxonomy that is developed.\n"
+    },
+    {
+        "ID": "261c3371-0cf2-4d60-a2b4-fce4f03199ad",
+        "DocumentID": 39,
+        "PassageID": "2.4",
+        "Passage": "Acceptable Climate Transition Taxonomy. An ADGM Climate Transition Fund or ADGM Climate Transition Portfolio may invest in assets aligned with an Acceptable Climate Transition Taxonomy. An Acceptable Climate Transition Taxonomy provides a classification system that identifies economic activities that are assisting the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable, but where those economic activities do not currently meet zero or near-zero emissions standards."
+    },
+    {
+        "ID": "00886023-1872-4306-aa9f-bf78b265a56a",
+        "DocumentID": 39,
+        "PassageID": "2.5",
+        "Passage": "Acceptable Climate Transition Taxonomy. At the time of publication, no standalone Acceptable Climate Transition Taxonomies have been published, although a number are being developed. However, an Acceptable Climate Transition Taxonomy may be incorporated as a section or sections within an Acceptable Green Taxonomy, where it is clear that the identified economic activities are assisting a transition to net zero emissions."
+    },
+    {
+        "ID": "52d5da10-209c-46bb-a90f-e90673ff03ff",
+        "DocumentID": 39,
+        "PassageID": "2.6",
+        "Passage": "Acceptable Climate Transition Taxonomy. One example of a climate transition taxonomy likely to be considered \u201cacceptable\u201d by the Regulator is the cohort of economic activities categorised as \u201camber\u201d or \u201camber plus standard\u201d \u2013 rather than green \u2013 and included in the ASEAN Sustainable Finance Taxonomy. For example, an economic activity which has been defined as aligning with a climate transition taxonomy is that of a power company using natural gas plants with carbon capture and storage. Another example of a climate transition taxonomy embedded in a wider Acceptable Green Taxonomy and that is likely to be considered acceptable by the Regulator is the cohort of economic activities categorised as \u201cTransitional\u201d by the Common Principles for Climate Mitigation Finance Tracking.\n"
+    },
+    {
+        "ID": "cd8b2539-17f7-4d86-b235-a1b12bcb826e",
+        "DocumentID": 39,
+        "PassageID": "2.7",
+        "Passage": "Third-Party Attestation Requirements. Where third-party attestation (\u201cTPA\u201d) is required for ADGM Green Funds, ADGM Climate Transition Funds, ADGM Green Portfolios and ADGM Climate Transition Portfolios it can provide investors with additional comfort that the assets in the Fund or Model Portfolio are aligned with investors\u2019 expectations regarding their environmental credentials."
+    },
+    {
+        "ID": "89172c85-1278-4ed2-bda1-1780f9583692",
+        "DocumentID": 39,
+        "PassageID": "2.8",
+        "Passage": "Third-Party Attestation Requirements. Under our Rules, TPA providers must:\na)\tpossess the required skills, resources and experience to provide the attestation;\nb)\tbe independent of, and not subject to any conflict of interest with, the Fund Manager, the investment advisor or the Trustee, where applicable; and\nc)\thave been provided with all documents, records and information necessary to give the attestation."
+    },
+    {
+        "ID": "31b91cc4-baa5-456a-a8b7-3af75cdd35a8",
+        "DocumentID": 39,
+        "PassageID": "2.9",
+        "Passage": "Third-Party Attestation Requirements. In selecting a provider for a TPA, a firm should consider the following attributes, amongst others, as indicating that the third party is likely to meet the FSRA\u2019s requirements regarding the required skills, resources and experience. These are that the TPA provider:\na)\thas a thorough knowledge and experience of the asset class(es) invested in by the Fund or Model Portfolio;\nb)\thas demonstrable experience in undertaking assurance in the area, or an equivalent area, such as having provided a third-party attestation on sustainability of a fund or portfolio previously, or provided a second-party opinion for a green bond/sukuk or sustainability linked bond/sukuk issuance; and\nc)\tbe of good standing and reputation in the market.\n\n"
+    },
+    {
+        "ID": "f64cb9f3-d716-4d08-9bf0-5d970f591ed5",
+        "DocumentID": 39,
+        "PassageID": "3.",
+        "Passage": "ADGM GREEN AND ADGM CLIMATE TRANSITION FUNDS"
+    },
+    {
+        "ID": "e641e467-2528-4f87-9deb-362e131a8d40",
+        "DocumentID": 39,
+        "PassageID": "3.2",
+        "Passage": "In addition to the requirements in chapter 20 of FUNDS, Authorised Persons should be aware of:\na)\tthe restrictions on the financial promotion of Units in a Fund in section 18 and Schedule 2 of FSMR; and\nb)\tthe requirements that apply to the Offer of Units in Domestic Funds, including Prospectus disclosure by Authorised Persons under this Guidance."
+    },
+    {
+        "ID": "290e44a5-913a-4145-8f7f-195cd1d728bd",
+        "DocumentID": 39,
+        "PassageID": "3.3",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that any communication to a Person in relation to a Specified Investment is clear, fair and not misleading. Similarly, FUNDS Rule 9.3.1(1) requires the presentation of information in a Prospectus to be clear, fair and not misleading."
+    },
+    {
+        "ID": "9d6b00ad-3084-441c-9fa1-48a4c399098c",
+        "DocumentID": 39,
+        "PassageID": "3.4",
+        "Passage": "Without limiting any requirements under COBS or FUNDS, the Regulator has developed the ADGM Green Fund Designation and the ADGM Climate Transition Fund Designation to indicate that a Fund pursuing Green or Climate Transition objectives purports to meet the Regulator\u2019s requirements for an ADGM Green Fund or an ADGM Climate Transition Fund. This includes seeking to meet the relevant Green Fund Investment Requirement or ADGM Climate Transition Fund Investment Requirement and taking measures to mitigate the risk of \u201cgreenwashing\u201d, which, for the purposes of this Guidance, means the practice of misrepresenting sustainability-related practices or the sustainability-related features of investment products."
+    },
+    {
+        "ID": "5fe71c29-a6eb-4ad1-ba24-1c2d3ef7c027",
+        "DocumentID": 39,
+        "PassageID": "3.5",
+        "Passage": "The purpose of the ADGM Green Fund Rules is to provide a framework for investment in assets whose activities are already environmentally sustainable, therefore helping to achieve local or global targets to reduce greenhouse gas emissions."
+    },
+    {
+        "ID": "06699159-b0f9-4a7c-9e51-7f47d44f02b9",
+        "DocumentID": 39,
+        "PassageID": "3.6",
+        "Passage": "The purpose of the ADGM Climate Transition Fund Rules is to provide a framework for investment in assets whose activities are not currently considered environmentally sustainable, in order to finance their transition to become so. This will also help to achieve local or global targets to reduce greenhouse gas emissions."
+    },
+    {
+        "ID": "209730f3-4046-4f23-94af-718fa0feb280",
+        "DocumentID": 39,
+        "PassageID": "3.7",
+        "Passage": "A Fund which purports to meet the ADGM Green Fund Rules or ADGM Climate Transition Fund Rules (as applicable) may apply to the Regulator for the ADGM Green Fund Designation or ADGM Climate Transition Fund Designation. An ADGM Green Fund Designation or ADGM Climate Transition Fund Designation reflects that a Fund purports to adhere to the ADGM Green Fund Rules or ADGM Climate Transition Fund Rules (as applicable) and allows such a Fund to be listed on the Public Register as an ADGM Green Fund or ADGM Climate Transition Fund. It is not an assurance or guarantee from the Regulator that the Fund is in compliance with the applicable Rules. Funds granted an ADGM Green Fund Designation or ADGM Climate Transition Fund Designation may receive permission from the Regulator to use the ADGM Green Fund mark or ADGM Climate Transition Fund mark (as applicable)."
+    },
+    {
+        "ID": "2f4800a5-de0c-4936-8c34-8060fb34091e",
+        "DocumentID": 39,
+        "PassageID": "3.8",
+        "Passage": "Upon receipt of permission from the Regulator, the Fund Manager and Persons engaged to promote the Fund may choose to use the ADGM Green Fund mark or the ADGM Climate Transition Fund mark in the Fund\u2019s Prospectus and related promotional materials to indicate to prospective investors that the Fund purports to meet the criteria of an ADGM Green Fund or an ADGM Climate Transition Fund. As a result, the requirements set out in chapter 20 of FUNDS will not apply to any Person that does not seek to obtain ADGM Green Fund Designation or the ADGM Climate Transition Fund Designation for a Fund. Fund Managers may choose not to use the ADGM Green Fund mark or the ADGM Climate Transition Fund mark in any marketing materials or Prospectus of a Fund, but they may do so, should they wish, if they are granted permission by the Regulator."
+    },
+    {
+        "ID": "a08431c1-32ab-4a71-98df-6ee0ca2349cc",
+        "DocumentID": 39,
+        "PassageID": "3.10",
+        "Passage": "However, the Regulator considers greenwashing to present a material risk to one or more of its objectives set out in FSMR. Furthermore, pursuant to section 117 of FSMR, the Regulator has the power to make a direction if the name of a Fund, Sub-Fund or class of Units in a Fund is undesirable or misleading.  Persons indicating that a Fund is pursuing green or climate transition objectives should therefore avoid using a name that suggests it is an ADGM Green Fund or ADGM Climate Transition Fund.\n"
+    },
+    {
+        "ID": "f92f7ce8-b759-4003-9d16-0c3e9c0b9b16",
+        "DocumentID": 39,
+        "PassageID": "3.11",
+        "Passage": "Green Fund Investment Requirement. An ADGM Green Fund must invest in assets meeting the Green Fund Investment Requirement. Where a Fund solely invests in assets aligned with an Acceptable Green Taxonomy, the Regulator recognises that it may take time to acquire Eligible Green Fund Property. At a minimum, the Regulator expects that assets meeting the Green Fund Investment Requirement will constitute:\na)\tmore than 50% of the Fund\u2019s assets within two years of the date on which an ADGM Green Fund Designation is granted; and\nb)\t75% or more of the Fund\u2019s assets within five years of the date on which an ADGM Green Fund Designation is granted."
+    },
+    {
+        "ID": "118f5d04-8d88-4fce-a513-2b6f395f4c2b",
+        "DocumentID": 39,
+        "PassageID": "3.12",
+        "Passage": "Green Fund Investment Requirement. Where a Fund invests solely in assets included in, or which track, an EU Paris Aligned Benchmark, the Regulator expects that such assets will constitute 75% or more of the Fund\u2019s assets as soon as practicable upon receipt of an ADGM Green Fund Designation.\n\n"
+    },
+    {
+        "ID": "a07399ea-1892-4917-8f7d-94b66f29e2e5",
+        "DocumentID": 39,
+        "PassageID": "3.13",
+        "Passage": "Climate Transition Fund Investment Requirement. An ADGM Climate Transition Fund must invest in assets meeting the Climate Transition Fund Investment Requirement. The Regulator recognises that it may take time to acquire Eligible Climate Transition Fund Property. At a minimum, the Regulator expects that assets meeting the Climate Transition Fund Investment Requirement will constitute:\na)\tMore than 50% of the Fund\u2019s assets within two years of the date on which an ADGM Climate Transition Fund Designation is granted; and\nb)\t75% or more of the Fund\u2019s assets within five years of the date on which an ADGM Climate Transition Fund Designation is granted."
+    },
+    {
+        "ID": "ea6d0643-c870-4f7d-8be4-a13f13eff159",
+        "DocumentID": 39,
+        "PassageID": "3.14",
+        "Passage": "Climate Transition Fund Investment Requirement. However, where a Fund solely invests in assets included in, or which track, a Climate Transition Benchmark, the Regulator expects that such assets will constitute 75% or more of the Fund\u2019s assets as soon as practicable upon receipt of an ADGM Climate Transition Fund Designation.\n\n"
+    },
+    {
+        "ID": "3b74cfa7-4ea6-49f3-845d-1e8906c5b76a",
+        "DocumentID": 39,
+        "PassageID": "3.15",
+        "Passage": "Fund Manager\u2019s Report. FUNDS Rule 16.4.7 sets out the items that must be included in the Fund Manager\u2019s annual report. These include any information which would enable Unitholders to make an informed judgement on the development and results of activities of the Fund during the relevant period. For a Fund that is an ADGM Green Fund or an ADGM Climate Transition Fund, a Fund Manager must pay particular attention to information explaining the development of the activities of the Fund during the period and the results of those activities in achieving the Fund\u2019s green or climate transition objectives as at the end of the period. This should include making reference to compliance with the Green Fund Investment Requirement or the Climate Transition Fund Investment Requirement. The Fund Manager\u2019s report should include additional information on the nature and composition of the Fund Property, including information on Fund Property considered to constitute Eligible Green Fund Property or Eligible Climate Transition Fund Property.\n\n"
+    },
+    {
+        "ID": "c21de826-a487-4c40-822f-5e98b5aaddfa",
+        "DocumentID": 39,
+        "PassageID": "4.",
+        "Passage": "ADGM GREEN AND ADGM CLIMATE TRANSITION PORTFOLIOS"
+    },
+    {
+        "ID": "ceb282ee-091c-4858-b003-2622caffc311",
+        "DocumentID": 39,
+        "PassageID": "4.1",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that all communications to a Person in relation to a Regulated Activity are clear, fair and not misleading."
+    },
+    {
+        "ID": "76c32d02-fd08-463b-8677-d1337209b5e9",
+        "DocumentID": 39,
+        "PassageID": "4.2",
+        "Passage": "The purpose of the ADGM Green Portfolio Rules is to provide a framework for investment in assets whose activities are already environmentally sustainable, therefore helping to achieve local or global targets to reduce greenhouse gas emissions.  The ADGM Green Portfolio Rules only apply to a Model Portfolio offered to one or more Retail Clients."
+    },
+    {
+        "ID": "3fd923c5-4f79-41a2-9652-15b3d508b758",
+        "DocumentID": 39,
+        "PassageID": "4.3",
+        "Passage": "The purpose of the ADGM Climate Transition Portfolio Rules is to provide a framework for investment in assets whose activities are not currently considered environmentally sustainable, in order to finance their transition to become so. This will also help to achieve local or global targets to reduce greenhouse gas emissions.  The ADGM Climate Transition Portfolio Rules only apply to a Model Portfolio offered to one or more Retail Clients."
+    },
+    {
+        "ID": "b4cb9ffb-e006-420e-aaea-8faea2a7f22a",
+        "DocumentID": 39,
+        "PassageID": "4.4",
+        "Passage": "A Model Portfolio which meets the ADGM Green Portfolio Rules or ADGM Climate Transition Portfolio Rules may apply to the Regulator for an ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation, as applicable. An ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation reflects that a Model Portfolio purports to adhere to the ADGM Green Portfolio Rules or ADGM Climate Transition Portfolio Rules respectively. It is not an assurance or guarantee from the Regulator that a Model Portfolio is in compliance with the applicable Rules. Model Portfolios granted an ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation may receive permission from the Regulator to use the ADGM Green Portfolio mark or ADGM Climate Transition Portfolio mark (as appropriate)."
+    },
+    {
+        "ID": "44316cbb-4c54-4c21-80e8-a9f2a854bc03",
+        "DocumentID": 39,
+        "PassageID": "4.5",
+        "Passage": "Authorised Persons may elect to use the ADGM Green Portfolio mark or the ADGM Climate Transition Portfolio mark to indicate to actual or prospective Clients that the Model Portfolio meets the criteria of an ADGM Green Portfolio or an ADGM Climate Transition Portfolio."
+    },
+    {
+        "ID": "dada34c1-a4e5-4d6b-968f-122561c572d9",
+        "DocumentID": 39,
+        "PassageID": "4.6",
+        "Passage": "Authorised Persons are not required under FSMR or applicable Rules to use the ADGM Green Portfolio mark or the ADGM Climate Transition Portfolio mark in any marketing materials or Discretionary Portfolio Management Agreement relating to a Model Portfolio."
+    },
+    {
+        "ID": "f6bd3fce-f796-4b1f-979e-2e906767a74e",
+        "DocumentID": 39,
+        "PassageID": "4.7",
+        "Passage": "As a result, the requirements set out in COBS section 3.8 will not apply to any Person that does not seek to obtain the ADGM Green Portfolio Designation or the ADGM Climate Transition Portfolio Designation. However, the Regulator considers greenwashing to present a material risk to its objectives as set out in FSMR. Authorised Persons electing not to obtain the ADGM Green Portfolio Designation or the ADGM Climate Transition Portfolio Designation and that otherwise indicate that a Model Portfolio is pursuing green or climate transition objectives should avoid using a name that suggests it is an ADGM Green Portfolio or ADGM Climate Transition Portfolio.\n\n"
+    },
+    {
+        "ID": "dc21c8ad-1563-4109-97a6-6e5d1a72c639",
+        "DocumentID": 39,
+        "PassageID": "4.9",
+        "Passage": "Green Portfolio Investment Requirement. An ADGM Green Portfolio must invest predominantly in assets meeting the Green Portfolio Investment Requirement, i.e. assets which meet the definition of an Eligible Green Portfolio Asset in COBS Rule 3.8.4. However, where a Model Portfolio solely invests in assets aligned with an Acceptable Green Taxonomy, the Regulator is cognisant that it may take time to acquire Eligible Green Portfolio Assets. At a minimum, the Regulator expects that Green Taxonomy-aligned assets meeting the Green Portfolio Investment Requirement will constitute:\na)\tMore than 50% of the Model Portfolio\u2019s assets within two years of the date on which an ADGM Green Portfolio Designation is granted; and\nb)\t75% or more of the Model Portfolio\u2019s assets within five years of the date on which an ADGM Green Portfolio Designation is granted."
+    },
+    {
+        "ID": "a0ba1561-ed82-4f1c-b720-5aab374d2c18",
+        "DocumentID": 39,
+        "PassageID": "4.10",
+        "Passage": "Green Portfolio Investment Requirement. Where Eligible Green Portfolio Assets solely constitute assets included in or tracking an EU Paris Aligned Benchmark, the Regulator expects that such assets will constitute 75% or more of the Model Portfolio\u2019s assets as soon as practicable upon receipt of an ADGM Green Portfolio Designation.\n"
+    },
+    {
+        "ID": "a724fc86-a160-4a86-bc9c-c47812da7afa",
+        "DocumentID": 39,
+        "PassageID": "4.11",
+        "Passage": "Climate Transition Portfolio Investment Requirement. An ADGM Climate Transition Portfolio must invest predominantly in assets meeting the Climate Transition Portfolio Investment Requirement. The Regulator is cognisant that it may take time to acquire certain Eligible Climate Transition Portfolio Assets. At a minimum, the Regulator expects that assets meeting the Climate Transition Portfolio Investment Requirement will constitute:\na)\tMore than 50% of the Model Portfolio\u2019s assets within two years of the date on which an ADGM Climate Transition Portfolio Designation is granted; and\nb)\t75% or more of the Model Portfolio\u2019s assets within five years of the date on which an ADGM Climate Transition Portfolio Designation is granted."
+    },
+    {
+        "ID": "72636a47-1a7d-48d3-86d5-3492268e276e",
+        "DocumentID": 39,
+        "PassageID": "4.12",
+        "Passage": "Climate Transition Portfolio Investment Requirement. However, where a Model Portfolio solely invests in assets included in, or which track, a Climate Transition Benchmark, the Regulator expects that such assets will constitute 75% or more of the Model Portfolio\u2019s assets as soon as practicable upon receipt of an ADGM Climate Transition Portfolio Designation.\n"
+    },
+    {
+        "ID": "9704149a-55b3-4737-a6de-0c42267e91ca",
+        "DocumentID": 39,
+        "PassageID": "5.",
+        "Passage": "ADGM GREEN AND ADGM SUSTAINABILITY-LINKED DEBENTURES AND SUKUKS"
+    },
+    {
+        "ID": "c56f3532-2884-4d65-94ee-388ce4d12301",
+        "DocumentID": 39,
+        "PassageID": "5.1",
+        "Passage": "Section 4.15 of the Markets Rules (\u201cMKT\u201d) sets out the detailed requirements that apply to an ADGM Issuer seeking an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation for an applicable debenture."
+    },
+    {
+        "ID": "dd27804d-1dc0-4692-9e1e-f62c8cdcfbcf",
+        "DocumentID": 39,
+        "PassageID": "5.2",
+        "Passage": "The Rules in MKT section 4.15 are in addition to the requirements that apply to the Offer of Securities in or from the ADGM, including Prospectus disclosure under MKT."
+    },
+    {
+        "ID": "48bcaa58-c3a9-4d7f-8042-bfb462cf2949",
+        "DocumentID": 39,
+        "PassageID": "5.3",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that any communication to a Person in relation to a Specified Investment is clear, fair and not misleading. Similarly, chapter 4 of MKT sets out the requirements on a Person who makes or intends to make an Offer of Securities in ADGM. Without limiting any requirements under COBS or MKT, the Regulator has developed the ADGM Green Bond Designation and the ADGM Sustainability-Linked Bond Designation to indicate that an ADGM Issuer is issuing a debenture that it asserts is in accordance with Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Debenture Principles."
+    },
+    {
+        "ID": "99172519-5bb3-4c52-b495-7ea48184aff9",
+        "DocumentID": 39,
+        "PassageID": "5.4",
+        "Passage": "This section only applies to those Persons electing to apply for the ADGM Green Bond Designation or the ADGM Sustainability-Linked Bond Designation. Such Persons may elect to use the ADGM Green Bond mark or the ADGM Sustainability-Linked Bond mark to indicate to that the applicable Security has the ADGM Green Bond Designation or the ADGM Sustainability-Linked Bond Designation."
+    },
+    {
+        "ID": "9dc55b71-e2af-45cc-801f-375286bfc31d",
+        "DocumentID": 39,
+        "PassageID": "5.5",
+        "Passage": "Persons are not required under FSMR or applicable Rules to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation, or use the ADGM Green Bond mark or ADGM Sustainability-Linked Bond mark, in any marketing materials, Prospectus or other communications relating to Securities. As a result, the requirements set out in this section will not apply to any Person that elects not to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation, or does not wish to use the ADGM Green Bond mark or ADGM Sustainability Linked-Bond mark in the marketing materials, Prospectus or other communications relating to relevant Securities."
+    },
+    {
+        "ID": "988e843a-7120-449f-b09c-b2190bae1dfa",
+        "DocumentID": 39,
+        "PassageID": "5.6",
+        "Passage": "However, the Regulator considers greenwashing to present a material risk to one or more of its objectives set out in section 1 of FSMR. Persons electing not to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation and otherwise indicating that the issuance of Securities is pursuing green or sustainability-linked objectives should establish and maintain systems and controls to mitigate Greenwashing risk."
+    },
+    {
+        "ID": "87e51ac8-48bf-44fb-8ff8-42660ee38ace",
+        "DocumentID": 39,
+        "PassageID": "5.7",
+        "Passage": "The guidance above on ADGM Green Debentures and ADGM Sustainability-Linked Debentures applies to Sukuks in the same way as to Debentures, with all references to \u201cDebenture\u201d being read as \u201cSukuk\u201d."
+    },
+    {
+        "ID": "ae2565e2-ba4f-410c-a03a-0afefb6be5eb",
+        "DocumentID": 39,
+        "PassageID": "5.8",
+        "Passage": "An ADGM Green Sukuk or ADGM Sustainability-Linked Sukuk may also apply for, and maintain, an ADGM Green Sukuk Designation or ADGM Sustainability-Linked Sukuk Designation in the same way as for Debentures. Accordingly, the Guidance applies in the same way with all references to \u201cDebenture\u201d or \u201cBond\u201d being read as \u201cSukuk\u201d.\n"
+    },
+    {
+        "ID": "271fbdc3-f2f9-4929-8ccd-d3ab7b19cf5c",
+        "DocumentID": 39,
+        "PassageID": "6.",
+        "Passage": "USE OF ADGM DESIGNATION MARKS"
+    },
+    {
+        "ID": "65c31f30-6926-46cd-9b56-905293ec97ea",
+        "DocumentID": 39,
+        "PassageID": "6.1",
+        "Passage": "Upon receipt of a designation in relation to the products and services detailed in paragraph 1.3 a Person may choose to seek to use a specific ADGM mark corresponding to the designation received (an \u201cADGM mark\u201d)."
+    },
+    {
+        "ID": "cab702c4-82d4-4ba5-802e-68091415451f",
+        "DocumentID": 39,
+        "PassageID": "6.2",
+        "Passage": "The use of an ADGM mark is subject to the written consent of the Regulator, the requirements set out in the relevant FSRA Rulebooks and this guidance and any other conditions for use required by the Regulator. For the avoidance of doubt, the Regulator granting its permission to use an ADGM mark does not indicate:\na)\tendorsement of a Person by the Regulator;\nb)\tan assurance or guarantee by the Regulator that the product or service is compliant with or will be compliant with the relevant FSRA Rules; or\nc)\twhere applicable, that any Offer of a Security meets applicable Rules regarding the Offer of that Security."
+    },
+    {
+        "ID": "f36178b6-a3d4-4f9f-a5fe-2443b10f414e",
+        "DocumentID": 39,
+        "PassageID": "6.3",
+        "Passage": "All use of an ADGM mark should include the following disclaimer:\n\u201cUse of the [specified ADGM logo] does not create any rights in, or liability to, any person, public or private. The mark does not indicate an endorsement by the Regulator of any financial service or product, or a guarantee by the Regulator that any financial service or product is or will be compliant with the FSRA Rules.\u201d"
+    },
+    {
+        "ID": "82297f08-1adb-4d74-9ead-ccb4bd908326",
+        "DocumentID": 39,
+        "PassageID": "6.4",
+        "Passage": "A Person may only use an ADGM mark in the form that is reproduced from original artwork provided by the Regulator."
+    },
+    {
+        "ID": "9040cd19-5ec5-415f-94d5-b04b9f8b4467",
+        "DocumentID": 39,
+        "PassageID": "6.5",
+        "Passage": "The Regulator will withdraw its permission to use an ADGM mark if a product or service fails to, or chooses not to, maintain the corresponding designation."
+    },
+    {
+        "ID": "ead263ae-9ec2-4ef6-8ae1-d5e199670f3c",
+        "DocumentID": 39,
+        "PassageID": "6.6",
+        "Passage": "The effect of a withdrawal of the Regulator\u2019s permission is that a Person is not permitted to market or offer a product or service in or from the ADGM using an ADGM mark."
+    }
+]

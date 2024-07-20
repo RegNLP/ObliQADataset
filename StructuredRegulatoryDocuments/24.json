@@ -1,0 +1,182 @@
+[
+    {
+        "ID": "8eaa4ed6-d03e-4cf8-a619-64f43a7df56f",
+        "DocumentID": 24,
+        "PassageID": "1.",
+        "Passage": "BACKGROUND"
+    },
+    {
+        "ID": "5b151bb8-3ccd-4c71-b231-fd18d5659f15",
+        "DocumentID": 24,
+        "PassageID": "1.1",
+        "Passage": "As a progressive regulator, the Financial Services Regulatory Authority (FSRA) of the Abu Dhabi Global Market (ADGM) recognises the transformative power of the virtual asset (VA) industry and its potential to facilitate access to innovative financial services. In response, we created the world\u2019s first bespoke and comprehensive regulatory framework designed for virtual asset activities in 2018. It stands distinct from our other publications covering Digital Assets more broadly which, in addition to VAs, includes the digitalisation of financial services and capital markets, including in relation to Digital Securities."
+    },
+    {
+        "ID": "f780542d-a64a-4350-853e-6068ba45cb1e",
+        "DocumentID": 24,
+        "PassageID": "2.",
+        "Passage": "AIMS"
+    },
+    {
+        "ID": "70f3f348-bb1c-45ac-9efa-568a4b079f65",
+        "DocumentID": 24,
+        "PassageID": "2.1",
+        "Passage": "The FSRA has considered the comments and views expressed to date by international standard setters on both VAs and the future of the industry. As the design of regulatory standards in this area continue, we have developed these Guiding Principles to support engagement with other like-minded regulatory agencies in the UAE, across the region and globally, acting as a basis for regulatory cohesion across jurisdictions."
+    },
+    {
+        "ID": "42fb8124-7fec-4707-ab9a-29bda52116cd",
+        "DocumentID": 24,
+        "PassageID": "2.2",
+        "Passage": "The Guiding Principles aim to clearly articulate at a high level our approach to the regulation of VAs in ADGM. Whilst they are not legally binding, they should be viewed as a complement to the comprehensive detail of our published framework, providing an accessible view of our priorities and supporting rationale in this space."
+    },
+    {
+        "ID": "08fec2de-f243-4142-a1a9-ee1be0b9f4f1",
+        "DocumentID": 24,
+        "PassageID": "2.3",
+        "Passage": "Each principle is a declaration of the FSRA\u2019s risk appetite in the areas of regulation, authorisation, financial crime, supervision, enforcement and international cooperation. When viewed holistically, these expectations are calibrated to ensure the appropriate balance between confidence in our ecosystem, risk-sensitivity, customer protection and attracting new entrants.\n"
+    },
+    {
+        "ID": "b81d07db-6cec-400e-a274-c14175fc0fd3",
+        "DocumentID": 24,
+        "PassageID": "3.",
+        "Passage": "PRINCIPLES\n"
+    },
+    {
+        "ID": "cfb3c76c-c9b8-49a0-9262-470251ec858b",
+        "DocumentID": 24,
+        "PassageID": "3.1",
+        "Passage": "Principle 1 \u2013 A Robust and Transparent Risk-Based Regulatory Framework. The rapid growth of the VA sector and evolution of its enabling technology has seen financial regulators across the globe responding with a variety of approaches, including but not limited to prohibition, restrictions and forbearance. The FSRA believes that bringing definable VA activities within its regulatory perimeter ensures greater oversight and mitigation of the risks inherent in the sector. This approach also addresses the expectations of both best-in-class innovators and traditional financial institutions that seek the transparency and consistency of a regulated environment for a nascent asset class."
+    },
+    {
+        "ID": "73f4109b-d4f5-457a-977f-5cb3d6d7d3ee",
+        "DocumentID": 24,
+        "PassageID": "3.2",
+        "Passage": "Principle 1 \u2013 A Robust and Transparent Risk-Based Regulatory Framework. The framework encompasses a suite of regulations, activity-specific rules and supporting guidance that delivers protection to investors, maintains market integrity and future-proofs against financial stability risks. In particular, it introduces a clear taxonomy defining VAs as commodities within the wider Digital Asset universe and requires the licensing of entities engaged in regulated activities that use VAs within ADGM."
+    },
+    {
+        "ID": "199761bf-7f86-43cb-a4bf-040db1992333",
+        "DocumentID": 24,
+        "PassageID": "3.3",
+        "Passage": "Principle 1 \u2013 A Robust and Transparent Risk-Based Regulatory Framework. These licensed firms are assigned the same regulatory status within ADGM as any other licensed entity. Therefore product-specific conduct of business rules apply in addition to any others that are applicable to a regulated firm, such as those that are asset class agnostic."
+    },
+    {
+        "ID": "a4fd906c-5b68-4410-80dd-31063f6b81cb",
+        "DocumentID": 24,
+        "PassageID": "3.4",
+        "Passage": "Principle 1 \u2013 A Robust and Transparent Risk-Based Regulatory Framework. The FSRA\u2019s commitment to exhibit agility in the face of new trends, products and terminology in the industry ensures a dynamic regulatory framework from which further innovation, which ADGM is keen to foster, can occur.\n"
+    },
+    {
+        "ID": "b22eee67-2e70-4401-9901-207c3070a218",
+        "DocumentID": 24,
+        "PassageID": "3.5",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. ADGM has become the destination of choice for many start-ups and investors in the VA sector as well as extant financial institutions looking to expand into this area. Since 2018 the FSRA has issued a number of Financial Services Permissions (FSPs) to trading venues (e.g. multilateral trading facilities (MTFs)) and market intermediaries, such as broker dealers, custodians and asset managers, and continues to provide the regulatory architecture for a vibrant, VA ecosystem."
+    },
+    {
+        "ID": "2f4bfae2-769b-4675-88b7-263b0a9d8686",
+        "DocumentID": 24,
+        "PassageID": "3.6",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. As the gatekeeper of this ecosystem, the FSRA commits to proactive engagement with aspirants seeking authorisation in ADGM. Our sandbox-type initiatives, such as the RegLab and the DigitalLab, enable close collaboration not only with the regulator but between start-ups offering innovative solutions and traditional financial institutions."
+    },
+    {
+        "ID": "22ca1f6a-4f1a-4566-801a-a00092351146",
+        "DocumentID": 24,
+        "PassageID": "3.7",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. Following the review of a regulatory licence application, if an applicant\u2019s business model and controls are deemed to be within our risk appetite and they meet all applicable rules and requirements, we can provide an \u2018in-principle\u2019 approval. This outlines conditions that are required to be met prior to granting the applicant the appropriate Financial Services Permission. An applicant will only progress to a launch when it has completed its operational testing to the FSRA\u2019s satisfaction, which may include third-party verification of the applicant\u2019s systems."
+    },
+    {
+        "ID": "f481e802-3ff4-4a94-b20c-03d7d82ec39e",
+        "DocumentID": 24,
+        "PassageID": "3.8",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. The FSRA\u2019s risk appetite for VA activities is such that it will only admit operators to its jurisdiction who at the outset can unequivocally meet the transparent, high standards outlined in its framework. This will maintain the best-in-class reputation of the ADGM ecosystem and instil market confidence to promote growth and investment."
+    },
+    {
+        "ID": "ca479158-b286-48ed-84a2-fb5cb9c860cf",
+        "DocumentID": 24,
+        "PassageID": "3.9",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. This discerning approach is shown by the FSRA\u2019s power to only permit VAs that it deems \u2018acceptable\u2019, as determined by risk factors such as security and traceability, in order to prevent the build-up of risk from illiquid or immature assets. Additionally, we do not permit stablecoins based on the algorithmic model of valuation to the underlying fiat currency."
+    },
+    {
+        "ID": "08ed777f-d11c-4180-9f54-36dead12fa43",
+        "DocumentID": 24,
+        "PassageID": "3.10",
+        "Passage": "Principle 2 \u2013 High Standards for Authorisation. With regard to trading venues, the FSRA recognises that the operation of exchange-type activities is key to improving connectivity of VAs to the mainstream financial system and the sector\u2019s expansion in ADGM specifically. Its oversight of MTFs as centralised platforms for VA transactions is calibrated to ensure fair and orderly markets and to prevent market abuse.\n"
+    },
+    {
+        "ID": "c62b5987-e149-48aa-86c4-b348ae6b0801",
+        "DocumentID": 24,
+        "PassageID": "3.11",
+        "Passage": "Principle 3 \u2013 Preventing Money Laundering and Other Financial Crime. The VA industry exhibits structural features that make it susceptible to money laundering and terrorism financing outside the reach of law enforcement. These features include user anonymity, ease of access, infrastructure segmentation and jurisdictional location. As a result, the scrutiny of VAs by regulators to date has included a focus on the heightened money laundering and terrorist financing risks. The FSRA\u2019s dedicated Financial & Cyber Crime Prevention Unit acts as a centre of expertise and leads ADGM\u2019s efforts in promoting sound practices in financial crime compliance."
+    },
+    {
+        "ID": "505b398f-7967-40ab-a421-33355a49f9bd",
+        "DocumentID": 24,
+        "PassageID": "3.12",
+        "Passage": "Principle 3 \u2013 Preventing Money Laundering and Other Financial Crime. In recognition of the underlying risk profile in this area, the FSRA requires that its comprehensive Anti-Money Laundering/Combatting the Financing of Terrorism (AML/CFT) rules are equally applicable to VA activities, in addition to UAE-wide Federal Laws and Cabinet Resolutions on AML/CFT. Critically, the FSRA also expects full compliance with FATF Guidance and Recommendations in this area."
+    },
+    {
+        "ID": "96eca551-d43f-4d65-9d9b-eb059ca98deb",
+        "DocumentID": 24,
+        "PassageID": "3.13",
+        "Passage": "Principle 3 \u2013 Preventing Money Laundering and Other Financial Crime. The strength of these requirements, taken all together, should promote an effective AML/CFT culture within ADGM\u2019s VA firms and ensure the centre aligns with international best practice for beneficial ownership transparency. To demonstrate this, the FSRA requires those firms to avoid VA transactions where a counterparty\u2019s identity is unknown at any stage in the process."
+    },
+    {
+        "ID": "98f21e92-00e5-433e-a180-ee3e7a4c86d4",
+        "DocumentID": 24,
+        "PassageID": "3.14",
+        "Passage": "Principle 3 \u2013 Preventing Money Laundering and Other Financial Crime. With regard to taxation, the FSRA expects authorised firms to be fully cognisant of applicable reporting obligations under the FATCA and Common Reporting Standards regimes.\n"
+    },
+    {
+        "ID": "ce25d68b-7091-4ba8-9c14-ab449ac03ac2",
+        "DocumentID": 24,
+        "PassageID": "3.15",
+        "Passage": "Principle 4 \u2013 Risk-Sensitive Supervision . Consistent with its principles on regulation and authorisation, the FSRA\u2019s risk-based approach to supervision of authorised firms is equally applicable to VA firms. This includes setting the risk rating of a firm based on its size, nature and complexity, undertaking a continuous risk assessment cycle and utilising its supervisory toolkit to minimise the impact of a firm failure or conduct risk crystallisation. Ultimately, we require our authorised firms to have sound risk management and appropriate controls that are also proportionate to the nature and materiality of their business."
+    },
+    {
+        "ID": "f7772fcf-5951-4e74-ba83-07042f07cf9b",
+        "DocumentID": 24,
+        "PassageID": "3.16",
+        "Passage": "Principle 4 \u2013 Risk-Sensitive Supervision . Whilst financial crime is seen as a primary risk in the sector at this point in its growth, ADGM\u2019s framework also includes safeguards aligned with its mandate to ensure market integrity, investor protection and financial stability. As a forward-looking regulator, the FSRA implemented these safeguards at the outset to prevent the commensurate increase in risk as the sector undergoes expansion within ADGM. Therefore, the following risk drivers receive heightened focus from the FSRA in its supervisory programme:\n(a)\tCustody of VAs \u2013 even where outsourced to a third party, a VA custodian is held to the requirements applicable to client monies and client investments. Enhanced reconciliation and reporting requirements are also in place.\n(b)\tTechnology and Governance Controls \u2013 whilst being \u2018technology-neutral\u2019, we have bespoke requirements reflecting the intensive technology-related operations of VA firms, including: the maintenance of operating systems; cryptographic keys and wallet storage; password encryption; origin/destination of VA funds; and fork protocols.\n(c)\tExchange-Type Operations \u2013 the \u2018fair and orderly trading\u2019 and Market Abuse requirements for Financial Instruments admitted to trading on trading venues in ADGM are equally applicable to VAs traded on an MTF in ADGM. Real time reporting is required for all transactions on such platforms. Requirements relating to settlement, transaction recording, rulebooks and access, among many others, also apply.\n(d)\tInvestor Protection \u2013 we have set high standards around product suitability, communication of material risks to clients and resolution of perceived client conflicts. VA firms are required to monitor and update their risk disclosures on a continuous basis."
+    },
+    {
+        "ID": "be0ef81f-9a81-4cad-8206-836064147119",
+        "DocumentID": 24,
+        "PassageID": "3.17",
+        "Passage": "Principle 4 \u2013 Risk-Sensitive Supervision . To ensure the robust execution of its supervisory strategy, the FSRA has actively recruited a supervisory team with the appropriate experience in the VA industry. This is complemented by investment in its SupTech capabilities to proactively identify and mitigate emerging risks, a key example being its market surveillance system to monitor market abuse. The FSRA also supports the adoption of effective RegTech to maintain compliance standards within ADGM, such as those that help adherence to the FATF \u2018travel rule\u2019 for cross-border VA transactions.\n"
+    },
+    {
+        "ID": "d5c55c8f-03fe-4658-8ee4-1f34b79f07e8",
+        "DocumentID": 24,
+        "PassageID": "3.18",
+        "Passage": "Principle 5 \u2013 Commitment to Enforce on Regulatory Breaches . To enable the FSRA to meet its statutory objectives, ADGM legislation empowers us with a range of supervisory and enforcement tools and actions to identify, address and deter regulatory breaches, regardless of sector or regulated activity. We will act decisively to address non-compliance with our regulations and rules and eliminate any potential benefit that might arise from it. Our approach to enforcement is outlined below:\n(a)\tWe have comprehensive powers to gather evidence and information on a compulsory basis. This includes requiring:\n(i)\tproduction of information and documentation from a firm; and\n(ii)\ta skilled person report on any perceived deficiencies within a firm.\n(b)\tWe also have a legal basis to conduct investigations:\n(i)\tinto the nature, conduct or state of business and the ownership or control of the entities that we regulate;\n(ii)\tinto suspected contraventions by any person of the regulations and rules that we administrate; and\n(iii)\tto further requests for assistance from other regulatory authorities.\n(c)\tOur comprehensive powers of investigation, which are exercised where a formal investigation has been commenced and can apply to any person, includes powers to:\n(i)\tcompel testimony under oath;\n(ii)\trequire production of information and documents;\n(iii)\trequire assistance; and\n(iv)\tenter business premises to inspect and copy documents.\n(d)\tFurthermore, a range of regulatory and disciplinary actions are available to address and remedy non-compliance with our framework. These include the ability to:\n(i)\timpose requirements or conditions on a firm in the course of its business e.g. to not hold Client Money or trade in certain Specified Investments;\n(ii)\twithdraw the status of an individual in a Controlled Function;\n(iii)\tcancel a Financial Services Permission or Recognition Order;\n(iv)\tsuspend a Financial Services Permission;\n(v)\timpose financial penalties or public censure;\n(vi)\tban individuals from performing functions in the ADGM; and\n(vii)\tapply to the ADGM Courts for a wide range of injunctive or final relief, including to seek compensation for victims of misconduct and to require restitution and damages.\n(e)\tWe publish full details of formal regulatory actions that are undertaken."
+    },
+    {
+        "ID": "ad1367e3-de64-4039-a0c4-faf41e37af33",
+        "DocumentID": 24,
+        "PassageID": "3.19",
+        "Passage": "Principle 5 \u2013 Commitment to Enforce on Regulatory Breaches . We are committed to providing the fullest assistance possible to other regulatory authorities, including on regulatory investigations undertaken by other jurisdictions. As part of this commitment, we are a signatory to the IOSCO Enhanced Multilateral Memorandum of Understanding.\n"
+    },
+    {
+        "ID": "ed6fbcae-5b84-4a4a-a023-fe358b4d5cb4",
+        "DocumentID": 24,
+        "PassageID": "3.20",
+        "Passage": "Principle 6 \u2013 International Cooperation  . Considering the global reach of VA activities, the FSRA believes that collaboration between regulators internationally is imperative to mitigate the variety of risks they pose. To support this, the FSRA has entered into a material number of bilateral and multilateral Memorandum of Understandings (MoUs) to support the exchange of information between regulators."
+    },
+    {
+        "ID": "6195b776-25f0-46df-8311-d2e7dcbdfcff",
+        "DocumentID": 24,
+        "PassageID": "3.21",
+        "Passage": "Principle 6 \u2013 International Cooperation  . In addition to being agile to market-based trends, the FSRA remains vigilant to emerging risks and opportunities in the sector by undertaking gap analyses against the regimes of other regulators and international best practices."
+    },
+    {
+        "ID": "bf5ab212-454d-400b-8538-5a5e4da11647",
+        "DocumentID": 24,
+        "PassageID": "3.22",
+        "Passage": "Principle 6 \u2013 International Cooperation  . Likewise, as a high watermark regime, the FSRA supports the development of international minimum standards that can drive the sector\u2019s growth to be sustainable, risk sensitive and consistent across markets. Although they may require ongoing revision to keep pace with industry developments, the FSRA stands ready to contribute to the design of principles by international bodies such as IOSCO, the Basel Consultative Group and FATF."
+    },
+    {
+        "ID": "d09ca9f2-4a4f-4df8-af56-2bcf4bc03577",
+        "DocumentID": 24,
+        "PassageID": "3.23",
+        "Passage": "Principle 6 \u2013 International Cooperation  . Being one of the first regulators to proactively engage with the sector, the FSRA has built a deep understanding and practical experience on its risks and potential regulatory models. Therefore, it is seen as a thought leader in the MENA region and continues to expand this recognition to the global stage through engagement with other regulatory bodies in North America, Europe and Asia, industry forums and providing its insights to newer International Finance Centres.\n\n"
+    }
+]

@@ -1,0 +1,1154 @@
+[
+    {
+        "ID": "b59d5453-7ca8-41de-abb9-34041a152b35",
+        "DocumentID": 19,
+        "PassageID": "1)",
+        "Passage": "INTRODUCTION\nThis Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d).  It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (\u201cFSRA\u201d), the FSRA\u2019s Guidance & Policies Manual, its \u2018Guidance \u2013 Regulation of Digital Security Offerings and Virtual Assets under the FSMR\u2019 (\u201cICO Guidance\u201d)  and its \u2018Guidance \u2013 Regulation of Digital Securities Activity in ADGM\u2019 (\u201cDigital Securities Guidance\u201d).\n"
+    },
+    {
+        "ID": "6e80f22b-bf9d-4a1e-af29-3e473a1398b2",
+        "DocumentID": 19,
+        "PassageID": "2)",
+        "Passage": "INTRODUCTION\nThis Guidance is applicable to the following Persons:\n\na)\tan Applicant for a Financial Services Permission (\u201cFSP\u201d) to carry on a Regulated Activity in relation to Virtual Assets in or from the Abu Dhabi Global Market (\u201cADGM\u201d);\n\nb)\tan Authorised Person conducting a Regulated Activity in relation to Virtual Assets;\n\nc)\ta Recognised Investment Exchange with a stipulation on its Recognition Order permitting it to carry on the Regulated Activity of Operating a Multilateral Trading Facility (in relation to Virtual Assets) within ADGM; or\n\nd)\tan Applicant/Authorised Person in respect of the use of stablecoins in or from ADGM.\n"
+    },
+    {
+        "ID": "5b6a43e6-a33f-4f43-a2e4-f7df28ef429b",
+        "DocumentID": 19,
+        "PassageID": "3)",
+        "Passage": "INTRODUCTION\nThis Guidance sets out the FSRA\u2019s approach to the regulation of the use of Virtual Assets in ADGM, including activities conducted by Multilateral Trading Facilities, Authorised Persons that are Providing Custody (\u201cVirtual Asset Custodians\u201d) and intermediary-type Authorised Persons.  This Guidance, together with the applicable ADGM Regulations and FSRA Rules governing the use of Virtual Assets, is collectively referred to as the \u201cVirtual Asset Framework\u201d.\n"
+    },
+    {
+        "ID": "14fe9500-390b-446d-bba9-96ee6ecabed6",
+        "DocumentID": 19,
+        "PassageID": "4)",
+        "Passage": "INTRODUCTION\nThis Guidance is not an exhaustive source of the FSRA\u2019s policy on the exercise of its regulatory functions and powers.  The FSRA is not bound by the requirements set out in this Guidance and may \u2013\n\na)\timpose additional requirements to address any specific risks posed in relation to  the use of Virtual Assets;\n\nb)\twaive or modify any of the Rules relevant to the Virtual Asset Framework, at its discretion, where appropriate.\n"
+    },
+    {
+        "ID": "ee962d74-037d-4ae9-8744-63bda0d58d76",
+        "DocumentID": 19,
+        "PassageID": "5)",
+        "Passage": "INTRODUCTION\nUnless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the FSRA Glossary Rulebook (\u201cGLO\u201d).\n"
+    },
+    {
+        "ID": "edd7380c-6735-41af-b8ad-17f30a810b55",
+        "DocumentID": 19,
+        "PassageID": "6)",
+        "Passage": "INTRODUCTION\nFor the purposes of this Guidance, an Authorised Person permitted to carry on a Regulated Activity  in relation to Virtual Assets, or a Recognised Investment Exchange holding a stipulation on its Recognition Order permitting it to operate a Multilateral Trading Facility (in relation to Virtual Assets) (as set out in paragraph 135) is referred to as an Authorised Person.\n"
+    },
+    {
+        "ID": "9fc71703-b899-4e3e-b837-8a928dc6a6a6",
+        "DocumentID": 19,
+        "PassageID": "7)",
+        "Passage": "INTRODUCTION\nFor more details on the process for authorisation as a Multilateral Trading Facility, please contact the FSRA at MIP@adgm.com.  For more details on the process for authorisation for any other Virtual Asset business activities, please contact the FSRA at authorisation@adgm.com.\n\n"
+    },
+    {
+        "ID": "aa076a5a-9929-45fe-a5a8-0e1474979c50",
+        "DocumentID": 19,
+        "PassageID": "8)",
+        "Passage": "BACKGROUND\nTechnological innovation is transforming the financial services industry. Constant advances in new technologies have provided opportunities for significant change and disruption to financial services and other related activities globally.  Developments in distributed ledger technologies (\u201cDLT\u201d) have led to the emergence of various types of digital assets, including virtual coins or tokens for capital raising, and Virtual Assets for the facilitation of economic transactions or the transfer of value.\n"
+    },
+    {
+        "ID": "fbcd980f-7e91-4c7e-bac8-76cca44ee181",
+        "DocumentID": 19,
+        "PassageID": "9)",
+        "Passage": "BACKGROUND\nThis Guidance primarily focuses on the FSRA\u2019s regulatory treatment of Virtual Assets, and the financial services activities that can be conducted in relation to Virtual Assets within ADGM.  Consistent with the definition used by the Financial Action Task Force , for the purposes of the Virtual Asset Framework, the FSRA has defined Virtual Assets in the FSMR as follows:\n\n\u201cVirtual Asset\u201d means a digital representation of value that can be digitally traded and functions as (1) a medium of exchange; and/or (2) a unit of account; and/or (3) a store of value, but does not have legal tender status in any jurisdiction.  A Virtual Asset is -\n\n(a)\tneither issued nor guaranteed by any jurisdiction, and fulfils the above functions only by agreement within the community of users of the Virtual Asset; and\n\n(b)\tdistinguished from Fiat Currency  and E-money .\u201d\n"
+    },
+    {
+        "ID": "235b0e8a-4409-4e45-bbac-96d8c730ae23",
+        "DocumentID": 19,
+        "PassageID": "10)",
+        "Passage": "BACKGROUND\nThe diagram and table on the following pages set out the FSRA\u2019s regulatory approach in relation to different types of digital assets.\n/Figure Start\nThis figure presents a classification of Digital Assets as defined and regulated by the Financial Services Regulatory Authority (FSRA), organized into four distinct categories: Other Digital Tokens, Virtual Assets, Digital Securities, and Fiat Tokens, with Derivatives/Funds being mentioned as an associated category. Below are the detailed descriptions of each:\n\nOther Digital Tokens: These are utility tokens which do not exhibit the features and characteristics of a regulated investment/instrument under FSRA.\n\nVirtual Assets: This category includes non-fiat virtual currencies, such as Bitcoin, Ether, etc. The figure notes that FSRA's market intermediaries conducting Virtual Asset business are required to apply and hold the relevant license under FSRA.\n\nDigital Securities: Described as digital assets with security characteristics, including 'tokenized' offerings of securities. Financial services activities in relation to Security Tokens - e.g., the offering of, dealing in, advising on, custody of, or providing Security Tokens - are regulated as Security instruments under FSRA.\n\nFiat Tokens: These are digital tokens that are fully backed by fiat currency. Some activities where tokens are used as payment instruments, e.g., stablecoins, may be regulated as Providing Money Services under FSRA.\n\nDerivatives/Funds: This refers to Derivatives over regulated Digital Assets and collective investment funds investing in Regulated Digital Assets. They are regulated as Derivatives and Funds in a Fund under FSRA.\n\nMarket operators and intermediaries dealing in such Derivatives and Funds are licensed and approved by FSRA.\n\nThe bottom note clarifies that the FSRA regulates and will allow to operate within the ADGM, the Digital Assets located within the blue dotted line and Derivatives over/Funds investing in Digital Assets. The blue dotted line encapsulates all categories except \"Other Digital Tokens,\" implying that all the other categories fall under the regulatory scope of FSRA within the ADGM (Abu Dhabi Global Market).\n/Figure End\n\n\n/Table Start\nCategory of Digital Assets / Instruments\tRegulatory Approach\n\u201cDigital Securities\u201d\n\n(e.g., digital/virtual tokens that have the features and characteristics of a Security under the FSMR (such as Shares, Debentures and Units in a Collective Investment Fund)).\nDeemed to be Securities pursuant to Paragraph 58(2)(b) of FSMR.\n\nAll financial services activities in relation to Digital Securities, such as operating primary / secondary markets, dealing / trading / managing investments in or advising on Digital Securities, are subject to the relevant regulatory requirements under the FSMR.\n\nMarket intermediaries and market operators dealing or managing investments in Digital Securities need to be licensed / approved by FSRA as FSP holders (including as Multilateral Trading Facilities), Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.\n\n\u201cVirtual Assets\u201d\n\n(e.g., non-fiat virtual currencies,\ncrypto \u2018exchange tokens\u2019).\n\nAs stated in paragraph 9, this Guidance is primarily focused on Virtual Assets.\tTreated as commodities and, therefore, not deemed Specified Investments under the FSMR.\n\nMarket intermediaries (e.g., broker dealers, custodians, asset managers) dealing in or managing Virtual Assets, and Multilateral Trading Facilities using Virtual Assets, need to be licensed / approved by FSRA.  Only activities in Accepted Virtual Assets will be permitted.\n\nCapital formation activities are not provided for under the Virtual Asset Framework, and such activities are not envisaged under the Market Rules (MKT).\n\nDerivatives and Collective Investment Funds of Virtual Assets, Digital Securities and Utility Tokens\tRegulated as Specified Investments under the FSMR.\n\nMarket intermediaries and market operators dealing in such Derivatives and Collective Investment Funds will need to be licensed / approved by FSRA as FSP holders, Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.\n\n\u201cUtility Tokens\u201d\n\n(e.g., tokens which can be redeemed for access to a specific product or service, typically provided using a DLT platform, do not exhibit the features and characteristics of a regulated investment / instrument under the FSMR).\nTreated as commodities and, therefore, not deemed Specified Investments under the FSMR.\n\nUnless such Utility Tokens are caught as Accepted Virtual Assets, spot trading and transactions in Utility Tokens do not constitute Regulated Activities, activities envisaged under a Recognition Order (e.g., those of a Recognised Investment Exchange or Recognised Clearing House), or activities envisaged under MKT.\n\n\n\u201cFiat Tokens\u201d\n\n(e.g., stablecoins whose value are fully backed by underlying fiat currencies)\tTreated as a form of digital representation of Fiat Currency.\n\nWhere used as a payment instrument for the purposes of Money Transmission as defined under the FSMR, the activity will be licensed and regulated as Providing Money Services.\n\n/Table End\n\n"
+    },
+    {
+        "ID": "69f7d87c-5a1d-4b83-a00a-f1a572d23d2c",
+        "DocumentID": 19,
+        "PassageID": "11)",
+        "Passage": "BACKGROUND\nFor clarification, the Virtual Asset Framework does not apply to:\n\na)\tinitial token or coin offerings (ICOs), (whether Digital Securities or Utility tokens), or other capital formation/ capital raising purposes.  For details on FSRA\u2019s regulatory treatment of ICOs, Digital Securities and utility tokens please refer to the FSRA\u2019s ICO Guidance and Digital Securities Guidance; nor\n\nb)\tany of the following:\n\ni.\tthe creation or administration of Virtual Assets that are not Accepted Virtual Assets;\n\nii.\tthe development, dissemination or use of software for the purpose of creating or mining a Virtual Asset;\n\niii.\ta loyalty points scheme denominated in Virtual Assets; or\n\niv.\tany other activity or arrangement in relation to Virtual Assets that is deemed by the Regulator to not form part of a Regulated Activity, where necessary and appropriate in order for the Regulator to pursue its objectives.\n\n"
+    },
+    {
+        "ID": "8b69ae37-39cd-49cc-85e0-5a12a979f142",
+        "DocumentID": 19,
+        "PassageID": "12)",
+        "Passage": "OBJECTIVES OF THE VIRTUAL ASSET FRAMEWORK\nFiat currencies are created and issued by sovereign governments, and stored and transferred by banks and other regulated financial institutions on behalf of users. In contrast, the virtual asset ecosystem can enable users to create, store and transfer Virtual Assets without the need for any third party. This creates a set of unique challenges for regulators worldwide. Without regulated entities controlling the creation and use of Virtual Assets, the system is open to significant Financial Crime and other risks.\n"
+    },
+    {
+        "ID": "664e0ae8-ef6e-4ef4-8756-6f36029de47d",
+        "DocumentID": 19,
+        "PassageID": "13)",
+        "Passage": "OBJECTIVES OF THE VIRTUAL ASSET FRAMEWORK\nThe Virtual Asset Framework is comprehensive in order to effectively address the key risks that the trading of Virtual Assets poses.  FSRA\u2019s view is that regulation of AML/CFT risks alone will not sufficiently mitigate certain wider Virtual Asset related risks.  Given the increased use of Virtual Assets as a medium for financial transactions, and their connectivity to the mainstream financial system through Virtual Asset and Derivative exchanges and intermediaries, there is the increased potential of contagion risks impacting the stability of the financial sector.  There is also no current safety net that ensures that users will be able to recover their Virtual Assets in case of loss or theft.\n"
+    },
+    {
+        "ID": "528f7e31-1e0a-4664-8f1f-2dc81e565596",
+        "DocumentID": 19,
+        "PassageID": "14)",
+        "Passage": "OBJECTIVES OF THE VIRTUAL ASSET FRAMEWORK\nAccordingly, the FSRA has addressed issues around consumer protection, safe custody, technology governance, disclosure/transparency, Market Abuse and the regulation of Multilateral Trading Facilities using Virtual Assets in a manner similar to the regulatory approach taken in relation to securities/derivatives exchanges globally.\n\n"
+    },
+    {
+        "ID": "5dc92d28-7794-45ea-9e40-14263b3fde7c",
+        "DocumentID": 19,
+        "PassageID": "15)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nRegulated Activities in relation to Virtual Assets\nIn accordance with section 30 of FSMR, Applicants that qualify for authorisation to carry on a Regulated Activity will be granted an FSP to carry on the relevant Regulated Activity.  Separately, an Authorised Person may, as applicable, be required to also receive approval from the FSRA as to whether it can also use (certain) Specified Investments, Financial Instruments and Virtual Assets as part of its Regulated Activities.\n"
+    },
+    {
+        "ID": "7170307e-a165-41d6-b11d-225e486ca93a",
+        "DocumentID": 19,
+        "PassageID": "16)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nRegulated Activities in relation to Virtual Assets\nTo be authorised to conduct a Regulated Activity in relation to Virtual Assets, an Applicant must satisfy FSRA that all applicable requirements of FSMR and the relevant FSRA Rulebooks have been, and will continue to be, complied with. Upon being granted an FSP, the Applicant will be an Authorised Person for the purposes of the FSMR and the FSRA Rulebook, and will have the same regulatory status within ADGM as any other Authorised Person.\n"
+    },
+    {
+        "ID": "2fc6c740-df47-4aec-82b0-a1d31d35b94b",
+        "DocumentID": 19,
+        "PassageID": "17)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nRegulated Activities in relation to Virtual Assets\nThe principal Rules for Authorised Persons conducting a Regulated Activity in relation to Virtual Assets are set out in Chapter 17 of the FSRA Conduct of Business Rulebook (\u201cCOBS\u201d).  These product specific Rules apply in addition to any other Rules applicable to the Regulated Activity being conducted by Authorised Person (e.g., Operating a Multilateral Trading Facility, Providing Custody or Dealing). Though the requirements set out in COBS Rule 17.1.2 already apply to Authorised Persons generally, COBS Rule 17.1.2 operates as a \u2018sign-post\u2019 Rule designed to draw the attention of Authorised Persons conducting a Regulated Activity in relation to Virtual Assets to the fact that they must comply with all Rules applicable to Authorised Persons, including:\n\na)\tall other relevant chapters of COBS;\n\nb)\tthe FSRA General Rulebook (\u201cGEN\u201d);\n\nc)\tthe FSRA Anti-Money Laundering and Sanctions Rules and Guidance (\u201cAML\u201d); and\n\nd)\tthe FSRA Code of Market Conduct (\u201cCMC\u201d).\n"
+    },
+    {
+        "ID": "64248343-8e58-40b2-9c8a-9d783dbb1f90",
+        "DocumentID": 19,
+        "PassageID": "18)",
+        "Passage": "The table below sets out the main risk areas, and the related mitigations for each of these risks areas, under the Virtual Asset Framework.\n/Table Start\nRISK\tMITIGANT\n1.\tAML/CFT/TAX\tThe AML Rulebook applies in full to all Authorised Persons.\n\nAuthorised Persons also need to consider their reporting obligations in relation to FATCA and the Common Reporting Standards.\n\n2.\tCONSUMER PROTECTION\tAll material risks associated with Virtual Assets generally, Accepted Virtual Assets and an Authorised Persons\u2019 products, services and activities must be appropriately disclosed, and monitored and updated on an ongoing basis.\n\n3.\tTECHNOLOGY GOVERNANCE\tSystems and controls must be in place in relation to:\n\u2022\tVirtual Asset wallets;\n\u2022\tPrivate keys;\n\u2022\tOrigin and destination of Virtual Asset funds;\n\u2022\tSecurity; and\n\u2022\tRisk management and systems recovery.\n4.\t\u2018EXCHANGE-TYPE\u2019 ACTIVITIES\tMultilateral Trading Facilities (MTFs) using Virtual Assets are required to have in place, among other things, the following:\n\u2022\tMarket surveillance;\n\u2022\tFair and orderly trading;\n\u2022\tSettlement processes;\n\u2022\tTransaction recording;\n\u2022\tA rulebook(s);\n\u2022\tTransparency & public disclosure mechanisms; and\n\u2022\tExchange-like operational systems and controls.\n5.\tCUSTODY\tAuthorised Persons that are Providing Custody that hold or control either Accepted Virtual Assets and / or Client Money (e.g., fiat currencies) under custody on behalf of Clients are subject to the Safe Custody and / or Client Money Provisions respectively under FSMR and COBS.  Frequent reconciliations and reporting of Accepted Virtual Assets and Client Money, as well as appropriate internal controls to safeguard them, are required.\n/Table End\n\n"
+    },
+    {
+        "ID": "e2ff5c54-c76a-4e57-b74c-a8458fc98a54",
+        "DocumentID": 19,
+        "PassageID": "19)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nRegulated Activities in relation to Virtual Assets\nCOBS Rule 17.1.3 operates such that \u2018Client Investments\u2019 in GEN and \u2018Financial Instruments\u2019 in CMC are read to include Virtual Assets. This means that the various Rules using these terms throughout the FSRA Rulebooks are expanded to capture Virtual Assets, including in particular the Rules contained in Chapters 3 and 6 of COBS.\n"
+    },
+    {
+        "ID": "62e970df-8e47-408b-89e4-5048d3182dbf",
+        "DocumentID": 19,
+        "PassageID": "20)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nCombination of Regulated Activities\nApplicants approved by the FSRA as an Authorised Person and permitted to conduct a Regulated Activity in relation to Virtual Assets will be granted an FSP for the relevant Regulated Activity being conducted by that Authorised Person. The activities of the Authorised Person when conducting its Regulated Activity will be limited such that it is only permitted to the engage in activities in relation to the use of Virtual Assets, unless it has been otherwise authorised by the FSRA. An Applicant seeking to be permitted to conduct activities in relation to Specified Investments / Financial Instruments, in addition to Virtual Assets, will need to apply to the FSRA to be able to do so, and will need to comply with the requirements of the FSRA in relation to those Specified Investments / Financial Instruments (including in relation to fees).\n"
+    },
+    {
+        "ID": "ffe6d288-a022-4e9b-880d-d9aefbffe092",
+        "DocumentID": 19,
+        "PassageID": "21)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nCombination of Regulated Activities\nFor example, a person wishing to operate as a broker, dealer or custodian in the conventional space will need to apply for and receive FSRA approvals applicable to those conventional Specified Investments / Financial Instruments, in addition to seeking approval to conduct a Regulated Activity in relation to Virtual Assets.\n"
+    },
+    {
+        "ID": "6f7d14b4-7a0f-41d5-b1e2-06dcbe3f38ed",
+        "DocumentID": 19,
+        "PassageID": "22)",
+        "Passage": "FEATURES OF THE VIRTUAL ASSET FRAMEWORK\nCombination of Regulated Activities\nFSP holders carrying on a Regulated Activity that incidentally involves the use of Virtual Assets may still be subject to relevant Rules in Chapter 17 of COBS (e.g., in relation to Accepted Virtual Assets, technology governance, disclosure requirements) to ensure that appropriate activity is undertaken as part of their Regulated Activities.\n\n"
+    },
+    {
+        "ID": "7d5135f3-de9e-4c58-8b82-119b1dd57a61",
+        "DocumentID": 19,
+        "PassageID": "23)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nConducting a Regulated Activity in relation to Virtual Assets\nChapter 17 of COBS applies to all Authorised Persons conducting a Regulated Activity in relation to Virtual Assets, requiring compliance with all requirements set out in COBS Rules 17.1 \u2013 17.6. Authorised Persons that are Operating a Multilateral Trading Facility or Providing Custody in relation to Virtual Assets are also required to comply with the additional requirements set out in COBS Rules 17.7 or 17.8 respectively.\n"
+    },
+    {
+        "ID": "e21bdb20-ef7f-4b2d-8f20-e448b1576e78",
+        "DocumentID": 19,
+        "PassageID": "24)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nCOBS Rule 17.2.1 permits an Authorised Person to conduct a Regulated Activity in relation to Accepted Virtual Assets only.  The FSRA has a general power to determine each Accepted Virtual Asset that will be permitted to be used by an Authorised Person within ADGM, in order to prevent potential higher-risk activities relating to illiquid or \u2018immature\u2019 Virtual Assets.\n"
+    },
+    {
+        "ID": "480fd476-0932-4064-b15a-5e2299439911",
+        "DocumentID": 19,
+        "PassageID": "25)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nA Virtual Asset that meets the FSRA\u2019s requirements, as demonstrated by an individual Authorised Person, will constitute an Accepted Virtual Asset for that individual Authorised Person only. COBS Rule 17.2.2 states that for the purpose of determining whether, in its opinion, a Virtual Asset meets the requirements of being an Accepted Virtual Asset, the FSRA will consider those factors it considers relevant, which at the date of this Guidance include seven key factors as set out below:\n\na)\tMaturity: the sufficiency, depth and breadth of Client demand, the proportion of the Virtual Asset that is in free float, and the controls/processes to manage volatility of a particular Virtual Asset;\n\nb)\tSecurity: consideration of whether a specific Virtual Asset is able to withstand, adapt, respond to, and improve on its specific risks and vulnerabilities, including relevant factors/risks relating to the on-boarding or use of new Virtual Assets (including size, testing, maturity, and ability to allow the appropriate safeguarding of secure private keys);\n\nc)\tTraceability / monitoring: whether Authorised Persons are able to demonstrate the origin and destination of the specific Virtual Asset, if the Virtual Asset enables the identification of counterparties to each transaction, and if on-chain transactions in the Virtual Asset can be adequately monitored;\n\nd)\tExchange connectivity: whether there are (other) exchanges that support the Virtual Asset; the jurisdictions of these exchanges and whether these exchanges are suitably regulated;\n\ne)\tType of Distributed Ledger (DLT): whether there are issues relating to the security and/or usability of a DLT used for the purposes of a Virtual Asset; whether the Virtual Asset leverages an existing DLT for network and other synergies; whether a new DLT has been demonstrably stress tested;\n\nf)\tInnovation / efficiency: whether, for example, the Virtual Asset helps to solve a fundamental problem, addresses an unmet market need or creates value for network participants; and\n\ng)\tPractical application/functionality: whether the Virtual Asset possesses real world, quantifiable, functionality.\n"
+    },
+    {
+        "ID": "159fdf0f-1382-411c-b8a4-be40a92735b2",
+        "DocumentID": 19,
+        "PassageID": "26)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nThough these factors may change from time to time, the FSRA will, in all cases, have regard to its objectives as a regulator, and the principles as set out in Section 1 of FSMR.\n"
+    },
+    {
+        "ID": "446c5f88-ec3a-48e6-bc67-da16b9d2c95f",
+        "DocumentID": 19,
+        "PassageID": "27)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nAn Applicant applying for an FSP will need to submit the details of each Accepted Virtual Asset that they propose to use, setting out separately for each proposed Virtual Asset how it meets the tests set out in paragraph 25 above. The use of each Accepted Virtual Asset will be approved by the FSRA as part of the formal FSP application process or otherwise in accordance with the process outlined in paragraph 29 below.\n"
+    },
+    {
+        "ID": "ac4da47e-f5d2-4ad6-8762-ac18e3eaf07a",
+        "DocumentID": 19,
+        "PassageID": "28)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nAn Accepted Virtual Asset may be deemed suitable for use by more than one Authorised Person, subject to each Authorised Person satisfying the FSRA that it can meet the regulatory requirements in respect of the specific Accepted Virtual Asset.  For example, an MTF using Virtual Assets is required by COBS Rule 17.7.4  to notify the FSRA of any new Accepted Virtual Asset proposed to be admitted to trading on its facilities.  Though the MTF may propose to admit to trading a commonly used and traded Virtual Asset, the MTF\u2019s controls, for example, relating to identity/transaction monitoring of a certain distributed ledger may not yet be fully developed. In such circumstances, the FSRA may require the MTF to delay the commencement of trading until such time that suitable controls have been developed and implemented.\n"
+    },
+    {
+        "ID": "ee620070-0c48-454c-9530-0b3abf34c142",
+        "DocumentID": 19,
+        "PassageID": "29)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nAn Authorised Person wishing to use a Virtual Asset(s) additional to the Accepted Virtual Asset(s) originally approved as part of its application process, must first seek the FSRA\u2019s approval before offering it to Clients.  This application should be made in writing and include all relevant information relating to the use of the Virtual Asset, including the relevant controls the Authorised Person has in place (or if not already in place, that it proposes to implement), in order to manage any risks specific to the Virtual Asset.  In forming a view on the suitability of the proposed Virtual Asset(s), the FSRA will take into account whether the proposed Virtual Asset meets the requirements to be an Accepted Virtual Asset, as set out in COBS Rule 17.2.2 and paragraph 25 of this Guidance.  The FSRA will notify the Authorised Person of its determination.\n"
+    },
+    {
+        "ID": "285ef9e3-bc22-47dd-b0a9-821e5c880f9b",
+        "DocumentID": 19,
+        "PassageID": "30)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAccepted Virtual Assets\nDue to Accepted Virtual Assets being determined for use on the basis of each individual Authorised Person, the FSRA will not maintain a \u2018public\u2019 list of Accepted Virtual Assets.\n"
+    },
+    {
+        "ID": "9795daec-7cae-4276-a676-296830fc723d",
+        "DocumentID": 19,
+        "PassageID": "31)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nGiven the nature of, and the risks associated with Virtual Assets, COBS Rule 17.3 requires an Authorised Person to hold regulatory capital in a manner consistent with MIR Rule 3.2.1 (being the requirements that a Recognised Investment Exchange must meet). Pursuant to these Rules, regulatory capital held by an Authorised Person must be in fiat form.\n"
+    },
+    {
+        "ID": "01e0aad6-805e-4a33-ac77-66a5d6eb6d5a",
+        "DocumentID": 19,
+        "PassageID": "32)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nWhen applying COBS Rule 17.3 / MIR Rule 3.2.1 to an Authorised Person, the FSRA will apply proportionality in considering whether any additional capital buffer must be held, based on the size, scope, complexity and nature of the activities and operations of the Authorised Person and, if so, the appropriate amount of regulatory capital required as an additional buffer. An Authorised Person that the FSRA considers to be high risk may attract higher regulatory capital requirements.\n"
+    },
+    {
+        "ID": "a499fe66-6f6d-448b-9341-9950d5b3fd38",
+        "DocumentID": 19,
+        "PassageID": "33)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nSubject to the above paragraph, in general:\n\na)\tan Authorised Person Operating a Multilateral Trading Facility using Virtual Assets is required to hold regulatory capital equivalent to 12 months\u2019 operational expenses; and\n\nb)\tall other Authorised Persons conducting a Regulated Activity in relation to Virtual Assets are required to hold regulatory capital equivalent to 6 months\u2019 operational expenses.\n"
+    },
+    {
+        "ID": "fce60db3-c326-4528-9828-e6d5bd1b98e7",
+        "DocumentID": 19,
+        "PassageID": "34)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nOperational expenses, as set out in MIR Rule 3.2.1, broadly includes all of the overhead, non-discretionary costs (variable and exceptional items can be excluded) incurred (or forecast to be incurred) by an Authorised Person in its operations over the course of a twelve-month period. Technology-related operational expenses, such as the use of IT servers and technology platforms, storage and usage of IT equipment and technology services required for the overall operability of the Authorised Person\u2019s platform, are to be included.  Development costs, such as research and intellectual property patenting can be excluded.\n"
+    },
+    {
+        "ID": "64418dbc-fa9a-4868-b5dd-40108756d83b",
+        "DocumentID": 19,
+        "PassageID": "35)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nWhere an Authorised Person also carries on one or more Regulated Activities that are not in relation to Virtual Assets (e.g., Dealing in Investments, Providing Credit or Providing Custody), the FSRA will apply a capital requirement that is the higher of the regulatory capital requirements applicable to:\n\na)\tthe Regulated Activities undertaken in relation to Virtual Assets; or\n\nb)\tthe other Regulated Activities under the FSRA Prudential \u2013 Investment, Insurance Intermediation and Banking Rules (\u201cPRU\u201d).\n"
+    },
+    {
+        "ID": "c2ab1a40-8340-45cd-95f0-4d47696747f4",
+        "DocumentID": 19,
+        "PassageID": "36)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCapital Requirements\nIn addition, where an Authorised Person is part of a wider financial Group that is subject to consolidated supervision by the FSRA, a holistic view of regulatory capital treatment will apply across the businesses of the Group pursuant to Chapter 8 of PRU.  The resulting level of regulatory capital for the consolidated Group will also be subject to review under the Supervisory Review and Evaluation Process (as outlined in Chapter 10 of PRU), whereby the FSRA will retain the ability to impose additional capital requirements, above and beyond that reflected in the \u2018higher of\u2019 approach to reflect any part of the higher risk profile of the Group that is not adequately captured in Chapter 8 of PRU.\n"
+    },
+    {
+        "ID": "6f3a9802-f828-4328-aaaf-5d0551942a07",
+        "DocumentID": 19,
+        "PassageID": "37)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nThe use of Virtual Assets raises significant regulatory concerns for regulatory authorities and law enforcement agencies worldwide, particularly in relation to Money Laundering (\u201cML\u201d) and Terrorism Financing (\u201cTF\u201d).  International bodies, such as the International Monetary Fund (\u201cIMF\u201d), the Financial Action Task Force (\u201cFATF\u201d), the Bank for International Settlements (\u201cBIS\u201d) and the International Organisation for Securities Commissions (\u201cIOSCO\u201d), have issued different Digital Asset (including Virtual Asset and ICO) warnings to investors and market participants advising of the significant risks, including ML and TF risks, and the possibility of Digital Assets being used for wider illegal purposes.\n"
+    },
+    {
+        "ID": "eb50c0be-29f7-4df2-8022-3c40adf1edb5",
+        "DocumentID": 19,
+        "PassageID": "38)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nFATF has identified certain key risks associated with Virtual Assets,  which include the following:\n\na)\tDigital Assets (including, in particular, Virtual Assets) may operate in an anonymous or pseudo-anonymous manner. Virtual Assets can be traded via Internet platforms, are generally characterised by non-face-to-face Client relationships, and may permit (pseudo-)anonymous funding and transfers (cash funding or third-party funding through \u2018virtual exchanges\u2019 that may not properly identify the source or destination of funds);\n\nb)\tThe global reach of Virtual Assets increases the potential for ML/TF risks. Virtual Asset systems can be accessed via the Internet (including via mobile phones), and can be used to make cross-border payments and fund transfers;\n\nc)\tVirtual Asset platforms commonly rely on complex infrastructures utilising several entities, often spanning multiple countries, to transfer funds or execute payments. This segmentation of services means that responsibility for ML/TF compliance and supervision/enforcement may be unclear. Moreover, Client and transaction records may be held by different entities, in different jurisdictions, making it more difficult for regulators and law enforcement agencies to access them. These issues are exacerbated by the rapidly evolving nature of \u2018decentralised\u2019 technologies used by Virtual Asset businesses, including the changing number and types/roles of participants providing services in the Virtual Asset ecosystem; and\n\nd)\tComponents of the Virtual Asset system may be located in jurisdictions that do not have adequate ML/TF controls.\n"
+    },
+    {
+        "ID": "9b037ef2-2647-4366-84e7-adc46070108f",
+        "DocumentID": 19,
+        "PassageID": "39)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nOn 22 February 2019, FATF issued a public statement recognising the need to adequately mitigate the ML and TF risks associated with digital asset activities.  As per the statement, FATF proposed more details relating to the regulation and supervision/monitoring of virtual assets (\u201cVAs\u201d) and virtual asset services providers (\u201cVASPs\u201d)  by way of its (Draft) Interpretive Note to Recommendation 15, \u201cNew technologies\u201d.\n"
+    },
+    {
+        "ID": "888bc103-f2d4-4a46-a596-9b1ac120e6df",
+        "DocumentID": 19,
+        "PassageID": "40)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nOn 21 June 2019, FATF released a revised Guidance for a Risk-Based Approach (RBA) for VAs and VASPs, as well as an Interpretative Note for Recommendation 15. This built upon previous FATF statements by clarifying a RBA for Anti-Money Laundering and Countering the Financing of Terrorism (\u201cAML/CFT\u201d) purposes.   The basic principle underlying the FATF Guidelines is that VASPs are expected to \u201cidentify, assess, and take effective action to mitigate their ML/TF risks\u201d with respect to VAs.\n"
+    },
+    {
+        "ID": "51fda4f2-68ba-41dd-b38f-4b82cafac9d4",
+        "DocumentID": 19,
+        "PassageID": "41)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nFurther, the purpose and scope of the FATF Guidance is to clarify and assist:\na)\tnational authorities in understanding and developing regulatory and supervisory responses to VA activities and VASPs with particular regard to the application of a RBA to their activities;\n\nb)\tin the supervision or monitoring of VASPs for AML/CFT purposes;\n\nc)\tin the licensing or registration of VASPs based on an applicable jurisdiction\u2019s requirements, subject to effective systems for monitoring/supervision;\n\nd)\tin developing preventive measures including customer due diligence, recordkeeping, and suspicious transaction reporting, among others;\n\ne)\tin the implementation of sanctions and other enforcement measures, as well as international co-operation;\n\nf)\tin understanding risk indicators that should specifically be considered in a VA context, in relation to the obfuscation of transactions or limitations relating to a VASPs\u2019 ability to identify customers; and\n\ng)\tthe private sector seeking to engage in VA activities in understanding their AML/CFT obligations and how they can effectively comply with these requirements.\n"
+    },
+    {
+        "ID": "e620379b-073d-4103-b17b-870183e2cd6d",
+        "DocumentID": 19,
+        "PassageID": "42)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nThe Key Interpretive Notes to Recommendation 15 include:\n\na)\tDigital assets being considered as \u201cproperty,\u201d \u201cproceeds,\u201d \u201cfunds\u201d, \u201cfunds or other assets,\u201d or other \u201ccorresponding value\u201d, requiring the application of relevant AML risk mitigation measures under the FATF Recommendations to digital assets and VASPs; and\n\nb)\tRecommendations 10 to 21 being proposed to directly apply to VASPs, subject to the following proposed qualifications/requirements:\n\ni.\tRecommendation 10 \u2013 The occasional transactions designated threshold above which VASPs are required to conduct CDD is USD/EUR 1 000 ; and\n\nii.\tRecommendation 16 \u2013 New requirements relating to the obligations of Originating VASPs and Beneficiary VASPS.\n"
+    },
+    {
+        "ID": "2bc2230a-60a5-4cba-9a88-8ee839415da7",
+        "DocumentID": 19,
+        "PassageID": "43)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nIn order to develop a robust and sustainable regulatory framework for Virtual Assets, FSRA is of the view that a comprehensive application of its AML/CFT framework should be in place, including full compliance with, among other things, the:\n\na)\tUAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulation of the Federal Law No. 20 of 2018 concerning Anti-Money Laundering and Combating Terrorism Financing;\n\nb)\tUAE Cabinet Resolution 20 of 2019 concerning the procedures of dealing with those listed under the UN sanctions list and UAE/local terrorist lists issued by the Cabinet, including the FSRA AML and Sanctions Rules and Guidance (\u201cAML Rules\u201d) or such other AML rules as may be applicable in ADGM from time to time; and\n\nc)\tadoption of international best practices (including the FATF Recommendations).\n"
+    },
+    {
+        "ID": "dfa45708-1a93-4a14-95c8-b7032fe81192",
+        "DocumentID": 19,
+        "PassageID": "44)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nAnti-Money Laundering and Countering Financing of Terrorism\nTaking into account Virtual Asset ML and TF risks, the importance of meeting global transparency and beneficial ownership standards, and the need to have proper mechanisms to exchange information with other regulators and counterparties, the FSRA requires that its AML Rules apply to all Authorised Persons, including those engaged in conducting a Regulated Activity in relation to Virtual Assets.\n"
+    },
+    {
+        "ID": "a068d4e0-2329-407f-8fa3-06bf38c0a3f5",
+        "DocumentID": 19,
+        "PassageID": "45)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nWhen considering the FATF Recommendations, in combination with the application of the AML Rules, the FSRA notes the following key principles that an Authorised Person conducting a Regulated Activity in relation to Virtual Assets should consider:\n\na)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 1: Risk Based Approach\nFATF expects countries, regulators, financial institutions and other concerned parties to adopt a \u2018Risk Based Approach\u2019 (\u201cRBA\u201d). Authorised Persons are expected to understand the risks associated with their activities and allocate proper resources to mitigate those risks. A RBA can only be achieved if it is embedded into the compliance culture of the Authorised Person, which enables the Authorised Person to make decisions and allocate appropriate resources in the most efficient and effective way.\n\nb)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 1: Risk Based Approach\nAuthorised Persons should, on a periodic basis, carry out a proper risk based assessment of their processes and activities. In order to implement the RBA, Authorised Persons are expected to have processes in place to identify, assess, monitor, manage and mitigate ML risks. The general principle is that in circumstances where there are higher risks of ML, Authorised Persons are required to implement enhanced measures to manage and mitigate those risks.\n\nc)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 1: Risk Based Approach\nOne of the most challenging risks facing financial institutions is how the on-boarding of an Authorised Person may affect its relationship with foreign correspondent financial institutions, as well as the views of the regulator of those foreign correspondent financial institutions. In essence, a foreign correspondent financial institution relationship is built on the effectiveness of a financial institution\u2019s ML compliance program and ongoing monitoring capabilities.\n\nd)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 1: Risk Based Approach\nWith the use of cryptology and block chain technologies at a nascent stage within financial services, any financial institution banking an Authorised Person must not only satisfy itself, but also its foreign correspondent financial institution(s), that the Authorised Person is well regulated and has appropriate systems and controls in place to address ML, TF and sanctions risks.  These systems and controls should include robust processes to carry out CDD on Clients and beneficial owners, to monitor transactions for these risks, and the willingness and ability of the Authorised Person to provide complete transparency to its financial institution(s) and foreign correspondent financial institution(s) if and when required.\n\n\ne)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 2: Business Risk Assessment\nChapter 6 of the AML Rules requires Relevant Persons to take appropriate steps to identify and assess the ML risks to which their businesses are exposed, taking into consideration the nature, size and complexity of their activities. When identifying and assessing these risks, several factors should be considered, including an assessment of the use of new technologies.  Importantly, in the context of Virtual Assets, FATF Recommendation (15) states that:\n\n\u201cCountries and financial institutions should identify and assess the money laundering or terrorist financing risks that may arise in relation to (a) the development of new products and new business practices, including new delivery mechanisms, and (b) the use of new or developing technologies for both new and pre-existing products. In the case of financial institutions, such a risk assessment should take place prior to the launch of the new products, business practices or the use of new or developing technologies. They should take appropriate measures to manage and mitigate those risks.\u201d\n\nf)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 2: Business Risk Assessment\nAnother aspect of assessing the business risk relevant to Authorised Persons is gaining familiarity with the characteristics and terminology  of the Virtual Asset industry. Additionally, Authorised Persons, and their management and staff, should be aware of the possible misuse of Virtual Assets in criminal activities, as well as the technical and complicated nature of Virtual Assets (and the platforms they operate on).\n\ng)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 2: Business Risk Assessment\nWhen making its assessment, an Authorised Person must give consideration to all business risks. For example, while an issue may be identified in relation to cyber security (e.g., when dealing with hot wallets or using cloud computing to store data \u2013 being a \u2018technology\u2019 risk), the FSRA expects Authorised Persons to consider these risks from all perspectives to establish whether the risk triggers other issues for consideration (including ML/TF risks, technology governance and consumer protection).  An Authorised Person must then use the identified risks to develop and maintain its AML/CTF policies, procedures, systems and controls and take all reasonable steps to eliminate or manage such risks.\n\n\nh)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nThe FSRA expects all Authorised Persons to have fully compliant Client on-boarding processes.  Virtual Assets have been criticised by regulatory bodies globally due to their (pseudo-)anonymity features, which makes tracking Client records and transactions more challenging for compliance officers and money laundering reporting officers.\n\ni)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nCustomer Risk Assessment and \u2018Customer Due Diligence\u2019 (\u201cCDD\u201d) policies and procedures are required to be implemented by all Authorised Persons. Authorised Persons should have a process to assess and rate all their Clients according to that Client\u2019s risk profile (and taking into consideration the Authorised Persons\u2019 RBA). This risk-based assessment is required to be undertaken for each Client prior to transacting any business on behalf of the Client. Authorised Persons must undertake CDD for each Client and comply in full with Chapter 8 of the AML Rules noting that the FSRA does not consider it appropriate for Authorised Persons to use simplified CDD when conducting a Regulated Activity in relation to Virtual Assets, largely due to issues surrounding the (pseudo-) anonymity of Clients and transactions associated with Virtual Assets.\n\nj)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nIn the case of non-face-to-face on-boarding and ongoing due diligence of Clients who are natural persons, the FSRA expects that an Authorised Person will develop appropriate policies to ensure that the Client\u2019s identity is duly verified in accordance with all applicable Laws and Rules. This may include obtaining a \u201cselfie\u201d or by conducting a \u201cliveness test\u201d. Irrespective of the method employed, it should validate that the individual being on-boarded is present during the on-boarding process, matches the individual in the identity documentation, and that the ID presented is valid and authentic. It should also include obtaining and authenticating a valid form of the Client\u2019s facial ID, which should be either the Client\u2019s passport with all applicable details clear and, or the original version (front and back) of an official government issued document, such as a national ID or driver\u2019s license. For the purposes of residents of the UAE, the primary form of documentation used should be the Client\u2019s Emirates ID card.\n\nk)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nThe FSRA understands that Authorised Persons may need to use new technology to improve Client on-boarding processes for the purpose of assessing and managing ML and TF risks.  For example, in order for Authorised Persons to conduct non-face-to-face on-boarding they will need to implement facial recognition software to validate the \u201cselfie\u201d against the other uploaded documentation, or other suitable biometric technology.\n\nl)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nThe FSRA further understands that the proper use of such technologies (e.g., fingerprinting, retinal/eye scans, use of real-time video conference facilities to enable facial recognition) can assist with mitigation of the ML/TF risks associated with the use of Virtual Assets.  Technological features, such as secure digital signatures that allow the verification of a Client\u2019s identity through a signed document, may also be acceptable to the FSRA. In all cases, an Authorised Person should ensure that the use of these technologies will not lead to a simplified process where the required Customer Risk Assessment and CDD requirements are not appropriately undertaken by an Authorised Person.\n\nm)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 3: Customer Risk Assessment and Customer Due Diligence\nThe FSRA recommends that Authorised Persons obtain a signed self-certification from their Clients identifying the details of all passports issued and held in their name(s). Authorised Persons may also use this as an opportunity to capture all tax related details in order to meet their international tax reporting obligations. Self-certification should not prevent Authorised Persons from conducting proper CDD.\n\n\nn)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nAuthorised Persons are required to implement an appropriate governance structure, especially in relation to Information Technology governance , and provide for the development and maintenance of all necessary systems and controls to ensure appropriate ML and TF compliance.\n\no)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nThe FSRA expects that Authorised Persons may seek to utilise (their own or third-party) technologies and solutions to meet their regulatory obligations (e.g., customer risk assessment, detection of fraud, and transaction identification, monitoring and reporting) and risk management requirements (e.g., margin limits, large exposure monitoring).\n\np)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nThe FSRA expects Authorised Persons to develop, implement and maintain effective transactional monitoring systems to determine the origin of a Virtual Asset and to monitor its destination, and to apply strong \u201cknow your transaction\u201d measures which enable Authorised Persons to have complete granular data centric information about the transactions done by a Client.\n\nq)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nThe FSRA expects Authorised Persons to act responsibly and always be vigilant in ensuring that their activities are not subject to any misuse by participants transacting with Virtual Assets that may have been tainted in any way from an illegal activity.  The FSRA expects that an Authorised Person\u2019s internal processes establish the types of \u2018indicators\u2019 or activities that could be used to identify when Accepted Virtual Assets may have been used in an illegal manner.  An Authorised Person should have a process for the management of when such \u2018indicators\u2019 (for example, certain Client or use of \u201cmixer\u201d and \u201ctumbler\u201d services) are triggered.\n\nr)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nWhile the FSRA cannot recommend particular vendors or providers, all technology solutions must be fit for purpose and Authorised Persons should consider using those with an established track record, and undertake their own due diligence/risk assessment to ensure competency and capability.  The FSRA recognises that many of the (technology) solutions appropriate for mitigating Virtual Asset risks are continuing to be developed within the Virtual Asset industry itself.\n\ns)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nThe FSRA expects Authorised Persons to develop, implement and adhere to a \u201cVirtual Asset Compliance Policy\u201d, tailored to meet specific Virtual Asset business compliance requirements, and reflecting a clear comprehension of the Authorised Person\u2019s understanding of its compliance responsibilities.  The FSRA expects this policy to be well defined, comprehensive, robust and as specific to an individual Authorised Person\u2019s activities as possible. The policy can be separate or part of other compliance policies/manuals.\n\nt)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nFollowing the development of the Virtual Asset Compliance Policy, Authorised Persons\u2019 compliance officers are expected to establish a \u201cVirtual Asset compliance monitoring program\u201d, requiring internal reviews to be conducted in an efficient way, and on a periodic basis.\n\nu)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 4: Governance, Systems and Controls\nAuthorised Persons must appoint a Money Laundering Reporting Officer (\u201cMLRO\u201d) who will be responsible for the implementation and oversight of the Authorised Person\u2019s compliance with the AML Rules.  Consistent with the FSRA\u2019s expectation in relation to all other Authorised Persons, an MLRO should have an appropriate level of seniority and independence in order to be effective in the role.\n\nv)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 5: Suspicious Activity Reporting obligations\nAuthorised Persons should familiarise themselves with their reporting obligations under the AML Rules, in particular in relation to the reporting of suspicious activities/transactions.\n\nw)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 5: Suspicious Activity Reporting obligations\nPrior to commencing operations, the FSRA expects Authorised Persons to establish online connectivity with the UAE\u2019s Financial Intelligence Unit for the purposes of submitting Suspicious Activity Reports (\u201cSARs\u201d). Instructions on how to do this can be found on the FSRA\u2019s FCPU webpage.\n\nx)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 5: Suspicious Activity Reporting obligations\nAuthorised Persons are required to establish sophisticated transaction monitoring systems to detect possible ML and TF activities. Systems should also be implemented to effectively identify any attempt to breach domestic and international sanctions. Such systems may rely on new technological solutions (including monitoring algorithms or Artificial Intelligence (\u201cAI\u201d)).\n\ny)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 6: Record keeping\nAs proper documentation is one of the main pillars of ensuring AML/CFT compliance, Authorised Persons are required to have policies and procedures in place to ensure proper record keeping practices. It is expected that an Authorised Person will maintain up to date records in accordance with the CDD obligations applicable to it and be prepared to provide the records upon request from the FSRA.\n\nz)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 6: Record keeping\nThe FSRA understands that the transaction recording of many Virtual Asset transactions is linked to, or based on, DLT. This requires an Authorised Person to implement specific arrangements to ensure that, at a minimum, the Authorised Person and the FSRA have access to all relevant information as necessary. An Authorised Person may use a distributed ledger to store its data, provided it is able to provide this data, in an easily accessible format, to the FSRA when required.\n\naa)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 6: Record keeping\nThe FSRA views Virtual Asset activities that are linked to cash transactions as posing higher ML and TF risks, due to the source of funding being significantly more difficult to determine. Authorised Persons wishing to conduct cash transactions will be required to implement enhanced controls to mitigate the inherent risks of such transactions. Such controls may include, among other things, setting appropriate limits on cash deposits (e.g., daily, monthly, yearly limits), a prohibition on receiving cash directly, prohibitions on the receipt of cash other than from bank accounts, and prohibitions on receiving funds from third parties. In all cases, Authorised Persons will need to clearly demonstrate to the FSRA how their controls suitably mitigate the risks of cash transactions within their operations. Considering the wider consumer protection implications, the FSRA also considers it unlikely to be appropriate for Authorised Persons to accept deposits by way of credit card or credit facilities/credit lines.\n\nbb)\tREGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nKey considerations for AML/CFT compliance\nPrinciple 6: Record keeping\nFSRA expects all Authorised Persons to exercise due care, to the utmost extent possible, in their day-to-day operations and when dealing with Clients or potential Clients.  An Authorised Person\u2019s activities are expected to be in compliance with the AML Rules, ensuring that their activities do not pose a regulatory risk or reputational damage to the ADGM Financial System.\n"
+    },
+    {
+        "ID": "9f35eb5d-e900-45d6-8a7f-469eb31c53b7",
+        "DocumentID": 19,
+        "PassageID": "46)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nInternational Tax Reporting Obligations\nCOBS Rule 17.4 requires Authorised Persons to consider and, if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (\u201cFATCA\u201d) and the ADGM Common Reporting Standard Regulations 2017.\n"
+    },
+    {
+        "ID": "f2f1d15d-0acf-466d-964f-1aba8471d6b3",
+        "DocumentID": 19,
+        "PassageID": "47)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nTechnology Governance and Controls\nWhile the FSRA adopts a technology-neutral approach to the regulation of Authorised Persons, Virtual Asset technology is widely considered to be in its early years of development and usage at scale. While it does not seek to regulate Virtual Asset technologies directly, the FSRA expects Authorised Persons to meet particular requirements in terms of their technology systems, governance and controls.\n"
+    },
+    {
+        "ID": "15bdf1e3-474d-4c63-8307-cffd40d43a81",
+        "DocumentID": 19,
+        "PassageID": "48)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nTechnology Governance and Controls\nHistorically, Virtual Asset business failures have often arisen as a result of the lack of adequate technology-related procedures, including, for example, lack of security measures, systems development methodologies, limited system penetration testing for operating a robust business and lack of technical leadership and management.  The FSRA has therefore included specific Guidance regarding expected controls and processes to help mitigate these issues.\n"
+    },
+    {
+        "ID": "90888089-5b2d-4738-a469-60d1dc8525a0",
+        "DocumentID": 19,
+        "PassageID": "49)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nTechnology Governance and Controls\nGEN Rule 3.3 requires an Authorised Person to establish systems and controls to ensure its affairs are managed effectively and responsibly, and to ensure such systems and controls are subject to continuous monitoring and review. COBS Rule 17.5 sets out additional requirements for appropriate technology governance and controls specific to Authorised Persons, with a focus on:\n\na)\tVirtual Asset Wallets;\n\nb)\tPrivate and Public Keys;\n\nc)\tOrigin and destination of Virtual Asset funds;\n\nd)\tSecurity; and\n\ne)\tRisk Management.\n"
+    },
+    {
+        "ID": "a5118140-500d-49f4-85a9-6a18ef85d7f2",
+        "DocumentID": 19,
+        "PassageID": "50)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nTechnology Governance and Controls\nWhen complying with GEN Rule 3.3 and COBS Rule 17.5, Authorised Persons should have due regard to the following key areas from a technology perspective:\n\na)\tCareful maintenance and development of systems and architecture (e.g., code version control, implementation of updates, issue resolution, and regular internal and third party testing);\n\nb)\tSecurity measures and procedures for the safe storage and transmission of data;\n\nc)\tBusiness continuity and Client engagement planning in the event of both planned and unplanned system outages;\n\nd)\tProcesses and procedures specifying management of personnel and decision-making by qualified staff; and\n\ne)\tProcedures for the creation and management of services, interfaces and channels provided by or to third parties (as recipients and providers of data or services).\n"
+    },
+    {
+        "ID": "9a007c15-f611-4c1c-a9fa-03fce04b2864",
+        "DocumentID": 19,
+        "PassageID": "51)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nAuthorised Persons are expected to have a well-defined, documented and deliberate approach for the implementation and upgrade of systems and software.\n"
+    },
+    {
+        "ID": "85789d52-37a5-4f62-b559-ca563233cd24",
+        "DocumentID": 19,
+        "PassageID": "52)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nAuthorised Persons should also have well-established policies and procedures for the regular and thorough testing of any system currently implemented or being considered for use (e.g., upgrades to a matching engine or opening of a new Application Programming Interface (\u201cAPI\u201d) internally or with a third party).\n"
+    },
+    {
+        "ID": "4f133b1d-712f-42c3-80b0-d655394f0e1a",
+        "DocumentID": 19,
+        "PassageID": "53)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nThe updated system should be tested for technical, operational and security vulnerabilities including but not limited to functional, penetration and stress testing. The outcome of the testing should be well structured and documented and signed off by the responsible (technology-focused) executives of the Authorised Person.\n"
+    },
+    {
+        "ID": "ee6c72d5-ebbb-4795-b030-0e44f5484a5d",
+        "DocumentID": 19,
+        "PassageID": "54)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nAll changes made to the codebase in use are to be tracked and recorded, with a clear audit trail for appropriate internal checks and sign-off. The use of a version control system which allows for the accurate timestamping and identification of the user responsible for relevant changes should be considered.\n"
+    },
+    {
+        "ID": "77fb6fa8-4bdb-455b-8bed-f1baf39c2e98",
+        "DocumentID": 19,
+        "PassageID": "55)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nAuthorised Persons should maintain a clear and comprehensive audit trail for system issues internally, including security issues and those with third parties, their resolution and implementation of fixes.\n"
+    },
+    {
+        "ID": "e12276a7-6753-4679-b4c4-67a750304c3e",
+        "DocumentID": 19,
+        "PassageID": "56)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMaintenance and development of systems\nAuthorised Persons should conduct at least annual third-party verification/audit of core systems being used (including, if relevant, verification / audit of custody arrangements and verification of the amount of their purported holdings of Virtual Assets and Client Money).  MTFs using Virtual Assets and Virtual Asset Custodians should have an annual review of their infrastructure undertaken by reputable third party cyber security consultants, producing a list of recommendations and areas of concern.\n"
+    },
+    {
+        "ID": "ffce9ae0-e996-4e06-9574-06006ec2e85f",
+        "DocumentID": 19,
+        "PassageID": "57)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAuthorised Persons should have measures and procedures in place which comply with network security industry best practices (e.g., the implementation of firewalls, strong passwords, password management procedures, multifactor authentication and encryption of data in transit and at rest).\n"
+    },
+    {
+        "ID": "07456776-a2b9-4e2c-b92d-f7250fc3ee5c",
+        "DocumentID": 19,
+        "PassageID": "58)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nUpdates and patches to all systems, particularly security systems, should be performed as soon as safely feasible after such updates and patches have been released, whether these systems have been developed internally or developed by a third-party.\n"
+    },
+    {
+        "ID": "df130175-c74d-4663-9c88-3291a1063711",
+        "DocumentID": 19,
+        "PassageID": "59)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAn Authorised Person\u2019s IT infrastructures (particularly for MTFs using Virtual Assets and Virtual Asset Custodians) are expected to provide strong layered security and seek the elimination of \u201csingle points of failure\u201d. IT infrastructure security policies are required to be maintained, describing in particular how strong layered security is provided and how \u201csingle points of failure\u201d are eliminated. This includes, but should not be limited to, systems and procedures to limit the access of a single user to the use of private and confidential information of Clients.\n"
+    },
+    {
+        "ID": "114a4fc2-0d23-4f0d-a965-898ddc3b2758",
+        "DocumentID": 19,
+        "PassageID": "60)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nIT infrastructures should be strong enough to resist, without significant loss to Clients, a number of scenarios, including but not limited to: accidental destruction or breach of data, collusion or leakage of information by employees/former employees, successful hack of a cryptographic and hardware security module or server, or access by hackers of any single set of encryption/decryption keys that could result in a complete system breach.\n"
+    },
+    {
+        "ID": "293a7d96-4350-49a1-b52d-8da367c3cf96",
+        "DocumentID": 19,
+        "PassageID": "61)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAuthorised Persons should have in place policies and procedures that address information security for all personnel. The security policy should set the security tone for the whole entity and inform personnel what is expected of them. All personnel should be aware of the sensitivity of data and their responsibilities for protecting it.   To mitigate \u201ckey person risk\u201d, Authorised Persons are to ensure that there is no single individual that holds privileged or sensitive information that is critical to the operation of the Authorised Person.\n"
+    },
+    {
+        "ID": "040b1aa1-b634-4bc0-896e-11d206b51f59",
+        "DocumentID": 19,
+        "PassageID": "62)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nThe strong encryption of data, both at rest and in transit, should be included in the security policy. In particular, encryption and decryption of Virtual Asset private keys should utilise strong encryption protocols and algorithms that have broad acceptance with cyber security professionals.  Critical cryptographic functions such as encryption, decryption, generation of private keys, and the use of digital signatures should only be performed within cryptographic modules complying with the highest, and internationally recognised, applicable security standards.\n"
+    },
+    {
+        "ID": "128de003-d10e-4476-8d58-afc419c92afc",
+        "DocumentID": 19,
+        "PassageID": "63)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAll security incidents and breaches should be logged and documented in detail as soon as practicable and the resolution and implementation details should subsequently be added to the log.\n"
+    },
+    {
+        "ID": "c797e807-f6ce-4dd4-aa10-6d95bc39d80b",
+        "DocumentID": 19,
+        "PassageID": "64)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nThe use of open source software should be governed by clear, well documented and transparent rules and procedures governing the software\u2019s stability, security and fitness for purpose. Any open source software, whether it is a compiled distribution or code, should be thoroughly tested for security and operational vulnerabilities. This testing should be signed off by the responsible executives of the Authorised Person before being used for the processing or storing of operational and Client information.\n"
+    },
+    {
+        "ID": "7b4e98e3-568c-4823-bbc9-2c292d54823a",
+        "DocumentID": 19,
+        "PassageID": "65)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAll APIs that are internal or external facing should be secured by strict access management procedures and systems, including encryption of the information (e.g., SSL certificates). All API access activity should be logged and scanned for security breaches on an ongoing basis.\n"
+    },
+    {
+        "ID": "ddcc4e6a-1752-4f83-a78e-655e46789f1b",
+        "DocumentID": 19,
+        "PassageID": "66)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nSecurity measures and procedures\nAll access management and credential changes (for employees, third-party service providers and Clients) should be governed and monitored by strict and well documented rules and procedures. This should include, but not be limited to, enforcing strong passwords and the monitoring of IP geo-location, use of VPN, TOR or unencrypted web connections.\n"
+    },
+    {
+        "ID": "b39da65a-821a-4661-8190-8a3501d32583",
+        "DocumentID": 19,
+        "PassageID": "67)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCryptographic Keys and wallet storage\nThe ability to send and receive Virtual Assets by recording new transactions on a distributed ledger is usually dependent on cryptographic keys \u2013 a public key and one or more private keys. The public key allows other users on a distributed ledger to send Virtual Assets to an address associated with that public key. The private key(s) provides full control of the Virtual Assets associated with the public key. As such, Authorised Persons need to have robust procedures and protective measures to ensure the secure offline generation, storage, backup and destruction of both public and private keys for their own wallet operations and where they offer wallet services to Clients.\n"
+    },
+    {
+        "ID": "8e46e170-2352-4be7-abf6-ac314b401ac5",
+        "DocumentID": 19,
+        "PassageID": "68)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nCryptographic Keys and wallet storage\nWhether private keys are held on network attached devices or devices that are offline, Authorised Persons must have policies and procedures to ensure that they are not compromised by malicious actors.\n"
+    },
+    {
+        "ID": "fc675bdd-42d3-4061-9218-3cc604123ae6",
+        "DocumentID": 19,
+        "PassageID": "69)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nPassword protection and encryption\nAuthorised Persons should consider the use of multi-signature wallets (e.g., where multiple private keys are associated with a given public key and a subset of these private keys, sometimes held by different parties, are required to authorise transactions). Where a multi-signature solution is not feasible due to the underlying structure of the Virtual Asset, a similar mechanism or procedure should be in place (e.g., a multi-user authentication prior to enacting on-chain changes to the Virtual Asset holdings).\n"
+    },
+    {
+        "ID": "69009a09-a949-4d57-8532-0b018d73f7cc",
+        "DocumentID": 19,
+        "PassageID": "70)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nPassword protection and encryption\nAuthorised Persons should have clear policies and procedures that detail procedures for recovery in the event that a Client loses access credentials. These policies and procedures should also cover the recovery or re-generation of lost private keys (e.g., using a seed phrase if applicable).\n"
+    },
+    {
+        "ID": "2a09177e-963e-49fc-9040-a3895d7293d6",
+        "DocumentID": 19,
+        "PassageID": "71)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nPassword protection and encryption\nAuthorised Persons must have policies and procedures in place that set out actions and responsibilities in the event of a breach of private and public keys, as well as Client user access credentials.\n"
+    },
+    {
+        "ID": "2c0fb45e-a0e5-46fc-817b-e212d15d2e95",
+        "DocumentID": 19,
+        "PassageID": "72)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nOrigin and destination of Virtual Asset funds\nVirtual Asset transactions between public addresses take place on public DLT. Although it is normally possible to identify the public addresses of the parties to a transaction, it is often very difficult to establish the owner (whether natural or legal) of these addresses. This makes Virtual Assets attractive to money launderers, terrorist financers and other criminals.\n"
+    },
+    {
+        "ID": "beb88699-5347-4725-932c-e096d51c748c",
+        "DocumentID": 19,
+        "PassageID": "73)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nOrigin and destination of Virtual Asset funds\nThe US Office of Foreign Asset Control (OFAC) has issued a statement requiring wallet addresses known to belong to individuals listed on the Specially Designated Nationals And Blocked Persons sanctions (\u201cSDN\u201d) list to be reported.  Further information is available on the OFAC website.   Additionally, there are companies collecting \u201ctainted\u201d wallet addresses that have been used in hacks, \u201cdark web\u201d transactions and other criminal activities.\n"
+    },
+    {
+        "ID": "159b2a43-616b-49a0-a4a7-14c1b2908ae8",
+        "DocumentID": 19,
+        "PassageID": "74)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nOrigin and destination of Virtual Asset funds\nAn Authorised Person must have clear policies and procedures, consistent with the AML Rules applicable to it, to identify the source of funds and to ensure its compliance with COBS Rules 17.5(c) (Origin and destination of Virtual Asset funds) and 17.5(e) (Risk Management).  These policies and procedures should cover due diligence on the deposits and withdrawals by legal persons that represent further multiple deposit-holders or withdrawal recipients of the Virtual Assets. For such deposits and withdrawals, Authorised Persons should be able to assess the ultimate beneficiaries\u2019 wallet addresses and their source or destination of funds as appropriate.\n"
+    },
+    {
+        "ID": "7be4a13e-f8df-4fe6-9992-185ca92d8951",
+        "DocumentID": 19,
+        "PassageID": "75)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nOrigin and destination of Virtual Asset funds\nIt is crucial that Authorised Persons perform due diligence on their Clients before opening an account so that wallet addresses can be identified as belonging to a specific user. If a transaction is detected that originates from or is sent to a \u201ctainted\u201d wallet address belonging to a known user, that user should be reported.  Authorised Persons should maintain lists of tainted wallet addresses and, if not in possession of their own services, utilise third party services to help identify such addresses.\n"
+    },
+    {
+        "ID": "8d8336a6-a02f-433f-bcf8-f6a395dd0de9",
+        "DocumentID": 19,
+        "PassageID": "76)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nOrigin and destination of Virtual Asset funds\nCurrently, there are technology solutions developed in-house and available from third party service providers which enable the tracking of Virtual Assets through multiple transactions to more accurately identify the source and destination of these Virtual Assets. It is expected that Authorised Persons may need to consider the use of such solutions and other systems to adequately meet their anti-money laundering, financial crime and know-your-customer obligations under the Virtual Asset Framework.\n"
+    },
+    {
+        "ID": "b83ff1ec-7a21-4833-be77-beab5f99efd7",
+        "DocumentID": 19,
+        "PassageID": "77)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nPlanned and Unplanned system outages\nAuthorised Persons should have a programme of planned systems outages to provide for adequate opportunities to perform updates and testing. Authorised Persons should also have multiple communication channels to ensure that its Clients are informed, ahead of time, of any outages which may affect them.\n"
+    },
+    {
+        "ID": "cff1a6bc-aba9-4de2-ab49-42bd238ad352",
+        "DocumentID": 19,
+        "PassageID": "78)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nPlanned and Unplanned system outages\nAuthorised Persons should have clear, publicly available, procedures articulating the process in the event of an unplanned outage. During an unplanned outage, Authorised Persons should be able to rapidly disseminate key information and updates on a frequent basis.\n"
+    },
+    {
+        "ID": "267a44be-1000-4a75-8352-3be720aa4340",
+        "DocumentID": 19,
+        "PassageID": "79)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nManagement of personnel and decision making\nAuthorised Persons should implement processes and procedures concerning decision making and access to sensitive information and security systems.\n"
+    },
+    {
+        "ID": "fcbdf201-5c9b-4947-8f2f-958b5a6f5026",
+        "DocumentID": 19,
+        "PassageID": "80)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nManagement of personnel and decision making\nA clear audit log of decision making should be kept. Staff with decision-making responsibilities should have the adequate expertise, particularly from a technological standpoint, to make such decisions.\n"
+    },
+    {
+        "ID": "7e2233d6-c102-4719-b060-563c3f0331d4",
+        "DocumentID": 19,
+        "PassageID": "81)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nManagement of personnel and decision making\nProtective measures should be implemented to restrict access to critical and/or sensitive data to key personnel only. This includes both digital and physical access. Authorised Persons should have processes and procedures to track and monitor access to all network resources. Logging mechanisms and the ability to track user activities are critical in preventing, detecting, or minimising the impact of a data compromise. The maintenance of logs allows thorough tracking, alerting, and analysis when issues occur.\n"
+    },
+    {
+        "ID": "037057a9-fc76-44e1-9151-5bfc9ad9e050",
+        "DocumentID": 19,
+        "PassageID": "82)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nAuthorised Persons may use third party services for their systems. However, when doing so, an Authorised Person (pursuant to GEN Rule 3.3.31) retains full responsibility from a regulatory perspective for any issues that may result from the outsourcing including the failure of any third party to meet its obligations. The FSRA requires that certain core systems (for example, the matching engine of an MTF using Virtual Assets) are maintained by the Authorised Person itself and will not generally permit these to be outsourced.\n"
+    },
+    {
+        "ID": "6f6abc45-4eb3-4563-b0be-68de0e6373b9",
+        "DocumentID": 19,
+        "PassageID": "83)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nIn its assessment of a potential third party service provider, an Authorised Person must satisfy itself that the service provider maintains robust processes and procedures regarding the relevant service (including, for example, in relation to the testing and security required in this section on Technology Governance).\n"
+    },
+    {
+        "ID": "f8332600-e551-41a7-9396-8ab618f89298",
+        "DocumentID": 19,
+        "PassageID": "84)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nIn all circumstances, including in relation to business activities that are outsourced, an Authorised Person is expected to maintain a strong understanding of the third party service being provided and, for critical services, have redundancy measures in place where appropriate.\n"
+    },
+    {
+        "ID": "3bc1040f-76bf-4ca3-be69-fa71adeda340",
+        "DocumentID": 19,
+        "PassageID": "85)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nPublic and private cloud service providers should be subject to thorough screening. A set of well-defined and documented access management procedures should be in place. All service level agreements should be reviewed annually for serviceability and security of the systems and related operations as per the IT policies of the Authorised Person. A \u2018clear roles and responsibilities matrix\u2019 should be in place to delineate operations of a service provider from those of an Authorised Person. Physical access to systems should be limited to the relevant personnel and access should be monitored by the Authorised Person on an ongoing basis.\n"
+    },
+    {
+        "ID": "ea6567b8-7f2e-4016-9855-af4a7f55b15d",
+        "DocumentID": 19,
+        "PassageID": "86)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nAuthorised Persons are required to retain and be in the position to retrieve the data held on a cloud platform for such duration as they are required to under ADGM/FSRA record keeping purposes, and submit the data held on a cloud platform to the FSRA, as and when directed to do so, with immediate effect.\n"
+    },
+    {
+        "ID": "82dd8110-39fb-4a1d-9f35-0359558278cc",
+        "DocumentID": 19,
+        "PassageID": "87)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nThird party outsourcing\nAuthorised Persons who employ cloud based data storage services for the purpose of recording personal data must also take into consideration ADGM data protection regulations. Consideration must be given to the jurisdiction within which the cloud storage service provider is located, or alternatively other arrangements which may facilitate compliance with applicable data protection requirements.\n"
+    },
+    {
+        "ID": "3086c67d-32db-4f19-820a-39c7480782e1",
+        "DocumentID": 19,
+        "PassageID": "88)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nForks\nAuthorised Persons should ensure that changes in the underlying protocol of a Virtual Asset that result in a fork are managed and tested proactively. This includes temporary forks which should be managed for reverse compatibility for as long as required.\n"
+    },
+    {
+        "ID": "d1489d36-75b2-4b40-a824-cd34049dd838",
+        "DocumentID": 19,
+        "PassageID": "89)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nForks\nAuthorised Persons should ensure that their Clients are able to deposit and withdraw Accepted Virtual Assets in and out of an Authorised Person\u2019s infrastructure as and when requested before and after a fork (except during go-live). Clients should be notified well in advance of any periods of time when deposits and withdrawals are not feasible.\n"
+    },
+    {
+        "ID": "6fd1659f-0c56-48e4-a674-f778db34cffa",
+        "DocumentID": 19,
+        "PassageID": "90)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nForks\nWhere the underlying protocol of a Virtual Asset (e.g., the native token of that protocol) is changed, and the new version of that Virtual Asset is backwards-compatible with the old version (soft fork), Authorised Persons should ensure that the new and old versions of the Virtual Asset continue to satisfy the relevant Accepted Virtual Asset requirements.\n"
+    },
+    {
+        "ID": "57ad3b9e-7eb1-433e-bb0c-e334c30ce08b",
+        "DocumentID": 19,
+        "PassageID": "91)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nForks\nWhere the underlying protocol of an Accepted Virtual Asset is changed, and the older version of the Accepted Virtual Asset is no longer compatible with the new version and/or there is an entirely new and separate version of the Virtual Asset (hard fork), Authorised Persons should ensure that client balances on the old version are reconciled with the new version of the Virtual Asset. Authorised Persons should also maintain transparent lines of communication with their Clients on how Authorised Persons are managing Clients\u2019 Virtual Asset holdings in such a scenario.\n"
+    },
+    {
+        "ID": "e1723ce0-12cb-49e5-a47d-5ecd8875257a",
+        "DocumentID": 19,
+        "PassageID": "92)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nForks\nIn the case of a hard fork, Authorised Persons should proactively manage any discrepancy between the balances recorded on the previous version versus the new version by engaging with the community which is responsible for updating and supporting the underlying protocol of the relevant Virtual Asset. Additionally, Authorised Persons should ensure that, where they seek to offer services in relation to the Virtual Asset associated with the new version of the underlying protocol, this new Virtual Asset meets the requirements for an Accepted Virtual Asset and that they notify the FSRA well in advance of offering the Virtual Asset as part of its activities.\n"
+    },
+    {
+        "ID": "5fcd2f15-0801-4f68-8956-6841db751771",
+        "DocumentID": 19,
+        "PassageID": "93)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nVirtual Asset Risk Disclosures\nGiven the significant risks to Clients transacting in Virtual Assets, Authorised Persons are required to undertake a detailed analysis of the risks and have processes in place that enable them to disclose, prior to entering into an initial transaction, all material risks to their Clients in a manner that is clear, fair and not misleading. As this disclosure obligation is ongoing, and given the rapidly developing market for Virtual Assets, Authorised Persons are required to continually update this analysis and the resultant disclosures to its Clients to reflect any updated risks relating to:\n\na)\tthe Authorised Person\u2019s products, services and activities ;\n\nb)\tVirtual Assets generally; and\n\nc)\tthe specific Accepted Virtual Asset.\n"
+    },
+    {
+        "ID": "47dd2b8d-2233-42f0-bfef-7acfc0ac2f10",
+        "DocumentID": 19,
+        "PassageID": "94)",
+        "Passage": "The FSRA expects that the disclosures to be made by an Authorised Person in order to satisfy COBS 17.6 may include:\n\na)\tVirtual Assets not being legal tender or backed by a government;\n\nb)\tthe values, or process for valuation, of Virtual Assets, including the risk of a Virtual Asset having no value;\n\nc)\tthe volatility and unpredictability of the price of Virtual Assets relative to Fiat Currencies;\n\nd)\tthat trading in Virtual Assets may be susceptible to irrational market forces;\n\ne)\tthat the nature of Virtual Assets may lead to an increased risk of Financial Crime;\n\nf)\tthat the nature of Virtual Assets may lead to an increased risk of cyber-attack;\n\ng)\tthere being limited or, in some cases, no mechanism for the recovery of lost or stolen Virtual Assets;\n\nh)\tthe risks of Virtual Assets being transacted via new technologies, (including distributed ledger technologies (\u2018DLT\u2019)) with regard to, among other things, anonymity, irreversibility of transactions, accidental transactions, transaction recording, and settlement;\n\ni)\tthat there is no assurance that a Person who accepts a Virtual Asset as payment today will continue to do so in the future;\n\nj)\tthat the nature of Virtual Assets means that technological difficulties experienced by the Authorised Person may prevent the access or use of a Client\u2019s Virtual Assets;\nk)\tany links to Virtual Assets related activity outside ADGM, which may be unregulated or subject to limited regulation; and\n\nl)\tany regulatory changes or actions by the Regulator or Non-ADGM Regulator that may adversely affect the use, transfer, exchange, and value of a Virtual Asset.\n\nThe FSRA is of the view that merely restating this non-exhaustive list of risks, either in its application or in the risk disclosures to its Clients, does not satisfy an Authorised Person\u2019s risk disclosure requirements.\n"
+    },
+    {
+        "ID": "56c97645-a707-423b-926d-e5380f3d753b",
+        "DocumentID": 19,
+        "PassageID": "95)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nVirtual Asset Risk Disclosures\nFor the purposes of interpreting the reference to \u201cinitial Transaction\u201d in COBS Rule 17.6, Authorised Persons can meet the obligation in this Rule at any time prior to the \u2018initial Transaction\u2019.  For example, the introduction of a new Accepted Virtual Asset to trading on an MTF may require a further specific risk disclosure being made to Clients of the MTF in relation to the risks of trading in that new Accepted Virtual Asset (as assessed by the MTF).\n"
+    },
+    {
+        "ID": "3ed2bb6e-cdb5-4005-bbb4-7ffd3390557b",
+        "DocumentID": 19,
+        "PassageID": "96)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nVirtual Asset Risk Disclosures\nThe FSRA will need to understand the process by which an Authorised Person will communicate the risks outlined in COBS Rule 17.6.2, as well as any other relevant material risks to its Clients.  Where the Clients of an Authorised Person are required to enter into a Client Agreement, the Authorised Person may make its first such risk disclosure in that Client Agreement.\n"
+    },
+    {
+        "ID": "2eb5c86c-e6bc-44b3-b9d7-6dc52fadf142",
+        "DocumentID": 19,
+        "PassageID": "97)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nVirtual Asset Risk Disclosures\nConsidering the heightened inherent risks associated with investing in Virtual Assets and the FSRA\u2019s objective of providing a regulatory regime that offers adequate consumer protection, the FSRA is of the view that all Authorised Persons should, prior to on-boarding a Client, ensure that the services, or new services, proposed to be provided to a Client are appropriate, taking into account such matters as the Client\u2019s relevant knowledge, experience and investment objectives. Where a conflict between the inherent risks and the appropriateness for a Client is identified, the Authorised Person should take all reasonable steps to resolve such a conflict.\n"
+    },
+    {
+        "ID": "5fb34266-20be-42a7-b9d4-c036782e4e6b",
+        "DocumentID": 19,
+        "PassageID": "98)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMarket Abuse, Transaction Reporting and Misleading Impressions (FSMR)\nAs the Virtual Asset Framework does not treat Virtual Assets as Financial Instruments / Specified Investments, certain FSMR provisions have been expanded to specifically capture the use of Virtual Assets within ADGM.\n"
+    },
+    {
+        "ID": "849963bc-523b-4b21-a40e-f99a9dd77643",
+        "DocumentID": 19,
+        "PassageID": "99)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMarket Abuse, Transaction Reporting and Misleading Impressions (FSMR)\nImportantly, the Market Abuse Provisions in Part 8 of FSMR specifically cover Market Abuse Behaviour in relation to Accepted Virtual Assets admitted to trading on an MTF. In this regard, the FSRA imposes the same high regulatory standards to Accepted Virtual Assets traded on MTFs as it does to Financial Instruments traded on Recognised Investment Exchanges, MTFs or OTFs in ADGM.\n"
+    },
+    {
+        "ID": "a68ef617-b163-41b0-9d5f-12ff26eb407f",
+        "DocumentID": 19,
+        "PassageID": "100)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMarket Abuse, Transaction Reporting and Misleading Impressions (FSMR)\nSimilar to the reporting requirements imposed on Recognised Investment Exchanges and MTFs in relation to Financial Instruments, MTFs (pursuant to FSMR Section 149) are required to report details of transactions in Accepted Virtual Assets traded on their platforms.   The FSRA expects MTFs using Virtual Assets to report to the FSRA on both a real-time and batch basis.\n"
+    },
+    {
+        "ID": "3c0e7073-f3ee-4d8d-9e78-87f1418e6040",
+        "DocumentID": 19,
+        "PassageID": "101)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMarket Abuse, Transaction Reporting and Misleading Impressions (FSMR)\nIn addition, the FSMR provisions on Misleading Statements apply to Accepted Virtual Assets.  The FSRA expects that all communications (including advertising or investment materials or other publications) made by an Authorised Person will be made in an appropriate manner and that an Authorised Person conducting a Regulated Activity in relation to Virtual Assets will implement suitable policies and procedures to comply with the requirements of FSMR.\n"
+    },
+    {
+        "ID": "2e7c8adb-1b99-4bc0-9718-5c286e8a9e4e",
+        "DocumentID": 19,
+        "PassageID": "102)",
+        "Passage": "REGULATORY REQUIREMENTS FOR AUTHORISED PERSONS ENGAGED IN REGULATED ACTIVITIES IN RELATION TO VIRTUAL ASSETS\nMarket Abuse, Transaction Reporting and Misleading Impressions (FSMR)\nThe FSRA continues to consider developments to its regulatory perimeter in the context of its Market Abuse provisions, including for the purposes of any future determination of whether the provisions ought to be extended to further capture Virtual Asset trading activity that is not specifically linked to trading on an MTF.  In this context, and particularly in the case of intermediary-type Authorised Persons, the FSRA reminds such Authorised Persons of their wider responsibilities under the Virtual Asset Framework in relation to the use of Virtual Assets, including in relation to client risk disclosures, suitability and best execution (see paragraphs 93-97, 103(a) and (b) and 109).\n\n\n"
+    },
+    {
+        "ID": "3483a783-5aa5-4a3d-8e88-9c26ba4bed8a",
+        "DocumentID": 19,
+        "PassageID": "103)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nApplication of particular Rules in COBSFor the purposes of the Virtual Asset Framework and Authorised Persons, the Rules referenced in COBS Rule 17.1.4 apply to all transactions undertaken by an Authorised Person conducting a Regulated Activity in relation to Virtual Assets.  The Rules referenced in COBS Rule 17.1.4 are as follows:\n\na)\tCOBS Rule 3.4 (Suitability);\n\nb)\tCOBS Rule 6.5 (Best Execution);\n\nc)\tCOBS Rule 6.7 (Aggregation and Allocation);\n\nd)\tCOBS Rule 6.10 (Confirmation Notes);\n\ne)\tCOBS Rule 6.11 (Periodic Statements); and\n\nf)\tCOBS Chapter 12 (Key Information and Client Agreement)).\n"
+    },
+    {
+        "ID": "8d455e1a-f4dd-43a6-b56d-be9f3b80d7a1",
+        "DocumentID": 19,
+        "PassageID": "104)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nApplication of particular Rules in COBSThese requirements are relevant to the concept of \u2018Investment Business\u2019 within COBS and can be considered more relevant to certain Authorised Persons, particularly those that are \u2018dealing\u2019 in Accepted Virtual Assets. The FSRA understands that some of these obligations may not apply to all Authorised Persons (particularly MTFs using Virtual Assets).\n"
+    },
+    {
+        "ID": "81195614-283a-4a10-8ec4-8c21bc98e506",
+        "DocumentID": 19,
+        "PassageID": "105)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nApplication of particular Rules in COBSFor the avoidance of doubt all Authorised Persons that hold or control:-\n\na)\tClient Money (e.g., fiat currencies) on behalf of Clients are required to comply with all relevant Client Money rules in Chapter 14 of COBS (read together with COBS Rule 17.8) at all times; and\n\nb)\tAccepted Virtual Assets are required to comply with all relevant Safe Custody rules in Chapter 15 of COBS (read together with COBS Rule 17.8) at all times.\n"
+    },
+    {
+        "ID": "d5261555-f56d-4d09-ba26-3ea20fbf6d0b",
+        "DocumentID": 19,
+        "PassageID": "106)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nSubstance requirements of Authorised Persons\nIn order to operate effectively as an Authorised Person within ADGM, an Authorised Person conducting a Regulated Activity in relation to Virtual Assets must commit resources of a nature allowing it to be operating in substance within ADGM.  Depending on the relevant Regulated Activities being undertaken, the FSRA expects to see substantive resources committed within ADGM across all lines of the Authorised Person\u2019s activity, including, but not limited to, commercial, governance, compliance/surveillance, operations, technical, IT and HR functions. The FSRA expects the \u2018mind and management\u2019 of an Authorised Person to be located within ADGM.  Further discussion on substance in relation to MTFs using Virtual Assets is set out at paragraph 126.\n"
+    },
+    {
+        "ID": "b88a2005-73ff-470c-a792-0e6bb9dbe30e",
+        "DocumentID": 19,
+        "PassageID": "107)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nAuthorised Persons intending to operate solely as a broker or dealer for Clients (including the operation of an OTC broking or dealing desk) are not permitted to structure their broking / dealing service or platform in such a way that would have it be considered as operating a market / MTF using Virtual Assets. The FSRA would consider features such as allowing for price discovery, displaying a public trading order book (accessible to any member of the public, regardless of whether they are Clients), and allowing trades to automatically be matched using an exchange-type matching engine as characteristic of an MTF using Virtual Assets, and not activities acceptable for an intermediary-type Authorised Person to undertake.\n"
+    },
+    {
+        "ID": "a0067b88-6bc9-4db8-b35a-addeeb3ca7dd",
+        "DocumentID": 19,
+        "PassageID": "108)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nAn Authorised Person (conducting a Regulated Activity in relation to Virtual Assets) that only has an FSP to operate as a broker / dealer and not as an MTF is required to design and structure its operations, user interface, website, marketing materials and any public or client-facing information such that it does not create the impression that it is running an MTF.  In practice, this may include not displaying any publicly-accessible information that may appear like a trading order book, not providing for any price discovery, and not giving actual or potential Clients the impression that they are interacting with an MTF.\n"
+    },
+    {
+        "ID": "c76f570e-a677-4760-9285-84f494f805ee",
+        "DocumentID": 19,
+        "PassageID": "109)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nVirtual Asset brokers / dealers are required to comply with the best execution requirements in COBS Rule 6.5 at all times.\n"
+    },
+    {
+        "ID": "95a0a3fb-e94e-4de2-bbc6-30be56761788",
+        "DocumentID": 19,
+        "PassageID": "110)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nVirtual Asset Brokers or Dealers\nVirtual Asset brokers / dealers are required to disclose the following information to Clients:\n\na)\thow they execute and route Client\u2019s orders and source liquidity (e.g., whether they pass or route orders to other brokers, dealers or exchanges to execute). Where a broker / dealer routes Client orders to a single liquidity source such as an MTF for execution, it must also disclose this to all Clients;\n\nb)\twhether it may carry out proprietary trading on its own account, and if so, whether it may trade against Clients\u2019 positions;\n\nc)\tthe fees it charges Clients; and\n\nd)\thow it determines the prices of the Accepted Virtual Assets it quotes to Clients.\n"
+    },
+    {
+        "ID": "ae396240-6fdf-49a1-9bf7-e2a194d6ad86",
+        "DocumentID": 19,
+        "PassageID": "111)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nAppointment of advisers\nApplicants should consider the appointment of compliance advisers, with the appropriate skills, knowledge and experience (taking into account the activities that the Applicant is proposing to undertake), to provide the requisite assistance to the Applicant throughout the Application process.  The FSRA expects that Applicants should engage its compliance advisers by no later than when it begins to prepare its Application, and should retain them up until the date of operational launch.\n"
+    },
+    {
+        "ID": "2d66aa88-b286-474d-8d9f-74855bc34d27",
+        "DocumentID": 19,
+        "PassageID": "112)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nCertain class order modifications / waivers\nThe FSRA appreciates that some Rules, in particular within MIR and parts of COBS, may not apply to certain Authorised Persons and the FSRA may grant class order modification and waiver relief in relation to these Rules.   To the extent that an Applicant or Authorised Person considers that any other Rules do not apply to it by virtue of its business model or otherwise, the FSRA expects that an application for modification or relief be submitted either as part of its Application or at such later date as the relief may be required.\n"
+    },
+    {
+        "ID": "691ae045-c228-42ac-a02c-2c3aa834c6e5",
+        "DocumentID": 19,
+        "PassageID": "113)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nADGM\u2019s data protection regime protects individuals\u2019 right to privacy by controlling how personal information is used by organisations and businesses registered in ADGM.  All entities registered in ADGM that hold or process the personal data of an individual must protect personal data in compliance with the ADGM Data Protection Regulations 2015 (the \u201cData Protection Regulations\u201d).  Specifically, an Authorised Person, as a data controller, will be responsible for determining the purposes for which, and the manner in which, personal data is processed in compliance with the Data Protection Regulations. Failure to do so risks enforcement action and compensation claims from individuals, each of which are considered data subjects under the Data Protection Regulations.\n"
+    },
+    {
+        "ID": "43a02a8c-6a64-4fc1-b4ee-410993a71baa",
+        "DocumentID": 19,
+        "PassageID": "114)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nData controllers must ensure that personal data which they process is:\n\na)\tprocessed fairly, lawfully and securely;\n\nb)\tprocessed for specified, explicit and legitimate purposes in accordance with the data subject's rights and not further processed in a way incompatible with those purposes or rights;\n\nc)\tadequate, relevant and not excessive in relation to the purposes for which they are collected or further processed;\n\nd)\taccurate and, where necessary, kept up to date; and\n\ne)\tkept in a form, which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data were collected or for which they are further processed.\n"
+    },
+    {
+        "ID": "0945dbba-03a2-4183-968c-7080833032b2",
+        "DocumentID": 19,
+        "PassageID": "115)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nData controllers must, on request, provide individuals with access to any personal information they hold.\n"
+    },
+    {
+        "ID": "b89b243e-963a-4eda-be57-5080c4959775",
+        "DocumentID": 19,
+        "PassageID": "116)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nThe registration of all data controllers with the ADGM\u2019s Registration Authority  is mandatory.  A data controller must maintain records of all personal data processing operations undertaken by it or on its behalf and must notify the Registration Authority upon becoming aware of any security breach involving personal data as soon as possible.\n"
+    },
+    {
+        "ID": "dd15aa4e-d848-4788-bdfe-3159fb89a188",
+        "DocumentID": 19,
+        "PassageID": "117)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nPersonal data must not be transferred to a country or territory outside ADGM unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.  The Registration Authority has designated certain jurisdictions as providing an adequate level of protection; a current list is maintained by the Registration Authority upon its website, which may be updated from time to time.\n"
+    },
+    {
+        "ID": "0ae09fac-ba0d-4165-97e1-930db734e952",
+        "DocumentID": 19,
+        "PassageID": "118)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nData protection obligations for Authorised Persons\nIf an Authorised Person intends to transfer personal data to a recipient, including by way of storage of personal information upon a cloud based service or remote server, located in a jurisdiction other than those considered by the Registration Authority to be possessing adequate safeguards, such transfer is only possible under certain conditions, including, but not limited to, circumstances where the:\n\na)\tindividual has consented to the proposed transfer;\n\nb)\tproposed transfer is necessary for the performance of the service for which the data controller was engaged by the individual; and\n\nc)\tdata controller and data processor have entered into an approved form of agreement concerning the protection of personal data, or the Registration Authority has granted a permit consenting to the proposed transfer.\n"
+    },
+    {
+        "ID": "b5fe9c71-c138-4f18-ad59-9a94dcf8ad55",
+        "DocumentID": 19,
+        "PassageID": "119)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nTransactions with unknown counterparties\nAuthorised Persons should avoid a transactional interaction with any infrastructure or services where a counterparty is unknown or anonymous (e.g., via certain peer to peer or decentralised exchanges) at any stage of the process within and outside of the Authorised Persons\u2019 core operations.  This is to ensure that Authorised Persons remain compliant with FSRA Rules at all times and do not unnecessarily expose their activities to risks emanating from tainted sources / destination of funds.\n"
+    },
+    {
+        "ID": "6662ecbb-6363-48eb-a63a-8636daa53b71",
+        "DocumentID": 19,
+        "PassageID": "120)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nTransactions with unknown counterparties\nAuthorised Persons should also avoid inclusion of liquidity, pricing and settlement data from such entities in their day to day operations. Any interaction (whether deliberate or not) with such entities should be notified to the FSRA as soon as practicable.\n"
+    },
+    {
+        "ID": "703e3e80-36bd-4f6d-8788-7c0a64594d63",
+        "DocumentID": 19,
+        "PassageID": "121)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nMargin trading\nAn Applicant/Authorised Person wishing to provide margin trading to its Clients will need to submit for approval details of the terms upon which it proposes to do so (for an Applicant, in its Application \u2013 for an Authorised Person as part of ongoing supervisory arrangements). As a general position, the FSRA would only consider allowing Applicants/Authorised Persons with a relevant proven track record to provide margin trading.\n"
+    },
+    {
+        "ID": "572e1ed5-b6e6-4cc1-aa66-e4991405a3ee",
+        "DocumentID": 19,
+        "PassageID": "122)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nMargin trading\nParticular focus will be placed on an Applicant or Authorised Person\u2019s proposed leverage ratio.  The FSRA is aware that some of the significant Virtual Asset markets around the world operate margin ratios of between 2-4 times, and it is likely that FSRA consideration of leverage ratios will be in reference to this position.\n"
+    },
+    {
+        "ID": "f3ab65f4-f71b-4b89-a282-89a227082818",
+        "DocumentID": 19,
+        "PassageID": "123)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nMargin trading\nApplicants that are not proposing, or permitted, to carry out margin trading will have a restriction from doing so placed on their FSP.\n"
+    },
+    {
+        "ID": "f5a3f9fe-06e6-43ed-b1ca-151e676d8277",
+        "DocumentID": 19,
+        "PassageID": "124)",
+        "Passage": "SPECIFIC FSRA GUIDANCE ON THE VIRTUAL ASSET FRAMEWORK\nInsurance\nThe FSRA recognises the growing interest/interplay between Virtual Asset activities and the provision of insurance to such activities.  While recognising this, the FSRA does not require Authorised Persons to maintain insurance in relation to their Virtual Asset activities, as the provision of insurance is considered a second line of defence.  As a first line of defence, the FSRA expects all Authorised Persons to ensure the proper structuring of their business operations and to implement robust mechanisms for the mitigation of actual and potential areas of risk.\n\n"
+    },
+    {
+        "ID": "f59163a9-2747-447a-8969-f2b29d9b5ea4",
+        "DocumentID": 19,
+        "PassageID": "125)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nBackground\nWhile multiple Regulated Activities can be conducted in relation Virtual Assets, and regulated by the FSRA, within ADGM, the FSRA considers Operating a Multilateral Trading Facility to be a key Virtual Asset activity in ADGM.\n\n"
+    },
+    {
+        "ID": "8842cab4-5efe-4931-8a4b-5095b2bebc62",
+        "DocumentID": 19,
+        "PassageID": "126)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nSubstance requirements for MTFs\nConsistent with the treatment of all Authorised Persons (see paragraph 106), the FSRA requires MTFs to be based in substance within ADGM.  In addition to the substantial commitment of resources required of an MTF Operator, this also means that the FSRA\u2019s regulatory oversight of an MTF extends to its order book, matching engine, rulebook(s), ensuring fair and orderly markets, settlement, and for the purposes of preventing/monitoring for Market Abuse, amongst the relevant requirements set out in the Market Infrastructure Rules (\u201cMIR\u201d) and COBS Chapter 8.\n"
+    },
+    {
+        "ID": "9ae9ae17-09ad-434f-bb80-5065270672cc",
+        "DocumentID": 19,
+        "PassageID": "127)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nSubstance requirements for MTFs\nIn practical terms, this means that for a start-up MTF, its entire order book and the functionality of its matching engine will be subject to FSRA oversight.  For existing operational virtual asset exchanges that already have their order book / matching engine outside ADGM prior to making an application, a determination of which parts (if not all) of its order book (and how its matching engine) will come under FSRA regulatory oversight needs to be made by the Applicant,  to allow it to apply to become authorised as an MTF.\n"
+    },
+    {
+        "ID": "afed02eb-3abc-4362-a71b-39b2cd81e23f",
+        "DocumentID": 19,
+        "PassageID": "128)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nSubstance requirements for MTFs\nThe FSRA is of the view that only MTFs can operate markets within ADGM that allow for the matching of orders, or for the purposes of price discovery, of Accepted Virtual Assets. For this reason, and the reasons set out above, the application of FSRA\u2019s regulatory oversight may, therefore, be distinctly different from other regulators globally.\n"
+    },
+    {
+        "ID": "f0b56953-f694-489a-aea4-981672fa30da",
+        "DocumentID": 19,
+        "PassageID": "129)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nTrading Pairs\nThe FSRA\u2019s expectation is that an MTF\u2019s trading pairs can only comprise of the following:\n\na)\tFiat Currency (or other value) into Accepted Virtual Assets;\n\nb)\tAccepted Virtual Assets into Fiat Currency (or other value); or\n\nc)\tOne Accepted Virtual Asset into another Accepted Virtual Asset.\n\n"
+    },
+    {
+        "ID": "07d89f17-e77a-49dc-8bbe-3f196ebdf2b6",
+        "DocumentID": 19,
+        "PassageID": "130)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nGuidance in relation to Applicable Rules\nIn addition to the MTF Rules set out in COBS Chapter 8, MTFs are also required to meet the requirements set out in COBS Rules 17.1 to 17.6, and the additional Rules set out in COBS 17.7.\n"
+    },
+    {
+        "ID": "fe82c8f6-7749-4810-aa3c-7d2ed385e7a4",
+        "DocumentID": 19,
+        "PassageID": "131)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nGuidance in relation to Applicable Rules\nChapter 8 of COBS incorporates Rules from various other FSRA Rulebooks that must be complied with, including certain sections of MIR. COBS Rule 8.2.1 sets out various Rules in MIR that MTFs (using Virtual Assets) are required to comply with to the satisfaction of the FSRA, with the applicable Rules set out as follows:\n\na)\tMIR Rule 2.6 (Operational systems and controls):  MIR Rule 2.6.1 requires an MTF to \u2018establish a robust operational risk management framework with appropriate systems and controls to identify, monitor and manage operational risks that key participants, other [MTFs], service providers (including outsourcees) and utility providers might pose to itself.\u2019\n\ni.\tIn relation to systems and controls, the FSRA has provided guidance on what it expects in relation to technology governance controls in paragraphs 47 to 92 of this Guidance.  The FSRA therefore requires an MTF to undertake its \u2018MTF\u2019 activities in compliance with these operational system and control requirements, in combination with the technology governance controls outlined earlier in this Guidance.\n\nii.\tThe FSRA expects an MTF to undertake extensive due diligence and testing of its operational systems and controls, with the relevant reports of such testing capable of being provided to the FSRA for review.  Such testing should be undertaken by an officer of the MTF possessing appropriate skills and experience.  The testing reports need to confirm the robustness of the MTF\u2019s systems and address any potential areas of failure.  Testing should include the settlement processes for the movement of Virtual Assets between wallets, and the general connectivity of the MTF\u2019s systems with other parties.  Testing should be ongoing, building in processes for the introduction of new Accepted Virtual Assets.\n\niii.\tAn MTF will need to provide policies and procedures that clearly evidence how it will effectively address a failure of its systems.  Failures must be rectified as soon as practicable, with an MTF\u2019s business continuity plan including detailed and realistic response timeframes for failures or disruptions.\n\nb)\tMIR Rules 2.7.1 and 2.7.2 (Transaction recording):  FSRA expects that the primary ledger technology systems and controls of an MTF (whether they be DLT or multiple-ledger technologies) will be such that transaction recording and reporting is easily facilitated, and that all FSRA requirements can be effectively complied with.  Where reconciliations are required to be undertaken, for example, between a DLT based ledger and an internal ledger maintained by an MTF for the purposes of transactions and/or settlement, the FSRA will need to be satisfied that the reconciliation process is robust, timely and efficient.\n\nc)\tMIR Rule 2.8 (Membership criteria and access):  MIR Rule 2.8.1 requires that an MTF \u2018must ensure that access to its facilities is subject to criteria designed to protect the orderly functioning of the market and the interests of investors\u2019.\n\nAccess Requirements\n\ni.\tMIR Rules 2.8.2, 2.8.3, 2.8.5 and 2.8.6 support the operation of MIR Rule 2.8.1, and the FSRA expects that MTFs consider the application of the requirements across these Rules - for example, MIR Rule 2.8.5 contains substantive provisions that should apply, regardless of what model of \u2018access\u2019 an MTF (using Virtual Assets) utilises.\n\nii.\tThe FSRA recognises, however, that MTFs (using Virtual Assets) generally operate an \u2018access\u2019 model that does not include Members  (e.g., access is granted directly to (retail and institutional) Clients of the MTF).  An MTF operating in this manner will, therefore, need to ensure that it has appropriate processes, controls and rules to \u2018protect the orderly functioning\u2019 of its market, its facilities and the interests of its investors.\n\niii.\tBy not adopting a \u2018Member-access\u2019 model and allowing direct \u2018Client-access\u2019, MTFs lose one layer of regulatory/supervisory defense that Recognised Investment Exchanges and Member-access MTFs have, in that they do not have Members assisting them in the undertaking of the necessary due diligence and compliance reviews of investors being on-boarded into their market.  The FSRA, in these circumstances, requires MTFs to undertake their own CDD reviews for every client accessing (trading on) their market (something which traditionally a Recognised Investment Exchange or Member-access MTF can rely on its Members to do). Resultant AML/CFT obligations therefore fall more directly on a Client-access MTF as well.\n\niv.\tThe FSRA expects that the controls (and resultant resourcing needs) of an MTF be appropriately budgeted and accounted for, including specific controls for when it has Clients that are institutional Clients (as the current conventional Member/institutional client global regulatory model may not properly account for, and mitigate, the risks relevant to operating such model within the Virtual Asset space).  For example, where an MTF has institutional Clients that are regulated as Authorised Persons (for example, an Authorised Person that is a broker / dealer) within ADGM, the MTF may take comfort from the fact that its Clients are appropriately regulated (including for AML purposes).  An MTF may not, however, take such comfort when its institutional Clients may come from unregulated/less regulated jurisdictions. MTFs with an institutional Client base will therefore need to demonstrate how the MTF will adequately comply with the requirements of the AML Rulebook where its institutional Clients are trading on behalf of further clients.\n\nv.\tGiven the current lack of global regulation of Virtual Asset intermediaries, those MTFs operating a \u2018membership model\u2019 will need to assess whether their members are adequately regulated in their home jurisdiction, such that the MTF can suitably rely on their Members, for example, to undertake CDD/AML checks.  Where members are not properly regulated, the FSRA expects that MTFs will centralise the relevant compliance activities internally (and not be able to rely on their \u2018members\u2019 for such purposes).\n\nvi.\tDepending on the model, controls and criteria to be adopted by an MTF, the class order modification or waiver relief granted by the FSRA to Authorised Persons conducting Regulated Activities using Virtual Assets as referred to in paragraph 112 of the Guidance may apply.\n\nRulebook(s)\n\nvii.\tFurther to MIR Rule 2.8, the FSRA expects an MTF to have a rulebook(s) in place.  This rulebook should be clearly labelled as such and be publicly available on the website of the MTF.\n\nviii.\tSupporting documents such as participation agreements, terms of business, product lists, user guides and technical specifications are also a key part of the operation of an MTF, and should be consistent with its rulebook.  The FSRA does not consider that the existence of these documents alone meet the requirement of having a transparent and effective rulebook.  The FSRA considers it good practice that these supporting documents are available and transparent, alongside the published rulebook, to the extent possible.\n\nix.\tThe content of a rulebook  should enable an MTF to demonstrate how it is complying with MIR Rule 2.8, be supported by procedures that are complete and clear, and all in support of an MTF seeking to ensure that behaviour within its market is fair and orderly.\n\nx.\tThe FSRA expects MTFs to require explicit acknowledgement via a user agreement, that participants have read, understood and will abide by the rulebook at all times.\n\nxi.\tThe FSRA expects an MTF to undertake regular reviews of its rulebook to ensure it is consistent with relevant regulatory and legislative requirements.  Best practice may see such activity undertaken no less than every twelve-months.\n\nd)\tMIR Rule 2.9 (Financial crime and market abuse):  MTFs are required to operate an effective market surveillance program to identify, monitor, detect and prevent conduct amounting to market misconduct and/or Financial Crime. Given the significant risks, and the nascent nature and constant pace of development of the Virtual Asset industry, an MTF\u2019s surveillance system will need to be robust, and regularly reviewed and enhanced.\n\ni.\tThe FSRA recognises that an MTF outside ADGM may not be subject to a similar regulatory standard as that which applies within ADGM.  The FSRA recommends, therefore, that MTFs spend the time to consider the application of MIR Rules 2.9.1 to 2.9.3, which technology, systems and controls they propose to use for these purposes, and the associated resourcing needs required to undertake these functions appropriately.  For this reason, among others set out in this Guidance, the FSRA is of the view that it is not appropriate for an MTF to outsource its compliance / market surveillance functions.\n\nii.\tThe FSRA further reminds MTFs, and investors trading on an MTF, of the Market Abuse provisions applicable to the trading of Accepted Virtual Assets on an MTF.\n\ne)\tMIR Rule 2.11 (Rules and consultation): To meet MIR Rules 2.11.1 to 2.11.11, an MTF must ensure that it has appropriate procedures in place for it to make rules, for keeping its rules under review, for consulting and for amending its rules.  MIR Rule 2.11.2 requires proposed rule changes be subject to FSRA approval.\n\nf)\tMIR Rule 3.3 (Fair and orderly trading): MIR Rules 3.3.1 to 3.3.4 establish the requirements an MTF must meet for providing fair and orderly trading across its market, and for having objective criteria for the efficient execution of orders.  The FSRA considers these requirements to be fundamental to the operation of an MTF.\n\ng)\tCOBS Rule 8.3.1 & MIR Rule 3.7 (Public disclosure):\n\ni.\tAny arrangements of an MTF used to make information public (including trading information required to be disclosed under COBS Rule 8.3.1) must satisfy a number of conditions, including that it is reliable, monitored continuously, and made available to the public on a non-discriminatory basis. While an MTF can choose the format structure to be used for dissemination, MIR Rule 3.7.4 requires it to conform to a consistent and structured format.\n\nii.\tIn terms of the timing of disclosure of MTF trading information, the FSRA recognises that current virtual asset industry practice is for such trading information to be released on a real-time basis (in alignment with current practice for trading within spot commodity markets, but different to the current industry/regulatory practice of delayed data within certain securities/derivatives markets).  The FSRA is not proposing any additional specific requirements at this stage (to those already applicable in COBS Rule 8.3.1 and MIR Rule 3.7), but will continue to monitor industry practice.\n\nh)\tMIR Rule 3.8 (Settlement and Clearing Services): An MTF will need to have clear processes in place for the settlement (and if applicable, the clearing) of all Accepted Virtual Asset transactions.  As noted in the AML and Technology Governance sections of this Guidance, extensive stress testing on capabilities to connect successfully with third parties, and in relation to the movement of Accepted Virtual Assets between wallets, will be required to be undertaken to the FSRA\u2019s satisfaction.  The FSRA will not necessarily require a connection to a separate Recognised (or Remote) Clearing House where the MTF can demonstrate that it has in place \u2018satisfactory arrangements for the timely discharge, Clearing and settlement of the rights and liabilities of the parties to transactions effected\u2019 on the MTF, including where it is utilising the services of a Virtual Asset Custodian.\n\ni)\tMIR Rule 3.10 (Default Rules): Depending on whether an MTF operates a \u2018Member-access\u2019 model or it allows direct \u2018Client-access\u2019 will determine the full, or partial, application of MIR Rules 3.10.1 to 3.10.3.  The FSRA, at a minimum, expects MTFs to have in place both rules and a process to suspend or terminate access to its markets in circumstances where a Client/Member is unable to meet its obligations in respect of transactions relating to Accepted Virtual Assets.\n\ni.\tThe FSRA suggests that an Applicant/Authorised Person consider different scenarios/circumstances where it may need to utilise the powers provided to it under its Default Rules, and take appropriate action as required.  Scenario testing of this kind could relate to when there is a financial and/or technical \u2018default\u2019 in relation to, for example, its custody, fiat token or wider banking arrangements. Due to a prevalence of pre-funding of (client) positions within Virtual Asset markets, the impact of a \u2018default\u2019 in such a scenario may not necessarily be on a per-transaction basis, but could be structural in nature, in limiting the ability of Clients to fund their positions (and therefore the ability of the MTF to operate on a fair and orderly basis).\n\nii.\tTo prepare for the event of a loss/default, the FSRA expects an MTF to have, within its policies, a clear process for the management of such loss (e.g., what is the exposure of individual Clients, counterparties, its Custodian and itself, as applicable).\n\n"
+    },
+    {
+        "ID": "f1ec727b-52fd-409e-a8e4-bf9149a68fe8",
+        "DocumentID": 19,
+        "PassageID": "132)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nGuidance in relation to Applicable Rules\nCOBS Rule 17.7.4 specifies that certain notification requirements applicable to Recognised Investment Exchanges under MIR Rules 5.1, 5.3 and certain information requirements under MIR Rule 5.4.1 apply to MTFs (using Virtual Assets). These are additional requirements applicable to MTFs using Virtual Assets. MTFs using Virtual Assets will also need to comply with any other applicable notification requirements, including those set out in paragraph 29 of this Guidance in relation to the use of additional Accepted Virtual Assets.\n"
+    },
+    {
+        "ID": "79fd70a0-5953-424d-901a-aade26adbf5e",
+        "DocumentID": 19,
+        "PassageID": "133)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nGuidance in relation to Applicable Rules\nIt is recognised that MTFs may take varying approaches in relation to the custody of fiat currencies and Virtual Assets. An MTF may use third party custodians but still be holding itself out to its Clients as being responsible for custody of their fiat currencies and Accepted Virtual Assets. Alternatively, an MTF may provide custody of Clients\u2019 fiat currencies and Accepted Virtual Assets wholly itself, done \u201cin-house\u201d without the use of any third party custodians. An MTF whose custody arrangements fall into either of these two scenarios will also be considered to be Providing Custody of Virtual Assets for the purposes of the Virtual Asset Framework, and will be required to comply with COBS Chapters 14, 15 and 16, and take guidance from the sections below on \u201cAuthorised Persons Providing Custody of Virtual Assets\u201d.\n"
+    },
+    {
+        "ID": "5520a609-818e-4c5a-99b9-601ca350523e",
+        "DocumentID": 19,
+        "PassageID": "134)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nGuidance in relation to Applicable Rules\nAs further set out in paragraphs 154 and 155, in circumstances where an MTF is also Providing Custody, the FSRA expects appropriate segregation of responsibilities, staff, technology and, as appropriate, financial resources, between the operations of the MTF and the Virtual Asset Custodian.\n"
+    },
+    {
+        "ID": "54b67759-66a7-4cbd-a335-1a40ee4894bb",
+        "DocumentID": 19,
+        "PassageID": "135)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nRecognised Investment Exchanges Operating an MTF using Virtual Assets\nPursuant to MIR Rule 3.4.1, a Recognised Investment Exchange may operate an MTF, provided that its Recognition Order includes a stipulation permitting it to do so.  MIR Rule 3.4.2 requires that where such a stipulation is granted to a Recognised Investment Exchange, the Recognised Investment Exchange must meet the requirements of the Virtual Asset Framework in relation to operation of an MTF (using Virtual Assets) while the remainder of its operations must be operated in compliance with the MIR Rules.\n"
+    },
+    {
+        "ID": "fa3cde4e-a388-4d88-bb14-8242a2758cc0",
+        "DocumentID": 19,
+        "PassageID": "136)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nRecognised Investment Exchanges Operating an MTF using Virtual Assets\nThis means that a Recognised Investment Exchange (in addition to operating markets relating to the trading of Financial Instruments (including Digital Securities) can, where permitted by the FSRA and subject to MIR Rule 3.4.2, operate a separate MTF, OTF and/or MTF using Virtual Assets under its Recognition Order.\n"
+    },
+    {
+        "ID": "16e6290e-4660-4e38-9618-89de6a251764",
+        "DocumentID": 19,
+        "PassageID": "137)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nRecognised Investment Exchanges Operating an MTF using Virtual Assets\nAuthorised Persons that are operating an MTF wishing to also operate a Recognised Investment Exchange will be required to relinquish their FSP upon obtaining a Recognition Order (to operate a Recognised Investment Exchange).  If licensed by the FSRA to carry out both activities (e.g., operating an MTF and operating a Recognised Investment Exchange), the relevant Recognition Order will include a stipulation to that effect pursuant to MIR Rule 3.4.1 - see paragraph 135 above).\n"
+    },
+    {
+        "ID": "23f2d330-97ae-454b-9f8d-2f236f99e059",
+        "DocumentID": 19,
+        "PassageID": "138)",
+        "Passage": "MULTILATERAL TRADING FACILITIES AND VIRTUAL ASSETS\nRecognised Investment Exchanges Operating an MTF using Virtual Assets\nThe FSRA appreciates that Applicants, Authorised Persons and Recognised Bodies may wish to build out their Regulated Activities in ADGM on a staggered basis.  For example, an entity may wish to start out in ADGM as an MTF (using Virtual Assets) and migrate to other exchange/market infrastructure activities in due course.  Equally, a Recognised Investment Exchange may wish to start out in the area of Derivatives or Digital Securities, and then introduce Virtual Asset activities (as an MTF) in due course.  The FSRA suggests that in such circumstances an Applicant reach out to discuss the steps for doing so as early as possible.\n"
+    },
+    {
+        "ID": "767ef9cf-1f0b-443c-9997-edd267334f08",
+        "DocumentID": 19,
+        "PassageID": "139)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nAuthorised Persons Providing Custody in relation to Virtual Assets (\u201cVirtual Asset Custodians\u201d) provide the service of helping Clients safeguard their Accepted Virtual Assets. Some Virtual Asset Custodians may also, in addition, help Clients safeguard their fiat currencies (referred to as \u201cClient Money\u201d).  Virtual Asset Custodians include firms that solely offer the custody of Virtual Assets and / or Client Money for Clients, as well as MTFs and other intermediaries who additionally provide the service of custodising Accepted Virtual Assets or Client Money on behalf of Clients.\n"
+    },
+    {
+        "ID": "b884f41e-2f45-4b2f-b5e4-20e5b73d299a",
+        "DocumentID": 19,
+        "PassageID": "140)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSimilar to the approach taken in relation to activities undertaken by MTFs in relation to Virtual Assets, the FSRA considers the activities undertaken by Virtual Asset Custodians to be a key Virtual Asset activity within ADGM.  Accordingly, the Virtual Asset Framework contains specific additional requirements applicable to Virtual Asset Custodians.\n"
+    },
+    {
+        "ID": "15ac7d0d-8853-444c-8a24-8678075fa3c7",
+        "DocumentID": 19,
+        "PassageID": "141)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nIn addition to having to meet the requirements set out in COBS Rules 17.1 to 17.6, Virtual Asset Custodians are required to meet the additional Rules set out in COBS Rule 17.8. COBS Rule 17.8.2 requires that the existing definitions of \u201cClient Assets\u201d and \u201cClient Investments\u201d be read to include \u201cVirtual Assets\u201d.  This approach has been taken by the FSRA to ensure that Accepted Virtual Assets are afforded the same protections as other similar products and activities under FSMR and the FSRA Rulebook.\n\n"
+    },
+    {
+        "ID": "d5e39ec7-ce3d-4b9e-bf93-318ccdcf80b7",
+        "DocumentID": 19,
+        "PassageID": "142)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nProtection of Client Money\nAs noted earlier in paragraph 105, Chapter 14 of COBS sets out various requirements that Authorised Persons must comply with to ensure that they properly protect and safeguard any Client Money that they are holding or controlling on behalf of their Clients. COBS Rule 17.8 further clarifies these requirements in relation to Virtual Asset Custodians that are holding or controlling Client Money.\n"
+    },
+    {
+        "ID": "32cfb05a-21b2-40d1-9a53-654149ef3fe7",
+        "DocumentID": 19,
+        "PassageID": "143)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nProtection of Client Money\n\u201cClient Money\u201d refers to money (e.g., fiat) of any currency which an Authorised Person holds on behalf of a Client or which an Authorised Person treats as Client Money, subject to the exclusions in COBS Rule 14.2.6. In carrying out their Regulated Activities, Authorised Persons may at certain junctures be holding or controlling Client Money when providing Virtual Asset-related products and services to their Clients.\n"
+    },
+    {
+        "ID": "94f3e093-0b27-4800-8250-ce41c801bcd5",
+        "DocumentID": 19,
+        "PassageID": "144)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nProtection of Client Money\nThe following are examples of situations where an Authorised Person would be considered to be holding or controlling Client Money:\n\na)\tExample 1: To fund their trading account at an MTF, a Client of the MTF transfers US dollars (in fiat) from their bank account to their account at the MTF. These US dollars held by the MTF for the Client - before they are used to purchase any Accepted Virtual Assets - would be considered Client Money.\n\nb)\tExample 2: A Client of an MTF holds bitcoins in their wallet at an MTF. They use the MTF to sell their bitcoins in exchange for US dollars (in fiat). The US dollars are then credited to their account at the MTF and held by the MTF for them. These US dollars held in their account with the MTF would be considered Client Money.\n\nc)\tExample 3: A fully fiat-backed stablecoin  issuer accepts fiat from Clients in exchange for giving them stablecoins. The fiat currency held by the issuer would be considered as Client Money (and which can be redeemed by Clients on presentation of the stablecoin), and the fiat-backed stablecoin issuer would need to comply with the Client Money provisions in COBS.\n"
+    },
+    {
+        "ID": "67d8e19f-3f69-4b61-9141-8413a0e4ffa9",
+        "DocumentID": 19,
+        "PassageID": "145)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nProtection of Client Money\nA Virtual Asset Custodian that holds or controls Client Money must comply with all the relevant Client Money rules in Chapter 14 of COBS (read together with COBS Rule 17.8) at all times . In particular, such Virtual Asset Custodians are required to carry out reconciliations of Client Money in Client Accounts as follows:\n\na)\tReconciliations with respect to COBS Rule 14.2.12(a) shall be carried out at least every week; and\n\nb)\tReconciliations with respect to COBS Rule 14.2.12(d) shall be carried out within 5 days of the date to which the reconciliation relates.\n"
+    },
+    {
+        "ID": "701c962f-58b3-460e-b009-9b53e14040d6",
+        "DocumentID": 19,
+        "PassageID": "146)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nThe FSRA notes that there are broadly three types of custodial arrangements over Accepted Virtual Assets that Authorised Persons are likely to adopt:\n\na)\tType 1 (Custodial Wallet):  The Authorised Person is wholly responsible for the custody of a Client\u2019s Accepted Virtual Assets and provides this service \u201cin-house\u201d through its own Virtual Asset wallet solution. Such an arrangement includes scenarios where an MTF provides its own in-house proprietary wallet for Clients to store any Accepted Virtual Assets bought through that exchange or transferred into the wallet from other sources. Type 1 also includes firms who solely provide the dedicated service of helping Clients (such as MTFs, broker-dealers, traders, fund / asset managers) custodise their Accepted Virtual Assets. The Type 1 custody provider effectively holds Virtual Assets (e.g., the private keys) as an agent on behalf of Clients and has control over these Accepted Virtual Assets.\n\nb)\tType 2 (Outsourced Custodial Wallet): The Authorised Person is wholly responsible for the custody of a Client\u2019s Accepted Virtual Assets but operationally outsources this function to a third-party Virtual Asset custodian. Type 2 arrangements include the scenario where an MTF uses a third party custody service provider to hold its Clients\u2019 Accepted Virtual Assets.\n\nc)\tType 3 (Non-Custodial / Self-Custody Wallet): The Authorised Person allows/requires Clients to wholly \u201cself-custodise\u201d their Accepted Virtual Assets, and at no point does the Authorised Person have partial or full control over these Clients\u2019 Virtual Assets. The Type 3 custody provider is typically a third-party hardware or software company that offers the means for each Client to hold their Virtual Assets (and fully control private keys) themselves. Hardware wallets, mobile wallets, desktop wallets and paper wallets are generally examples of non-custodial wallets. Clients using non-custodial wallets have full control of and sole responsibility for their Virtual Assets, and the non-custodial wallet provider does not have the ability to effect unilateral transfers of Clients\u2019 Virtual Assets without Clients\u2019 authorisation.\n"
+    },
+    {
+        "ID": "f1a87ed0-63a7-440d-a03f-715027464684",
+        "DocumentID": 19,
+        "PassageID": "147)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nEntities seeking to operate either Type 1 or Type 2 custodial arrangements above would generally be regarded as carrying out the Regulated Activity of Providing Custody, and require a FSP from the FSRA.\n"
+    },
+    {
+        "ID": "061303e3-9681-4873-af06-a7fa680c0122",
+        "DocumentID": 19,
+        "PassageID": "148)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nWith respect to the Type 3 non-custodial wallets described above, the wallet provider is merely providing the technology; it is the wallet user who has full control of and responsibility for their Virtual Assets.  Given they have no control over Clients\u2019 Virtual Assets, Type 3 non-custodial wallet providers would generally not be required to seek an FSP to Provide Custody.  The FSRA considers the Type 3 scenario above, where Clients are required to self-custodise their Accepted Virtual Assets, as potentially posing a material risk given that the burden of protecting and safeguarding Virtual Assets falls wholly upon Clients, and that Virtual Assets face the constant risk of being stolen by malicious actors. As such, Authorised Persons requiring Clients to self-custodise Virtual Assets are required to disclose this fact fully and clearly upfront to Clients, and meet the disclosure standards elaborated in paragraphs 93 to 97 above.  The FSRA will take the quality of these proposed disclosures into account when assessing applications from Authorised Persons proposing to require Clients to self-custodise their Virtual Assets.\n"
+    },
+    {
+        "ID": "bfc6b47f-7d97-430d-a9dd-5b84d67b9c72",
+        "DocumentID": 19,
+        "PassageID": "149)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nChapter 15 of COBS sets out various requirements that all Authorised Persons must comply with to ensure that they properly protect and safeguard any Client Investments they are holding, controlling, providing custody for, or arranging custody for, on behalf of their Clients. Chapter 17 of COBS further describes how the Safe Custody rules in Chapter 15 apply to Virtual Asset Custodians.\n"
+    },
+    {
+        "ID": "74379449-56a2-436b-a5d2-147c5e8b1160",
+        "DocumentID": 19,
+        "PassageID": "150)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\n\u201cClient Investments\u201d in the context of Virtual Asset Custodians refer specifically to Accepted Virtual Assets and not to money (in fiat) of any currency. Refer to paragraphs 142 to 145 above for guidance on how Virtual Asset Custodians are required to properly protect and safeguard Client Money (in fiat).\n"
+    },
+    {
+        "ID": "30e7fcf2-1f23-4de1-bba4-1854f560e60e",
+        "DocumentID": 19,
+        "PassageID": "151)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nAn Authorised Person that holds, controls, provides custody for, or arranges custody for, with respect to Accepted Virtual Assets, on behalf of their Clients, is considered a \u201cVirtual Asset Custodian\u201d, and must comply with all the relevant Safe Custody rules in Chapter 15 of COBS (read together with Chapter 17 of COBS) at all times.\n"
+    },
+    {
+        "ID": "82c9f818-745a-432e-947b-f4d097b19c14",
+        "DocumentID": 19,
+        "PassageID": "152)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nIn this regard, MTFs that provide an integrated Virtual Asset wallet would need to comply with these Safe Custody rules. MTFs that outsource their Virtual Asset wallets to a third party as set out in paragraph 146(b) would also need to comply or ensure compliance with these Custody Rules, as applicable.\n"
+    },
+    {
+        "ID": "0fb3a173-21f7-447a-9b86-6c07aede7c32",
+        "DocumentID": 19,
+        "PassageID": "153)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nSafe Custody of Clients\u2019 Virtual Assets\nAuthorised Persons operating as Virtual Asset Custodians are required, with respect to the Accepted Virtual Assets they hold under custody for Clients, to:\n\na)\tSend out statements of a Client\u2019s Accepted Virtual Assets holdings to Retail Clients at least monthly (as required under COBS Rule 15.8.1(a)); and\n\nb)\tCarry out all reconciliations of a Client\u2019s Accepted Virtual Asset holdings at least every week (as required under COBS Rule 15.9.1).\n"
+    },
+    {
+        "ID": "60b9c452-ee7a-4829-9eda-9406166e36cf",
+        "DocumentID": 19,
+        "PassageID": "154)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nGovernance Arrangements for Virtual Asset Custodians\nFrom a governance perspective, an Authorised Person Providing Custody in relation to Virtual Assets should have proper governance structures in place to avoid or mitigate actual or potential conflicts of interest between its custody functions and any other activities or functions within itself or with other Group entities. Such governance arrangements may include having a separate team, which does not have other conflicting responsibilities within the firm, handling custody.\n"
+    },
+    {
+        "ID": "bcc667c0-e557-43ef-ba72-6e816aed4c67",
+        "DocumentID": 19,
+        "PassageID": "155)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nGovernance Arrangements for Virtual Asset Custodians\nTo assist with ring-fencing and to reduce potential conflicts of interest, an Applicant that wishes to Provide Custody in relation to Virtual Assets and concurrently provide other Regulated Activities should consider the merit of establishing a separate, standalone legal entity for its Virtual Asset Custodian activities.  If so established, this standalone entity would need to apply to the FSRA for its own FSP to carry on the Regulated Activity of Providing Custody.\n"
+    },
+    {
+        "ID": "8e3333c9-4ec7-4424-8526-5386829e924d",
+        "DocumentID": 19,
+        "PassageID": "156)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nGovernance\nAuthorised Persons operating as Virtual Asset Custodians must not, at any time, permit arrangements whereby just a sole party or signatory is able to completely authorise the movement, transfer or withdrawal of Accepted Virtual Assets or Client Money held under custody on behalf of Clients. In particular, Authorised Persons must not have custody arrangements whereby only a sole person can fully access the private key or keys for the Accepted Virtual Assets held under custody by the Authorised Person. Preventing such arrangements can help reduce potential key person risk such as theft, fraud, unwillingness or inability of the sole party to grant access to private keys.\n"
+    },
+    {
+        "ID": "7491f9ff-e02f-482e-a71d-8d8a9dae6244",
+        "DocumentID": 19,
+        "PassageID": "157)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nGovernance\nAuthorised Persons are also required to mitigate the risk of collusion between all authorised parties or signatories who are able to authorise the movement, transfer or withdrawal of Accepted Virtual Assets or Client Money held under custody. Authorised Persons are required to provide information on these mitigating controls to the FSRA.\n"
+    },
+    {
+        "ID": "ac7e887f-856f-4f2f-bd6d-061c9858cd97",
+        "DocumentID": 19,
+        "PassageID": "158)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nGovernance\nAuthorised Persons are required to maintain, at all times, an updated list of all past and present authorised persons who were / are able to view, initiate, authorise, sign, approve or complete the transfer or withdrawal of Accepted Virtual Assets or Client Money held under custody on behalf of Clients. In addition, Authorised Persons are to have clearly defined policies and procedures to enable or revoke the authority granted to these persons.\n"
+    },
+    {
+        "ID": "b3d450cd-2b6a-4c7e-b7da-b2816b518232",
+        "DocumentID": 19,
+        "PassageID": "159)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nGovernance\nAuthorised Persons are required to have policies and procedures in place that clearly describe the process that will be adopted in the event that it knows or suspects that the Accepted Virtual Assets or Client Money it is holding under custody on behalf for Clients has been compromised, such as in the event of a hacking attack, theft or fraud. Such policies and procedures should detail the specific steps the firm will take to protect Clients\u2019 Accepted Virtual Assets and Client Money in the event of such incidents. Authorised Persons should also have the ability to immediately halt all further transactions with regard to the Accepted Virtual Assets and Client Money.\n\n"
+    },
+    {
+        "ID": "d74beba9-b853-4b14-aef8-1cdf8da1faee",
+        "DocumentID": 19,
+        "PassageID": "160)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nObligations in relation to outsourcing\nWhere an Authorised Person that seeks to operate as a Virtual Asset Custodian wishes to outsource part or all of the custody function to a third party, the Authorised Person is required to perform its due diligence and background checks on the third party, and ensure that the third party meets all the FSRA\u2019s requirements applicable to Virtual Asset Custodians. Such Authorised Persons are required to make full disclosures to their Clients and to the FSRA regarding such outsourced custody arrangements. The Authorised Person retains full responsibility from a regulatory perspective for any issues that may result from such outsourcing, including the failure of any third party to meet its Virtual Asset Custody obligations.\n"
+    },
+    {
+        "ID": "141bf30a-6495-43d0-8238-357d5d77be0e",
+        "DocumentID": 19,
+        "PassageID": "161)",
+        "Passage": "AUTHORISED PERSONS PROVIDING CUSTODY OF VIRTUAL ASSETS\nOther Requirements Pertaining to the Provision of Custody of Virtual Assets\nThird party audit obligations\nAuthorised Persons should have independent third party verification or checks carried out at least annually to verify that the amount and value of Accepted Virtual Assets and Client Money (e.g., fiat) held on custody on behalf of Clients is correct and matches what the Virtual Asset Custodian is supposed to hold.\n"
+    },
+    {
+        "ID": "edba262e-09ee-4c15-94ed-b30024a0594c",
+        "DocumentID": 19,
+        "PassageID": "162)",
+        "Passage": "STABLECOINS\nA stablecoin is a blockchain-based token that is valued by reference to an underlying fiat currency or basket of assets.  A key feature of a stablecoin is that it purports to have less volatility than other Virtual Assets, allowing it to operate as a transfer of value within the Virtual Asset ecosystem, including as one leg of a trading pair on an MTF (using Virtual Assets).  Demand continues to grow for effective stablecoins within Virtual Asset markets as many participants seek a safe store of value (in terms of reconciliation and to protect from manipulation). Demand has also increased as a result of the general inability to liquidate Virtual Assets into fiat currencies.  Additionally, some stablecoins are aimed more as operating as a \u2018digital currency\u2019 within the digital economy.\n"
+    },
+    {
+        "ID": "c9b009bb-a2d8-4682-b8a4-302711e40cc5",
+        "DocumentID": 19,
+        "PassageID": "163)",
+        "Passage": "STABLECOINS\nVarious stablecoin issuers have entered the Virtual Asset ecosystem, with a variety of models used in order to try and stabilise the price of their particular stablecoin. Models include one or a combination of one of the following:\n\na)\tFiat token:  the issuer holds fiat currency  equal to a portion of the total sum of tokens in issuance.\n\nb)\tDiversification/Basket: Purchasing or tracking the price of a basket of assets including Virtual Assets, commodities, fiat currency, shares, debentures, derivatives and real estate .\n\nc)\tAlgorithm: the issuance of the quantity of tokens (inflation) is controlled by a proprietary algorithm in consideration of various market and risk factors. These issuers attempt to mimic a central bank\u2019s monetary policy.  Others incorporate additional layers of game-theoretic incentives to encourage self-interested user behavior that would be instrumental in sustaining a \u2018peg\u2019.\n"
+    },
+    {
+        "ID": "43be7e41-bb21-4b8a-ad0d-2fd54bae041b",
+        "DocumentID": 19,
+        "PassageID": "164)",
+        "Passage": "STABLECOINS\nThe rights of purchasers/issuers of stablecoins vary significantly.  Some issuers retain rights to freeze client accounts for any reason, re-hypothecate monies/assets at will, and provide no right of guarantee in relation to the returning of monies to clients.\n"
+    },
+    {
+        "ID": "77c8fa3b-3420-46c2-b115-3b6b1552998c",
+        "DocumentID": 19,
+        "PassageID": "165)",
+        "Passage": "STABLECOINS\nFSRA position in relation to stablecoins\nThe FSRA position in relation to stablecoins is as follows:\n\na)\tPermit only those stablecoins which constitute a fully backed 1:1 fiat token (as referred to in paragraph 163(a) above), backed only by the same fiat currency it purports to be tokenising;\n\nb)\tFiat tokens are to be treated as a mechanism for storing value (e.g., e-money);\n\nc)\tIssuers of fiat tokens for the purposes of facilitating or effecting payments are treated as money services businesses.   In addition, to the need to hold a FSP for the Regulated Activity of Providing Money Services (see paragraph 166(a) below), the issuer will additionally be subject to relevant parts of this Guidance, including only allowing stablecoins where they meet the same requirements as those of Accepted Virtual Assets (particularly including the seven factors used to validate a Virtual Asset as an Accepted Virtual Asset as set out in paragraph 25), and that they meet wider applicable requirements as set out in this Guidance (including Technology Governance (see paragraphs 47 \u2013 92, as applicable);\n\nd)\tRequire Authorised Persons to consider the wider requirements within this Guidance, and how these requirements may specially apply to the use of stablecoins, including for example, what particular risk disclosures may be relevant (see paragraphs 93-97); and\n\ne)\tContinue to apply the Client Money rules in COBS to holders of Client Money (tokenised or not).\n"
+    },
+    {
+        "ID": "5bcd3b99-64a4-4164-aa03-fa83fba73342",
+        "DocumentID": 19,
+        "PassageID": "166)",
+        "Passage": "STABLECOINS\nApplication of FSRA\u2019s stablecoin position to the conduct of Regulated Activities within ADGM\nA number of possible scenarios for the use of stablecoins within ADGM, and the proposed regulatory approach for each, are set out below:\n"
+    },
+    {
+        "ID": "3123e5b5-2c8f-4933-9f18-7b35b36c19e5",
+        "DocumentID": 19,
+        "PassageID": "166).a)",
+        "Passage": "Issuer of fiat tokens:  for use in the Virtual Asset ecosystem and/or as a means of payment, an Issuer (where it is located in ADGM):\n\ni.\tMust seek an FSP for Providing Money Services pursuant to Schedule 1, Section 52 of FSMR;\n\nii.\tIs not required to hold additional permissions within its FSP in relation to its Virtual Assets activities, but is required to comply with certain aspects of the Virtual Asset Framework, namely the:\n\n1.\tCOB Client Money rules, and must additionally be able to show that the fiat token is backed 1:1 through weekly reconciliation; and\n\n2.\tThe Virtual Asset Custodian sections of this Guidance, including that the fiat token must meet the requirements applicable to Accepted Virtual Assets, Technology Governance, reconciliation and reporting (for the latter, refer to paragraph 153), and\n\niii.\tIf the Issuer wishes to conduct any other Virtual Asset activities within ADGM in addition to the issuance of a fiat token, it will need to obtain approval as an Authorised Person conducting a Regulated Activity in relation to Virtual Assets.\n"
+    },
+    {
+        "ID": "422eecd5-4fbb-4777-8f6d-702d9615c24d",
+        "DocumentID": 19,
+        "PassageID": "166).b)",
+        "Passage": "Virtual Asset Custodian: that wants to hold custody over both Accepted Virtual Assets and fiat tokens:\n\ni.\tThe Authorised Person must be authorised by the FSRA for the Regulated Activity of Providing Custody (including in relation to Virtual Assets). No additional FSP is required to allow for the custody of fiat tokens (including for the underlying fiat currency itself).  The FSRA therefore relies on the Authorised Person meeting the:\n\n1.\tVirtual Asset Framework capital requirements (see paragraphs 31-36);\n\n2.\tVirtual Asset Client Money rules (see paragraphs 142 - 145); and\n\n3.\trequirements of this Guidance in the context of both its Accepted Virtual Asset and fiat token activities, particularly in the context of ensuring that the methods by which the Authorised Person meets the requirements applicable to Accepted Virtual Assets and Technology Governance, and\n\nii.\tNo issuance of a fiat token is permitted.\n"
+    },
+    {
+        "ID": "6cc436e9-e4b2-4159-8e12-70c22ef43f8b",
+        "DocumentID": 19,
+        "PassageID": "166).c)",
+        "Passage": "Custodian providing custody/escrow services solely of a fiat currency and the related fiat token (\u201cFiat Custodian\u201d):\n\ni.\tMust obtain an FSP for the Regulated Activity of Providing Custody.\n\nii.\tIs required to comply with certain aspects of the Virtual Asset Framework, namely:\n\n1.\tBeing able to demonstrate that the fiat token is backed 1:1 through more frequent (weekly) reconciliations ; and that\n\n2.\tBeing able to demonstrate that the Accepted Virtual Asset and Technology Governance requirements are met in relation to the related fiat token.\n\niii.\tIn relation to the issuance of the related fiat token, in circumstances where the issuer is not authorised under paragraph 166(a) above, it is expected that the Fiat Custodian undertake the same due diligence as that would normally apply for an Authorised Person to determine the Accepted Virtual Assets it proposes to use (focusing on Technology Governance requirements, the seven factors used to determine an Accepted Virtual Asset, and requirements relating to reporting and reconciliation).\n"
+    },
+    {
+        "ID": "c2808263-b441-44dc-b908-e5f4c2755e18",
+        "DocumentID": 19,
+        "PassageID": "166).d)",
+        "Passage": "MTF (using Virtual Assets): using its own fiat tokens as a payment/transaction mechanism solely within its own platform/ecosystem:\n\ni.\tNo additional FSP is required to allow for use of fiat tokens within the MTF\u2019s platform.\n\nii.\tThe fiat token cannot be transferred/transacted outside its own platform/ecosystem.\n\niii.\tThe Authorised Person must meet the requirements of this Guidance in the context of both its Accepted Virtual Asset and fiat token activities, particularly in the context of ensuring that the methods by which the Authorised Person meets the requirements applicable to Accepted Virtual Assets and Technology Governance, and\n\niv.\tThe Authorised Person must additionally be able to show that the token is backed 1:1 through weekly reconciliation.\n"
+    },
+    {
+        "ID": "faa59db3-bbef-4381-a2a5-53f43de75cd8",
+        "DocumentID": 19,
+        "PassageID": "166).e)",
+        "Passage": "MTF (using Virtual Assets): using third-party issued fiat tokens as a payment/transaction mechanism:\n\ni.\tIn the context of using third party fiat tokens, the Authorised Person must directly meet the requirements of the Accepted Virtual Assets, Technology Governance and AML/CFT sections of this Guidance.\n\nii.\tFor the related fiat currency custody activities, FSRA preference is to have the MTF utilise a Virtual Asset/Fiat Custodian authorised on the basis of paragraphs 139 - 145 or 166(b) above.\n\niii.\tIn relation to the issuance of the related fiat token, in circumstances where the issuer is not authorised under paragraph 166(a) above, it is expected that the Authorised Person undertake the same due diligence as that it would apply for the purposes of determining Accepted Virtual Assets (focusing on Technology Governance requirements, the seven factors used to determine an Accepted Virtual Asset, and requirements relating to reporting and reconciliation).\n"
+    },
+    {
+        "ID": "d9d31280-854d-4c2a-88bf-5d872d86cdfc",
+        "DocumentID": 19,
+        "PassageID": "167)",
+        "Passage": "NON-FUNGIBLE TOKENS\nNon-fungible tokens (\u201cNFTs\u201d) are cryptographic assets on a DLT with unique identification codes and metadata that distinguish them from each other.  Unlike Virtual Assets, they cannot be replicated, thus cannot be traded or exchanged at equivalency. Essentially, therefore, NFTs operate similar to a collector\u2019s item, but are digital instead of physical.\n"
+    },
+    {
+        "ID": "a9078811-abc8-4853-9acc-f53eee2a09d2",
+        "DocumentID": 19,
+        "PassageID": "168)",
+        "Passage": "NON-FUNGIBLE TOKENS\nThe FSRA recognises the growing relevance of NFT markets within the wider digital asset markets.  While the FSRA is not proposing to establish a formal regulatory framework for NFTs at this point, it will continue to monitor industry, market and regulatory developments.  The FSRA is, however, in certain circumstances only, open to NFT activities being undertaken within ADGM, but only by its regulated, and active, MTFs which are also authorised to Provide Custody in relation to Virtual Assets (a \u201cMTF / Virtual Asset Custodian\u201d) where both of those Regulated Activities are conducted within ADGM.  Firms conducting own account or proprietary investments in NFTs are allowed to do so within ADGM.\n"
+    },
+    {
+        "ID": "75d64ac9-fbe0-4fbe-893e-66af03b12878",
+        "DocumentID": 19,
+        "PassageID": "169)",
+        "Passage": "NON-FUNGIBLE TOKENS\nThe FSRA\u2019s current position in relation to NFTs is therefore as follows:\n\na)\tRelevant MTFs / Virtual Asset Custodians should establish within their ADGM Group an unregulated, commercially licensed NFT entity (the \u2018NFT Entity\u2019).  The NFT Entity would primarily be used as the commercially focused entity used to engage with NFT issuers and market participants and would therefore be \u2018ring-fenced\u2019 from the MTF / Virtual Assets Custodian from a legal (and therefore liability, resources, and funding) perspective;\n\nb)\tAn NFT Entity is to outsource back to the MTF/Virtual Asset Custodian all client, trading, auction and custody activities;\n\nc)\tAll NFT activities will be captured for KYC and AML/CTF purposes, as the AML rules within ADGM will apply to the NFT Entity, and continue to apply as relevant to the MTF/Virtual Asset Custodian (including as set out in paragraphs 37-46 of this Guidance);\n\nd)\tIn relation to Public Funds holding NFTs, the FSRA expects such Funds should only hold NFTs that are held and traded through an ADGM-based MTF/Virtual Asset Custodian.  This position extends to Public Funds holding Accepted Virtual Assets.  Should a Fund Manager of a Public Fund need to diverge from this position, it should contact the FSRA at the earliest possible opportunity, in order to present its rationale for doing so, in advance of any change.  In any event, the FSRA expects that an ADGM Virtual Asset Custodian should provide safe custody in relation to Virtual Assets held by a Public Fund.\n"
+    },
+    {
+        "ID": "fc56f0a0-fa75-4e58-a1c8-883e8e6c25df",
+        "DocumentID": 19,
+        "PassageID": "170)",
+        "Passage": "NON-FUNGIBLE TOKENS\nWhile the FSRA will allow these regulated MTF/Virtual Asset Custodian Groups to undertake certain NFT activities within ADGM, it is important to note the following:\n\na)\tNFTs themselves remain outside FSRA regulatory oversight;\n\nb)\tthe NFT Entity, and the MTF/Virtual Asset Custodian, will need to satisfy the FSRA of its approval process for, and the monitoring of, the Issuers, and third party integrated registries. of the NFTs (noting that an Issuer cannot be themselves, or part of their Group); and\n\nc)\tNFTs should be transferred into the MTF for auction/trading purposes and to the Virtual Asset Custodian for custodial purposes, but if not the MTF/Virtual Asset Custodian would need to satisfy the FSRA that it has proper systems and controls in place.  An MTF/Virtual Asset Custodian would therefore need to allow/onboard only suitable third-party NFT registries and relevant auction houses, outside of themselves.\n"
+    },
+    {
+        "ID": "a0dc4b6d-21f2-4b5b-8c20-92aa1c4a6504",
+        "DocumentID": 19,
+        "PassageID": "171)",
+        "Passage": "APPLICATION PROCESS\nApplicants seeking to become an Authorised Person conducting a Regulated Activity in relation to Virtual Assets must be prepared to engage heavily with the FSRA throughout the application process.  The Application process is broadly broken down into five stages, as follows:\n\na)\tDue Diligence & Discussions with FSRA team(s);\n\nb)\tSubmission of Formal Application;\n\nc)\tGranting of In Principle Approval;\n\nd)\tGranting of Final Approval; and\n\ne)\t\u2018Operational Launch\u2019 Testing.\n"
+    },
+    {
+        "ID": "c5c71c55-c1fa-4d50-b257-44fca64b77b2",
+        "DocumentID": 19,
+        "PassageID": "172)",
+        "Passage": "APPLICATION PROCESS\nDue diligence and Discussions with FSRA team(s)\nPrior to the submission of an Application, all Applicants are expected to provide the FSRA with a clear explanation of their proposed business model and to demonstrate how the Applicant will meet all applicable FSRA Rules and requirements. These sessions will also involve the Applicants providing a number of in-depth technology demonstrations, across all aspects of its proposed Virtual Asset activities.  The FSRA generally expects these meetings, where possible, to take place between the Applicant and the FSRA in person.  Given the complexity of the activities associated with the Virtual Asset Framework, it is likely that a number of meetings will need to be held between an Applicant and the FSRA before the Applicant will be in a position to submit a draft, then formal, application.\n"
+    },
+    {
+        "ID": "8f7c8a8f-3b67-47ba-9895-33428bdcab8a",
+        "DocumentID": 19,
+        "PassageID": "173)",
+        "Passage": "APPLICATION PROCESS\nSubmission of Formal Application\nFollowing discussions with the FSRA, and upon the FSRA having reasonable comfort that the Applicant\u2019s proposed business processes, technologies and capabilities are at a sufficiently advanced stage, the Applicant will be required to submit a completed Virtual Asset Application Form, and supporting documents, to the FSRA .  The Applicant\u2019s supporting documents include the submission of a detailed launch plan reflecting each of the steps (referencing the full set of operational and regulatory requirements) that the Applicant will take to progress from Application phase, through IPA and FSP to launch. Payment of the fees applicable to the Application, as set out in paragraphs 179 - 187, must also be made at the time of submission.  The FSRA will only consider an Application as having been formally submitted, and commence its formal review of the Application, upon receipt of both the completed Application, detailed launch plan and the associated fees.\n"
+    },
+    {
+        "ID": "9c0b7c4d-0f2c-4b2c-b885-3cee7ef069c9",
+        "DocumentID": 19,
+        "PassageID": "174)",
+        "Passage": "APPLICATION PROCESS\nGranting of In Principle Approval (IPA)\nThe FSRA will undertake an in depth review of the Application, and supporting documents, submitted by an Applicant.  The FSRA will only consider granting an IPA for a FSP to those Applicants that are considered able to adequately meet all applicable Rules and requirements.  An Applicant will be required to meet all conditions applicable to the IPA prior to being granted with final approval and an FSP for the relevant Regulated Activity.\n"
+    },
+    {
+        "ID": "1a11aaed-b63f-4a5f-a027-6c265e4b3f90",
+        "DocumentID": 19,
+        "PassageID": "175)",
+        "Passage": "APPLICATION PROCESS\nGranting of Final Approval (Financial Services Permission)\nSubject to being satisfied that the Applicant has met all conditions applicable to the IPA, the FSRA will grant the Applicant with final approval for an FSP for the relevant Regulated Activity.  Final approval will be conditional upon the FSRA being further satisfied in relation to the Applicant\u2019s operational testing and capabilities, and completion of a third party verification of the Applicant\u2019s systems where applicable.\n"
+    },
+    {
+        "ID": "dfb8b79f-3423-4247-ad76-d68d44e6fce8",
+        "DocumentID": 19,
+        "PassageID": "176)",
+        "Passage": "APPLICATION PROCESS\n\u2018Operational Launch\u2019 Testing\nAn Applicant (particularly an MTF (seeking to use Virtual Assets) and/or Virtual Asset Custodian) will only be permitted to progress to operational launch when it has completed its operational launch testing to the FSRA\u2019s satisfaction, including completion of third party verification of the Applicant\u2019s systems, where applicable.\n"
+    },
+    {
+        "ID": "66f875a4-6062-454b-90b3-26790df3572b",
+        "DocumentID": 19,
+        "PassageID": "177)",
+        "Passage": "APPLICATION PROCESS\n\u2018Operational Launch\u2019 Testing\nNoting the heightened risks associated with activities related to Virtual Assets, Authorised Persons will be closely supervised by the FSRA once licensed.  Authorised Persons will be expected to meet frequently with the FSRA, will be subject to ongoing assessments and should be prepared to undergo thematic reviews from time to time.\n"
+    },
+    {
+        "ID": "a7bfd797-3316-4204-84aa-89f05d4cdf0f",
+        "DocumentID": 19,
+        "PassageID": "178)",
+        "Passage": "APPLICATION PROCESS\nOpening a bank account\nGiven the associated risks within the Virtual Asset space, the global banking sector is focusing on account opening requests from entities associated with Virtual Assets with increased scrutiny.  The FSRA has engaged in extensive discussions with local and international banks for the purposes of providing an overview of the Virtual Asset Framework and the stringent authorisation requirements imposed on Applicants when applying to become an Authorised Person.  It is intended that those banks with a risk appetite to bank Virtual Asset players will glean comfort from the regulatory oversight of the FSRA and the issuance of an IPA to entities demonstrating that they have a clear roadmap of development of their business towards final approval and issuance of an FSP.  The process for approval for the opening of a bank account with local or international banks will typically include a full explanation and review of an Applicant\u2019s AML and Client on-boarding processes and procedures, as well as its ability to monitor the source and destination of funds, amongst other areas of its Virtual Asset activities.\n\n"
+    },
+    {
+        "ID": "90aed97c-f80e-4448-a5f5-67d1f98e82a5",
+        "DocumentID": 19,
+        "PassageID": "179)",
+        "Passage": "FEES\nAuthorisation and supervision fees\nThe Fees applicable to Authorised Persons conducting a Regulated Activity in relation to Virtual Assets have been established in consideration of the risks involved in relation to Virtual Asset activities and the supervisory requirements placed on the FSRA to suitably regulate these Authorised Persons and Virtual Asset activities in ADGM.\n"
+    },
+    {
+        "ID": "06ab6b85-f453-44b5-a004-4c161350300a",
+        "DocumentID": 19,
+        "PassageID": "180)",
+        "Passage": "FEES\nAuthorisation and supervision fees\nPursuant to FEES Rule 13.17.1, an Applicant for an FSP to conduct a Regulated Activity in relation to Virtual Assets must pay, at the time of submission of its Application, an initial authorisation fee of (as applicable):\n\na)\t$20,000; or\n\nb)\t$125,000 if the Applicant is seeking to operate an MTF (in relation to Virtual Assets).\n"
+    },
+    {
+        "ID": "c53943f1-6d6c-4503-ab9c-99a15ee1ba0a",
+        "DocumentID": 19,
+        "PassageID": "181)",
+        "Passage": "FEES\nAuthorisation and supervision fees\nAs set out earlier in paragraph 173, the FSRA will only consider an Application as having been formally submitted, and commence its formal review of the Application, upon receipt of both the completed Application and the associated fees.\n"
+    },
+    {
+        "ID": "9a65518c-820e-4e90-abba-4a05d7c482c0",
+        "DocumentID": 19,
+        "PassageID": "182)",
+        "Passage": "FEES\nAuthorisation and supervision fees\nPursuant to FEES Rule 3.17.2, annual supervision fees for an Authorised Person conducting a Regulated Activity in relation to Virtual Assets, payable in accordance with paragraph 1 of the FEES Rulebook, are set as follows:\n\na)\t$15,000; or\n\nb)\t$60,000 if the Applicant is seeking to operate an MTF (in relation to Virtual Assets).\n"
+    },
+    {
+        "ID": "f82ebcbb-b18c-4a0d-afb6-2c7a5aebe5fa",
+        "DocumentID": 19,
+        "PassageID": "183)",
+        "Passage": "FEES\nCumulative application of Fees\nSubject to paragraph 185 below, if an Applicant/Authorised Person will be conducting multiple Regulated Activities in relation to Virtual Assets as part of its FSP, the fees (authorisation and supervision) payable by that Authorised Person will be cumulative, and considered across the following:\n\na)\tAuthorised Person intermediary-type activities (being \u201cNon-Custody Intermediary Activities\u201d);\n\nb)\tactivities as a Virtual Asset Custodian (Providing Custody); and\n\nc)\tactivities as an MTF.\n"
+    },
+    {
+        "ID": "90958cf1-3641-4969-99f7-792f745a34fe",
+        "DocumentID": 19,
+        "PassageID": "184)",
+        "Passage": "FEES\nCumulative application of Fees\nIn practice, and to further clarify, this results in several scenarios for FEES in relation to Virtual Asset activities, being:\n\na)\tNon-Custody Intermediary Activities only = Application Fee of $20,000 and annual supervision fee of $15,000 (irrespective of the number of Non-Custody Intermediary Activities proposed to be undertaken).\n\nb)\tVirtual Asset Custodian and Non-Custody Intermediary Activities = Application fee of $40,000 and annual supervision fee of $30,000.\n\nc)\tMTF = Application fee of $125,000 and annual supervision fee of $60,000.\n\nd)\tMTF and Virtual Asset Custodian = Application fee of $145,000 and annual supervision fee of $75,000.\n"
+    },
+    {
+        "ID": "743f4b18-44d3-4fe2-ac7a-077cdd333689",
+        "DocumentID": 19,
+        "PassageID": "185)",
+        "Passage": "FEES\nCumulative application of Fees\nNoting the above paragraph, if an Applicant/Authorised Person will be undertaking a Regulated Activity involving conventional assets (e.g. securities or derivatives) in addition to Virtual Assets, as noted in paragraphs 20 to 21, it will need to seek approval from the FSRA to carry out its Regulated Activity in relation to both asset types (conventional and Virtual Asset).  The fees attributable to that Authorised Person for its Regulated Activities (conventional and Virtual Asset-related), may not be cumulative should the FSRA apply its discretion to reduce or waive a fee, under FEES 1.2.8 subject to the considerations set out in paragraph 187 below).  The FSRA recommends that Applicants discuss any questions relating to FEES with the FSRA as early as practicable.\n"
+    },
+    {
+        "ID": "198129d5-575b-4b6d-9e95-e845bc96e3bb",
+        "DocumentID": 19,
+        "PassageID": "186)",
+        "Passage": "FEES\nCumulative application of Fees\nPursuant to FEES Rule 3.15.1, an MTF using Virtual Assets must pay to the FSRA a trading levy on a sliding scale basis (as set out in the table below), payable monthly in USD.  Unless otherwise determined by an MTF (and agreed to by the FSRA), the FSRA expects that the calculation of average daily value should occur at 12am Abu Dhabi time (+4hr GMT).\n/Table Start\nAverage Daily Value\n(ADV)  ($USD)\tLevy\nADV \u2264 10m\t0.0015%\n10m < ADV \u2264 50m\t0.0012%\n50m < ADV \u2264 250m\t0.0009%\nADV > 250m\t0.0006%\n/Table End\n"
+    },
+    {
+        "ID": "43df6a6a-29a3-4dca-8203-57b209ce85cc",
+        "DocumentID": 19,
+        "PassageID": "187)",
+        "Passage": "FEES\nCumulative application of Fees\nPursuant to FEES Rule 1.2.4, the FSRA reserves its right to impose additional fees in circumstances where a \u2018substantial additional\u2019 regulatory burden is imposed on FSRA. In such circumstances, including the migration of an MTF to become a conventional \u2018Securities\u2019 Recognised Investment Exchange, the FSRA recommends that the Applicant/Authorised Person discuss FEE implications with the FSRA as early as practicable."
+    }
+]
