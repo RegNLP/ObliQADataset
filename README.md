@@ -1,9 +1,25 @@
 # ObliQA: Obligation-based Question-Answering Dataset for Regulatory Compliance
+![Figure illustrating how the ObliQA dataset was created](https://raw.githubusercontent.com/RegNLP/ObliQADataset/main/datasetPrepartion.png "ObliQA Dataset creation.")
 
 ## Overview
 The ObliQA Dataset is a specialized resource designed to facilitate the development of RegNLP (Regulatory Natural Language Processing) systems capable of understanding and answering questions based on regulatory texts. This dataset leverages regulatory documents from Abu Dhabi Global Markets (ADGM), which set regulations for financial services in the UAE free zones. It includes a meticulously organized collection of regulatory documents, each maintaining the integrity of the complex legal structure. The ObliQA Dataset is built from approximately 640,000 words of regulatory text across 40 documents, each ranging from 30 to 100 pages. These documents include complex internal structures such as subsections, numbered clauses, and cross-references.
 
-![Figure illustrating how the ObliQA dataset was created](https://raw.githubusercontent.com/RegNLP/ObliQADataset/main/datasetPrepartion.png "ObliQA Dataset creation.")
+ObliQA is valuable for a wide range of regulatory NLP research applications, including:
+
+* Automated Compliance Checking: Training models to verify if an entity's practices align with regulatory requirements.
+* Regulatory Information Retrieval: Enhancing search engines and retrieval systems tailored to regulatory texts.
+* Question Answering Systems: Developing systems that provide precise answers to regulatory queries.
+* Summarization and Simplification: Creating tools to convert complex regulatory texts into simpler, more accessible formats.
+* Cross-Document Analysis: Facilitating the analysis of multiple regulatory documents to identify common themes or conflicting requirements.
+* Legal and Compliance Chatbots: Building conversational agents to assist with real-time regulatory compliance queries.
+* Policy Analysis and Impact Assessment: Analyzing the potential impact of new or modified regulations.
+* Regulatory Gap Analysis: Identifying gaps or ambiguities in existing regulations.
+* Compliance Auditing: Supporting auditing processes by automatically identifying compliance issues.
+* Obligation Detection: Detecting and extracting specific obligations and requirements from regulatory texts.
+  
+By providing a comprehensive and structured dataset, ObliQA enables the development of advanced tools and systems that enhance the efficiency, accuracy, and accessibility of regulatory compliance processes, benefiting regulatory bodies, compliance officers, legal professionals, and organizations subject to regulatory oversight.
+
+
 
 
 ## Dataset Preparation Process
