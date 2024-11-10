@@ -15,3 +15,18 @@ Participants should prepare and submit their results following the specified sub
 ---
 
 Ensure your results adhere to the specified format and submission guidelines. Thank you for participating in the RIRAG Shared Task!
+
+---
+*SubTask 1: Submissions should be in TREC format, containing:
+* Query ID
+* Iteration
+* Passage ID
+* Rank
+* Ranking score
+* System name
+
+*Subtask 2: Submissions should be in a JSON format, containing:
+* "QuestionID"
+* "Question"
+* "RetrievedPassage(s)"
+* "Answer"
