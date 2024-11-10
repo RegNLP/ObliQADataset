@@ -1,0 +1,1786 @@
+[
+    {
+        "QuestionID": "4d07cc7b-5fa2-4bed-a7e6-5f9e57e7ba4f",
+        "Question": "What are the expectations for documenting the rationale and methodology behind valuation adjustments for less liquid positions?"
+    },
+    {
+        "QuestionID": "3ecd79c5-0dd2-4feb-8f53-6240a40d01bc",
+        "Question": "What documentation or evidence is required to demonstrate to the ADGM that an Authorised Person or Recognised Body is in full compliance with the obligations towards the Shari'a Supervisory Board as per AAOIFI GSIFI No. (2)?"
+    },
+    {
+        "QuestionID": "2b526fdc-4c41-4a8d-aa4d-68984e9fbe37",
+        "Question": "What are the most common deficiencies or oversights that applicants should be aware of when applying for Financial Services Permission to ensure a smooth application process?"
+    },
+    {
+        "QuestionID": "ee9a9935-98df-4b41-bbe2-057adaedc320",
+        "Question": "Could the FSRA provide examples of scenarios where an RIE would be granted permission to operate both an MTF and an RIE under the same Recognition Order, and what additional requirements might apply in such cases?"
+    },
+    {
+        "QuestionID": "7f7853ab-aa1a-4556-ae43-3cd321f72aee",
+        "Question": "How does the regulator monitor ongoing compliance with the Market Risk model requirements, and what reporting is expected from Authorised Persons to demonstrate their adherence to the approved models?"
+    },
+    {
+        "QuestionID": "850fcac3-51f6-480f-8230-968d73abe98b",
+        "Question": "What are the minimum standards for the internal audit or compliance function's review process, as mentioned in Rule 4.1.1(4), to ensure they are competent and thorough?"
+    },
+    {
+        "QuestionID": "ee17b59b-12ed-4f34-b602-19ed102b1b1a",
+        "Question": "- What are the obligations of a Reporting Entity if it identifies a conflict of interest with its compliance adviser or relevant employees?"
+    },
+    {
+        "QuestionID": "37b95004-b21c-4451-9d5d-b03fc9a6ded4",
+        "Question": "What measures should an Authorised Person take to manage risk concentrations across borrowers, economic and geographical sectors, and types of lending, and what reporting is required to demonstrate that these concentrations are within acceptable limits?"
+    },
+    {
+        "QuestionID": "5b2afc45-b98e-487c-a45f-318b8dcba724",
+        "Question": "In applying Rule 12.2.3, how should a Petroleum Reporting Entity specifically distinguish between 'Prospective Resources' and 'Contingent Resources' for disclosure purposes?"
+    },
+    {
+        "QuestionID": "466c5ac6-e8c4-41a3-bef4-beea97b95cd9",
+        "Question": "When registering legal title to the Fund Property with an eligible person (for Funds that are not Investment Trusts), are there any particular considerations or steps that must be taken to ensure compliance with these Rules?"
+    },
+    {
+        "QuestionID": "56c14f1f-1782-492c-8b28-d2ffc9d8006d",
+        "Question": "- How frequently should a Recognised Investment Exchange monitor participant or Member positions to ensure compliance with position limits?"
+    },
+    {
+        "QuestionID": "21aa52e2-e6ea-49ae-bf84-1d71fe4b779e",
+        "Question": "- How does the FSRA determine if a Captive Insurer is effectively engaging in Contracts of Insurance, particularly in relation to Captive Cells or Long-Term Insurance Funds?"
+    },
+    {
+        "QuestionID": "740930cc-3aa9-484d-878e-23a1512aef20",
+        "Question": "Can you provide a detailed description of the due diligence process that Authorised Persons are expected to follow prior to opening an account for a client, especially in relation to identifying wallet addresses and their users?"
+    },
+    {
+        "QuestionID": "216deac1-2823-4c35-91c9-1062bb637e1f",
+        "Question": "What are the consequences for an Authorised Person if they fail to meet the regulatory capital requirements or AML/CFT standards as they pertain to virtual asset activities?"
+    },
+    {
+        "QuestionID": "0bb8ac1f-ed3d-4597-b7f8-21ccae5fd9f8",
+        "Question": "What are the consequences of failing to comply with the financial and periodic reporting requirements for Foreign Funds admitted to trading on a Recognised Investment Exchange within the ADGM?"
+    },
+    {
+        "QuestionID": "6e38a689-7e4a-400b-a05d-e5cf1e58bf3d",
+        "Question": "How does the Regulatory Authority coordinate with the UAE Competent Authority and other government bodies to ensure consistent application of the CRS across different sectors and financial institutions?"
+    },
+    {
+        "QuestionID": "e3b76cfe-4568-4ab9-92c1-6377259b60cb",
+        "Question": "How should our company demonstrate that it has an adequate and effective Operational Risk management system in place, and what evidence would the ADGM require during a compliance review?"
+    },
+    {
+        "QuestionID": "2fe280f5-9b13-4a92-b94b-aed21a64dfcc",
+        "Question": "What are the ADGM's expectations for employee training and awareness programs regarding the protection of sensitive data related to virtual assets?"
+    },
+    {
+        "QuestionID": "421b0e60-49ad-41fa-b60f-a4e9de4550c0",
+        "Question": "What recourse does a Domestic Fund have if it is subject to the Regulator's enforcement of powers under sections (1)(b) and (c)?"
+    },
+    {
+        "QuestionID": "cc808ad9-a172-4814-b597-3ed97e9b87bf",
+        "Question": "How does ADGM enforce compliance with tax reporting regulations for non-traditional or emerging virtual assets that might not fit into existing categories?"
+    },
+    {
+        "QuestionID": "9de005f5-964c-4072-8d0b-5f4411df56f3",
+        "Question": "Are there any common pitfalls or areas of misunderstanding that Mining Reporting Entities should be aware of when preparing disclosures in accordance with the PRMS?"
+    },
+    {
+        "QuestionID": "150ee42c-b7dc-4cc7-9ca9-817c6b10723e",
+        "Question": "Can the ADGM clarify the level of integration required between the AML/CFT framework and the use of APIs, particularly in relation to identifying and mitigating risks associated with Sanctions compliance?"
+    },
+    {
+        "QuestionID": "1f217a41-49ca-451b-a842-7e842bc8ab1f",
+        "Question": "What methodologies and factors should be included in the determination of a reinsurance programme, particularly concerning risk aggregations and realistic disaster scenarios?"
+    },
+    {
+        "QuestionID": "c4d0aff5-b78f-4421-9b27-17550004b9b7",
+        "Question": "What risk mitigation strategies are required by the FSRA to handle potential delivery disruptions or disputes over Accepted Spot Commodities, and can you provide examples of acceptable resolution mechanisms?"
+    },
+    {
+        "QuestionID": "c99f7ef1-7b7e-4a69-8528-3ac046f925dc",
+        "Question": "Could you provide clarification on the FSRA's expectations for managing Private and Public Keys within the context of robust security measures for Authorised Persons?"
+    },
+    {
+        "QuestionID": "8cee6279-745c-4905-b95f-fa8b5d5fd8d8",
+        "Question": "- How do we ensure that the annual Regulatory Return is prepared in accordance with the provisions of PIN, the appendix, and EPRS?"
+    },
+    {
+        "QuestionID": "05474ea9-24d3-48a9-a34e-4ffe875ff76b",
+        "Question": "What specific aspects should a peer review of claims paid focus on to ensure it meets regulatory compliance requirements?"
+    },
+    {
+        "QuestionID": "5bf8d233-9f27-4ed6-bf78-d341276adeb7",
+        "Question": "Could you please provide specific examples of the factors included in sections 7.1.2 and 7.1.3 that must be considered when assessing and allocating customer risk ratings?"
+    },
+    {
+        "QuestionID": "3ccb718d-a7eb-4e1c-979c-79baffa49101",
+        "Question": "When categorizing employees based on their involvement with customers, where would a client relationship manager at a wealth management firm be placed in comparison to an employee in charge of account setup?"
+    },
+    {
+        "QuestionID": "cb613e70-17ee-4c90-b351-293dc22e5b3e",
+        "Question": "Can you detail the investment restrictions and objectives required in the description of the Model Portfolio to ensure it aligns with the relevant ADGM Portfolio Rules?"
+    },
+    {
+        "QuestionID": "a83a8d97-ab1f-48d5-b713-d5c76467c5d7",
+        "Question": "Are there any specific consumer protection measures or investor qualifications that must be adhered to when offering co-investment opportunities in high-risk ventures through a Venture Capital Fund?"
+    },
+    {
+        "QuestionID": "82396265-fa7b-406d-8bfb-3d9589902383",
+        "Question": "What best practices can you recommend for identifying and managing conflicts of interest arising within the Group, particularly those that could impact regulatory compliance?"
+    },
+    {
+        "QuestionID": "753961e7-5d05-4888-8f3f-7e7c38ef4ae6",
+        "Question": "Can you provide detailed guidance on how to effectively assess and mitigate the financial crime risks specifically associated with the deployment of new financial technologies, such as those developed within the RegLab?"
+    },
+    {
+        "QuestionID": "e3629c5d-7ff6-4557-b5a2-6a60c895b988",
+        "Question": "Could the ADGM clarify the types of information that must be disclosed to the Fund's auditor by the Person providing the oversight function, and under what circumstances?"
+    },
+    {
+        "QuestionID": "00ebdd64-28a7-424d-a5fa-4fcde4936464",
+        "Question": "For Islamic Financial Business managing PSIAs, could you elaborate on how 'displaced commercial risk' should be quantified and managed according to ADGM regulations?"
+    },
+    {
+        "QuestionID": "67737e14-96ed-4c3c-9b41-1bffb9953582",
+        "Question": "Can the FSRA provide guidance on how profit allocation between the Authorised Person and the client should be calculated and disclosed?"
+    },
+    {
+        "QuestionID": "10eaf7da-bb32-4bd9-9fd4-18abcf5d1d9a",
+        "Question": "What are the expectations regarding the timeliness and format for a Relevant Person to report impediments caused by foreign secrecy or data protection laws that affect compliance with ADGM's CDD requirements?"
+    },
+    {
+        "QuestionID": "f17fc70b-66f5-44d2-94ad-85f478344681",
+        "Question": "Can you elaborate on the circumstances that would trigger the requirement for a report from a Skilled Person under the ADGM rules, specifically regarding operational risk management?"
+    },
+    {
+        "QuestionID": "47af53b1-ec19-48a5-a562-3460b137471b",
+        "Question": "How does our company remain informed about the money laundering risks of the Group as a whole, and what active steps are taken to mitigate such risks?"
+    },
+    {
+        "QuestionID": "912a197b-0a93-4adb-892f-0ceef2c568ab",
+        "Question": "In the case of custody of fiat currency linked to third-party fiat tokens, can the FSRA provide detailed requirements or preferences for selecting a Virtual Asset/Fiat Custodian?"
+    },
+    {
+        "QuestionID": "453ea6e3-5705-415b-a0cb-0e18fd887986",
+        "Question": "Regarding the implementation of an eKYC system, can you elaborate on the steps required to gain a \"thorough understanding\" of the system and the associated risks as advised by FATF and other international standard setting bodies?"
+    },
+    {
+        "QuestionID": "3ec9a7ec-207e-4d6a-8f07-91918bb0ed8b",
+        "Question": "What risk management practices must a Recognised Clearing House implement concerning the storage and delivery of physical instruments or commodities?"
+    },
+    {
+        "QuestionID": "e8cc18e5-920b-4a85-8fbd-99b18f1fe2fb",
+        "Question": "Can you please provide detailed guidelines on the specific information required for the initial disclosure of material estimates of Prospective Resources, Contingent Resources, or Petroleum Reserves as per Rules 12.8.1, 12.10.1, and 12.12.1?"
+    },
+    {
+        "QuestionID": "c16cea18-2585-4240-b978-8fb5478f89bb",
+        "Question": "When an Authorised Person is engaged in the Regulated Activity of Accepting Deposits within the U.A.E., are they permitted to carry out foreign exchange transactions in U.A.E. Dirham on their client's behalf?"
+    },
+    {
+        "QuestionID": "9fd81992-0406-4f07-a70e-7c774c4faca0",
+        "Question": "Could you provide further guidance on how to evaluate the credit rating of a Third-Party Agent for the purposes of maintaining a Client Account?"
+    },
+    {
+        "QuestionID": "bf1040a1-e835-4be4-83d0-d897059c8c7c",
+        "Question": "What specific regulatory approvals are required from the FSRA for an existing Virtual Asset MTF to extend its regulated activities to include Digital Securities, and what is the application process for obtaining these approvals?"
+    },
+    {
+        "QuestionID": "99662d91-2dcd-4589-ad8b-45dc27a01d57",
+        "Question": "What specific organizational and governance arrangements are required of a Benchmark Administrator to ensure integrity and manage conflicts of interest effectively, and can you provide guidance on the qualifications and resources necessary for a benchmark administration manager?"
+    },
+    {
+        "QuestionID": "8050ec27-9d62-4abf-a562-1fa1b5f5dec4",
+        "Question": "What specific criteria should an Authorised Person use to evaluate the robustness of a third-party service provider's processes and procedures in relation to virtual assets?"
+    },
+    {
+        "QuestionID": "0ce53603-fb31-4a46-84c8-39074c0c7d9c",
+        "Question": "How should a company document and prove its compliance with providing necessary information and access to notices or circulars to shareholders to withstand regulatory scrutiny?"
+    },
+    {
+        "QuestionID": "5e53c974-bc6a-4b6e-91e5-1f008783318c",
+        "Question": "In managing large exposures and other concentration risks, such as sectoral or geographic, what specific reporting and limit structures are expected from an Authorised Person?"
+    },
+    {
+        "QuestionID": "3a66d6fd-8f0f-466a-90e6-d0fa49444f8e",
+        "Question": "Could you clarify the scope and format of operational risk reports that need to be submitted to senior management and Regulatory Functions?"
+    },
+    {
+        "QuestionID": "0e5a2d4e-f8d6-4040-986c-66d9355e7884",
+        "Question": "Are there any commonalities among Accepted Virtual Assets that have been deemed suitable for use by multiple Authorised Persons, which could serve as a benchmark for other Authorised Persons seeking approval for similar assets?"
+    },
+    {
+        "QuestionID": "cb4c7ebb-dd80-4fab-a8b1-58b415c01a6e",
+        "Question": "How does the ADGM oversee and verify the accuracy of the information reported by Authorised Persons under the FATCA and Common Reporting Standards?"
+    },
+    {
+        "QuestionID": "2c39b37d-a2d4-4410-b5f9-937344f4a84c",
+        "Question": "When a person buys units with prior knowledge of an omitted material fact or a change that affects the units, are they eligible to seek damages for losses experienced due to that omission or change?"
+    },
+    {
+        "QuestionID": "7c3882b0-8e88-4bdb-94a6-bd4d34358b4b",
+        "Question": "Could you clarify the roles and responsibilities of senior management in the effective implementation of risk strategies, particularly concerning market risk and compliance?"
+    },
+    {
+        "QuestionID": "b965b61d-2886-4347-be12-e067c4724f9d",
+        "Question": "What is the required protocol for documenting security incidents and breaches, and how should these logs be maintained and secured by an Authorised Person?"
+    },
+    {
+        "QuestionID": "2abed3ac-74a1-4e16-9ab5-ae5b4c5cb2ac",
+        "Question": "Can the FSRA provide guidance or best practices on the continuous monitoring and review of compliance procedures for Authorised Persons dealing with virtual assets to ensure ongoing adherence to AML and CFT regulations?"
+    },
+    {
+        "QuestionID": "1addec6f-b4c7-41aa-b9c1-746c21b93da6",
+        "Question": "When an OTF Operator is seeking approval for a liquidity incentive scheme, what two main elements must be outlined in the statement provided to the Regulator?"
+    },
+    {
+        "QuestionID": "5abfd03e-38d5-4428-a594-e323098cd7d9",
+        "Question": "What constitutes \"adequate arrangements\" for cooperation between the AML/TFS regulator in another jurisdiction and the Regulator, as referenced in Rule 9.1.1(3) or (4)(e)?"
+    },
+    {
+        "QuestionID": "add3763a-1ae2-4931-a432-b73cade3d3f4",
+        "Question": "For the purpose of CET1 Deductions, what method must an Authorized Person use to assess the exposure to capital instruments of Relevant Entities within index Securities?"
+    },
+    {
+        "QuestionID": "d9181552-a6bd-472a-9677-9a29dd8ae9c6",
+        "Question": "How does ADGM oversee and enforce compliance with the data protection requirements for Issuers and other holders of client data?"
+    },
+    {
+        "QuestionID": "07369977-cec5-4085-8e09-c05479e39d9c",
+        "Question": "What specific criteria must a Virtual Asset Custodian meet to qualify as a Digital Securities Facilitator (DSF) under the FSRA's current regulations?"
+    },
+    {
+        "QuestionID": "35738f48-60e4-4e5e-892c-0f83bb6f4e35",
+        "Question": "What specific documentation or evidence should we maintain to demonstrate compliance with ADGM's CDD requirements, especially when CDD information is stored digitally?"
+    },
+    {
+        "QuestionID": "56355ff1-4ca5-4520-b2f8-c58e0da45d45",
+        "Question": "Could you please clarify how the GEN rules' Corporate Governance requirements for Board responsibilities integrate with the specific Operational Risk management framework provided?"
+    },
+    {
+        "QuestionID": "d7e4d216-552e-4c83-bf65-6ccd1a9fdbcb",
+        "Question": "How does your firm contribute to and utilize the Group-wide risk assessment to mitigate money laundering risks specific to the Group and individual entities within it?"
+    },
+    {
+        "QuestionID": "c62ccb81-1712-4b11-8a73-26dcbe710272",
+        "Question": "How should a Relevant Person document and justify the risk rating assigned to a customer, particularly when using a descriptive scale such as \"low,\" \"medium,\" or \"high\"?"
+    },
+    {
+        "QuestionID": "713c1868-2463-4781-a4c3-a930ff332253",
+        "Question": "Could you please provide guidance on the appropriate categorization criteria for Prospective Resources to ensure accurate representation as Low Estimate (1U), Best Estimate (2U), or High Estimate (3U)?"
+    },
+    {
+        "QuestionID": "26a5f57e-d80e-4677-8c9a-bce380c89f48",
+        "Question": "Could you specify the documentation or evidence that should be maintained by an Authorised Person to demonstrate oversight and adherence to the procedures and practices as per Rule 9.2.2(2)(b)?"
+    },
+    {
+        "QuestionID": "dc09cc72-8300-4823-a0dc-5bf919a2ae5f",
+        "Question": "How does ADGM handle the oversight and supervision of foreign Fund Managers of Passported Funds, and are there any special considerations or cooperative agreements in place with other regulators to facilitate this?"
+    },
+    {
+        "QuestionID": "07f1b6b2-c420-46a5-8070-111d6d465550",
+        "Question": "Can you outline the essential elements that need to be included in our formal and transparent arrangements for applying financial reporting and internal control principles?"
+    },
+    {
+        "QuestionID": "0f28b9ca-2d4c-437f-8d20-cfd0c5e2b8c7",
+        "Question": "What are the new requirements that a Virtual Asset Custodian must meet to migrate to a DSF, specifically concerning the differences in nature between Digital Securities and Virtual Assets, and what additional technologies or operational changes might be necessary?"
+    },
+    {
+        "QuestionID": "b6c6c05a-0a06-4fb5-8d9a-d836d3e8d2ab",
+        "Question": "How does the FSRA expect Authorised Persons to differentiate between custodial and non-custodial services within the Virtual Asset framework?"
+    },
+    {
+        "QuestionID": "0cc34d1d-c6c3-4310-a5b8-3dc22c9aafdc",
+        "Question": "Could you provide guidance on how the outcomes of the business risk assessment, as mandated in Chapter 6, should influence and integrate into the individual customer risk assessments under Chapter 7?"
+    },
+    {
+        "QuestionID": "6e8aea77-228e-4376-9245-bf200cde65f9",
+        "Question": "What documentation standards are expected for the MLRO when determining whether to file a SAR/STR in accordance with Federal AML Legislation?"
+    },
+    {
+        "QuestionID": "cae33706-9752-40b5-b19c-64e3e6e3863d",
+        "Question": "What are the best practices for implementing a system to control and manage non-trading book interest rate risk that aligns with the ADGM's supervision philosophy and ensures ongoing compliance with risk management standards?"
+    },
+    {
+        "QuestionID": "2ff7a8d0-50c3-4bc0-a086-35fd03dba394",
+        "Question": "In the context of appointing an oversight provider for a Fund, what is the primary focus of the due diligence process that the Fund Manager must conduct on the individuals within the Eligible Custodian or Trustee's organization?"
+    },
+    {
+        "QuestionID": "ef6264f3-1c94-4ce7-b1be-822ec99a7fa0",
+        "Question": "Could you explain the measures you have in place to assess and mitigate risks associated with financial crimes other than money laundering, such as fraud, theft of personal data, and cybersecurity threats?"
+    },
+    {
+        "QuestionID": "e5076c68-f40b-4d7f-8339-d8ebb25f9908",
+        "Question": "In the context of developing financial technology services within the RegLab, what specific risk assessments are expected from Relevant Persons to address the potential financial crime risks associated with innovative technologies?"
+    },
+    {
+        "QuestionID": "09afde02-ccba-480a-9682-108a6dc15d8e",
+        "Question": "What are the expectations regarding the management of collateral by Fund Managers within the ADGM, and how should this be reflected in our systems and controls?"
+    },
+    {
+        "QuestionID": "f0f66b8c-74c1-4b36-965e-4b1c49f47fbe",
+        "Question": "What criteria does the ADGM use to determine the necessity for a Skilled Person's report for the purpose of verifying information submitted by a firm?"
+    },
+    {
+        "QuestionID": "d728f94f-4e24-4449-bdca-d8668023be02",
+        "Question": "What is the main goal of the Credit Risk management system for an Authorised Person in terms of capital requirements?"
+    },
+    {
+        "QuestionID": "f50cd79a-feb4-4f0a-87cc-a359c9c81e52",
+        "Question": "What are the minimum acceptable security measures and procedures that an Authorised Person must have in place for the safe storage and transmission of data related to virtual assets?"
+    },
+    {
+        "QuestionID": "b1d51356-8cbd-42ca-9025-69ebe6edf5ce",
+        "Question": "After a client's insurance policy expires, within what timeframe is the insurer expected to provide the client with all their entitled documentation and information upon request?"
+    },
+    {
+        "QuestionID": "abd3b9f2-d4ec-4fe8-8921-3aa41bc657a1",
+        "Question": "In the context of mining reporting entities, can you define what constitutes 'new information or data' that could materially affect previous disclosures of Exploration Results or estimates of Mineral Resources or Ore Reserves?"
+    },
+    {
+        "QuestionID": "7d71d552-6a2e-4b32-90b0-d2fb4c82a584",
+        "Question": "- Can you provide examples of the types of conflicts of interest that have been identified within the Recognised Body's operations?"
+    },
+    {
+        "QuestionID": "d594bdb3-481d-4474-8258-6d4aff3cb248",
+        "Question": "Can you provide examples of what constitutes adequate procedures for monitoring internal hedges, as required for Trading Book capital treatment?"
+    },
+    {
+        "QuestionID": "e5554600-1456-457f-8cbf-390862cc0523",
+        "Question": "Can the Regulator provide guidance on what is considered a 'significant breach' of a Rule in the AML Rulebook or relevant Federal AML Legislation, and the appropriate response protocol for a relevant person upon identifying such a breach?"
+    },
+    {
+        "QuestionID": "350898c6-6d61-428b-93ba-7ea0abea88f8",
+        "Question": "What specific criteria does the ADGM use to evaluate the effectiveness of the systems and controls established by a start-up for managing and controlling its affairs?"
+    },
+    {
+        "QuestionID": "17aa9bcf-4708-4a9d-a129-4917c5d2f86c",
+        "Question": "Are there particular formats or templates that the FSRA requires for the disclosure of inside information, or is there flexibility as long as all pertinent information is communicated?"
+    },
+    {
+        "QuestionID": "3ff1dce2-d38f-44c6-97a9-92160b9823f1",
+        "Question": "Could you please provide a detailed explanation of the specific requirements that a Digital Settlement Facility (DSF) must fulfill to comply with MIR Rule 4.3.3 when serving as a settlement entity in the absence of a Recognized Clearing House (RCH)?"
+    },
+    {
+        "QuestionID": "f54f5e21-205a-4839-b90e-54f0dacb1f11",
+        "Question": "Could you outline the process for a Relevant Person within a Group to remain adequately informed of the money laundering risks at the Group level, and the expectations for documenting and actively mitigating these risks?"
+    },
+    {
+        "QuestionID": "a9a7076d-b8b4-4728-b681-4a0d583cda73",
+        "Question": "How should a Relevant Person balance the benefits of using new or developing technologies in financial services, such as those within the RegLab, against the potential increased risks of financial crime they may present?"
+    },
+    {
+        "QuestionID": "db8e54b7-6869-4158-aafa-d56e0fac0153",
+        "Question": "How should DNFBPs interpret and apply the powers of the Regulator under FSMR in terms of self-assessment and proactive compliance, particularly regarding information submission and cooperation in investigations?"
+    },
+    {
+        "QuestionID": "06e985e7-30e9-48cf-b591-6169c5d7cbcb",
+        "Question": "What framework or guidelines should be followed when contributing to a Group-wide risk assessment to ensure it effectively identifies and assesses money laundering risks?"
+    },
+    {
+        "QuestionID": "a418418c-00bf-422a-983c-e01178addf87",
+        "Question": "Are there particular methods or evidence that the ADGM considers acceptable for an Authorised Person to demonstrate that an employee is able to apply their knowledge effectively in a regulatory context?"
+    },
+    {
+        "QuestionID": "209a1ae4-55fe-4837-82ee-87dd35465abc",
+        "Question": "How does the ADGM oversee and enforce the compliance of Authorised Persons with the specific requirements set out in Rules 17.8.2 \u2013 17.8.3 for Providing Custody in relation to Virtual Assets?"
+    },
+    {
+        "QuestionID": "1183c646-4650-4c74-a6ff-110cbfd25d0d",
+        "Question": "How does ADGM define and handle conflicts of interest within a Group, and what measures must be in place to identify, prevent, and manage such conflicts to ensure regulatory compliance?"
+    },
+    {
+        "QuestionID": "cdaabedf-f073-4a86-b70a-343d550fc59b",
+        "Question": "Can you provide further guidance on the specific factors or indicators that should be considered when determining the risk rating of a customer to ensure compliance with the risk-based assessment requirements outlined in 7.1.1(1)(a)?"
+    },
+    {
+        "QuestionID": "b337e190-cbf2-4bd3-9cbf-d6d8aaf93583",
+        "Question": "What are the specific record-keeping requirements for personal data processing operations for an Authorised Person operating within the ADGM?"
+    },
+    {
+        "QuestionID": "c7ed8533-d4de-4091-8449-23b30bc600c8",
+        "Question": "If a Representative Office's authorisation is withdrawn due to a breach of the FSMR, what type of enforcement action can be expected from the Regulator?"
+    },
+    {
+        "QuestionID": "61d17339-ee55-41e4-94c8-a3a4556c1b72",
+        "Question": "- How does the FSRA evaluate the effectiveness of an Authorised Person's risk management framework during the IRAP?"
+    },
+    {
+        "QuestionID": "444292c6-1139-46d5-8243-3f79624ff99d",
+        "Question": "Could you provide guidance on contributing to a Group-wide risk assessment, particularly in identifying and assessing money laundering risks?"
+    },
+    {
+        "QuestionID": "645e4501-671e-44fc-8cdf-926198c726ed",
+        "Question": "Are there any limitations on the type of assistance a Reporting Entity is obliged to provide to its auditor beyond the provision of information, access to records, and non-interference?"
+    },
+    {
+        "QuestionID": "765254d4-e2cb-450d-9bd3-6d29ef3cb203",
+        "Question": "What specific security frameworks or standards are recognized by the ADGM as meeting the regulatory requirements for safeguarding virtual assets against the scenarios outlined, such as accidental data destruction or system hacks?"
+    },
+    {
+        "QuestionID": "2a697b32-0fbf-408e-959d-0ad99da569e0",
+        "Question": "What are the protocols for reporting suspected or actual market abuse, financial crime, or money laundering to the regulator, and are there any particular formats or templates we should use for such reports?"
+    },
+    {
+        "QuestionID": "6b510a51-718a-4272-8cec-07823081a123",
+        "Question": "What are the penalties or consequences for an Insurer's failure to properly monitor and address regulatory compliance issues arising from its relationship with other Group members?"
+    },
+    {
+        "QuestionID": "43f4338f-8d5d-40b5-8465-93bfed85e404",
+        "Question": "What specific policies and procedures are currently in place for sharing CDD and money laundering risk information between Group entities, and how do they ensure compliance with ADGM's regulations and relevant data protection legislation?"
+    },
+    {
+        "QuestionID": "4567c30c-cf57-4e03-b9ea-22ea17196416",
+        "Question": "Can you provide specific guidance on the process and requirements for a Multilateral Trading Facility (MTF) using Virtual Assets to transition into a Recognised Investment Exchange (RIE) with a focus on Digital Securities?"
+    },
+    {
+        "QuestionID": "e74a8369-1838-48a3-b269-042e2514d208",
+        "Question": "In what circumstances is it necessary for customer account and transaction information to be shared with Group-wide compliance, audit, and AML/TFS functions, and what protocols should be followed to ensure this is done in line with ADGM regulations?"
+    },
+    {
+        "QuestionID": "faa32f4d-c157-45bc-950f-14d3fb045e83",
+        "Question": "In what form must the notification be made to the Regulator when an Authorised Person identifies a potential non-compliance with the capital requirements specified in Rule 3.21.3?"
+    },
+    {
+        "QuestionID": "709e6e57-3067-4f5e-8a16-5ed2fbcad0ba",
+        "Question": "Could you provide specific examples of the real-time and batch reporting formats required for orders and transactions in Accepted Spot Commodities?"
+    },
+    {
+        "QuestionID": "7179d115-2b1e-44f7-93a4-0df945566c17",
+        "Question": "What frameworks or models does the ADGM recommend for a Recognised Body's Governing Body to effectively review the allocation of responsibilities, appointments, supervision, and remuneration of Key Individuals?"
+    },
+    {
+        "QuestionID": "aac8e8f3-ea37-4821-a09f-5f70561abae1",
+        "Question": "How should Authorized Persons handle the recognition and treatment of credit risk mitigations for off-balance sheet exposures? Are there different requirements or considerations compared to on-balance sheet items?"
+    },
+    {
+        "QuestionID": "326b56d6-ad5b-42ec-aadd-3f227b236ea1",
+        "Question": "How should an Authorised Person approach the promotion of a Model Portfolio that follows an environmentally-conscious mandate but does not meet the criteria to be promoted as an ADGM Green Portfolio or ADGM Climate Transition Portfolio?"
+    },
+    {
+        "QuestionID": "fe285367-c80d-4ec2-8d1f-ef3ebfb32f69",
+        "Question": "Who is referred to as the \"Issuer\" in APP 1 in the context of offering Securities under a Prospectus?"
+    },
+    {
+        "QuestionID": "646800e3-bebb-4569-a698-64baf31dbc86",
+        "Question": "Can you outline the regulatory expectations for the ongoing monitoring of a derivative counterparty's creditworthiness?"
+    },
+    {
+        "QuestionID": "f1520f50-5d85-440e-ab49-906849b35c00",
+        "Question": "Is there a mechanism or support system in place at ADGM for Relevant Persons to seek guidance or assistance when encountering difficulties with foreign secrecy or data protection laws that impact their compliance obligations?"
+    },
+    {
+        "QuestionID": "4547971c-d716-44cf-94b9-144f17ef5905",
+        "Question": "Does the FSRA have a dedicated point of contact or support team for potential issuers to consult with during the preparation and execution stages of an ICO?"
+    },
+    {
+        "QuestionID": "a0575693-4c36-4e4a-bc31-7f467a29ad22",
+        "Question": "In the context of evolving climate-related financial risks, what triggers or indicators should a firm monitor to determine when a review and update of assigned responsibilities are necessary?"
+    },
+    {
+        "QuestionID": "55398df6-4ae5-4ea7-a21c-02684d272df4",
+        "Question": "Could you please elaborate on the specific criteria or indicators that the ADGM considers when evaluating the adequacy of an eKYC system within our business risk assessment under Rule 6.1.1(b)?"
+    },
+    {
+        "QuestionID": "fbcf40ea-de08-4951-b8f0-be8214410e1f",
+        "Question": "Are there any common deficiencies or oversights in submitted reports that we should be particularly vigilant about to ensure compliance?"
+    },
+    {
+        "QuestionID": "85f5e6f5-dd12-4c7b-bb17-74634246f0df",
+        "Question": "In the context of subsections (2) and (3) referred to in the regulation, what are the definitive circumstances or actions that would lead to a contravention of these provisions?"
+    },
+    {
+        "QuestionID": "50e0a8a4-e2b4-42cc-9cae-abdb1a300f04",
+        "Question": "What is the process for your firm to receive and respond to key regulatory communications from ADGM, especially those directed at board-level senior staff?"
+    },
+    {
+        "QuestionID": "80e4aa1b-516a-4f1a-97cc-1240a93c70a1",
+        "Question": "How do the ADGM's AML/KYC procedures align with the FATF recommendations, particularly regarding customer due diligence for virtual asset service providers (VASPs)?"
+    },
+    {
+        "QuestionID": "49a3f4b9-a03d-4410-b04c-87dbb7f20420",
+        "Question": "What are the best practices for integrating eKYC with transaction monitoring, anti-fraud, and cybersecurity measures to establish a robust framework for preventing financial crime within our organization?"
+    },
+    {
+        "QuestionID": "bf65a3c4-4546-4f93-8824-8bca0058efa7",
+        "Question": "Are there any ongoing compliance or reporting obligations for Authorized Persons engaged in Regulated Activities related to Virtual Assets, and if so, could you detail these requirements?"
+    },
+    {
+        "QuestionID": "c13d9c51-dc9e-4f54-9275-79a56e9a970e",
+        "Question": "What best practices does the ADGM recommend for Petroleum Reporting Entities to ensure that their forward-looking statements, including estimates of Petroleum Reserves, are based on objectively reasonable economic assumptions and do not mislead investors?"
+    },
+    {
+        "QuestionID": "48ce0db5-ec31-49a8-aad4-f3cfb4ea227b",
+        "Question": "What mechanisms are in place to ensure that MTFs report transactions in Accepted Virtual Assets on both a real-time and batch basis as required by FSMR Section 149, and how is the accuracy of these reports verified?"
+    },
+    {
+        "QuestionID": "73d6160d-c531-4a4d-92f6-c59d9a45eccd",
+        "Question": "How does the ADGM oversee and evaluate the effectiveness of a financial firm's governance structure in managing climate-related financial risks?"
+    },
+    {
+        "QuestionID": "b6e5091d-0cb1-48d2-868d-348820bf0f31",
+        "Question": "Can the ADGM provide clarification on how Rule 6.4.1 complements the General Rulebook (GEN), particularly regarding operational risk matters?"
+    },
+    {
+        "QuestionID": "95b35a07-a495-4519-8929-7211468f8bba",
+        "Question": "Could you clarify the expectations from Authorised Persons regarding the reporting and documentation of personal data processing activities within the realm of virtual assets?"
+    },
+    {
+        "QuestionID": "2288b7f5-3ca0-44ec-b769-4b79b3398b74",
+        "Question": "What are the consequences for a Fund Manager if it fails to meet the ongoing regulatory requirements specific to Private Credit Funds, and what remedial actions can be taken to address such non-compliance?"
+    },
+    {
+        "QuestionID": "57012a4c-5451-43f9-951a-f4e5daf00484",
+        "Question": "Could the Regulator provide examples or case studies of how additional requirements, beyond those prescribed in the Rules, have been applied to Authorised Persons conducting Regulated Activities in relation to Virtual Assets or Spot Commodities?"
+    },
+    {
+        "QuestionID": "0bd092b3-b30d-4b34-b0b8-8b5d637a150a",
+        "Question": "Could you elaborate on the specific rules under COBS, MIR, GEN, and AML that a Virtual Asset MTF must comply with when extending operations to include Digital Securities?"
+    },
+    {
+        "QuestionID": "cf02d462-6bf4-4044-904a-97bea70bd808",
+        "Question": "Could you please clarify the specific types of distributions to shareholders that fall under the reporting requirement beyond dividends, and if there are any exceptions to this rule?"
+    },
+    {
+        "QuestionID": "4f9cf111-f9dc-462e-a94d-b93c16468fa0",
+        "Question": "What kind of impediments to the Recovery Plan's execution must be described, and what are the considerations regarding its impact on various stakeholders?"
+    },
+    {
+        "QuestionID": "4e34415e-c2db-448c-b9ef-cc41cf8eae27",
+        "Question": "Could you please clarify if there are any specific compliance requirements for a Fund Manager operating a Master Fund and Feeder Fund(s) structure, beyond those outlined for standard VC Funds?"
+    },
+    {
+        "QuestionID": "c7e8fd50-996d-4b00-bd0a-9e96ad13f8d3",
+        "Question": "Could you elaborate on the process for establishing, reviewing, and updating delivery rules and limits for Accepted Spot Commodities?"
+    },
+    {
+        "QuestionID": "536fbcc5-bec9-411f-ad0e-e5910eb0e105",
+        "Question": "What specific legal provisions should be reviewed to understand the potential subordination of claims in the event of a Related Party Third-Party Agent's failure?"
+    },
+    {
+        "QuestionID": "1a475c96-8864-48fb-b02e-514d10ffe9ab",
+        "Question": "What specific types of information are considered essential for Directors to fulfill their duties, and how is this information communicated to them in a timely manner?"
+    },
+    {
+        "QuestionID": "6c682e09-7ad6-49fe-a5e2-832709f4d8be",
+        "Question": "How should our financial firm document and demonstrate adherence to Principle 4, specifically regarding the incorporation of climate-related financial risks into our risk management framework?"
+    },
+    {
+        "QuestionID": "fe129bba-5ecc-40b9-81f7-73728153db69",
+        "Question": "How should a Recognised Clearing House's operational risk assessment system be integrated into its overall risk management processes, and what are the key outputs that should be monitored to maintain an acceptable operational risk profile?"
+    },
+    {
+        "QuestionID": "d060c0fb-2eaa-452d-a88f-e28feae73768",
+        "Question": "How does the FSRA track and monitor the resolution of complaints to ensure that all regulatory actions are followed through to completion?"
+    },
+    {
+        "QuestionID": "9cf91537-5920-4d76-ae75-5104e6edc6aa",
+        "Question": "Are there any exemptions or special considerations for VC Managers when it comes to the appointment of certain roles or officers, as referenced in the guidance for Credit Rating Agencies and Fund Managers of Venture Capital Funds?"
+    },
+    {
+        "QuestionID": "3e8d9981-51a1-4770-a93a-552710b002b1",
+        "Question": "What are the primary differences in regulatory obligations between operating an MTF using virtual assets and other types of financial instruments under the ADGM regulations?"
+    },
+    {
+        "QuestionID": "f6108a92-b306-41f8-ba51-5d5135c2b589",
+        "Question": "What methods and practices should be in place to ensure that Non Trading Book interest rate risk is adequately identified, assessed, mitigated, controlled, and monitored?"
+    },
+    {
+        "QuestionID": "b147ef59-e548-4234-87dd-8f366c797b89",
+        "Question": "Can you provide guidance on the process and timeframe expected for reproducing Accounting Records in hard copy and in English when requested by the Regulator?"
+    },
+    {
+        "QuestionID": "b7e1048f-e623-4c76-8f01-c64219c34ddf",
+        "Question": "In reference to chapter 10 regarding accounting periods and financial reports, could you clarify the internationally accepted accounting standards that are considered acceptable to the Regulator for periodic financial reporting?"
+    },
+    {
+        "QuestionID": "7e5e944c-5372-46ea-b6e7-dab48a125f00",
+        "Question": "Is the ability to challenge decisions that may not adhere to sound business principles a required competency for the person designated to run a Trust Service Provider during the senior person's absence under ADGM regulations?"
+    },
+    {
+        "QuestionID": "6957553b-0fc3-4128-8b41-ec47f20bad96",
+        "Question": "Could you clarify the specific roles and responsibilities of the Governing Body versus Senior Management in ensuring adherence to the AML Rulebook, FSMR, and applicable Federal AML Legislation?"
+    },
+    {
+        "QuestionID": "57fe501d-c589-4146-baae-d4d4b0f4fbc4",
+        "Question": "What measures does the ADGM expect a Relevant Person to take to ensure compliance with Sanctions or directives that impact CDD practices, especially in the context of third-party reliance in specified jurisdictions?"
+    },
+    {
+        "QuestionID": "1c2cf063-c931-499b-8df3-3fc0aee1f191",
+        "Question": "How should a Private Credit Fund document and demonstrate its compliance with the restrictions on providing credit to the enumerated parties, such as Natural Persons or Banks?"
+    },
+    {
+        "QuestionID": "eb337d7b-17e6-404b-8487-7cd2b3672b24",
+        "Question": "How should changes or additions to previously disclosed information about Petroleum Reserves be documented to ensure compliance with Rules 12.12.1(1) to 12.12.1(7)?"
+    },
+    {
+        "QuestionID": "5877ba27-bead-4426-ae9b-2bef9a855d9b",
+        "Question": "Are there any additional compliance obligations for a VC Manager when the VC Funds they manage are invested in high-risk investments as identified by the Regulator?"
+    },
+    {
+        "QuestionID": "0c35532b-e601-4227-b017-aab16e621c49",
+        "Question": "For an Authorised Person in Category 1 or 2, what are the key criteria that the internal Market Risk model must meet in order to receive approval from the Regulator for Interest Rate Risk Capital Requirement calculations?"
+    },
+    {
+        "QuestionID": "33729b10-6688-4b75-9928-1451c5f6dd98",
+        "Question": "Could you provide guidance on the benchmarks and realistic assumptions that should be used to ensure the long-term viability measures within the Business Reorganisation Plan are robust, as per section (b)?"
+    },
+    {
+        "QuestionID": "c06990bf-4431-41b4-b08c-fde41fa28639",
+        "Question": "Under what specific circumstances may the Regulator exercise its discretion to share confidential information with other jurisdictions' regulators or authorities?"
+    },
+    {
+        "QuestionID": "bbf3af35-bc8c-4176-80f7-584cad18935e",
+        "Question": "How should an Authorised Person document and justify a decision to delay Customer Due Diligence (CDD) measures based on the assessment of low money laundering risk and business interruption concerns?"
+    },
+    {
+        "QuestionID": "9670f87c-a9c4-41d5-b188-084f7d6c1a11",
+        "Question": "In the context of credit risk mitigation, could you provide guidance on what constitutes adequate credit loss mitigation techniques, and how these should be documented within our policies?"
+    },
+    {
+        "QuestionID": "ca319e04-221f-45b6-a4f5-2164cfe259ee",
+        "Question": "For the ADGM Climate Transition Fund's annual report, could you please clarify the specific third-party sustainability metrics that are recognized and accepted by the FSRA for evaluating the environmental progress of real estate and infrastructure assets?"
+    },
+    {
+        "QuestionID": "f10933cb-8e29-4f37-82ab-0ea23af317ac",
+        "Question": "Can you provide detailed guidance on the specific methodologies and frameworks that an Authorised Person should use to identify, assess, mitigate, control, and monitor operational risk under ADGM regulations?"
+    },
+    {
+        "QuestionID": "ea42e44d-e3a9-46d1-b6eb-e62835fc7084",
+        "Question": "Can you provide detailed guidance on the systems and controls that our firm must have in place to meet the investment and operational requirements specific to Private Credit Funds?"
+    },
+    {
+        "QuestionID": "c037e257-347a-4f14-afb4-3ec1ac29872e",
+        "Question": "What type of customer account and Transaction information should be provided by a Relevant Person to its Group-wide compliance, audit, and AML/TFS functions, and under what circumstances is this sharing necessary?"
+    },
+    {
+        "QuestionID": "bd971055-a8c8-4064-bbc3-23195ed59bec",
+        "Question": "Can the FSRA provide guidance on the frequency and format of compliance reporting that our company is expected to submit to ensure ongoing adherence to these regulatory standards?"
+    },
+    {
+        "QuestionID": "499c2fc4-c25f-4ca4-8231-11df7451374a",
+        "Question": "How must a Person Under Investigation comply if they are asked to attend an interview by an Investigator?"
+    },
+    {
+        "QuestionID": "b25b0b44-0a00-412a-8831-87221a494bcc",
+        "Question": "How does the FSRA interpret \"applicable reporting obligations\" for an entity engaged in regulated activities with virtual assets in the context of FATCA and the ADGM Common Reporting Standard Regulations 2017?"
+    },
+    {
+        "QuestionID": "78849228-f87c-4dd4-a046-33f1e3672117",
+        "Question": "How frequently should a Relevant Person conduct risk assessments, and how should material changes in their business affect this frequency?"
+    },
+    {
+        "QuestionID": "23f1d058-1b14-49cd-935b-95285050bc1c",
+        "Question": "What mechanisms or procedures should be in place to ensure continuous disclosure and timely updating of the markets with information that could impact the price of Securities, as mandated in chapter 7?"
+    },
+    {
+        "QuestionID": "f2d51f25-f606-4805-be8a-8096a8330fe1",
+        "Question": "How does the ADGM assess whether an Institution meets the Resolution Conditions, and what are the implications for our compliance with disclosures and reporting in such scenarios?"
+    },
+    {
+        "QuestionID": "c0bf1f69-d382-48d7-8a6c-846215c968fc",
+        "Question": "How does the ADGM expect Authorized Persons to integrate cyber-security and anti-fraud measures with transaction monitoring and eKYC to create a comprehensive framework for preventing financial crime?"
+    },
+    {
+        "QuestionID": "c3478bc3-be1f-4d7d-858f-1083176023fb",
+        "Question": "In terms of sanctions related to money laundering, terrorist financing, or the financing of WMD, what proactive steps should a Recognized Investment Exchange take to ensure it does not facilitate prohibited activities?"
+    },
+    {
+        "QuestionID": "e6874d34-7974-46ad-8f6b-da1710607775",
+        "Question": "Can you clarify the due diligence requirements for a Relevant Person before entering a business relationship, particularly regarding the verification of authorization and regulation of a potential business partner?"
+    },
+    {
+        "QuestionID": "133c10a0-46ac-45b9-ba16-d1a662434e55",
+        "Question": "When dealing with insolvency, can an account holding a group of Clients' or Indirect Clients' assets at a Remote Clearing House be consolidated with positions and assets from another account for the purpose of setting off?"
+    },
+    {
+        "QuestionID": "386b5a36-12f9-4b54-b5bb-442093236f49",
+        "Question": "In the context of managing, controlling, and carrying out Regulatory Functions, what are the ADGM's expectations for the distribution of duties and responsibilities among Key Individuals and departments?"
+    },
+    {
+        "QuestionID": "1ef8bc22-300d-4f63-aa26-44b07ff51f6f",
+        "Question": "Regarding the acceptance of Virtual Assets for trading, how does an Authorised Person demonstrate to the FSRA that it has developed and implemented suitable controls for identity/transaction monitoring of a particular distributed ledger?"
+    },
+    {
+        "QuestionID": "f9d322e5-6fae-4ba1-86e1-bfe023cd80c9",
+        "Question": "Under what circumstances might the Regulator cancel an ADGM Green Portfolio Designation or an ADGM Climate Transition Portfolio Designation, and what is the process for an Authorized Person to apply for such a cancellation?"
+    },
+    {
+        "QuestionID": "54cbe14f-9fd3-4af9-a788-a769169f46af",
+        "Question": "Can the Regulator provide examples or case studies of best practices for ensuring that commercial interests do not adversely affect the performance of Regulatory Functions?"
+    },
+    {
+        "QuestionID": "3c01dcb7-1559-4a3b-9320-e0dd89991504",
+        "Question": "Could you clarify the specific exemptions from appointment requirements for Venture Capital Fund Managers and the rationale behind these exemptions?"
+    },
+    {
+        "QuestionID": "49d037ec-3dea-44cb-92f5-df5171a7bee5",
+        "Question": "Are there specific consumer protection measures that should be incorporated into the operations of an MTF or OTF dealing with Accepted Spot Commodities?"
+    },
+    {
+        "QuestionID": "7df10e93-c05d-4c21-b806-01a8c9731fd4",
+        "Question": "How does the ADGM expect an Authorised Person to demonstrate adequate safeguards on the confidentiality and use of information exchanged within a Group?"
+    },
+    {
+        "QuestionID": "b2442c73-4d34-4dfd-8b2a-5c2e3a91b550",
+        "Question": "Could you provide examples of the kind of matters that an auditor or actuary is duty-bound to communicate to the Regulator upon ceasing their role, and what thresholds or criteria define the importance of such matters?"
+    },
+    {
+        "QuestionID": "0a8ab6f5-7a2d-4f2e-8560-d5f090ae4bc0",
+        "Question": "If an Authorised Person utilizes an electronic record-keeping system, which aspect of Rule 6.8.1\u200e(b) directly pertains to the system's ability to prevent unauthorized changes to the stored records?"
+    },
+    {
+        "QuestionID": "9458c743-08a7-4aaa-8d36-3a03c91c47ed",
+        "Question": "What are the consequences of non-compliance with Rule 6.2.1(c), and what remedial actions can a Relevant Person take to rectify any lapses in the risk assessment process?"
+    },
+    {
+        "QuestionID": "75d855d7-240b-4638-a222-89a66883eda9",
+        "Question": "In the context of a business transfer under the Sale of Business Tool, what steps must the purchaser take to ensure regulatory compliance within the six-month grace period before obtaining the necessary authorisation or licence?"
+    },
+    {
+        "QuestionID": "3f867f31-8732-4d2b-9e0c-bf441ee5bf01",
+        "Question": "Could you please provide a detailed explanation of the \"transparent rules and procedures\" required for Spot Commodity Auction Platforms to ensure fair and orderly auctions?"
+    },
+    {
+        "QuestionID": "e1ec2618-4ab4-4455-989a-050fa31212ef",
+        "Question": "How should entities within the ADGM interpret and apply their tax reporting obligations under FATCA and the ADGM Common Reporting Standard Regulations 2017 in the context of Digital Securities transactions and holdings?"
+    },
+    {
+        "QuestionID": "28357081-962f-45a0-983b-4862c7f1a4b5",
+        "Question": "Could you detail the certification process for OHSAS 18001 Health & Safety Management or its equivalent, and how frequently the certification needs to be renewed or reviewed as per Rule 22.4.1(c)(ii)?"
+    },
+    {
+        "QuestionID": "6a516d6a-18fa-46e6-9b04-7d790d4a3c71",
+        "Question": "Could you outline the steps a Petroleum Reporting Entity should take to ensure compliance with Rule 12.3.1 when including statements about Petroleum Resources in a prospectus?"
+    },
+    {
+        "QuestionID": "ba7a4161-96a0-4c0e-8cc9-9971734517d3",
+        "Question": "What are the best practices for a Reporting Entity to coordinate with the Listing Authority for the co-disclosure of Inside Information, especially in cases of multiple listings on different exchanges?"
+    },
+    {
+        "QuestionID": "d067ba63-c96d-4630-8ee1-a38103e7b0f0",
+        "Question": "How frequently does the ADGM expect a Relevant Person to review its money laundering risk assessment in light of the nature of its business and customer profiles?"
+    },
+    {
+        "QuestionID": "1917a456-79f0-46ab-a125-0c9eae62fcbc",
+        "Question": "What specific risk management controls does the FSRA expect an Authorised Person to have in place when applying to use additional virtual assets beyond those originally approved?"
+    },
+    {
+        "QuestionID": "a538762e-d3a7-4b15-968a-f066913aaeef",
+        "Question": "Can the FSRA elaborate on how confidentiality of material information should be maintained by Petroleum Reporting Entities, and under which conditions the confidentiality would be waived necessitating disclosure under Rule 7.2.2?"
+    },
+    {
+        "QuestionID": "cd8288c9-6e92-4470-ae32-78d65d921bcb",
+        "Question": "When securing an exposure with collateral, how does an Authorized Person verify that the collateral can be legally enforced under the applicable jurisdiction?"
+    },
+    {
+        "QuestionID": "2f555d2d-ed98-4b1d-bc87-b451ff9bb838",
+        "Question": "What specific criteria must a virtual asset meet to be considered an \"Accepted Virtual Asset\" under the current regulatory framework, and how often are these criteria reviewed or updated by the FSRA?"
+    },
+    {
+        "QuestionID": "2dcb8d6b-d1f8-416c-b56c-1cb286f6a06c",
+        "Question": "What specific AML/CFT compliance programs does the FSRA require from firms trading in virtual assets, and how do these programs align with the FATF Recommendations, particularly Recommendations 10 and 16 regarding CDD and VASP obligations?"
+    },
+    {
+        "QuestionID": "21280d61-75bd-49f3-8a9d-3095952a9564",
+        "Question": "How does the ADGM assess the adequacy of authority, responsibility, and reporting relationships assigned by an Authorised Person for the management of Operational Risk?"
+    },
+    {
+        "QuestionID": "939ac658-a817-4828-8d15-b7ecb812bcf6",
+        "Question": "What measures should an Authorised Person take to ensure compliance with AML rules related to the origin and destination of Virtual Asset funds, particularly concerning multiple deposit-holders or withdrawal recipients?"
+    },
+    {
+        "QuestionID": "cbf42015-8c94-4196-ac2f-10006b4d01e1",
+        "Question": "To comply with the guidelines on the Countercyclical Capital Buffer rates, how should an Authorized Person ascertain the geographical location of its credit exposures for the purpose of identifying the source of credit risk?"
+    },
+    {
+        "QuestionID": "6160cc42-28a9-4d36-9d76-fbe448f58889",
+        "Question": "- Are there any additional periodic fees specific to MTF operators that they should be aware of, separate from the standard supervision fees?"
+    },
+    {
+        "QuestionID": "5ba37d2e-7286-485c-b016-51902d152803",
+        "Question": "Can you provide us with the latest guidance on the frequency and scope of risk assessments for firms of our size and complexity within the ADGM, especially concerning financial crimes such as fraud, bribery, and corruption?"
+    },
+    {
+        "QuestionID": "a12d3e29-2d7f-4984-8315-796cc3a7e2ca",
+        "Question": "What are the procedures and considerations for the Regulator's actions concerning Shareholders in the context of Shares issued as a result of Debt Instrument conversion?"
+    },
+    {
+        "QuestionID": "752a53b3-19ca-4c84-b903-749916c4f393",
+        "Question": "Could you clarify the types of collateral recognized under the FCSA and FCCA approaches that are eligible for reducing exposure values, as per Section 4.13(c)?"
+    },
+    {
+        "QuestionID": "75a47cb9-cf64-4cc9-a3a7-4b0bea969e68",
+        "Question": "Are there any particular ADGM-endorsed accounting practices or policies that a Fund Manager should adopt to ensure their accounting records meet regulatory standards?"
+    },
+    {
+        "QuestionID": "c25e9ee4-ec47-4dd1-aad4-2422a3d6ea1f",
+        "Question": "Could the ADGM elaborate on the expectations for a Relevant Person when integrating risk ratings into their CDD process, specifically regarding the differentiation between low, medium, and high risks?"
+    },
+    {
+        "QuestionID": "491e6354-dbb0-4f41-b271-e252243bd54f",
+        "Question": "Are there particular climate-related financial risk scenarios that the ADGM requires financial firms to consider within their risk management frameworks?"
+    },
+    {
+        "QuestionID": "089b7a1e-d924-49de-9e40-7f8ad8b932c1",
+        "Question": "Regarding the expectation that a FinTech Proposal should be at a \"sufficiently advanced stage of development,\" could you provide examples of what constitutes such a stage, particularly in terms of technological readiness and operational feasibility?"
+    },
+    {
+        "QuestionID": "b6652ccc-4c4f-4787-ab8b-26dec3f1a8be",
+        "Question": "How does Principle 3 relating to the prevention of money laundering and other financial crimes intersect with tax reporting obligations, particularly in the context of virtual assets?"
+    },
+    {
+        "QuestionID": "9e5369ac-7bd5-4991-83ab-ad5f4d55bda5",
+        "Question": "How frequently is an Authorised Person expected to monitor its overall liquidity risk profile, and are there any specific reporting tools or metrics that our company should be using to ensure compliance with these monitoring requirements?"
+    },
+    {
+        "QuestionID": "84aad9f4-5691-4438-b9e9-3ea9989e2edd",
+        "Question": "How will the ADGM monitor and enforce compliance with the new sustainability and ESG integration requirements?"
+    },
+    {
+        "QuestionID": "5e887fa1-1268-4a2d-95c3-4768073cb968",
+        "Question": "Can you please clarify the specific responsibilities of an Authorised Person Providing Custody for Accepted Spot Commodities, particularly in relation to the protection and segregation of client assets?"
+    },
+    {
+        "QuestionID": "3672b1ed-dc66-4677-a496-0f8b916d8034",
+        "Question": "Are there any particular formats or templates that the ADGM prefers for the presentation of financial and other reports to adhere to the standards of accuracy and balance?"
+    },
+    {
+        "QuestionID": "ff56c386-f863-41e8-af91-525fbf4bcaed",
+        "Question": "Can you provide clarification on setting permissible thresholds or tolerances for inherent and residual risk, and how these should be reflected in an Operational Risk policy?"
+    },
+    {
+        "QuestionID": "93d51e60-d7d0-47e1-8577-b996c9992f3c",
+        "Question": "What specific policies and procedures should our company have in place to ensure regular and thorough testing of systems related to virtual asset transactions, including API integrations and matching engines?"
+    },
+    {
+        "QuestionID": "f513727d-ffd7-4c82-b938-861ca27b4fd6",
+        "Question": "Can you outline the public disclosure requirements our firm must adhere to concerning our risk management practices, and are there any templates or formats that we should use for these disclosures?"
+    },
+    {
+        "QuestionID": "adfaf54e-de09-431c-affb-d6a5218d35b2",
+        "Question": "What are the ADGM's expectations for the measurement and monitoring of credit risk, particularly for off-balance-sheet products like derivatives?"
+    },
+    {
+        "QuestionID": "21a02240-18b6-47a4-bdd3-5d1242e0ba9e",
+        "Question": "In the Rulebook, how can you distinguish a defined term from other text?"
+    },
+    {
+        "QuestionID": "83af66c9-b76b-493b-8088-edfff5843466",
+        "Question": "What are the specific rules and requirements of the ADGM concerning eKYC that we must comply with, particularly in regard to business risk assessment and outsourcing?"
+    },
+    {
+        "QuestionID": "0b37285a-c133-4eca-848b-b2d9d20d7d2b",
+        "Question": "What are the specific requirements for a Relevant Person to provide customer account and transaction information to Group-wide compliance, audit, and AML/TFS functions for AML/TFS purposes?"
+    },
+    {
+        "QuestionID": "bfeb2a6a-088f-4b83-9a11-814c61972400",
+        "Question": "Could you clarify whether there are any conditions under which the responsibility for Zakat may shift between the Fund and the Unitholders, and if so, what are the compliance implications for the Fund Manager in such scenarios?"
+    },
+    {
+        "QuestionID": "c7f41f82-c366-429b-b818-a43704740c8e",
+        "Question": "What section of the FSMR should be referred to when considering the option of publicly censuring an individual or entity for non-compliance with the provisions?"
+    },
+    {
+        "QuestionID": "4e99fc87-1f10-45da-b3c9-50caedde8d16",
+        "Question": "Before which authority does the ADGM Parent Institution's Management need to get approval for the Group Recovery Plan?"
+    },
+    {
+        "QuestionID": "ec46dae7-c92d-4e88-998b-e5c1ea2f92cf",
+        "Question": "Could the ADGM elaborate on the responsibilities and duties that a compliance adviser is expected to perform while assisting a Reporting Entity in meeting its continuing obligations under the FSMR and relevant Rules?"
+    },
+    {
+        "QuestionID": "f401ce3d-483a-4143-953f-5decf327178f",
+        "Question": "What specific criteria does the ADGM use to evaluate whether a FinTech Participant has 'achieved its intended test outcomes' under the RegLab to ensure readiness for migration to the full authorisation and supervisory regime?"
+    },
+    {
+        "QuestionID": "38d8249e-4d15-4482-ac6e-b41624d04251",
+        "Question": "In terms of model validation, can the ADGM provide examples of acceptable practices or methodologies for independently reviewing or validating models used to determine or interpolate specific market risk factors?"
+    },
+    {
+        "QuestionID": "2ac29bb2-ed85-48d1-9d78-a9f59f441e5c",
+        "Question": "What is the expected timeline for an Authorised Person to report such significant changes to the Regulator once they have been identified?"
+    },
+    {
+        "QuestionID": "e5a52e81-b9de-4a2c-8f63-d56b9c236fb5",
+        "Question": "Under what circumstances might the Regulator choose to de-register a Passported Fund from its Register of Passported Funds according to Rule 9.5.2?"
+    },
+    {
+        "QuestionID": "5f50d8f6-3c83-4297-97d8-b5e9c2d0fc47",
+        "Question": "When notifying the Regulator about alternative assumptions and methods for determining the value of Long Term Insurance Liabilities, what level of detail and justification is expected to be included in the written explanation?"
+    },
+    {
+        "QuestionID": "a5b84262-a3b8-448b-943a-549042514c46",
+        "Question": "In the case of a group structure, how should the liquidity risk management requirements be applied across different subsidiaries, especially if they operate in diverse financial sectors or geographic locations?"
+    },
+    {
+        "QuestionID": "cdeb097c-2709-40e3-8ae8-04d08006a9a0",
+        "Question": "Lastly, could you provide guidance on how a Relevant Person should incorporate federal AML legislation and any additional guidance into their compliance framework, particularly for contraventions related to money laundering and terrorist financing?"
+    },
+    {
+        "QuestionID": "7a341ffa-1fb3-4341-a12a-6b02d3b37d54",
+        "Question": "Could you clarify the circumstances under which our company is expected to share customer account and transaction information with Group-wide compliance, audit, and AML/TFS functions?"
+    },
+    {
+        "QuestionID": "828c2595-3e8e-4bf2-90b3-f0c9d61de1f5",
+        "Question": "How should a Captive Insurer document and justify the use of alternative assumptions and methodologies to stakeholders, including the Regulator, to ensure transparency and adherence to regulatory standards?"
+    },
+    {
+        "QuestionID": "44ce4c00-f3bc-405d-9cc4-e1d17f3da145",
+        "Question": "Could you outline the process for an Insurer to validate that all material risks\u2014both existing and potential, financial and non-financial\u2014have been adequately addressed within their risk management systems?"
+    },
+    {
+        "QuestionID": "81a0eee7-10e6-4307-be62-7e8b149aa8e2",
+        "Question": "How does the FSRA expect authorised persons to educate and train their staff regarding market abuse risks specifically associated with Virtual Assets?"
+    },
+    {
+        "QuestionID": "e0b20ec6-bc0a-41ba-a005-ce8c4a961154",
+        "Question": "How should Authorised Persons document and communicate the management process for virtual asset forks to demonstrate compliance with regulatory expectations?"
+    },
+    {
+        "QuestionID": "454a2632-22da-4872-8969-ba768e9d6569",
+        "Question": "What are the criteria for determining the appropriate size of the High-Quality Liquid Assets (HQLA) buffer over the minimum Liquidity Coverage Ratio (LCR) requirement for an Authorised Person?"
+    },
+    {
+        "QuestionID": "b4f11a2b-02b5-4f24-aa40-f38c5eb6a70c",
+        "Question": "How should the prospectus detail the fund's concentration in terms of individual entities, geographical locations, and sectors, and what information should be provided to adequately inform investors of the associated risks?"
+    },
+    {
+        "QuestionID": "79e6d8cf-2194-47f8-b81d-755452e4dcb3",
+        "Question": "What specific criteria does the ADGM use to categorize firms for the application of these Rules, and how does this categorization impact the Liquidity Risk Management requirements for our company?"
+    },
+    {
+        "QuestionID": "20407c47-c8a5-44e9-be5a-819e44f34d81",
+        "Question": "How does an authorized person ensure compliance with the one vote per share requirement in resolutions, especially in the case of shares with Weighted Voting Rights?"
+    },
+    {
+        "QuestionID": "d9705dfd-8200-4949-9b74-5a291dc3d503",
+        "Question": "Regarding CET1 Deductions for intangible assets, how should we calculate the associated deferred tax liabilities that could be extinguished in the event of asset impairment or derecognition under IFRS?"
+    },
+    {
+        "QuestionID": "ffe93fd9-3bce-459b-9f73-a2f46b2d93c1",
+        "Question": "Could you clarify the process by which the FSRA reduces or eliminates any financial gain or benefit from non-compliance, as per Principle 2(e)(ii)?"
+    },
+    {
+        "QuestionID": "985c5d04-c1e9-4655-b021-6109bb925531",
+        "Question": "How should climate-related financial risks be incorporated into our risk management framework, and what are the ADGM's specific requirements for the regular review and documentation of policy adjustments based on ongoing risk monitoring?"
+    },
+    {
+        "QuestionID": "cd7cf29f-cf61-4b20-b5e6-875599741d0c",
+        "Question": "Regarding 8.1.2(1)(d), could you outline the types of \"other matters\" that might affect a Relevant Person's risk assessment of a customer, warranting enhanced CDD?"
+    },
+    {
+        "QuestionID": "796545cb-0c6f-4b3f-95f1-881adb884187",
+        "Question": "Are there particular types of information or events that the FSRA automatically considers to be Inside Information, and therefore require immediate disclosure, regardless of contextual assessment?"
+    },
+    {
+        "QuestionID": "131f62b8-78a2-4465-a959-c2b284345c18",
+        "Question": "In the event of a significant change to a FinTech Participant's business model or technology during the RegLab period, what is the process for re-evaluating the participant's continued eligibility and the applicable regulatory conditions?"
+    },
+    {
+        "QuestionID": "e0566699-c1bb-4b01-bf0c-885ff16a580d",
+        "Question": "When calculating capital requirements for CVA risk, how should eligible hedges be treated to avoid inclusion in the calculation of capital requirements for specific risk or as credit risk mitigation for other portfolios?"
+    },
+    {
+        "QuestionID": "f7ca9bcf-75ad-458f-a861-277884614112",
+        "Question": "How would the reputation and regulatory standing of a connected Person or entity affect the assessment of a Recognised Body's fitness and propriety?"
+    },
+    {
+        "QuestionID": "1f83dc60-96a0-4dac-9e53-29e3859d9d0f",
+        "Question": "How does the ADGM assess the scalability of a FinTech Proposal, particularly regarding the potential for broader deployment in the UAE and contributions to the development of ADGM as a financial center post-validity period?"
+    },
+    {
+        "QuestionID": "bfa3a139-36cc-459f-9725-ad497953336d",
+        "Question": "In regard to the real-time and batch reporting of Accepted Spot Commodities traded on our platforms, can you outline the specific information that must be included in these reports?"
+    },
+    {
+        "QuestionID": "f66824af-35c4-403e-8fd5-ce164bf12ee5",
+        "Question": "Could the FSRA clarify the circumstances under which a Petroleum Reporting Entity may be permitted to delay the disclosure of material information about petroleum activities without contravening Rule 7.2.2?"
+    },
+    {
+        "QuestionID": "ad2ce141-9a7b-49d5-87db-f373f26d6f9c",
+        "Question": "What are the consequences for a Reporting Entity if it fails to provide timely and accurate disclosure in accordance with Rule 7.2.1, and what steps can be taken to mitigate such an occurrence?"
+    },
+    {
+        "QuestionID": "4de042c1-8219-4c0f-b902-f89ae25e1fcf",
+        "Question": "Can you detail how your firm conducts a Targeted Financial Sanctions risk assessment and what measures are in place to address proliferation financing and terrorist financing risks?"
+    },
+    {
+        "QuestionID": "181dd8c7-624e-4675-a449-d67da9670e2a",
+        "Question": "Could you elaborate on the scope of \"relevant persons\" within the context of the ADGM\u2019s AML and sanctions compliance requirements?"
+    },
+    {
+        "QuestionID": "b948bb9d-8c3a-4775-a340-e24dc477e572",
+        "Question": "Can the Regulator provide examples of documentation or records that a Reporting Entity should maintain to demonstrate adherence to the FSMR and relevant Rules?"
+    },
+    {
+        "QuestionID": "b64f1545-119f-47c9-a087-7e4001069c4e",
+        "Question": "In the case of outsourcing Virtual Asset wallets, what are the key compliance aspects that a VC Manager must ensure are adhered to by the third-party service provider?"
+    },
+    {
+        "QuestionID": "eeb73a24-dee7-4ecb-b902-95d25bdb5bca",
+        "Question": "In the context of Rule 7.1.1(3) and Rule 7.1.2, what level of detail and verification is expected when identifying a customer's additional nationalities or residency rights?"
+    },
+    {
+        "QuestionID": "8884fa70-89a4-45eb-8841-6b1638202bec",
+        "Question": "Could you elaborate on the technical standards for biometric authentication issued by the Regulator or a competent authority in the U.A.E. that a Relevant Person must adhere to when implementing eKYC?"
+    },
+    {
+        "QuestionID": "52b13453-4f9e-4da2-acb6-87df268a5d96",
+        "Question": "What procedures should an Authorised Person follow if there is a discrepancy between the calculated EAD and the clearing member's prefunded default fund contribution?"
+    },
+    {
+        "QuestionID": "7066f86e-24a1-4a16-ad40-babaf9f427d5",
+        "Question": "In the context of the Spot Commodities Framework, what specific measures are expected from an Authorised Person to ensure transparency and market integrity in Spot Commodity activities?"
+    },
+    {
+        "QuestionID": "b4b1f2d5-b81e-41e6-9140-4e1f85d2ce85",
+        "Question": "**Compliance with Rulebooks**: For an Authorised Person dealing in Virtual Assets, are there any specific sections within the COBS, GEN, AML, IFR, or CMC Rulebooks that have unique compliance requirements differing from traditional financial assets?"
+    },
+    {
+        "QuestionID": "2d23f4c1-b365-49a3-adc6-d050fb1c8d43",
+        "Question": "In cases where an Authorised Person operates across multiple jurisdictions, how should they approach the calculation of General Market Risk for currencies that may be subject to different regulatory regimes?"
+    },
+    {
+        "QuestionID": "a2243970-2a0c-435d-8bee-afbdaa9733dd",
+        "Question": "How should Authorized Persons document and demonstrate adequate safeguards on the confidentiality and use of information exchanged between Group entities to comply with relevant data protection legislation?"
+    },
+    {
+        "QuestionID": "b8a564cf-1ffc-418e-aed7-8232b17ba27c",
+        "Question": "In the context of customer and third-party identification, could you clarify the scope and depth of information required by the ADGM for compliance purposes?"
+    },
+    {
+        "QuestionID": "9bf433fc-d5cf-4a3a-a268-361ef63bed40",
+        "Question": "How should an Authorised Person define and monitor its Operational Risk appetite and tolerance levels, and what are the best practices for establishing and reviewing these thresholds?"
+    },
+    {
+        "QuestionID": "de044006-aeea-46ce-a80b-17107c835a1d",
+        "Question": "In identifying connected counterparties, are there particular criteria or indicators that the ADGM considers essential for an Authorized Person to include in their risk assessment procedures?"
+    },
+    {
+        "QuestionID": "452b4bc3-8b36-4da4-a11b-e68cdd2dd96a",
+        "Question": "What constitutes \"appropriate documentation\" for the purposes of evidencing the transfer of General Market Risk between the Trading Book and Non-Trading Book?"
+    },
+    {
+        "QuestionID": "2d17de14-54f8-4336-9d18-01232c5eb43e",
+        "Question": "How should subscription payments for an Offer of Digital Securities made in Accepted Virtual Assets be handled in terms of exchange rates and valuation, to ensure compliance with MKT requirements?"
+    },
+    {
+        "QuestionID": "6a1da266-e72e-44b8-b245-8dc0d8e25538",
+        "Question": "What internal controls and procedures are considered best practice for ensuring compliance with Cabinet Decision No. (74) of 2020 and related Federal AML Legislation?"
+    },
+    {
+        "QuestionID": "b5ad4103-16a3-4caa-99c1-f131cd0a8028",
+        "Question": "Are there specific qualifications or certifications that third-party service providers must possess for an Authorised Person to consider them for outsourcing of regulated activities related to virtual assets?"
+    },
+    {
+        "QuestionID": "bcc789cd-2735-4b6f-a03f-274d829cb63a",
+        "Question": "Can you provide clarification on the specific documentation and evidence required to demonstrate compliance with Rule 12.2.5's mandate for prominent and proximate inclusion of all applicable information when disclosing Total Petroleum Initially-In-Place, Estimated Ultimate Recovery, or Discovered Petroleum Initially-In-Place?"
+    },
+    {
+        "QuestionID": "e6e5f56f-7f7e-4c25-aa08-d214f4ca7332",
+        "Question": "Can you provide clarification on the specific documentation and evidentiary requirements that must be submitted to demonstrate a full understanding of credit risks associated with new products and services before launching them?"
+    },
+    {
+        "QuestionID": "afb90589-4198-4b27-9ee2-eb95535ea731",
+        "Question": "In the context of Federal AML Legislation, what are the key changes or updates that have been made since the last revision that our compliance program needs to incorporate?"
+    },
+    {
+        "QuestionID": "a368cdcd-dae8-4bf9-bc66-7871a0685163",
+        "Question": "In the event of any discrepancies or non-compliance found in the financial reports, what is the procedure for rectification, and what are the potential implications for the reporting entity?"
+    },
+    {
+        "QuestionID": "40526563-f9d7-48f4-9117-51701c25bb47",
+        "Question": "What mechanisms should be in place for an Authorised Person to ensure continuous monitoring and compliance with the ADGM's regulatory requirements regarding virtual assets?"
+    },
+    {
+        "QuestionID": "a786ee98-4829-4499-b1f4-b88199b0bc5f",
+        "Question": "What criteria should be used to assess the adequacy of residual risk management when introducing new products or services?"
+    },
+    {
+        "QuestionID": "7c1b993b-abc8-4e1e-a3ec-e23dfa08085c",
+        "Question": "Is there a prescribed format or template that the ADGM requires for the clear statement indicating that Marketing Material is intended only for Professional Clients or Market Counterparties?"
+    },
+    {
+        "QuestionID": "8019738d-c5b2-4201-bbb5-d21192eb3d97",
+        "Question": "How should Authorised Persons integrate the FATF's (Draft) Interpretive Note to Recommendation 15 into their existing AML/CFT frameworks for virtual assets?"
+    },
+    {
+        "QuestionID": "8c19a0f7-8106-435d-9427-396269b005ad",
+        "Question": "What are the specific requirements and conditions that an Institution must meet to conduct ancillary activities such as market forecasts and data analysis without these activities being classified as Regulated Activities under the current regulations?"
+    },
+    {
+        "QuestionID": "f3378f42-a705-446e-b8a3-742bbbe9cfae",
+        "Question": "What are the ADGM's expectations for a Relevant Person's Targeted Financial Sanctions risk assessment, and are there any tools or templates available to assist with this process?"
+    },
+    {
+        "QuestionID": "51cae11c-b6b8-4bb8-bce7-94a84ff8b08c",
+        "Question": "When dealing with a Client, what must an Authorized Person ensure regarding the extent of their Insurance Business or Insurance Intermediation activities?"
+    },
+    {
+        "QuestionID": "1392c4a4-36df-4b54-ade8-e0c50c8a0933",
+        "Question": "Could the ADGM clarify the extent of the responsible executive's accountability in the sign-off process for open source software used in the processing or storing of operational and client information?"
+    },
+    {
+        "QuestionID": "af6dc6ff-a9f9-4dce-b822-0b60bc58dea7",
+        "Question": "For residential properties, could the ADGM provide examples of the type of market condition information that should be sought by an Authorized Person in lieu of annual revaluations?"
+    },
+    {
+        "QuestionID": "113f6914-3d0b-4cc7-b601-079be323efd1",
+        "Question": "What are the FSRA's expectations regarding the frequency and depth of technology system audits for Authorised Persons engaged in regulated activities related to virtual assets?"
+    },
+    {
+        "QuestionID": "802c01eb-490e-4267-8e76-31ec277c5dc9",
+        "Question": "Could you provide clarification on the link between climate-related financial risks and the Internal Capital Adequacy Assessment Process for Authorised Persons?"
+    },
+    {
+        "QuestionID": "83236e29-eeb2-43db-a89c-590c285ede2e",
+        "Question": "Is there a recommended frequency or set of triggers for reviewing and updating the risk assessment of a customer, especially for high-risk customers that necessitate Enhanced Customer Due Diligence measures?"
+    },
+    {
+        "QuestionID": "fbd59a56-3307-4a3d-8f6a-aa55ceff7137",
+        "Question": "What are the best practices recommended by the ADGM for identifying and mitigating the risks of Financial Crime that may arise after the establishment of a business relationship in an NFTF environment?"
+    },
+    {
+        "QuestionID": "7f064161-b1f9-49f8-819e-4ceab9cd7ebd",
+        "Question": "How should our company ensure that the disclosure of material estimates of Petroleum Reserves aligns with the PRMS, specifically regarding the basis for confirming commercial producibility as outlined in Rule 12.12.1(3)(a)?"
+    },
+    {
+        "QuestionID": "d42bc158-1f9b-4a72-8804-5ea0a4f41199",
+        "Question": "Could you provide clarification on the specific technology governance and control requirements for Digital Securities that Authorised Persons and holders of Recognition Orders must adhere to under MIR Rules 2.5 and 2.6?"
+    },
+    {
+        "QuestionID": "f3123769-9367-4eea-8a4b-9c1625d45157",
+        "Question": "In the context of counterparty risk assessment, what are the key risk indicators that the ADGM expects to be included in management reports?"
+    },
+    {
+        "QuestionID": "223a77d1-625f-4d97-8dc0-28b871c8622b",
+        "Question": "What specific risk assessment criteria does the ADGM FSRA apply when evaluating the materiality of risks posed by new and emerging FinTech solutions, particularly those using DLT platforms for investment funds?"
+    },
+    {
+        "QuestionID": "75e69352-649a-4735-ba48-39d9632c26a4",
+        "Question": "Under Rule \u200e11.1.1(1), what circumstances might trigger a Relevant Person to perform additional due diligence on a Person for whom they are considering undertaking a transaction?"
+    },
+    {
+        "QuestionID": "41c87add-9349-42c8-9078-aa8cd36de5f1",
+        "Question": "Can the Regulator provide guidance on the threshold for what is considered a 'significant breach' of a Rule in the AML Rulebook or relevant Federal AML Legislation that necessitates reporting?"
+    },
+    {
+        "QuestionID": "e2fe3900-ba96-4f00-a530-a2405180eebc",
+        "Question": "Can a Credit Rating Agency include revenue generated from credit ratings as a factor in the remuneration of its employees involved in those ratings?"
+    },
+    {
+        "QuestionID": "8e64074a-43c0-4a21-bd2a-790f467f2229",
+        "Question": "Can you provide clarification on the sanctions applicable under ADGM regulations for non-compliance with AML/CFT obligations, and what steps can be taken to mitigate potential breaches?"
+    },
+    {
+        "QuestionID": "7bbd1ca7-247b-49ef-b487-39e776e83222",
+        "Question": "Could you provide examples of the technological leadership and management practices the FSRA expects from an authorized person to mitigate the risk of business failure related to inadequate technology-related procedures?"
+    },
+    {
+        "QuestionID": "632998fd-4240-4583-afaa-9b507da1da05",
+        "Question": "What are the reporting and record-keeping requirements for Authorised Persons to demonstrate adherence to UAE AML/CFT Federal Laws and FSRA\u2019s AML Rules, and how frequently must these records be reviewed or audited?"
+    },
+    {
+        "QuestionID": "6730b35e-06bd-4ad2-8b38-92a940e9ed78",
+        "Question": "For entities engaged in spot commodity activities, can you clarify the specific real-time and batch reporting requirements to the FSRA for transactions in Accepted Spot Commodities?"
+    },
+    {
+        "QuestionID": "cc4117eb-363f-421e-a533-a3f817a78797",
+        "Question": "What constitutes \"adequate arrangements\" for business continuity and disaster recovery for an Authorised Person, and how should these arrangements be tested and validated?"
+    },
+    {
+        "QuestionID": "e7bbda46-8314-419b-80cb-854c3da70f15",
+        "Question": "Are there any specific challenges or common mistakes that Authorized Persons should be aware of when complying with tax reporting obligations in the context of virtual assets and digital securities?"
+    },
+    {
+        "QuestionID": "3cdcf4d7-6e25-454b-96bd-0c4c0bb1fdf5",
+        "Question": "In the context of financial crime, could you provide guidance on the risk indicators that should be included in our risk assessment models, especially concerning fraud, bribery, and corruption?"
+    },
+    {
+        "QuestionID": "c277025b-5a34-4364-843d-fca24b8543e7",
+        "Question": "Can ADGM provide examples of the type of internal or external audit reports that should be disclosed, especially in relation to ESG disclosures and compliance?"
+    },
+    {
+        "QuestionID": "c390f942-3b89-4c7a-a20f-0f0fe395a9cf",
+        "Question": "In the context of establishing a control environment compliant with GEN rules, what are the benchmark standards for internal controls and risk mitigation strategies that an Authorised Person is expected to maintain?"
+    },
+    {
+        "QuestionID": "1aca85c2-c38c-4fe2-9645-a3ca2a938101",
+        "Question": "Under which rule must A comply with a request to transfer all Customer Due Diligence information to B for specific customers?"
+    },
+    {
+        "QuestionID": "f0217056-2310-42be-b7c8-239f749c8bad",
+        "Question": "What are the FSRA's minimum requirements for digital and physical access controls to sensitive data within a company dealing with virtual assets?"
+    },
+    {
+        "QuestionID": "d6817c97-0691-48b3-a53e-f10998ede989",
+        "Question": "What specific transactions or circumstances should be considered when evaluating potential material effects on an insurer's solvency position, aside from those explicitly mentioned in the regulations?"
+    },
+    {
+        "QuestionID": "71c19cff-66aa-4ed2-952d-d5fe14136c4c",
+        "Question": "Can you clarify the regulatory requirements for Digital Investment Managers in terms of investor protection measures related to cybersecurity and data protection?"
+    },
+    {
+        "QuestionID": "5def3253-e9ac-4b98-97b7-74a1138be3c7",
+        "Question": "Are there any specific considerations or additional compliance requirements for entities engaged in Digital Securities-based financial services activities in terms of tax reporting obligations?"
+    },
+    {
+        "QuestionID": "e8db3b67-8beb-48ab-ba2d-c9998be17948",
+        "Question": "Can you provide clarification on the time frame within which a Relevant Person is expected to report a suspicious transaction to the FIU once they know, suspect, or have reasonable grounds to suspect money laundering or terrorist financing activities?"
+    },
+    {
+        "QuestionID": "033a4b1f-9c8d-4866-aa0b-a6576b726d37",
+        "Question": "- How should the impact of proposed rule amendments on Members and stakeholders be assessed and addressed?"
+    },
+    {
+        "QuestionID": "e1a3f1e4-d111-4256-abfd-2f3a330cd33e",
+        "Question": "How should authorised persons document and demonstrate to the ADGM their adherence to the procedures for managing planned and unplanned system outages?"
+    },
+    {
+        "QuestionID": "93edc5d5-0d10-41dc-bef6-3b6dc494cd19",
+        "Question": "How does the ADGM view the balance between fostering innovation in financial services and ensuring robust AML/TFS controls, and what guidance can you provide to ensure that a Relevant Person remains compliant while innovating?"
+    },
+    {
+        "QuestionID": "b468b617-57ff-496f-aa45-9f2598879955",
+        "Question": "For an Issuer of fiat tokens in ADGM, are there specific Client Money rules under the COB that must be adhered to, and could you elucidate on these requirements?"
+    },
+    {
+        "QuestionID": "bb1ea3ad-c7f5-416f-b3e8-977a2b93ea69",
+        "Question": "What are the expectations for ongoing monitoring of third-party use of Correspondent Accounts, and what specific actions should be taken if a Relevant Person identifies a third party that poses a money laundering risk?"
+    },
+    {
+        "QuestionID": "680998c3-3779-4904-9679-6a34e02ef6cc",
+        "Question": "Regarding soft forks in virtual assets, could you elaborate on the process an Authorised Person must follow to demonstrate continued compliance with Accepted Virtual Asset requirements post-fork?"
+    },
+    {
+        "QuestionID": "d3773f66-2ffc-4a28-8ba2-f0bcfdc86f0c",
+        "Question": "How should the Competent Person's role and input be documented and reported in the initial and subsequent disclosures of resource estimates?"
+    },
+    {
+        "QuestionID": "19f21dd2-12e3-4b35-b2cc-8c35832a5770",
+        "Question": "Is there a recommended framework or set of guidelines for the internal audit or compliance function to follow when conducting the review process to ensure comprehensiveness and consistency?"
+    },
+    {
+        "QuestionID": "a61ee4ac-8464-4bfa-9f47-f6873ce66fa0",
+        "Question": "How should a compliance officer approach situations where there is ambiguity or uncertainty in the assessment of risk associated with a customer or transaction in the context of NFTF business?"
+    },
+    {
+        "QuestionID": "a85c39e8-02f5-4a52-a4a7-02094a273758",
+        "Question": "What specific criteria does the ADGM utilize to determine the adequacy and effectiveness of a Reporting Entity's risk management and internal control framework?"
+    },
+    {
+        "QuestionID": "e1a575e4-f57c-4e70-9f61-e7616f3e447c",
+        "Question": "Could the FSRA provide specific examples of scenarios that would constitute Inside Information requiring immediate disclosure under Rule 7.2.1?"
+    },
+    {
+        "QuestionID": "f6f1ee09-dcd8-4665-a108-b662c26ffe7c",
+        "Question": "What specific measures should our company take to adhere to the ADGM Common Reporting Standard Regulations 2017, and can you provide examples of the types of reporting information required?"
+    },
+    {
+        "QuestionID": "72282d3c-edfa-44ce-8d3f-c1bba5bfc5ff",
+        "Question": "What resources or support does the ADGM provide to help Relevant Persons understand and navigate the complexities of the AML/CFT Federal Laws, particularly with regard to changes in legislation?"
+    },
+    {
+        "QuestionID": "d8d60f34-bfa2-40e6-92f2-af355b20a1a1",
+        "Question": "Can you provide specific examples of the policies and procedures you expect us to implement for information sharing between Group entities, particularly in relation to Customer Due Diligence (CDD) and money laundering risks?"
+    },
+    {
+        "QuestionID": "009e6b3c-4a0c-473f-9ad0-70813b71b379",
+        "Question": "What are the specific responsibilities and reporting obligations of a Shari'a Supervisory Board to ensure compliance with Islamic financial practices within the ADGM?"
+    },
+    {
+        "QuestionID": "6b738e08-7565-4316-a0bd-3068f6cd93e7",
+        "Question": "Under what conditions is a Recognised Clearing House permitted to accept the deliverable of a contract as collateral against the same contract? Are there specific rules or limitations in this regard?"
+    },
+    {
+        "QuestionID": "9056d5a1-0130-47ec-addf-ae6fdbac4918",
+        "Question": "What are the specific prudential requirements relating to Trading Book and Non-Trading Book activities, including Credit Risk, Market Risk, Liquidity Risk, and Group Risk, that an Authorized Person managing PSIAs must comply with?"
+    },
+    {
+        "QuestionID": "c5dbc7a5-f6fe-4523-915b-1d3db40e448e",
+        "Question": "In the context of Rule 17.1.5, how should we define and document the activities and functions of a Fund Administrator to avoid ambiguity and ensure compliance?"
+    },
+    {
+        "QuestionID": "731582b8-3f10-4006-b3f9-f7b2b9a77c52",
+        "Question": "In cases where a business partner's parent company is located in a different jurisdiction, what additional due diligence measures does the ADGM require to ensure compliance with anti-money laundering regulations?"
+    },
+    {
+        "QuestionID": "8ae1d1bd-de7b-4c90-b62c-ade701954740",
+        "Question": "When dealing with regulated activities related to virtual assets, how should Authorized Persons prepare for potential breaches of their security systems, specifically regarding key management and client access credentials?"
+    },
+    {
+        "QuestionID": "560e5c7d-7c38-4c98-9664-025b52e5b5a5",
+        "Question": "What are the specific Anti-Money Laundering (AML) and Countering Financing of Terrorism (CFT) compliance measures an Authorised Person must implement when engaging in Regulated Activities related to Virtual Assets?"
+    },
+    {
+        "QuestionID": "b1e576cc-f9da-4003-9a5b-2a0f307e26e5",
+        "Question": "Can the ADGM provide examples of what constitutes sufficient evidence of a Person's participation in relevant financial markets for the purposes of Professional Client classification?"
+    },
+    {
+        "QuestionID": "a0f05fc0-1803-4811-a668-3131624d46c4",
+        "Question": "Could you please provide guidance on the specific climate-related financial risk factors that our firm should incorporate into our risk management framework?"
+    },
+    {
+        "QuestionID": "2413e0d3-a6d5-4429-a2ae-913b34802017",
+        "Question": "When considering the corporate governance practices of a Branch, what factors does the ADGM examine to determine whether the head office\u2019s framework is adequate and effectively implemented at the Branch level?"
+    },
+    {
+        "QuestionID": "c852c646-e26e-484d-85f3-f0bc5ef0abfb",
+        "Question": "What are the best practices for sharing CDD and money laundering risk information within a Group, as per ADGM regulations, while ensuring compliance with relevant data protection legislation?"
+    },
+    {
+        "QuestionID": "4ca2fcbd-7807-4d80-900c-7d923fe214cf",
+        "Question": "What are the ADGM's minimum requirements or standards for an eKYC system to be considered compliant with the relevant CDD rules?"
+    },
+    {
+        "QuestionID": "c066d7fd-fcc3-43e1-acc0-107a87260588",
+        "Question": "How does the ADGM expect companies to limit business relationships or financial transactions with specified persons or jurisdictions identified in directives or sanctions?"
+    },
+    {
+        "QuestionID": "219fbded-7a7e-41c5-9866-60902ffa374b",
+        "Question": "Could you provide guidance on best practices for maintaining up-to-date information on business partners and conducting ongoing due diligence?"
+    },
+    {
+        "QuestionID": "b46dd17c-9f13-4709-bf13-4c34fdc6c910",
+        "Question": "What are the consequences for a Fund Manager and the Private Credit Fund if they fail to demonstrate appropriate systems and controls as per the Rules in FUNDS?"
+    },
+    {
+        "QuestionID": "d11a3568-5797-4e40-9fc1-c4b344accaeb",
+        "Question": "In the context of a Cell Company, which rule is applied to the individual segments to manage concentration risk?"
+    },
+    {
+        "QuestionID": "37a57f63-435d-47b9-8fe0-1bbef51b2133",
+        "Question": "Which categories of Authorized Persons are required to adhere to the Risk Capital Requirement as part of their Capital Requirement?"
+    },
+    {
+        "QuestionID": "5bbd4927-b0b0-42a9-b0cb-3e245120c9de",
+        "Question": "What additional compliance requirements might the Regulator impose on an Authorised Person engaged in Regulated Activities with Virtual Assets or Spot Commodities?"
+    },
+    {
+        "QuestionID": "7c623f50-37d3-4dff-a13e-642dd6d90f00",
+        "Question": "Are there any exceptions or extensions available for insurers who are unable to submit the required reports at the same time as the annual Regulatory Return?"
+    },
+    {
+        "QuestionID": "88359abd-3739-43cc-a5d5-51b24062692d",
+        "Question": "How should the potential for Financial Crime risks that might arise from the implementation of new or developing technology, such as in NFTF interactions, be addressed in our company's compliance framework?"
+    },
+    {
+        "QuestionID": "067edee2-7c81-47f1-9106-e4c7f5914347",
+        "Question": "What specific compliance frameworks and controls does the ADGM expect insurers to have in place to effectively monitor and manage the risks associated with changes in relationships between group members?"
+    },
+    {
+        "QuestionID": "06504264-a1bf-403a-8c9a-3684786f05cb",
+        "Question": "Can the FSRA clarify the types of policies and procedures that Authorised Persons should have in place to address breaches of private/public keys and client user access credentials?"
+    },
+    {
+        "QuestionID": "6bd18e0d-d0ee-4264-bfa4-05a08f9a5a08",
+        "Question": "During which hours can the public view the records held by the Regulator?"
+    },
+    {
+        "QuestionID": "ee797a3e-38d9-4ec9-ab7f-dc4b753ed232",
+        "Question": "What are the best practices for documenting and disclosing the types of decisions made by the Board versus those delegated to Senior Management?"
+    },
+    {
+        "QuestionID": "0ed241e7-9614-4900-891d-87660e854f47",
+        "Question": "Could you provide specific examples of the criteria or benchmarks used to evaluate if an employee continues to be competent and capable of performing their role within the regulatory framework?"
+    },
+    {
+        "QuestionID": "068c76fe-b728-407f-88b3-4d7d21b9580a",
+        "Question": "What level of oversight and review does the ADGM expect from an Insurer's senior management regarding the effectiveness of systems and controls for monitoring Group activities?"
+    },
+    {
+        "QuestionID": "240fa210-9668-44f8-b6b3-fb981ececf08",
+        "Question": "How does COBS Rule 22.3 contribute to the objectives of the Spot Commodities Framework in terms of sustainability?"
+    },
+    {
+        "QuestionID": "40ca8657-aa25-40af-a9b3-8552ad706f36",
+        "Question": "Can you provide detailed guidance on the specific compliance requirements for Feeder Funds under rule (1)(a)(ii), (b), and (d) and for Master Funds under rule (1)(a)(i), (b), (c), and (d) within a Venture Capital Fund structure?"
+    },
+    {
+        "QuestionID": "0de26773-bbf9-4e00-90b3-fe9b53c2abac",
+        "Question": "How should a Recognised Investment Exchange or Recognised Clearing House interpret and apply the requirement to ensure it does not facilitate fund raising activities or listings by Persons engaged in prohibited activities, such as money laundering or terrorist financing?"
+    },
+    {
+        "QuestionID": "ee1a009e-0029-4d2b-b81b-485323ef20c5",
+        "Question": "What specific cybersecurity frameworks or standards does the ADGM recognize or recommend for Digital Investment Managers to adhere to in order to meet compliance requirements?"
+    },
+    {
+        "QuestionID": "76af2154-a97e-4fd1-9e8d-c39ec0ac12a6",
+        "Question": "What are the ADGM's expectations for the frequency and comprehensiveness of market risk management reporting, and how should changes to risk levels and the effectiveness of remedial actions be demonstrated within these reports?"
+    },
+    {
+        "QuestionID": "4e871653-9e0b-4df6-b2ed-1b7bc6fefca0",
+        "Question": "How does the ADGM oversee and enforce compliance with these regulations, and what are the reporting requirements for a Relevant Person in this regard?"
+    },
+    {
+        "QuestionID": "acc119aa-90fe-48a3-aa1a-f27a2c59292e",
+        "Question": "In the preparation of a securities note for digital securities, what are the key pieces of information the FSRA deems essential, and what common oversights should issuers avoid to facilitate the FSRA's use of its deeming power?"
+    },
+    {
+        "QuestionID": "9efa0ea2-b25f-463b-8ee8-9516230c1ebe",
+        "Question": "In the absence of a fiat token issuance, what are the key considerations and FSRA expectations for a Virtual Asset Custodian holding custody over both Accepted Virtual Assets and fiat tokens?"
+    },
+    {
+        "QuestionID": "42331efd-5776-4891-8bd7-df4d18309d6f",
+        "Question": "What are the consequences for an Insurer\u2019s senior management if it fails to adequately oversee regulatory compliance for outsourced or delegated functions?"
+    },
+    {
+        "QuestionID": "f1ad8bab-4bbc-4c22-add3-ad2d5a47937f",
+        "Question": "Can the Regulator provide examples of the 'information, evidence, and explanatory material' required to demonstrate compliance with Rule 7.2.2 for applicants seeking recognition?"
+    },
+    {
+        "QuestionID": "d16c9dcb-e04e-4978-9781-fbf289b7cbaf",
+        "Question": "In what specific scenarios would the ADGM consider the Enhanced Customer Due Diligence measures under Rule 8.4.1 to be insufficient, thereby necessitating the first payment through a customer's bank account?"
+    },
+    {
+        "QuestionID": "aa301f70-2daf-4810-b194-4c56f563a9c6",
+        "Question": "Are there any exceptions or specific conditions under which a dealer would not be required to register a transaction via goAML for sales equal to or exceeding USD 15,000?"
+    },
+    {
+        "QuestionID": "e2a4bc79-d2ad-4c2c-8b8a-b55c3a94cae4",
+        "Question": "Can the ADGM provide examples of best practices for internal policies that facilitate prompt and effective employee reporting of suspicions to the MLRO?"
+    },
+    {
+        "QuestionID": "c5dbe24c-1ddc-4d4a-94cf-13424e28b1e5",
+        "Question": "How should we document and present our analysis of Suspicious Activity/Transaction Reports to demonstrate that we have identified areas requiring procedural or training enhancements?"
+    },
+    {
+        "QuestionID": "fd636e04-16be-4732-9ab1-961781cbf205",
+        "Question": "When managing their assessment of insurance liabilities, how detailed should the data available to managers be?"
+    },
+    {
+        "QuestionID": "656e2144-bd6b-441b-a8c3-126859047f04",
+        "Question": "How does the ADGM define an \"enterprise-wide risk management approach,\" and what are the minimum requirements for integrating such an approach with our business and operational conduct?"
+    },
+    {
+        "QuestionID": "0a4c9387-e1bf-49b3-8950-a8cd68c917bd",
+        "Question": "Can you provide specific criteria or benchmarks that define when a business risk assessment, as required by Rule 6.1.1, should be considered adequate and sufficient from the regulator's perspective?"
+    },
+    {
+        "QuestionID": "fe81460b-de21-4c7f-ba30-c5a61a8eb26c",
+        "Question": "How does the FSRA expect companies to demonstrate adherence to internationally recognized certification standards for responsible and sustainable sourcing in the Spot Commodities Framework?"
+    },
+    {
+        "QuestionID": "2346597d-90c3-406a-8201-069358d3c513",
+        "Question": "What are the FSRA's reporting and disclosure requirements for Authorised Persons in the event of both planned and unplanned system outages?"
+    },
+    {
+        "QuestionID": "4616b8b0-08e6-4f77-9a8e-5410a0f3968c",
+        "Question": "In what circumstances would the regulator require an authorised person to recalibrate or enhance its internal market risk model?"
+    },
+    {
+        "QuestionID": "cb02ab56-69bb-4e29-a784-26d04b62b2b2",
+        "Question": "For what specific purpose would a Body Corporate seek to be declared a Recognized Investment Exchange as per the given Regulations?"
+    },
+    {
+        "QuestionID": "630b3b08-bce4-4396-b045-8e74918c6dca",
+        "Question": "When preparing to appoint a third party for attestation services, how does an Authorised Person ensure that the third party has access to all necessary documents, records, and information to perform their role effectively?"
+    },
+    {
+        "QuestionID": "e1968d34-f906-45dc-b875-77fb06be1272",
+        "Question": "Can you provide guidance on the application of liquidity facilities in securitization, specifically in relation to credit risk management and the calculation of RWAs?"
+    },
+    {
+        "QuestionID": "504c93a8-c6c4-40b2-a8a9-076e4e549d10",
+        "Question": "Can the ADGM provide guidance on the minimum standards or best practices for employee whistleblower protections, ensuring that disclosures related to market abuse or financial crime can be made safely and confidentially?"
+    },
+    {
+        "QuestionID": "2f6b5691-cb97-4d63-a14f-081a7af263b1",
+        "Question": "What are the essential elements that should be included in the documentation of our monitoring and reporting processes and procedures?"
+    },
+    {
+        "QuestionID": "a7b7a450-24b1-45b2-bb2e-8dcad1f4a5fe",
+        "Question": "Can the FSRA provide any templates or examples of best practice record-keeping that would satisfy the requirements for monitoring and reporting suspicious activities?"
+    },
+    {
+        "QuestionID": "ec39574c-e5a7-44e5-a7b2-af1c16aabd8c",
+        "Question": "What ongoing monitoring and reporting requirements are expected from an Authorised Person or Recognised Body regarding the remuneration structures of Persons Undertaking Key Control Functions?"
+    },
+    {
+        "QuestionID": "7897b253-8c88-4832-b7ca-98b10d58a47c",
+        "Question": "Could you clarify what constitutes \"an excessive requirement\" under the Recognition Order application process and provide examples of requirements that have been deemed excessive in the past?"
+    },
+    {
+        "QuestionID": "6f004a8b-ccb3-49ad-bd28-b339206865ef",
+        "Question": "Could you outline the process and requirements for an Authorised Person to seek approval from the FSRA for conducting Regulated Activities with both conventional and Virtual Assets?"
+    },
+    {
+        "QuestionID": "93f4d072-d9ee-41ef-8448-a8fda51dab54",
+        "Question": "In the event that there is legislation restricting access to data, what is the process for obtaining certified copies of records, and which jurisdictions are recognized by the ADGM as permitting access by Relevant Persons, the Regulator, or U.A.E. law enforcement agencies?"
+    },
+    {
+        "QuestionID": "c03934c6-2077-404d-82e2-562e60536d11",
+        "Question": "Could you outline the steps or measures that a Relevant Person must take to remain informed of and mitigate the money laundering risks associated with the Group as a whole?"
+    },
+    {
+        "QuestionID": "ad51018b-7d5e-405c-ae1a-9bdede34a9c3",
+        "Question": "Can the ADGM provide guidance on how to calculate the Capital Requirement for regulatory capital purposes in cases of maturity mismatch, as outlined in Section 4.13?"
+    },
+    {
+        "QuestionID": "24dfe60e-8cb7-4fdd-a0e6-4fd3bbb2ba1c",
+        "Question": "Could you provide more detailed guidance on the specific elements that need to be included in our business risk assessment as required by Rule 6.1.1 to ensure comprehensive compliance?"
+    },
+    {
+        "QuestionID": "2c634c0d-262a-4042-8db9-fc43fc531984",
+        "Question": "In the context of managing outsourcing risk, what are the key elements that should be included in an outsourcing agreement to ensure compliance with ADGM regulations, and how should these be monitored?"
+    },
+    {
+        "QuestionID": "0255aa9c-20a5-4978-8e13-7091a262a789",
+        "Question": "Under what regulation can a Fund Manager delegate both the activities of Administration and Asset Management for a Collective Investment Fund to a third-party Service Provider?"
+    },
+    {
+        "QuestionID": "6f7754e3-55d8-4f82-a707-fffc8aa9ea6e",
+        "Question": "Could you clarify the specific notification requirements for Authorised Persons and Recognised Bodies in relation to breaches or likely breaches of regulations or rules, and the systems and procedures that should be in place to comply with these requirements?"
+    },
+    {
+        "QuestionID": "0d1a69d8-9f57-4c99-a9d2-96bf1aecfc80",
+        "Question": "In cases where Enhanced Customer Due Diligence measures are still leaving some doubts about a customer's risk profile, could the regulatory authority provide additional guidance or a checklist for when it might be appropriate to require the first payment through a bank account in the customer's name?"
+    },
+    {
+        "QuestionID": "a80d40c1-3e8c-4822-8c40-dfd65328a911",
+        "Question": "What constitutes a \"credible net zero emissions target and strategy,\" and how should an Authorised Person reasonably validate that an entity is on course to meet its net zero emissions targets?"
+    },
+    {
+        "QuestionID": "43491933-9a8f-4280-9785-7a1b36da4159",
+        "Question": "- What are the best practices for mitigating the risk of financial crime through the misuse of eKYC systems?"
+    },
+    {
+        "QuestionID": "fab46274-d74d-4a38-949d-c1fd45ad023d",
+        "Question": "- Could you detail the procedures that should be in place to address a Member's failure to settle trades as per the rules?"
+    },
+    {
+        "QuestionID": "ee9725bb-d411-4aff-bd05-8f3a4997bf33",
+        "Question": "Can you detail the process for obtaining written confirmation from an Auditor regarding the change of financial year end, and what constitutes a \"significant distortion\" of an Authorised Person's financial position?"
+    },
+    {
+        "QuestionID": "94058218-eb5d-410d-9d6f-e59efcf6945d",
+        "Question": "What disclosure requirements must an Institution in Resolution fulfill when a bail-in action is taken, particularly in relation to canceled or diluted Shares and affected creditors?"
+    },
+    {
+        "QuestionID": "6439587e-f47f-4e56-9325-52e3f089368e",
+        "Question": "Can the ADGM provide insights on how to effectively allocate and prioritize AML/TFS resources in light of the findings from the business risk assessment?"
+    },
+    {
+        "QuestionID": "f8a99943-e6ce-486e-b7a7-ca4b2a893200",
+        "Question": "What are the key functions and components that are considered mandatory for an effective Credit Risk management framework within an Authorised Person's organizational structure?"
+    },
+    {
+        "QuestionID": "2565e627-ea62-48a8-9d15-5435f494335b",
+        "Question": "In the context of COBS Rule 15.9.1, what constitutes an acceptable reconciliation process for a Client\u2019s Accepted Virtual Asset holdings, and what records must be maintained to demonstrate compliance with the weekly reconciliation requirement?"
+    },
+    {
+        "QuestionID": "916cd610-4a32-44e0-8269-fd955898464d",
+        "Question": "Could the Regulator provide examples of the 'further action' that may be taken in response to late Regulatory Filings as a means to better understand the range of potential consequences?"
+    },
+    {
+        "QuestionID": "5a5c36bf-1398-45fa-8bb9-8f1d9f50490a",
+        "Question": "How should a Mining Reporting Entity approach the disclosure of a Production Target when there has been a partial depletion of the Mineral Resources or Ore Reserves since the initial disclosure under Rule 11.8.3?"
+    },
+    {
+        "QuestionID": "c39f3c8a-ae0c-4ba2-bd6a-434e1b87c638",
+        "Question": "Can you detail the requirements and best practices for integrating eKYC systems with transaction monitoring, anti-fraud, and cybersecurity measures within the ADGM framework?"
+    },
+    {
+        "QuestionID": "f58effbd-6405-44a6-b9e1-492ac7423555",
+        "Question": "According to Rule \u200e3.8.12(d), which categories of assets should be included in the disclosure for an Authorised Person seeking to designate their portfolio as an ADGM Climate Transition Portfolio?"
+    },
+    {
+        "QuestionID": "53c32544-04d3-4d74-a4f2-8e7add8dd221",
+        "Question": "For Multilateral Trading Facilities (MTFs), what are the substance requirements for start-up MTFs' order books and matching engines? How should existing operational virtual asset exchanges determine which parts of their order book and matching engine will fall under FSRA regulatory oversight?"
+    },
+    {
+        "QuestionID": "2855752f-fc24-4577-8056-4fb0ae0beea2",
+        "Question": "When relying on Rule 7.2.2(1)(a) for non-disclosure due to incomplete matters or negotiations, what are the acceptable practices for scheduling Board decisions or contract signings around the RIE's market hours to maintain confidentiality?"
+    },
+    {
+        "QuestionID": "268b52b4-8682-4b75-b5e2-3bda4970631d",
+        "Question": "What are the regulatory expectations for claim settlement procedures, and can you provide guidance on establishing criteria for accepting or rejecting claims that meet these expectations?"
+    },
+    {
+        "QuestionID": "4d13779e-7816-4cae-9915-e5750dde9344",
+        "Question": "What specific systems and controls does the ADGM expect an Authorised Person to maintain to comply with the Safe Custody Rules in COBS Chapter 15 throughout the year?"
+    },
+    {
+        "QuestionID": "8243b965-39b7-4a0b-9ae9-dad15b070ee8",
+        "Question": "Can you provide specific examples of the additional compliance requirements that a Virtual Asset MTF would be required to adhere to when extending operations to include Digital Securities, beyond those already in place for Virtual Assets?"
+    },
+    {
+        "QuestionID": "b9cec0da-bfb6-434a-b072-4c2ad4659759",
+        "Question": "Regarding the Spot Commodities Framework, what measures are in place to ensure that Price Reporting Agencies (PRAs) operate within the regulated framework, and how is compliance monitored?"
+    },
+    {
+        "QuestionID": "9e7ed2b0-153d-4d61-892f-7b8d38bdbf04",
+        "Question": "- Can you provide detailed guidance on how to calculate and report retained First Loss Positions due to materiality thresholds in guarantees?"
+    },
+    {
+        "QuestionID": "2b7cbd91-8a8e-4c99-bbb2-59a615404fd3",
+        "Question": "Could you provide details on the reporting frequency and format for climate-related financial risks to ensure compliance with ADGM's monitoring and reporting principles?"
+    },
+    {
+        "QuestionID": "23f85bce-dc68-4e57-bf06-61a81501615b",
+        "Question": "Could you provide examples of risk indicators that may signal an increased risk of fraud or theft of personal data within our operations, as per the business risk assessment requirement?"
+    },
+    {
+        "QuestionID": "e1440e53-fc98-4459-a4f2-55dd28c1fa74",
+        "Question": "Can the FSRA provide further guidance on the ongoing compliance obligations for a company that has been authorized to operate within ADGM, specifically concerning the management and reporting of Virtual Assets?"
+    },
+    {
+        "QuestionID": "2a848641-09a9-4fdc-b082-0cc494dfcff3",
+        "Question": "What type of money laundering training program and awareness arrangements are considered adequate under Chapter 13 for ADGM compliance, and how frequently should these be reviewed or updated?"
+    },
+    {
+        "QuestionID": "b12a05af-592b-44b2-8738-b4bde693545e",
+        "Question": "Could you elaborate on the due diligence materials expected by the FSRA as part of the submission process for digital securities?"
+    },
+    {
+        "QuestionID": "d7313e9a-0311-46c4-9116-5f54ff6f83b2",
+        "Question": "What are the specific requirements and conditions that must be included in a Trust Deed when creating an Investment Trust under the ADGM regulatory framework?"
+    },
+    {
+        "QuestionID": "7ebfcbc2-43dc-4f25-9d44-562273e4dfad",
+        "Question": "What specific steps or actions are expected from a Relevant Person to adequately conduct a Targeted Financial Sanctions risk assessment?"
+    },
+    {
+        "QuestionID": "e4f0f1e4-e57e-42eb-9e9d-3718e01bf949",
+        "Question": "How does the FSRA handle instances where a RCH fails to comply with the Recognition Requirements? What are the repercussions and remediation processes?"
+    },
+    {
+        "QuestionID": "d5abdc79-0619-47bd-838f-cb0c5ca20501",
+        "Question": "Can the ADGM provide guidance on the specific steps an Authorised Person should take to reconcile client balances during a hard fork of an Accepted Virtual Asset?"
+    },
+    {
+        "QuestionID": "cb297f24-daab-40e9-8c15-a18545a391d8",
+        "Question": "What are the specific limits and procedural requirements that the Regulator may impose on a special manager's actions, and how are these communicated to the special manager?"
+    },
+    {
+        "QuestionID": "930258ac-aa35-4b0d-9a26-5d95b8369258",
+        "Question": "Could you detail the support and guidance that the dedicated FinTech supervisory team provides to applicants, specifically in terms of preparing a RegLab application and drawing up risk-appropriate testing parameters?"
+    },
+    {
+        "QuestionID": "62bec524-7993-40a5-bc00-cf1758a1d5ab",
+        "Question": "Could you provide a detailed explanation of the minimum standards for responsible and sustainable sourcing and supply that our company must meet to comply with the FSRA's Spot Commodities Framework?"
+    },
+    {
+        "QuestionID": "7b9380e1-e288-443a-bc24-53472724e0d6",
+        "Question": "Under what circumstances might the FSRA exclude the application of certain rules, impose additional obligations, or require specific actions from an Authorised Person dealing in Virtual Assets or Spot Commodities?"
+    },
+    {
+        "QuestionID": "3a8817fb-e1a1-4c87-86cf-977519e07526",
+        "Question": "What are the transaction reporting obligations for Authorized Persons dealing with Accepted Virtual Assets on an MTF within the ADGM jurisdiction?"
+    },
+    {
+        "QuestionID": "c611aeb1-561e-480b-9111-aafad84255fb",
+        "Question": "How does the ADGM determine the appropriate level of regulatory capital an Authorised Person must hold against operational risk exposures, especially in the context of securitisation?"
+    },
+    {
+        "QuestionID": "c4a457ea-88e1-4b5d-8f6a-1878be5ed29b",
+        "Question": "What measures has our company taken to ensure compliance with Rule 2.3, which lays down specific requirements for risk management systems in respect of balance sheet risk, credit quality risk, non-financial or operational risk, reinsurance risk, and Group risk?"
+    },
+    {
+        "QuestionID": "1f2d37b7-635c-4e55-b430-922f85b821de",
+        "Question": "How does the FSRA recommend that an Authorised Person addresses the technical leadership and management aspects of their virtual asset operations to meet regulatory standards?"
+    },
+    {
+        "QuestionID": "11decc39-563c-4b00-a0ca-52af9df72fdf",
+        "Question": "Could you provide further clarification on the specific requirements and steps that an MTF or OTF should undertake to comply with the FSRA's expectations for the management of loss or default?"
+    },
+    {
+        "QuestionID": "b0ab543e-e89a-4a1e-b2cb-b65d989dec96",
+        "Question": "How does the ADGM determine the equivalence of a Credit Quality Grade of III or better in the short-term rating category for securitisation Exposures that are unrated?"
+    },
+    {
+        "QuestionID": "8dca04f4-8676-4883-b90f-81755d0fca0d",
+        "Question": "Are there any recent changes or anticipated updates to the financial reporting requirements for Authorised Persons or Recognised Bodies that we should be aware of?"
+    },
+    {
+        "QuestionID": "ad773796-8fcf-4ec7-85e8-6c72b5037a55",
+        "Question": "Are there preferred insurance providers or specific policy features that the FSRA recommends or requires for Authorized Persons providing custody for Spot Commodities?"
+    },
+    {
+        "QuestionID": "85615170-b70b-47a4-bc4e-f35afd9adcec",
+        "Question": "Regarding Required Stable Funding (RSF) calculations, could you clarify the timing for including executed purchase orders in the RSF calculation? Is it from the execution date or the settlement date?"
+    },
+    {
+        "QuestionID": "581bcee7-e68b-474d-9287-5cb2ebfb06b9",
+        "Question": "How should authorised firms combine eKYC with transaction monitoring, anti-fraud, and cybersecurity measures to create a robust framework for preventing financial crime, and what are the key performance indicators that the FSRA would use to evaluate the effectiveness of such a framework?"
+    },
+    {
+        "QuestionID": "a0dafe67-90fd-4a48-84db-d65db6175164",
+        "Question": "Can you provide detailed guidance on the specific characteristics that determine when a Virtual Asset is treated as a Digital Security under ADGM regulations?"
+    },
+    {
+        "QuestionID": "a57e5f47-d2ff-4fe9-91d0-9d09bcc16865",
+        "Question": "What specific reporting requirements are in place for an Authorised Person with regards to their investments in venture capital funds, especially those declared to constitute high risk by the Regulator?"
+    },
+    {
+        "QuestionID": "faff73ba-43c3-493f-9e3e-1e1c724777ea",
+        "Question": "In the context of Virtual Assets, what specific aspects of the AML Rules are most pertinent for Authorised Persons to ensure compliance with anti-money laundering and countering the financing of terrorism?"
+    },
+    {
+        "QuestionID": "911bc97a-175c-48da-961e-4c509d67f16c",
+        "Question": "How does the ADGM ensure that sustainability considerations are effectively integrated into the regulations, governance, and risk management practices of financial institutions operating within its jurisdiction?"
+    },
+    {
+        "QuestionID": "b8458122-af7d-4791-8f0f-90e4fd14cf3f",
+        "Question": "Can you clarify the specific requirements for Direct Electronic Access, including the minimum standards for Members' controls and the audit trail completeness for transactions processed through electronic connection systems?"
+    },
+    {
+        "QuestionID": "c530718c-1a78-4c1d-96ed-2130571784c5",
+        "Question": "In the case of compliance failures within other Group members, what specific actions are required from the Insurer to rectify the situation and ensure continued adherence to ADGM's regulatory standards?"
+    },
+    {
+        "QuestionID": "d969bc25-0647-4f79-963e-e6587e7b50eb",
+        "Question": "When must a Recognised Body lodge the consultation paper with the Regulator in relation to proposed amendments to its Business Rules, Clearing Rules, or Default Rules as per Rule \u200e2.11.2A?"
+    },
+    {
+        "QuestionID": "f9b2c871-e71b-41dc-8e22-5ce45e45ea31",
+        "Question": "How does the ADGM expect an Authorised Person to demonstrate awareness and active mitigation of money laundering risks within its Group?"
+    },
+    {
+        "QuestionID": "f84c5b47-90f2-45f5-bac2-2b393c005010",
+        "Question": "Could the ADGM provide guidance on how a Relevant Person should document and demonstrate adequate arrangements for cooperation between the AML/TFS regulator in a foreign jurisdiction and the ADGM?"
+    },
+    {
+        "QuestionID": "bb3cd26c-2b7b-4685-bbb9-0176ce05c27d",
+        "Question": "If the Regulator were to request documentation from an Applicant, which rule outlines the specific documents that must be provided?"
+    },
+    {
+        "QuestionID": "1c19e617-9c0f-4b1d-9da4-2f3d3a91662e",
+        "Question": "How does the ADGM define 'Senior Management' for the purposes of compliance with the AML Rulebook, and what specific responsibilities do they have in ensuring adherence to AML regulations?"
+    },
+    {
+        "QuestionID": "8e0f9ff0-5dc6-48d3-a209-dad0f752c4f0",
+        "Question": "If a regulator requests a specific document from an Authorised Person, within what time period is the Authorised Person required to provide access to that document?"
+    },
+    {
+        "QuestionID": "06fb8360-93d8-46ea-a1a2-7ab99c29ee8a",
+        "Question": "Could you provide clarification on the roles and independence of key control function personnel, such as heads of compliance, risk control, and internal audit, as per the regulatory expectations?"
+    },
+    {
+        "QuestionID": "c4124f44-3498-4fa9-b5ae-442b6cf3fc54",
+        "Question": "In the context of Digital Investment Managers, can you outline the key components that should be included in our data security policies to meet the standards set by ADGM\u2019s Data Protection Regulations and PRU 6.6 \u2013 6.9?"
+    },
+    {
+        "QuestionID": "cf2816c2-c5e1-4c81-bd07-d2b7898e992f",
+        "Question": "Could the FSRA provide examples of the minimum standards for responsible and sustainable sourcing that participants in the commodity markets are expected to meet?"
+    },
+    {
+        "QuestionID": "ab99203d-a1b2-4f14-ae44-903e5082175e",
+        "Question": "Could the ADGM clarify the treatment of materiality thresholds in guarantees, particularly regarding the point at which a materiality threshold is considered a retained First Loss Position and requires a deduction from Capital Resources?"
+    },
+    {
+        "QuestionID": "97394e61-3d0b-4a2c-a52d-53ef9c727016",
+        "Question": "What specific documentation is required to report suspected or actual market abuse, financial crime, or money laundering activities to the Regulator, and what is the expected timeline for such reporting?"
+    },
+    {
+        "QuestionID": "f82487c6-3d8d-4c5d-845e-9fdc7e4ed6b1",
+        "Question": "When assessing the risk associated with a customer's country of origin or place of business, what specific factors should we consider to ensure a comprehensive evaluation in line with ADGM compliance requirements?"
+    },
+    {
+        "QuestionID": "29fa55f9-2dd1-46e5-a681-cbb2c84affd7",
+        "Question": "How should a Relevant Person establish and maintain a money laundering training program and awareness arrangements to ensure compliance with Chapter 13, and what elements should this training program include?"
+    },
+    {
+        "QuestionID": "07ced741-8abc-43a2-80b0-7740685481f4",
+        "Question": "Can the ADGM provide clarification on the processes and procedures a Reporting Entity should follow if it disagrees with the Listing Authority\u2019s assessment that disclosure is necessary to correct or prevent a false market?"
+    }
+]
