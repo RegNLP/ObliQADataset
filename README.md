@@ -127,8 +127,7 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
       | Test        | 2786      | 2126      | 506        | 105        | 36         | 9          | 4          |
       | Development | 2888      | 2215      | 514        | 116        | 30         | 12         | 1          |
 
-## Paper
-ObliQA is described in detail in the paper [Question Answering in Regulatory Compliance: Benchmark Dataset for Multi-Document Passage Retrieval in RegNLP] by Tuba Gokhan, Kexin Wang, Iryna Gurevych, and Ted Briscoe. Please cite our paper in research work that uses or discusses ObliQA. Further details will be announced soon.
+
 
 ### BibTeX
 
