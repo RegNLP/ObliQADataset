@@ -1,0 +1,97 @@
+FOREIGN ACCOUNT TAX COMPLIANCE REGULATIONS 2022	
+Regulations to make provision for the implementation of the exchange of information in relation to taxation related matters pursuant to an intergovernmental agreement between the United Arab Emirates and the United States of America regarding the Foreign Account Tax Compliance Act (FATCA).
+Date of Enactment: 14 December 2022
+The Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, hereby enacts the following Regulations–
+Part 1	Introduction
+Part 1.1.	Definitions
+Part 1.1.(1)	In these Regulations capitalised terms will bear the meaning given to them in the Cabinet Resolution, unless otherwise defined below or the context otherwise requires.
+
+/Table Start
+ADGM	means the Abu Dhabi Global Market.
+ADGM Court	means the Abu Dhabi Global Market court of first instance established under Abu Dhabi Law No. 4 of 2013.
+Cabinet Resolution	means the UAE’s Cabinet of Ministers Resolution No. 63 of 2022 concerning the implementation of Federal Decree No. 9 of 2016 ratifying the IGA, as may be amended from time to time.
+Designated Officer	means any person, or delegate of that person, appointed by the Regulatory Authority pursuant to the provisions of subsection 5(3).
+Government 	means the federal government of the UAE.
+IGA	means the intergovernmental Agreement entered into between the United Arab Emirates and the United States of America on 17 June 2015, as may be amended from time to time.
+Regulatory Authority	means the ADGM Financial Services Regulatory Authority.
+UAE	means the United Arab Emirates.
+/Table End
+
+Part 1.2.	Application 
+Part 1.2.(1)	The Cabinet Resolution applies in the ADGM pursuant to these Regulations. 
+Part 1.2.(2)	Any Account Holder, Controlling Person, and Financial Institution subject to the supervision of the Regulatory Authority for purposes of the Cabinet Resolution and these Regulations shall comply with the Cabinet Resolution and these Regulations. 
+Part 1.2.(3)	A contravention of the Cabinet Resolution shall constitute a contravention of these Regulations.
+
+
+Part 1.3.		Status of Competent Authority publications and material
+Part 1.3.(1)	For the purposes of these Regulations, any explanatory material and guidance issued by the Competent Authority for the purpose of assisting with the implementation of the IGA and the Cabinet Resolution is integral to giving effect to the IGA and Cabinet Resolution and accordingly forms the required rights and obligations under these Regulations.
+
+Part 2	Role and Powers of the Regulatory Authority
+Part 2.4.	Role and powers of the Regulatory Authority
+Part 2.4.(1)	The Regulatory Authority is designated as the Regulatory Authority for the ADGM, for the purposes of the Cabinet Resolution, and has such functions and powers as are conferred, or expressed to be conferred, on it:
+(a)	     by or under these Regulations; 
+(b)	by or under the Cabinet Resolution;
+(c)	by any other instrument or enactment issued by the ADGM Board of Directors; and
+(d)	by the Competent Authority or the Government from time to time.
+Part 2.4.(2)	The Regulatory Authority has the power to do whatever it deems necessary for or in connection with, or reasonably incidental to, performing its functions and exercising its powers granted under these Regulations or the Cabinet Resolution, inclusive of but not limited to: 
+(a)	issuing guidance and directives pursuant thereto; and
+(b)	delegating its duties and powers under these Regulations or the Cabinet Resolution to Designated Officers. 
+
+
+Part 2.5.	Powers of inspection and investigation
+Part 2.5.(1)	Without prejudice to the powers of inspection and investigation set out in the Cabinet Resolution, the Regulatory Authority may:
+(a)	require any Account Holder, Controlling Person or Financial Institution to provide records, information, explanations and particulars and to give all the required assistance which the Regulatory Authority may reasonably require in connection with the administration or enforcement of these Regulations;
+(b)	by notice in writing, require any Account Holder, Controlling Person or Financial Institution to provide to the Regulatory Authority such information as the Regulatory Authority may reasonably require for any purpose relating to the administration or enforcement of these Regulations, such information to be provided or produced before the end of such reasonable period as may be set out in the relevant notice;
+(c)	request information from and, at all reasonable times, enter any premises or place of business of a Financial Institution for the purposes of:
+(i)	assessing compliance with these Regulations;
+(ii)	determining whether information included in an information return made under these Regulations is correct and complete and whether information not included in an information return was correctly not included; and/or
+(iii)	examining the systems and internal procedures put in place by a Reporting UAE Financial Institution for the purposes of ensuring compliance with that entity’s obligations under these Regulations.
+Part 2.5.(2)	The Regulatory Authority may request information from any Account Holder or Controlling Person including, but not limited to, Accounting Records and all other records held in connection with the information or certifications provided to a Financial Institution, and the Regulatory Authority may ask the Financial Institution to assist it to obtain such information or records from Account Holders and Controlling Persons.
+Part 2.5.(3)	The Regulatory Authority may appoint Designated Officers to assist it in inspections performed at the premises of Financial Institutions pursuant to the provisions of subsections 5(1) and (2) and to submit such written reports in respect thereof as the Regulatory Authority may direct.
+Part 2.5.(4)	The Regulatory Authority may require a Financial Institution to produce a report and/or appoint a skilled person to produce a report.
+Part 2.5.(5)	For the purposes of subsection 5(4), sections 203 and 204 of the Financial Services and Markets Regulations 2015 shall apply in relation to requiring a report or appointing a skilled person to produce a report (as the case may be). A Financial Institution shall be read as falling within the scope of “A” for the purposes of the application of those sections.  
+Part 2.5.(6)	The Regulatory Authority may commence an investigation in relation to a Financial Institution.
+Part 2.5.(7)	For the purposes of subsection 5(6), sections 205 to 215 and section 217 of the Financial Services and Markets Regulations 2015 shall apply in relation to commencement and conduct of an investigation by the Regulatory Authority of a Financial Institution. 
+
+Part 3	Reporting and Record keeping
+Part 3.6. 	Collecting and reporting information
+Part 3.6.(1)	Each Reporting UAE Financial Institution shall collect and report all information in accordance with the Cabinet Resolution and these Regulations. 
+Part 3.6.(2)	Each Reporting UAE Financial Institution shall establish and implement appropriate systems and internal procedures to enable its compliance with the Cabinet Resolution and these Regulations.
+Part 3.7. 	Record keeping 
+Part 3.7.(1)	Every Reporting UAE Financial Institution shall keep records of the steps undertaken and any evidence relied upon for the performance of the due diligence procedures and the measures to obtain those records that the Reporting UAE Financial Institution obtains or creates for the purpose of complying with the Cabinet Resolution and these Regulations.
+Part 3.7.(2)	Every Reporting UAE Financial Institution that is required to keep, obtain or create records under these Regulations shall retain those records for a period of at least six (6) years after the date of reporting to the Regulatory Authority.
+Part 3.7.(3)	Every Reporting UAE Financial Institution required by these Regulations to keep records that does so electronically shall retain them in an electronically readable format for the retention period of six (6) years after the date of reporting it to the Regulatory Authority.
+Part 3.7.(4)	Every Reporting UAE Financial Institution that obtains or creates records, as required under these Regulations, in a language other than English shall, upon request, provide an English translation to the Regulatory Authority.
+
+Part 4	Penalties and contraventions
+Part 4.8.	Power to prescribe penalties and procedures 
+Part 4.8.(1)	The Regulatory Authority may prescribe:
+(a)	penalties and administrative fees and other sanctions in addition to the penalties and administrative sanctions stipulated in the Cabinet Resolution; and
+(b)	forms and additional procedures in relation to: 
+(i)	the imposition and recovery of penalties and administrative fees imposed pursuant to these Regulations (including those stipulated in the Cabinet Resolution); 
+(ii)	the enforcement of actions required by the Regulatory Authority pursuant to these Regulations; and
+(iii)	any objection or right of appeal in respect of any penalties or administrative fees or action required or the enforcement thereof.
+
+
+Part 4.9.	Penalties, sanctions and appeal
+Part 4.9.(1)	An Account Holder, Controlling Person or Financial Institution who:
+(a)	does an act or thing that is prohibited under the Cabinet Resolution or these Regulations;
+(b)	does not do an act or thing that is required under the Cabinet Resolution or these Regulations; or
+(c)	otherwise contravenes the Cabinet Resolution or these Regulations,
+commits a contravention of the Cabinet Resolution and these Regulations and is liable to the penalties and administrative sanctions set out in the Cabinet Resolution, and any other penalty or administrative fee or sanction that may be imposed by the Regulatory Authority pursuant to subsection 8(1)(a).
+Part 4.9.(2)	Any appeal against any penalty or fee or sanction imposed pursuant to subsection 9(1) must be raised pursuant to the relevant provisions of the Cabinet Resolution.
+Part 4.9.(3)	For the purposes of any further appeal to a competent court pursuant to the Cabinet Resolution, an application for judicial review of a decision of the Regulatory Authority may only be made to the ADGM Court within the timeframe set out in the Cabinet Resolution on the grounds that the decision is wrong in law. 
+Part 4.9.(4)	Any reference to a competent court in the Cabinet Resolution shall mean the ADGM Court.
+
+
+Part 4.10.	Directions to comply
+Part 4.10.(1)	Where the Regulatory Authority, or its delegate, considers that an Account Holder, Controlling Person or Financial Institution has contravened the Cabinet Resolution or these Regulations it may by written notice to such person order that certain action be taken to comply with these Regulations.
+
+
+Part 4.11.	Anti-Avoidance
+Part 4.11.(1)	If a Reporting UAE Financial Institution, person or intermediary enters into any arrangements or engages in a practice, the main purpose or one of the main purposes, of which can reasonably be considered to be to avoid an obligation imposed pursuant to these Regulations , the Reporting UAE Financial Institution, person or intermediary is subject to the obligation as if the Reporting Financial Institution, person or intermediary had not entered into the arrangement or engaged in the practice.
+Part 5	Indemnity and effective date
+Part 5.12.	Indemnity
+Part 5.12.(1)	Unless it can be shown that it acted in bad faith, neither the Regulatory Authority, its delegate, nor any Designated Officer can be held liable for any act, attempted act or omission in the performance, purported non-performance or non-performance of its functions in connection with these Regulations.
+Part 5.12.13.	Effective date
+Part 5.12.13.(1)	These Regulations become effective on date of enactment.

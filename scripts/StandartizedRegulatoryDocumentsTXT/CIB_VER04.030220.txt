@@ -1,0 +1,666 @@
+ 
+1	GENERAL PROVISIONS
+1.1	Application
+This Rulebook shall apply to Captive Insurers subject to alternative provision in these Rules or where the context otherwise requires.
+1.2	Captive Insurance Business
+1.2.1	Captive Insurance Business means the business of effecting or carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer. 
+1.2.2	For this purpose, a Class 1, Class 2, Class 3 or Class 4 Captive Insurer may effect or carry out contracts that are limited to contracts of reinsurance for risks insured by the Cedant. 
+1.3	Classes of Captive Insurance Business
+1.3.1	A Captive Insurer is an Authorised Person permitted under the conditions of its Financial Services Permission to carry on Captive Insurance Business as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer. 
+1.3.2	An Cell Company may carry on Captive Insurance Business through some or all of its Cells (those Cells carrying on Captive Insurance Business being a Class 1, Class 2, Class 3 or Class 4 Captive Cell, as the case may be). References to a Captive Insurer in these Rules shall be construed to include, where relevant, a Cell Company maintaining one or more Captive Cells. 
+1.3.3	An insurer that is not incorporated in the ADGM cannot be a Captive Insurer. 
+1.4	Class 1 Captive Insurer
+A Class 1 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group to which the insurer belongs. 
+1.5	Class 2 Captive Insurer
+A Class 2 Captive Insurer is a Captive Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the insurer belongs. 
+1.6	Class 3 Captive Insurer 
+A Class 3 Captive Insurer is a Captive Insurer that: 
+(a)	is permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of persons who engage in similar, related or common: (i) business; (ii) activities; (iii) trade; (iv) services; or (v) operations; and
+(b)	is owned by the persons mentioned in paragraph (a) or by a Body Corporate of which all such persons are members.
+1.7	Class 4 Captive Insurer 
+1.7.1	The Regulator may decide that any entity that does not meet the requirements for a Class 1 Captive Insurer, Class 2 Captive Insurer or Class 3 Captive Insurer is a Class 4 Captive Insurer. 
+1.7.2	Without limiting Rule ‎1.7.1, the Regulator may take into account the following matters in deciding whether an entity is a Class 4 Captive Insurer:
+(a)	the business rationale for making the entity a Captive Insurer; 
+(b)	the use or non-use of the entity as a risk management tool; 
+(c)	the nature of the interests of the shareholders or members of the entity and whether they are aligned, or have some commonality with, the policyholder; 
+(d)	any unique or expert knowledge of the shareholders or members of the entity about the risks to be insured; 
+(e)	the appropriateness of the structure for the proposed activities or whether the business is more akin to a commercial insurer; and
+(f)	whether the entity provides insurance to policyholders in relation to activities connected, conducted, controlled, related, managed, serviced or sold by the shareholders or members of the entity to these policyholders.
+1.8	Captive Insurance Management
+1.8.1	A Captive Insurance Manager is an Authorised Person permitted under the conditions of its Financial Services Permission to carry on Captive Insurance Management. 
+1.8.2	Captive Insurance Management is the administration of, and exercise of, managerial functions for a Captive Insurer and includes the administration of Contracts of Insurance for the insurer. 
+ 
+2	GENERAL PRUDENTIAL RULES
+2.1	Financial resources 
+2.1.1	A Captive Insurer must have and maintain at all times financial resources of the kinds and amounts required by and calculated in accordance with this Chapter.
+2.1.2	A Captive Insurer must also have and maintain at all times additional financial resources which are adequate in relation to the nature, size and complexity of its business to ensure that there is no significant risk that liabilities cannot be met as they fall due.
+2.1.3	A Captive Insurer must have in place appropriate systems and controls to enable it to:
+(a)	monitor its minimum capital and solvency requirements; and 
+(b)	show, at all times, whether it complies with this Chapter.
+2.2	Minimum capital
+2.2.1	Minimum capital requirements
+(1)	A Captive Insurer must have and maintain at all times the minimum capital required under this Chapter
+(2)	The minimum capital requirement for a Captive Insurer is the highest of the following:
+(a)	the base capital requirement for the Captive Insurer under Rule ‎2.2.2;
+(b)	the premium risk component under Rule ‎2.2.3; and
+(c)	the technical provision risk component under Rule ‎2.2.4 or Rule ‎2.2.5.
+(3)	Notwithstanding Rule ‎2.2.1(2) above, the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator’s own initiative) to comply with a higher minimum capital requirement than as set out in these Rules.
+2.2.2	Base capital requirement
+	The base capital requirement for a Captive Insurer is:
+(a)	for a Class 1 Captive Insurer: $150,000;
+(b)	for a Class 2 Captive Insurer: $250,000 (unless the Regulator sets a different amount);
+(c)	for a Class 3 Captive Insurer: $500,000 (unless the Regulator sets a different amount); and
+(d)	for a Class 4 Captive Insurer: $1 million (unless the Regulator sets a different amount).
+ 
+2.2.3	Premium risk component
+The premium risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer is the amount calculated in accordance with the following formula:
+18% x Captive Insurer's Net Written Premium up to $5 million 
++
+16% x Captive Insurer's Net Written Premium in excess of $5 million
+2.2.4	Technical provision risk component – Captive Insurers conducting general Insurance Business
+
+2.2.4.(1)	The technical provision risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts General Insurance Business is the amount calculated in accordance with the following formula:
+5% x net claims reserve under general Contracts of Insurance,
+where net claims reserve, as at a date, is the amount of the Captive Insurer's provisions for: 
+i.	claims incurred but not yet paid as at the date, including claims incurred but not yet reported; and
+ii.	direct and indirect claims settlement expenses for those claims,
+less the amount of reinsurance and other recoveries expected to be received in respect of those claims.
+2.2.4.(2)	Notwithstanding Rule ‎2.2.4(1), the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator's own initiative) to include a particular Contract of Insurance or class of Contracts of Insurance in the Captive Insurer's net claims reserve.
+2.2.5	Technical provision risk component – Captive Insurers conducting Long-Term Insurance Business 
+The technical provision risk component for a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts Long-Term Insurance Business is 2.5% of the policyholder liabilities calculated using actuarial methods for Long-Term Insurance.
+2.2.6	Regulator to have regard to certain matters 
+2.2.6.(1)	In determining an amount for a Class 2 or Class 4 Captive Insurer under this Chapter, the Regulator must have regard to the nature, size and complexity of the Captive Insurer's business.
+2.2.6.(2)	Without limiting Rule ‎2.2.6(1), the Regulator may, in determining an amount for a Class 2 Captive Insurer, take into account the following:
+
+(a)	the third party risks the Class 2 Captive Insurer expects to insure;
+(b)	how Closely Linked the business or operations giving rise to the third party risks are to the business or operations of the Group to which the Class 2 Captive Insurer belongs;
+(c)	the percentage of Gross Written Premium (up to 20%) that the Class 2 Captive Insurer intends to obtain from third party risks; and
+(d)	any burden or undue risks to the Cedant or other policyholders.
+(3)	Without limiting Rule ‎2.2.6(1), the Regulator may take into account the matters in Rule ‎1.7.2 in determining an amount for a Class 4 Captive Insurer.
+2.2.7	Obligation to inform Regulator of any breach of Rule 2.2 
+If a Captive Insurer becomes aware, or has reasonable grounds to believe that it is or may be, or may be about to be, in breach of any provision of this Chapter, it must:
+(a)	tell the Regulator orally about the matter immediately but within one Business Day; 
+(b)	by written notice given to the Regulator by no later than the next Business Day:
+(i)	confirm the oral notification; 
+(ii)	explain the nature of the breach or why the Captive Insurer considers it may be (or may be about to be) in breach of the provision; and 
+(iii)	set out the action that the Captive Insurer proposes to take about the breach or to avoid the breach; and
+(c)	not make any distribution to its shareholders or members, whether by way of dividends or otherwise, without the Regulator's written permission. 
+2.3	Prudential Requirements – reporting obligations
+2.3.1	Purpose 
+2.3.1.(1)	In this Rule ‎2.3 and the forms as specified by the Regulator from time to time, unless the term 'annual Regulatory Return' or 'quarterly Regulatory Return' is used, the term 'Return' includes both of those Returns.
+2.3.1.(2)	The Regulator may, by written notice given to a Captive Insurer:
+(a)	require the firm to prepare additional prudential returns; or
+(b)	exempt the firm from the requirement to prepare Returns or a particular Return.
+2.3.1.(3)	An exemption under Rule 2.3.1(2)(b) may be subject to conditions, restrictions or requirements. A Captive Insurer given an exemption under Rule 2.3.1(2)(b) must comply with all conditions, restrictions and requirements to which the exemption is subject.
+2.3.2	Annual Regulatory Return
+2.3.2.(1)	A Captive Insurer must, at the end of each reporting period, prepare an annual Regulatory Return.
+2.3.2.(2)	The annual Regulatory Return must comprise the statements set out in this Rule 2.3, together with any Supplementary Notes pertaining to those forms, and including a Statement by Directors. 
+2.3.2.(3)	The form and content of the statements comprising the annual Regulatory Return (including the Statement by Directors) is set out in this Rule ‎2.3 and the Electronic Prudential Reporting System (EPRS) of the Regulator. 
+2.3.2.(4)	Where a Captive Insurer includes in its annual Regulatory Return a value for General Insurance Liabilities or for assets associated with those liabilities which is inconsistent with the amount referred to in Rule ‎7.2.3(b), the Captive Insurer must notify the Regulator in writing of:
+(a)	the reasons for not including in its annual Regulatory Return the value of General Insurance Liabilities or of associated assets as reported by the Actuary; and
+(b)	details of the alternative assumptions and methodologies used for determining the value of General Insurance Liabilities or of associated assets.
+2.3.2.(5)	Where a Captive Insurer includes in its annual Regulatory Return a value for Long-Term Insurance liabilities which is inconsistent with the amount referred to in Rule ‎7.3.6(e), the Captive Insurer must notify the Regulator in writing of;
+(a)	the reasons for not including in its annual Regulatory Return the value of Long-Term Insurance liabilities as reported by the Actuary; and
+(b)	details of the alternative assumptions and methods used by the Captive Insurer for determining the value of Long-Term Insurance liabilities.
+2.3.3	Quarterly Regulatory Return
+2.3.3.(1)	Except as otherwise provided in this Rule ‎2.3, a Captive Insurer must, at the end of March, June, September and December in each year, prepare a quarterly Regulatory Return in respect of the period commencing at the start of the Captive Insurer's reporting period and ending on that date.
+2.3.3.(2)	The quarterly Regulatory Return must comprise the statements set out in this Rule ‎2.3, together with any Supplementary Notes pertaining to those forms, and including a Statement by Directors.
+2.3.3.(3)	The form and content of the statements comprising the quarterly Regulatory Return (including the Statement by Directors) are set out in this Rule ‎2.3, and EPRS.
+2.3.3.(4)	Class 1 Captive Insurers are not required to prepare a quarterly Regulatory Return unless required in writing by the Regulator to do so.
+2.3.4	Audit of annual Regulatory Return
+2.3.4.(1)	Subject to Rule ‎2.3.4(2), the annual Regulatory Return of every Captive Insurer must be audited in accordance with International Standards on Auditing relevant to the audit of the annual Regulatory Return, by the Captive Insurer's Auditor.
+2.3.4.(2)	The statements in the annual Regulatory Return that are not subject to audit are set out in this Rule ‎2.3, and EPRS.
+2.3.4.(3)	The report of the Auditor on the annual Regulatory Return must be made in writing to the Directors of the Captive Insurer and to the Regulator and must state whether, in the opinion of the Auditor and so far as concerns those parts of the annual Regulatory Return that are subject to audit:
+(a)	the annual Regulatory Return has been prepared in accordance with this Chapter;
+(b)	the statements in the annual Regulatory Return present fairly, in accordance with the basis of preparation prescribed in this Chapter, the financial position of the Captive Insurer as at the reporting date and financial performance of the Captive Insurer during the reporting period ended on that date, and the other information required to be presented; and
+(c)	the statements in the annual Regulatory Return are in accordance with the books and records of the Captive Insurer.
+2.3.5	Completion of forms for global and Fund reporting units
+2.3.5.(1)	A Return must be completed in respect of each of the reporting units set out in this Rule that applies to the Captive Insurer.
+2.3.5.(2)	There are two types of reporting units in respect of which a Captive Insurer may be required to submit a Return. These are referred to in this Chapter and the forms as the global reporting unit and the Fund reporting unit. In the case of a Captive Insurer which is a Cell Company, the global reporting unit shall apply separately at a cellular and non-cellular level as provided in Rules ‎2.3.5(3)(b) and ‎2.3.5(4) below. The Returns in respect of these reporting units are referred to respectively in this Chapter and the forms as the Global Return (along with, in the case of a Cell Company, a Cell Return in respect of each Captive Cell) and the Fund Return. 
+2.3.5.(3)	Every Captive Insurer that is required by Rule ‎2.3.2 or Rule ‎2.3.3 to complete a Return must complete a Global Return. A Global Return has the following characteristics:
+(a)	subject to Rule ‎2.3.5(3)(b), a Global Return includes all of the assets, liabilities, equity, revenues and expenses of the Captive Insurer, regardless of the residency status or location of the Captive Insurer, of the customer or of any asset or liability; and
+(b)	the Global Return of a Cell Company does not include any assets, liabilities, equity revenues or expenses that are attributable to a Captive Cell.
+2.3.5.(4)	Except as provided otherwise in this Chapter, a Captive Insurer that is a Cell Company must, each time a Global Return is completed as provided in Rule ‎2.3.5(3)(b), separately complete a Cell Return in respect of each Captive Cell that it maintains. A Cell Return includes all of the assets, liabilities, equity, revenues and expenses attributable to the Captive Cell, regardless of the residency status or location of the customer or of any asset or liability.  A Captive Insurer that is a Cell Company is not required to complete a Cell Return each time a quarterly Regulatory Return is completed in respect of any Cell maintained by it that is a Class 1 Captive Cell unless required by the Regulator to do so.
+2.3.5.(5)	Except as provided otherwise in this Chapter, a Captive Insurer that maintains any Long-Term Insurance Fund must complete a Fund Return in respect of each Long-Term Insurance Fund that it maintains. A Fund Return includes all of the assets, liabilities, revenues and expenses attributable to the Fund, regardless of the residency status or location of the customer or of any asset or liability. A Captive Insurer to which this Rule applies is not required to complete a Fund Return in the following cases:
+(a)	where the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Global Return; and
+(b)	where, in the case of a Captive Insurer which is a Cell Company, a Captive Cell of the Captive Insurer is deemed to constitute a single, Long-Term Insurance Fund, such that the information contained in the Fund Return would be identical to that in the Cell Return.
+2.3.6	Content of Returns
+2.3.6.(1)	The annual Regulatory Return comprises the prudential reporting forms specified by the Regulator, together with any Supplementary Notes pertaining to those forms specified in these Rules or by the Regulator and the Statement by Directors referred to in Rule ‎2.3.10. 
+2.3.6.(2)	Items must be disclosed in the Returns in accordance with the instructional guidelines and the prudential reporting systems specified by the Regulator, subject to the effects of other provisions of this Chapter.
+2.3.6.(3)	Where an item is described in a Return as the result of a mathematical calculation, that mathematical calculation must be used to determine that item except where these Rules or the relevant instructional guidelines require otherwise.
+ 
+2.3.7	Submission of Returns to the Regulator
+2.3.7.(1)	A Captive Insurer must submit its annual Regulatory Return in writing to the Regulator within four months of the Captive Insurer's reporting date.
+2.3.7.(2)	A Captive Insurer must prepare and submit its annual Regulatory Return in the following manner:
+(a)	the annual Regulatory Return must be submitted to the Regulator using EPRS:
+(i)	in accordance with any instructions set out in the notice and any instructions provided through such a system or specified in this Chapter; and
+(ii)	within four months of the Captive Insurer's reporting date;
+(b)	the Statement by Directors need not be submitted to the Regulator, but must be signed and a copy maintained in accordance with Rules ‎2.3.7(3) and ‎2.3.7(4); and
+(c)	the Global Return for a Branch must be submitted in the manner provided in Rule 2.3.7(1).
+2.3.7.(3)	The Statement by Directors forming part of the annual Regulatory Return must be signed before the time of submission by:
+(a)	the Senior Executive Officer; and
+(b)	a Director of the Captive Insurer not being the Senior Executive Officer.
+2.3.7.(4)	An original signed hard copy of the Statement by Directors, together with a copy of the annual Regulatory Return submitted to the Regulator using EPRS, must be kept for at least six years for inspection by the Regulator.
+2.3.7.(5)	The Auditor's report on the annual Regulatory Return and any actuarial report prepared as at the reporting date must be submitted in writing by the Captive Insurer to the Regulator within four months of the Captive Insurer's reporting date.
+2.3.7.(6)	An Auditor's report or an actuarial report submitted to the Regulator must be signed by the Auditor or the Actuary preparing that report.
+2.3.7.(7)	Subject to Rule ‎2.3.7(8), a Captive Insurer must submit its quarterly Regulatory Return in writing to the Regulator within two months of the end of each period in respect of which the Captive Insurer is required to prepare a quarterly Regulatory Return.
+2.3.7.(8)	When the Regulator has issued a notice announcing that EPRS is in operation, a Captive Insurer must, from the date specified in the notice, prepare and submit its quarterly Regulatory Return in the following manner:
+(a)	the quarterly Regulatory Return, excepting the parts of the quarterly Regulatory Return referred to in ‎2.3.7(8)(b) and ‎2.3.7(8)(c), must be submitted to the Regulator using EPRS:
+(i)	in accordance with any instructions set out in the notice and any instructions provided through such a system or specified in this Chapter; and
+(ii)	within two months of the Captive Insurer's reporting date;
+(b)	the Statement by Directors must be signed and a copy maintained in accordance with Rules ‎2.3.7(9) and ‎2.3.7(10); and
+(c)	the Global Return for a Branch must be submitted in the manner provided in Rule ‎2.3.7(7).
+2.3.7.(9)	The Statement by Directors forming part of the quarterly Regulatory Return must be signed before the time of submission by one Director of the Captive Insurer.
+2.3.7.(10)	An original signed hard copy of the Statement by Directors, together with a copy of the quarterly Regulatory Return submitted to the Regulator using EPRS, must be kept for at least six years for inspection by the Regulator.
+2.3.7.(11)	If within twenty-four months of the date that an annual Regulatory Return or quarterly Regulatory Return is submitted to the Regulator, the Regulator notifies the Captive Insurer that a Return appears to be inaccurate or incomplete, the Captive Insurer must consider the matter and within one month of the date of notification it must correct any inaccuracies, make good any omissions and re-submit the relevant parts of the Return.
+2.3.7.(12)	A Captive Insurer must submit, at the same time as every annual Regulatory Return of that insurer or as soon as practicable thereafter, any report on the affairs of the Captive Insurer submitted to the shareholders or policyholders of the Captive Insurer in respect of the reporting period to which the annual Regulatory Return relates.
+2.3.8	Reporting of group capital adequacy
+A Captive Insurer must comply with the requirements of PIN 6.7 pertaining to the reporting of group capital adequacy. 
+2.3.9	General provisions relating to the completion of forms
+2.3.9.(1)	Supplementary Notes must be presented in accordance with any instructions specified by the Regulator, including instructions provided through the prudential reporting system specified by the Regulator. Each Supplementary Note must identify the form to which it relates. 
+2.3.9.(2)	Returns must be presented in English.
+2.3.9.(3)	Where the format of a form requires the presentation of comparative information, the comparative information shall be presented according to the following principles:
+(a)	in the case of a form forming part of the annual Regulatory Return, the comparative information shall be that presented in the annual Regulatory Return for the previous reporting period;
+(b)	in the case of a form forming part of the quarterly Regulatory Return, the comparative information shall be that presented in the quarterly Regulatory Return for the corresponding quarter in the previous calendar year;
+(c)	comparative information shall be presented unless:
+(i)	the Captive Insurer did not exist at any time during the comparative period (whether or not it was a Captive Insurer); or
+(ii)	in the case of a Cell Return or a Fund Return, the Captive Cell or the Long-Term Insurance Fund to which the Return relates did not exist at any time during the comparative period;
+(d)	a Captive Insurer that is required to present comparative information in a Return, and that was not required to prepare a Return in respect of the comparative period, must present comparative information that would have been presented in the Return covering the comparative period, if the Captive Insurer had been required to prepare that Return; and
+(e)	comparative information shall not be changed from the time it was first presented, unless re-presentation is necessary for the interpretation of the Return. Where comparative information is changed, the Captive Insurer must include in the Return a Supplementary Note showing the nature of the change and the reason for it.
+2.3.9.(4)	The annual Regulatory Return, including the Statement by Directors, is subject to audit, except where this Chapter 2 or the form instructional guidelines state that a form is not subject to audit.
+2.3.9.(5)	Each page of the Statement by Directors must show:
+(a)	the words 'annual Regulatory Return' or 'quarterly Regulatory Return', as applicable;
+(b)	the Captive Insurer's licence number;
+(c)	the Captive Insurer's name;
+(d)	the reporting period to which the Return relates;
+(e)	whether the Return is a Global, Cell or Fund Return; and
+(f)	where the return relates to a Captive Cell or a Long-Term Insurance Fund, sufficient information to identify the Captive Cell or Long-Term Insurance Fund in question.
+2.3.9.(6)	Where this Chapter 2 or the form requires information to be presented for different Classes of Business or for different types of insurance contract (for example, direct insurance, facultative reinsurance, proportional reinsurance treaty and non-proportional reinsurance treaty), a Captive Insurer required to complete the form must present the relevant information in respect of all Classes of Business and types of contract, except under the following circumstances so far as concerns businesses other than Direct-Long Term Insurance Business of an ADGM Incorporated Insurer:
+(a)	where an item of numerical information in respect of a Class of Business for a type of insurance contract is less than 2% of the total such numerical information in respect of all Classes of Business for that type of insurance contract, the Captive Insurer may aggregate that numerical information for that Class of Business for that type of insurance contract with the same item of information for the Class of Business for that type of contract in which that item of information is the largest; and
+(b)	where an item of numerical information in respect of a type of insurance contract for a Class of Business is less than 2% of the total such numerical information in respect of all types of insurance contract for that Class of Business, the Captive Insurer may aggregate that numerical information for that type of insurance contract for that Class of Business with the same item of information for the type of insurance contract for that Class of Business in which that item of information is the largest.
+2.3.9.(7)	Where a Captive Insurer arranges its affairs such that a Captive Cell or Long-Term Insurance Fund maintained by it pays or receives income in the form of interest, dividends, rental, recharge of management expenses or other investment income, from another reporting unit of the Captive Insurer, that income must be shown gross as an expense in the reporting unit bearing the expense, and as income in the reporting unit receiving the income. Where, however, the same reporting unit records the income and the expense, the two must be netted. 
+2.3.10	Statement by directors
+2.3.10.(1)	Every Return must include a Statement by Directors, in accordance with this Rule.
+2.3.10.(2)	The Statement by Directors forming part of the annual Regulatory Return must state that:
+(a)	the annual Regulatory Return has been prepared in accordance with the provisions of PIN, this Chapter 2 and the instructional guidelines and prudential reporting systems specified by the Regulator;
+(b)	proper accounting records have been maintained and adequate information obtained by the Captive Insurer;
+(c)	appropriate systems and controls have been established and maintained by the Captive Insurer over its transactions and records;
+(d)	the Captive Insurer has complied with the provisions of Rule 2.2 of these Rules throughout the reporting period; and
+(e)	the Captive Insurer complies, as at the date of the statement, with those provisions of PIN that are applicable to it.
+2.3.10.(3)	The Statement by Directors forming part of the quarterly Regulatory Return must state that:
+(a)	the quarterly Regulatory Return has been prepared in accordance with the provisions of PIN, this Chapter 2 and the instructional guidelines and prudential reporting systems specified by the Regulator; and
+(b)	the Captive Insurer complies, as at the date of the statement, with those provisions of  PIN that are applicable to it.
+2.3.10.(4)	If in the opinion of the directors it would be untrue to make one or more of the statements referred to in Rule ‎2.3.10(3)(a) or Rule ‎2.3.10(3)(b) the statements concerned must be omitted and the Captive Insurer must instead state in a Supplementary Note that the directors are unable to make the statements in question, and must give the reasons for that inability.
+2.4	Management and control of risk
+2.4.1	Risk management
+2.4.1.(1)	A Captive Insurer's risk management systems must:
+(a)	be appropriate to the size, business mix and complexity of the Captive Insurer's operations; and
+(b)	address all material risks, financial and non-financial, to which the Captive Insurer is likely to be exposed.
+2.4.1.(2)	The risk management systems maintained by a Captive Insurer must include:
+(a)	a written risk management strategy approved by senior management, which in the opinion of senior management addresses all material risks to which the Captive Insurer is likely to be exposed;
+(b)	risk management policies and procedures that in the opinion of senior management are adequate to identify, assess, mitigate, control, monitor and report on the material risks to which the Captive Insurer is exposed; and
+(c)	clearly identified managerial responsibilities and controls, designed to ensure that the policies and procedures established for risk management are adhered to at all times.
+2.4.2	Management of particular risks
+Without prejudice to the generality of Rule ‎2.4(1, a Captive Insurer must develop, implement and maintain a risk management system to identify and address risks, including but not limited to:
+(a)	reserving risk;
+(b)	investment risk (including risks associated with the use of Derivatives);
+(c)	underwriting risk;
+(d)	market risk;
+(e)	liquidity management risk;
+(f)	credit quality risk;
+(g)	fraud and other fiduciary risks;
+(h)	compliance risk; 
+(i)	outsourcing risk; and
+(j)	reinsurance risk.  Reinsurance risk refers to risks associated with the Captive Insurer's use of reinsurance arrangements as Cedant.
+2.4.3	Record-keeping
+A Captive Insurer must maintain records adequate to enable it to:
+(a)	fulfil its obligations under Contracts of Insurance effected by it; and
+(b)	demonstrate that it complies with these Rules.
+2.5	Restrictions on Captive Insurance Business
+A Captive Insurer must comply with the restrictions in FSMR on the business which it may undertake and in particular with Part 4 (Authorisation). 
+ 
+
+3	ELIGIBLE CAPITAL 
+3.1.1	Eligible capital 
+Eligible capital of a Captive Insurer means an instrument or other asset that is included in calculating the Captive Insurer's minimum capital requirement under Rule ‎2.2. 
+3.1.2	Eligible capital amount
+3.1.2.(1)	The total eligible capital of a Captive Insurer is the amount of the Captive Insurer's eligible capital, calculated in accordance with the following formula: 
+Eligible capital – required deduction
+where: 
+Eligible capital means the sum of the Captive Insurer’s — 
+(a)	permanent share capital;  
+(b)	retained earnings or losses; 
+(c)	the following items up to an amount not exceeding 50% of the sum of paragraphs (a) and (b) above:
+(d)	qualifying letters of credit under Rule ‎3.1.4; and
+(e)	any other instrument permitted by the Regulator under Rule ‎3.1.2(2)(a).
+Required deduction, for a Captive Insurer, means the sum of— 
+(i)	investments in Subsidiaries and Associates; 
+(ii)	intangible assets; and 
+(iii)	any other asset that the Regulator directs, under Rule ‎3.1.2(2)(b), the Captive Insurer to include. 
+3.1.2.(2)	For calculating the Captive Insurer's total eligible capital, the Regulator may, by written notice, do any one or more of the following: 
+(a)	allow the Captive Insurer to include an instrument as eligible capital; 
+(b)	direct the Captive Insurer to include an asset as a required deduction; 
+(c)	allow the Captive Insurer to exceed the 50% limit in paragraph (cof the definition of eligible capital in Rule ‎3.1.2(1). 
+3.1.2.(3)	Permission under Rules ‎3.1.2(2)(a) or ‎3.1.2(2)(c) may be given on application of the Captive Insurer or on the Regulator's own initiative. 
+3.1.3	Permanent Share Capital
+Permanent Share Capital means ordinary share capital or an equivalent capital instrument which meets the following conditions:
+(a)	it is fully paid up and subscription to it is not financed directly or indirectly by the issuer;
+(b)	it is directly issued;
+(c)	it is recognised as equity under applicable national accounting standards and insolvency law and gives investors a claim as shareholder or equivalent status;
+(d)	it is simple and the terms upon which it is issued are clearly defined;
+(e)	it is undated and non-redeemable except with the prior written consent of the Regulator;
+(f)	it does not give the holder a right to require redemption and its terms do not create any expectation that it will be redeemed at any point;
+(g)	it is immediately and fully available to the Captive Insurer to absorb losses on a going concern basis;
+(h)	it ranks for repayment upon winding up or insolvency pari passu with all other Permanent Share Capital and after all other debts and liabilities;
+(i)	it is not subject to a guarantee, pledge or other credit enhancement that could legally or economically enhance its seniority in the insolvency or liquidation of the Captive Insurer; and
+(j)	any dividends and other charges in relation to Permanent Share Capital are: 
+(a)	payable only out of accumulated realised profits;
+(b)	payable only at the option of the Captive Insurer;
+(c)	non-cumulative;
+(d)	not fixed, capped or otherwise ascertainable in advance of being declared; 
+(e)	not calculated by reference to the amount paid in at issuance; and
+(f)	not such as to trigger the insolvency of the Captive Insurer in the event of non-payment.
+3.1.4	Qualifying letters of credit
+3.1.4.(1)	A letter of credit is a qualifying letter of credit if:
+(a)	it meets the requirements in Rule ‎3.1.4(2); and 
+(b)	the Regulator allows, under Rule 2(2)(a), that it be included as eligible capital. 
+3.1.4.(2)	A letter of credit meets the requirements of this Rule 3.1.4(2) if:
+(a)	it is unconditional and irrevocable; 
+(b)	it does not contain a subordination clause; 
+(c)	it is legally enforceable in ADGM or any other jurisdiction approved for this purpose by the Regulator; 
+(d)	it cannot be cancelled or amended without the consent of all parties; 
+(e)	it is for a fixed amount; 
+(f)	it is renewable annually; 
+(g)	the terms of the agreement between the bank and the Captive Insurer do not require the Captive Insurer to give collateral to the bank for issuing the letter of credit; and 
+(h)	the bank that provides the letter of credit is, at the time of issue, and afterwards:
+(i)	rated at least BBB+ by Standard & Poor's or the equivalent by another Approved Rating Agency; and 
+(ii)	regulated in ADGM or any other jurisdiction approved for this purpose by the Regulator. 
+3.1.4.(3)	A letter of credit is, or is taken to be, legally enforceable in ADGM or any other jurisdiction approved for this purpose by the Regulator if: 
+(a)	it is issued by a bank regulated in ADGM; or 
+(b)	it is issued by a bank regulated in any jurisdiction approved for this purpose by the Regulator and the Captive Insurer has an appropriate legal opinion that the letter of credit is enforceable in ADGM or that jurisdiction. 
+3.1.4.(4)	If a letter of credit ceases to be a qualifying letter of credit, the Captive Insurer must: 
+(a)	immediately tell the Regulator in writing; and 
+(b)	take the necessary steps to ensure that the Captive Insurer continues to meet its minimum capital requirement under Rule ‎2.2 (for example, by obtaining replacement qualifying letters of credit). 
+3.1.5	Intangible assets
+3.1.5.(1)	Intangible assets of a Captive Insurer include: 
+(a)	goodwill; 
+(b)	capitalised development costs;
+(c)	brand names; 
+(d)	trademarks, patents and similar intellectual property rights; and 
+(e)	licences. 
+3.1.5.(2)	The amount of deduction for intangible assets must be based on the full balance sheet value of the assets. 
+3.1.6	Asset Requirements
+3.1.6.(1)	A Captive Insurer must invest its assets in such a manner as to ensure the security, quality, liquidity and profitability of the portfolio as a whole and shall only invest in assets whose risks it can properly identify, measure, monitor, manage, control and report, and appropriately take into account in accordance with Chapter 6.
+3.1.6.(2)	A Captive Insurer must invest its assets held to cover the technical provisions in a manner appropriate to the nature and duration of the insurance and/or reinsurance liabilities.
+3.1.6.(3)	A Captive Insurer must not invest its assets in a manner that places excessive reliance on any particular asset issuer or group of issuers or geographical area or which results in an excessive accumulation of risk in the portfolio as a whole.
+ 
+
+4	ADDITIONAL REQUIREMENTS FOR CELL COMPANIES
+4.1	Definitions 
+For the purpose of Rule 4.1:
+(a)	net Cellular Assets of a Captive Cell are the assets attributable to the Captive Cell (other than any deductible assets) less the liabilities attributable to the Captive Cell;
+(b)	non-cellular eligible capital of a Captive Insurer that is a Cell Company means the Insurer's eligible capital calculated in accordance with Chapter 3, but excluding:
+(a)	Cell Shares; and
+(b)	any capital instruments or equity reserves that are attributable to a Captive Cell; and
+(c)	recourse agreement means an agreement under which a Cell is entitled to have recourse to Non-Cellular Assets.
+4.2	General requirement 
+4.2.1	A Captive Insurer that is a Cell Company must at all times hold non-cellular eligible capital of at least $50,000.
+4.2.2	Subject to Rule ‎4.2.3, if a Captive Cell has recourse to the Non-Cellular Assets of the Cell Company under one or more recourse agreements which have been approved by the Regulator, those Non-Cellular Assets may be included for the purpose of satisfying the requirement in Rule ‎4.2.1. 
+4.2.3	The Regulator may, by written notice, direct a Captive Cell to include or exclude Non-Cellular Assets under a recourse agreement for the purpose of satisfying the requirement in Rule ‎4.2.1. 
+4.2.4	Pursuant to the power in Rule ‎2.3.1(2)(a), in the event that a Captive Cell relies on a recourse agreement for the purpose of Rule ‎4.2.2, the Regulator may (by written notice) require the Captive Insurer to report on its cellular and non-cellular financial resources and capital requirements on an aggregated basis. 
+4.3	Captive Insurers that are Cell Companies to conduct Insurance Business only through Captive Cells
+A Captive Insurer that is a Cell Company must ensure that, when it conducts Captive Insurance Business, each Contract of Insurance is attributable to a particular Captive Cell of the Captive Insurer.
+4.4	Minimum solvency criterion
+4.4.1	A Captive Cell that is conducting Captive Insurance Business (an active Cell) must meet the minimum solvency criterion.
+4.4.2	An active Cell must comply with Rule ‎4.4.1 by maintaining the higher of: 
+(a)	net Cellular Assets of at least $50,000; and
+(b)	the risk-based minimum solvency requirement in Rule ‎4.5.
+4.5	Risk-based minimum solvency requirement
+4.5.1	The risk-based minimum solvency requirement for a Captive Cell is that the amount of the Captive Cell's net Cellular Assets must be greater than the liabilities attributable to the Captive Cell by at least the greater of:
+(a)	the Captive Cell's premium risk component; and
+(b)	its technical provision risk component.
+4.5.2	In this Rule, deductible assets of a Captive Cell means:
+(a)	investments in Subsidiaries and Associates; 
+(b)	intangible assets; and
+(c)	any other asset that the Regulator has directed the Captive Insurer to include under Rule ‎3.1.2(2)(b).
+4.6	Premium risk component for a Captive Cell
+4.6.1	The premium risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer is the amount calculated in accordance with the following formula:
+18% × Captive Cell's Net Written Premium up to $5 million
+PLUS
+16% × Captive Cell's Net Written Premium in excess of $5 million
+4.7	Technical provision risk component – Captive Cells conducting General Insurance Business
+4.7.1	The technical provision risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts General Insurance Business is the amount calculated in accordance with the following formula:
+5% × net claims reserve under general Contracts of Insurance
+where net claims reserve, as at a date, is the amount of the Captive Insurer's provisions for: 
+i.	claims incurred but not yet paid as at the date, including claims incurred but not yet reported; and
+ii.	direct and indirect claims settlement expenses for those claims,
+less the amount of reinsurance and other recoveries expected to be received in respect of those claims.
+4.7.2	Notwithstanding Rule ‎4.7.1, the Regulator may, by written notice, direct a Captive Insurer (whether on application of the Captive Insurer or on the Regulator's own initiative) to include a particular Contract of Insurance or class of Contracts of Insurance in the net claims reserve of a Captive Cell of the Captive Insurer.
+4.8	Technical provision risk component – Captive Cells conducting Long-Term Insurance Business
+The technical provision risk component for a Captive Cell carrying out Contracts of Insurance as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer that conducts Long-Term Insurance Business is 2.5% of the policyholder liabilities calculated using actuarial methods for Long-Term Insurance.
+ 
+
+5	MANAGERIAL FUNCTIONS
+5.1	Management systems and controls
+The provisions relating to the management systems and controls with which a Captive Insurer must comply are set out in GEN 3.
+5.2	Outsourcing
+A Captive Insurer may outsource its managerial functions to a Captive Insurance Manager (but not any other party), subject to the requirements of GEN 3.3.
+ 
+
+6	VALUATION OF ASSETS AND LIABILITIES 
+6.1	General provisions
+6.1.1	Subject to Rules ‎6.1.2, ‎6.1.3, and ‎6.1.4, a Captive Insurer must value its assets and liabilities in accordance with this Chapter.
+6.1.2	A Captive Insurer may value an asset at less than the value measured in accordance with this Chapter.
+6.1.3	A Captive Insurer may value a liability at more than the value measured in accordance with this Chapter.
+6.1.4	Notwithstanding any other provision of this Chapter, the Regulator may, by written notice, direct a Captive Insurer to measure an asset or a liability in accordance with principles specified by the Regulator in that written notice.
+6.2	Classification of contracts
+6.2.1	A Captive Insurer must, in its own records, classify all Contracts of Insurance effected by it as Captive Insurer and all contracts of reinsurance entered into by it as Cedant, according to the Class of Business to which the contracts relate.
+6.2.2	Where a contract relates to more than one Class of Business, the Captive Insurer must record separately the portions of the contract that relate to each Class of Business, except that immaterial portions need not be separately recorded.
+6.3	Accounting standards and principles
+6.3.1	Except where these Rules provide for a different method of recognition or valuation, whenever a Rule refers to an asset, liability, equity or income statement item, a Captive Insurer must, for the purpose of that Rule, recognise the asset, liability, equity or income statement item and measure its value in accordance with IFRS or any other accounting standards as applicable to the Captive Insurer for the purpose of its external financial reporting.
+6.3.2	Rule ‎6.3.1 applies whenever a Rule refers to the value or amount of an asset, liability, equity or income statement item, including:
+(a)	whether, and when, to recognise or de-recognise an asset or liability;
+(b)	the amount at which to value an asset, liability, equity or income statement item; and
+(c)	which description to place on an asset, liability, equity or income statement item.
+6.4	Adjustments to accounting values
+6.4.1	For the purpose of these Rules, except where a Rule provides for a different method of recognition or valuation, when a Captive Insurer, upon initial recognition, designates its liabilities as at fair value through profit or loss, it must always adjust any value calculated in accordance with Rule ‎6.3 by subtracting any unrealised gains or adding back in any unrealised losses which are not attributable to changes in a benchmark interest rate.
+6.4.2	The provisions of Rule ‎6.4.1 apply only to the extent that the items referred to in that paragraph would otherwise be recognised under the accounting requirements applicable to the Captive Insurer.
+6.5	General requirements: methods of valuation and systems and controls
+6.5.1	A Captive Insurer must establish and maintain systems and controls sufficient to provide prudent and reliable valuation estimates.
+6.5.2	Systems and controls under Rule ‎6.5.1 must include documented policies and procedures for the process of valuation, including clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and a review of their appropriateness, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, month-end and ad-hoc verification procedures and, where relevant, guidelines for the use of unobservable inputs reflecting a Captive Insurer's assumptions of what market participants would use in pricing the position. 
+6.6	General requirements: marking to market
+6.6.1	Subject to the exceptions set out in this Chapter, Rule ‎6.6.2 applies in relation to the valuation of Investments that are, or amounts arising from the disposal of:
+(a)	debt securities, bonds and other money-market and capital-market instruments;
+(b)	loans;
+(c)	shares and other variable yield participations;
+(d)	units in Collective Investment Funds; 
+(e)	Derivatives; and
+(f)	any balance sheet position measured at market value or fair value.
+6.6.2	Wherever possible, a Captive Insurer must mark-to-market in order to measure the value of the investments and positions to which this Rule applies under Rule 6.6.1. Marking to market is valuation at readily available close out prices from independent sources.
+6.6.3	For the purposes of Rule ‎6.6.2, examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers.
+6.6.4	When marking to market, a Captive Insurer must use the more prudent side of bid/offer.
+6.7	General requirements: independent price verification
+6.7.1	A Captive Insurer must perform independent price verification. This is the process by which market prices or model inputs are regularly verified for accuracy and independence.
+6.7.2	For independent price verification, where independent pricing sources are not available or pricing sources are more subjective (for example, only one available broker quote), prudent measures such as valuation adjustments may be appropriate.
+6.8	General requirements: valuation adjustments
+6.8.1	A Captive Insurer must establish and maintain procedures for considering valuation reserves. These procedures must be compliant with the requirements set out in this Rule.
+6.8.2	A Captive Insurer using third party valuations, or marking to model, must consider whether valuation reserves are necessary.
+6.8.3	A Captive Insurer must consider the need for establishing reserves for less liquid positions and, on an on-going basis, review their continued appropriateness in accordance with the requirements set out in this Rule. Less liquid positions could arise from both market events and institution-related situations e.g. concentration positions and/or stale positions.
+6.9	Recognition and measurement of Insurance Liabilities and establishment of technical provisions
+6.9.1	A Captive Insurer must establish technical provisions in respect of all of its insurance and reinsurance obligations to policyholders and beneficiaries of insurance and contracts of reinsurance.
+6.9.2	The value of technical provisions established by a Captive Insurer must:
+(a)	correspond to the current amount the Captive Insurer would have to pay if it were to transfer its insurance and reinsurance obligations immediately to another entity; and
+(b)	except where the alternative approach is permitted in accordance with Rule ‎6.9.10, be equal to the sum of a best estimate and a risk margin.
+6.9.3	A Captive Insurer must calculate its technical provisions:
+(a)	making use of, and consistent with, information provided by the financial markets and generally available data on underwriting risks;
+(b)	in a prudent, reliable and objective manner;
+(c)	taking account of all expenses that will be incurred in servicing the obligations arising under the Captive Insurer's insurance and contracts of reinsurance;
+(d)	taking account of inflation, including expenses and claims inflation in respect of the obligations arising under the Captive Insurer's insurance and contracts of reinsurance;
+(e)	taking account of all payments to policyholders and beneficiaries, including future discretionary bonuses (if any), which the Captive Insurer expects to make, whether or not those payments are contractually guaranteed;
+(f)	taking account of the value of financial guarantees and any contractual options included in the Captive Insurer's insurance and reinsurance policies; and
+(g)	applying assumptions relating to the likelihood that policyholders will exercise contractual options, including lapses and surrenders, that are realistic and based on current and credible information and which take account, either explicitly or implicitly, of the impact that future changes in financial and non-financial conditions may have on the exercise of those options.
+6.9.4	The best estimate calculated by a Captive Insurer must correspond to the probability-weighted average of future cash-flows under the Captive Insurer's insurance and contracts of reinsurance, taking account of the time value of money using the relevant discount rate applying pursuant to Rule ‎6.12.
+6.9.5	A Captive Insurer must calculate the best estimate:
+(a)	based upon up-to-date and credible information and realistic assumptions and using adequate, applicable and relevant actuarial and statistical methods;
+(b)	taking account of all the cash in- and out-flows required to settle the obligations arising under the Insurer's insurance and contracts of reinsurance; and
+(c)	gross, without deduction of the amounts recoverable from contracts of reinsurance entered into by the Captive Insurer as Cedant.
+6.9.6	A Captive Insurer must calculate the risk margin so as to ensure that the value of the technical provisions is equivalent to the amount that another entity would be expected to require in order to take over and meet the obligations arising under the Captive Insurer's insurance and contracts of reinsurance.
+6.9.7	A Captive Insurer must calculate the best estimate and the risk margin separately.
+6.9.8	A Captive Insurer must calculate the risk margin by determining the cost of providing an amount of Adjusted Capital Resources equal to the minimum capital requirement provided for in Rule ‎2.2 in respect of the obligations under the Captive Insurer's insurance and contracts of reinsurance over the lifetime thereof.
+6.9.9	The Regulator may specify the cost of capital that applies under Rule ‎6.9.8.
+6.9.10	Notwithstanding Rule ‎6.9.7 and Rule ‎6.9.2(b) where future cash flows associated with obligations under a Captive Insurer's insurance and contracts of reinsurance can be replicated reliably using Financial Instruments for which a reliable market value is observable, a Captive Insurer must determine the value of technical provisions associated with those future cash flows on the basis of the market value of those Financial Instruments. In this case, separate calculations of the best estimate and the risk margin are not required.
+6.9.11	The Regulator may specify actuarial principles to be used by a Captive Insurer in relation to the recognition and measurement of Insurance Liabilities and the establishment of technical provisions.
+6.10	Recognition and measurement of insurance assets and incurred liabilities in respect of General Insurance
+6.10.1	This Rule applies to assets and liabilities in respect of general Contracts of Insurance.
+6.10.2	Premiums in respect of direct Contracts of Insurance, facultative contracts of reinsurance and non-proportional treaty contracts of reinsurance entered into by a Captive Insurer as insurer must be treated as receivable from the date of entering into the insurance contract.
+6.10.3	Premiums in respect of proportional treaty contracts of reinsurance entered into by a Captive Insurer as reinsurer must be treated as receivable in accordance with the pattern of the Cedant entering into the underlying Contracts of Insurance.
+6.10.4	Premiums in respect of facultative contracts of reinsurance and non-proportional treaty contracts entered into by a Captive Insurer as Cedant must be treated as payable from the date of entering into the reinsurance contract.
+6.10.5	Premiums in respect of proportional treaty contracts of reinsurance entered into by a Captive Insurer as Cedant must be treated as payable in accordance with the pattern of effecting the underlying Contracts of Insurance.
+6.10.6	A Captive Insurer must treat as a liability the value of future claims payments and associated direct and indirect settlement costs, arising from insured events that have occurred as at the Solvency Reference Date.
+6.10.7	A Captive Insurer may treat as an asset the value of reinsurance receivables and other recoveries expected to be received in respect of claims.
+6.10.8	Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts.
+6.11	Recognition and measurement of assets and incurred liabilities in respect of Long-Term Insurance
+6.11.1	This Rule applies to assets and liabilities in respect of Long-Term Insurance contracts.
+6.11.2	Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as insurer must be treated as receivable from the date on which they are due and receivable. 
+6.11.3	Premiums in respect of contracts of reinsurance entered into by a Captive Insurer as Cedant must be treated as payable from the date on which they are due and payable.
+6.11.4	Acquisition costs incurred in respect of Contracts of Insurance entered into by a Captive Insurer must be treated as payable: 
+(a)	in the case of expenses directly related to the premiums in respect of the contract, at the same time as the premium is treated as receivable; and
+(b)	in the case of expenses not directly related to the premiums in respect of the contract, at the time the contract is effected.
+6.11.5	A Captive Insurer must treat as a liability the amount of Policy Benefits that are due for payment on or before the Solvency Reference Date.
+6.11.6	A Captive Insurer may treat as an asset the value of reinsurance receivables and other recoveries expected to be received in respect of claims.
+6.11.7	Where this Rule requires a Captive Insurer to recognise as an asset the value of expected future receipts, that asset must be measured as the net present value of those expected future receipts.
+6.12	Discount rates
+6.12.1	The Regulator may specify actuarial principles to be used by a Captive Insurer in determining the discount rate.
+6.12.2	For the purposes of determining the net present value of expected future payments in accordance with Rule ‎6.10 or ‎6.11, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:
+(a)	are AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and
+(b)	have a similar expected payment profile to the liability being measured.
+
+6.12.3	For the purposes of determining the net present value of expected future receipts in accordance with Rule ‎6.10.8, a Captive Insurer must use as a discount rate the gross redemption yield of a portfolio of sovereign risk securities which:
+(a)	are AAA-rated by Standard & Poor's (or the equivalent by another Approved Rating Agency); and
+(b)	have a similar expected payment profile to the liability being measured.
+6.12.4	PIN 4.1.4 applies in respect of determination of ratings for the purposes of Rules ‎6.12.2 and ‎6.12.3.
+6.13	Transfer of risk by a Captive Insurer to an ISPV
+6.13.1	A Captive Insurer may not:
+(a)	treat amounts recoverable from an ISPV as:
+(a)	an asset; or
+(b)	reinsurance for the purposes of calculating its liabilities under Contracts of Insurance it has effected; or
+(b)	otherwise ascribe a value to such amounts,
+unless it has first obtained a waiver from the Regulator.
+6.14	Recognition of reinsurance receivables
+A Captive Insurer may only treat an expected receivable under a reinsurance contract in relation to which it is a Cedant as an asset or take account of it for the purposes of calculating its liabilities under Contracts of Insurance it has effected if the contractual arrangements and the transfer of risk are legally effective and enforceable in all relevant jurisdictions and either the relevant reinsurer is solvent or the Captive Insurer has the benefit of legally effective collateral having a value equal to or greater than the amount of the expected receivable.
+ 
+7	ACTUARIAL REPORTING
+7.1	Introduction
+7.1.1	A Captive Insurer that conducts Long-Term Insurance Business must prepare a written report as provided for in this Chapter on at least an annual basis.
+7.1.2	A Captive Insurer that conducts General Insurance Business must:
+(a)	consider, on an annual basis, the need to prepare a written report as provided for in this Chapter; and
+(b)	prepare a written report as provided for in this Chapter at least once every three years.
+7.2	Obligations of Captive Insurers conducting General Insurance Business
+7.2.1	Subject to Rule ‎7.2.2, this Rule applies to Captive Insurers conducting General Insurance Business.
+7.2.2	Where a Captive Insurer attributes General Insurance Business to a Long-Term Insurance Fund in accordance with Rule ‎8.2.2(2), this Rule does not apply to that business.
+7.2.3	Every Captive Insurer must provide to the Regulator as at each reporting date a written report relating to its General Insurance Business, prepared by an Actuary who has the qualifications set out in Rule ‎7.6.  This report must provide details in respect of each Class of Business, of:
+(a)	significant aspects of the recent experience of the Captive Insurer;
+(b)	the Actuary's estimate of the value of General Insurance Liabilities and of assets arising in respect of those liabilities, determined in accordance with Chapter 6;
+(c)	where there has been a change in the assumptions or in valuation method from that adopted at the previous valuation, the effect of these changes on the General Insurance Liabilities and assets arising in respect of those liabilities, as at the reporting date;
+(d)	the adequacy and appropriateness of data made available to the Actuary by the Captive Insurer;
+(e)	procedures undertaken by the Actuary to assess the reliability of the data;
+(f)	the model or models used by the Actuary;
+(g)	the assumptions used by the Actuary in the valuation process including, without limitation, assumptions made as to inflation and discount rates, future expense rates and where relevant, future investment income;
+(h)	the approach taken to estimate the variability of the estimate; and
+(i)	the nature and findings of sensitivity analyses undertaken.
+7.3	Obligations of Captive Insurers conducting Long-Term Insurance Business
+7.3.1	This Rule applies to Captive Insurers conducting Long-Term Insurance Business.
+7.3.2	Every Captive Insurer must arrange for an actuarial investigation to be made into its financial condition in respect of its Long-Term Insurance Business.  Such investigation must include a determination of the liabilities of the Captive Insurer attributable to its Long-Term Insurance Business and an investigation of the assets and liabilities of every Long-Term Insurance Fund maintained or deemed to be maintained by it (including a determination of surplus in each such fund).
+7.3.3	An investigation of the type set out in Rule ‎7.3.2 must be performed at the end of every annual reporting period of the Captive Insurer.
+7.3.4	An actuarial investigation under this Rule must be performed by an Actuary who has the qualifications set out in Rule ‎7.6, and must be conducted according to principles approved by the Regulator.
+7.3.5	When a Captive Insurer arranges for an actuarial investigation under this Rule, the Captive Insurer must provide to the Regulator a written report of the investigation prepared by the Actuary conducting the actuarial investigation. Such report must be prepared no later than four months from the date of the actuarial investigation and must be submitted to the Regulator in accordance with Rule ‎7.4.2.
+7.3.6	This report must provide details of, in respect of each Class of Business:
+(a)	the product range (including details of any significant changes in products during the period to which the report relates);
+(b)	any discretionary charges and benefits, options and guarantees, and reversionary bonus entitlements, where such features are included in a product;
+(c)	reinsurance arrangements;
+(d)	significant aspects of the recent experience of the Insurer, including, where relevant, a commentary on significant deviations of actual experience compared to the assumptions made in the previous valuation;
+(e)	the Actuary's estimate of the value of Long-Term Insurance liabilities, determined in accordance with Chapter 6;
+(f)	the method and assumptions used by the Actuary in the valuation process, including, where relevant, a commentary on significant differences between the assumptions used and recent actual experience of the Insurer and a description of any non-standard method;
+(g)	any expense reserves, mismatching reserves and any other special reserves included by the Actuary in the value of the Long-Term Insurance liabilities, or recommended by the Actuary to be maintained, although not included in the valuation;
+(h)	a determination of the value of surplus in the Long-Term Insurance Fund, before any distribution of such surplus;
+(i)	a description of the Invested Assets used to determine the risk-adjusted yield on which the discount rate used in the valuation was based;
+(j)	the adequacy and appropriateness of data made available to the Actuary by the Captive Insurer;
+(k)	procedures undertaken by the Actuary to assess the reliability of the data;
+(l)	the model or models used by the Actuary;
+(m)	the approach taken to estimate the variability of the estimate;
+(n)	the sensitivity analyses undertaken;
+(o)	any significant changes to the matters reported on during the period since the previous valuation, including in the case of the matters referred to in (f), and otherwise where relevant, an estimate of the effect of these changes on the Long-Term Insurance liabilities as at the Reference Date; and
+(p)	commentary on any other factors affecting the valuation.
+7.3.7	Subject to Rule ‎7.3.8, where a Captive Insurer carries on Direct Long-Term Insurance Business, the report referred to in Rule ‎7.3.5 must include the information set out in Rule ‎7.3.6 segregated by the jurisdiction in which it is carried on.
+7.3.8	Where business in a jurisdiction is of limited significance, disclosures may, at the discretion of the Actuary, be aggregated for those jurisdictions.
+7.4	Additional provisions relating to the report
+7.4.1	When appointing an Actuary to prepare a report under Rule ‎7.2 or ‎7.3, a Captive Insurer must ensure that there is an agreement in writing which legally binds the Actuary in accordance with the following provisions:
+(a)	the contract must require the Actuary to prepare his report in accordance with the provisions of Rule ‎7.2 or ‎7.3 as the case may be;
+(b)	the contract must require the Actuary to prepare the report using assumptions and methods that are appropriate for the purposes of the actuarial investigation and report and which comply with the requirements of these Rules;
+(c)	the contract must require the Actuary to deliver the report to the Captive Insurer's Directors within such time as to give the Directors a reasonable opportunity to consider and use the report in preparing the Captive Insurer's annual Regulatory Return for the reporting period ended on the reporting date;
+(d)	the contract must require and permit the Actuary to address the Directors of the Captive Insurer if the Actuary believes that there is a matter relating to the financial position or operations of the Captive Insurer that should be brought to the attention of the Directors; and
+(e)	the contract must require and permit the Actuary to address the Regulator if the Actuary believes that a matter will not be adequately dealt with simply by bringing it to the attention of the Directors.
+7.4.2	The Captive Insurer must submit the reports referred to in Rule ‎7.2 and Rule ‎7.3 to the Regulator at the same time as it submits its annual Regulatory Return for the reporting period ended on the reporting date.
+7.4.3	Abbreviated details may be provided in a report prepared under the requirements of this Chapter in respect of a Class of Business that is not material.
+7.5	Captive Insurers must ensure access to relevant data etc
+7.5.1	A Captive Insurer that has appointed an Actuary to provide a report under Rule ‎7.2 or ‎7.3 must make arrangements to enable the Actuary to undertake his functions, and in particular must:
+(a)	keep the Actuary informed of the Captive Insurer's business and other plans;
+(b)	ensure that the Actuary is fully informed of these Rules applicable to the Captive Insurer, as well as any other information that the Regulator has provided to the Captive Insurer that may assist the Actuary in performing his duties; and
+(c)	ensure that the Actuary has access at appropriate times to all relevant data and people which the Actuary reasonably believes is necessary to fulfil his obligations to the Captive Insurer in respect of this Chapter.
+7.6	Qualifications of the Actuary
+7.6.1	An Actuary appointed to provide an actuarial report under this Chapter must:
+(a)	be experienced in determining liabilities in the Classes of Business dealt with in the actuarial report; 
+(b)	have the required skill and experience to perform his functions under the Rules and Regulations; and
+(c)	not perform the function of Chairman or Chief Executive Office of the Captive Insurer or any other function on behalf of the Captive Insurer which could give rise to a significant conflict of interest.
+7.6.2	A Captive Insurer must notify the Regulator in writing of the name, professional qualifications and relevant experience of each person that the Captive Insurer proposes to appoint to provide an actuarial report under this Chapter.
+7.6.3	The Regulator may, if it does not believe that the Actuary proposed by the Captive Insurer possesses the qualifications set out in Rule ‎7.6.1, notify the Captive Insurer in writing that another Actuary must be appointed. 
+8	ADDITIONAL REQUIREMENTS FOR LONG-TERM INSURANCE BUSINESS
+8.1	Establishment of Long-Term Insurance Funds
+A Captive Insurer that is required, under the provisions of Rule ‎8.2, to establish or maintain a Long-Term Insurance Fund in respect of a part of its business must identify separately in its books and records the assets, liabilities, revenues and expenses attributable to that business.  Those assets, liabilities, revenues and expenses must be recorded separately and accounted for as a Long-Term Insurance Fund.
+8.1.1	Captive Insurer not a Cell Company
+Where a Captive Insurer that is not a Cell Company carries on Long-Term Insurance Business that, under the provisions of Rule ‎8.2, must be attributed to a Long-Term Insurance Fund, it must either:
+(a)	establish one or more Long-Term Insurance Funds; or
+(b)	notify the Regulator in writing that the Captive Insurer is deemed to constitute a single Long-Term Insurance Fund.
+8.1.2	Captive Insurer a Cell Company
+Where a Captive Insurer that is a Cell Company carries on, through a Captive Cell, Long-Term Insurance Business that, under the provisions of Rule ‎8.2, must be attributed to a Long-Term Insurance Fund, it must either:
+(a)	establish, in respect of that Captive Cell, one or more Long-Term Insurance Funds; or
+(b)	notify the Regulator in writing that the Captive Cell is deemed to constitute a single Long-Term Insurance Fund.
+8.1.3	Residual discretion of the Regulator
+Notwithstanding Rule 8.1.1 and 8.1.2, the Regulator may, at its sole discretion, direct that a Captive Insurer which conducts Long-Term Insurance Business establish one or more Long-Term Insurance Funds in respect of its Long-Term Insurance Business or any part of such business.
+8.2	Attribution of contracts to Long-Term Insurance Fund
+8.2.1	Attribution of all Long-Term Insurance contracts
+All contracts of Long-Term Insurance effected by a Captive Insurer must be attributed to a Long-Term Insurance Fund.
+8.2.2	Attribution of general Contracts of Insurance
+(1)	Except as permitted by Rule ‎8.2.2(2), a Captive Insurer may not attribute general Contracts of Insurance to a Long-Term Insurance Fund.
+(2)	A Captive Insurer may attribute Contracts of Insurance in General Insurance Class 1 or Class 2 to a Long-Term Insurance Fund.
+8.3	Segregation of assets and liabilities
+8.3.1	All assets, liabilities, revenues and expenses in respect of a Contract of Insurance that is attributed to a Long-Term Insurance Fund must be recorded as assets, liabilities, revenues and expenses of that Long-Term Insurance Fund.
+8.3.2	A Captive Insurer may at any time attribute any of its assets to a Long-Term Insurance Fund that were not previously attributed to such a Long-Term Insurance Fund.
+8.3.3	All revenues and expenses arising by way of earnings, revaluation or other change to the assets and liabilities of a Long-Term Insurance Fund must be recorded as revenues and expenses, or movements in capital, of that Long-Term Insurance Fund.
+8.3.4	A Captive Insurer which is required to maintain a Long-Term Insurance Fund must maintain adequate accounting and other records to identify the contracts and the assets, liabilities, revenues and expenses attributable to the Long-Term Insurance Fund.
+8.4	Limitation on use of assets in Long-Term Insurance Fund
+8.4.1	Assets to be used only for contracts attributed
+Except as provided in this Rule, assets that are attributable to a Long-Term Insurance Fund must be applied only for the purposes of the business attributed to the Long-Term Insurance Fund.
+8.4.2	Assets not to be transferred for other purposes
+Assets attributable to a Long-Term Insurance Fund may not be transferred so as to be available for other purposes of the Captive Insurer except:
+(a)	where the transfer constitutes appropriation of a surplus determined in accordance with Rule ‎7.3.2, provided that the transfer is performed within four months of the Reference Date of the actuarial investigation referred to in that Rule;
+(b)	where the transfer constitutes a payment of dividend or return of Capital, in accordance with Rules ‎8.4.3 and ‎8.4.4; 
+(c)	where the transfer is made in exchange for other assets at fair value;
+(d)	where the transfer constitutes reimbursement of expenditure borne on behalf of the Long-Term Insurance Fund, and in respect of expenses attributable to the Long-Term Insurance Fund; or
+(e)	where the transfer constitutes reattribution of assets attributed to the Long-Term Insurance Fund in error.
+ 
+8.4.3	Distributions
+Assets attributable to a Long-Term Insurance Fund must not be distributed by way of dividend or by way of return of Capital, except by a Captive Insurer or a Captive Cell that is deemed to constitute a single Long-Term Insurance Fund.
+8.4.4	Distributions by a Captive Insurer or Captive Cell deemed to constitute single Long-Term Insurance Fund
+A dividend or return of Capital by a Captive Insurer or a Captive Cell that is deemed to constitute a single Long-Term Insurance Fund may only be made where the dividend or return of Capital constitutes appropriation of a surplus determined in accordance with Rule ‎7.3.2, and:
+(a)	if the payment is made within four months of the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Captive Insurer or the Captive Cell since that Reference Date to exceed the amount of that surplus; or
+(b)	if the payment is made more than four months after the Reference Date of the actuarial investigation determining that surplus, the payment does not cause the total aggregate amount of the dividends or returns of capital made by the Captive Insurer or the Captive Cell since that Reference Date to exceed 50% of the amount of that surplus.
+8.4.5	Assets not to be lent
+Assets attributable to a Long-Term Insurance Fund must not be lent or otherwise made available for use for any other purposes of the Captive Insurer or any purposes of any party Related to the Captive Insurer.
+8.4.6	Prohibited Arrangements
+A Captive Insurer may not enter into any arrangement, whether or not described as a contract of reinsurance, where a Long-Term Insurance Fund of the Captive Insurer stands in as though the Captive Insurer were the reinsurer in a contract of reinsurance in which the Long-Term Insurance Fund is the Cedant.
+8.5	Other requirements
+8.5.1	Except as permitted in this Rule, a Captive Insurer must not effect any Direct Long-Term Insurance contract, the terms of which include any of the following:
+(a)	investment components of Policy Benefits, that are wholly or partly guaranteed;
+(b)	options to receive Policy Benefits on expiry, maturity or surrender as annuities, where annuity rates are wholly or partly guaranteed at the inception of the contract;
+(c)	bonuses on participating contracts where those bonuses become vested Policy Benefits or guaranteed by the Captive Insurer at a date prior to expiry, maturity or surrender; or
+(d)	other options or discretionary Policy Benefits that expose the Captive Insurer to investment, expense or other risk that is not readily definable at the inception of the contract.
+8.5.2	A Captive Insurer may request for permission from the Regulator to effect Direct Long-Term Insurance contracts with features of the kind referred to in Rule ‎8.5.1.  A request must be made in writing and must include:
+(a)	details of the terms of the proposed contracts;
+(b)	an explanation of how the Captive Insurer intends to price such contracts, and to value them for the purposes of its capital adequacy calculations; and
+(c)	an explanation of how the Captive Insurer intends to quantify, monitor and manage the risks to its capital adequacy represented by such features of contracts.
+8.5.3	The Regulator may grant a Captive Insurer permission to effect Direct Long-Term Insurance contracts having one or more features of the kind referred to in Rule ‎8.5.1. Permission shall be given in writing and shall be subject to such terms or conditions as the Regulator may specify in its notice granting permission. Where any terms and conditions are imposed on the Captive Insurer, the Captive Insurer shall comply with such terms and conditions.
+8.5.4	The Regulator may on its own initiative at any time vary or revoke permission given under Rule ‎8.5.3. Variation or revocation shall be communicated to the Captive Insurer in writing.
+8.5.5	A Captive Insurer which undertakes Direct Long-Term Insurance Business must supervise adequately the conduct of its Direct Long-Term Insurance Business in each jurisdiction in which that Business is undertaken.
+ 
+
+9	TRANSFER OF INSURANCE BUSINESS
+9.1	Accounting and Auditing 
+A Captive Insurer must comply with the business transfer provisions set out in Part 7 of FSMR. 
+ 
+
+10	CAPTIVE INSURERS IN RUN-OFF
+10.1	General provisions
+10.1.1	Terms and concepts relating to run-offs
+10.1.1.(1)	For the purposes of this Chapter, in determining whether a Captive Insurer is effecting Contracts of Insurance, or has ceased to effect Contracts of Insurance, including Contracts of Insurance effected through a Captive Cell or Long-Term Insurance Fund, Contracts of Insurance effected under a term of an existing Contract of Insurance shall be disregarded.
+10.1.1.(2)	In this Chapter:
+(a)	a Captive Insurer in run-off means a Captive Insurer that has ceased to effect Contracts of Insurance in respect of the whole of its Insurance Business, and a Captive Cell in run-off and a Long-Term Insurance Fund in run-off are to be construed accordingly; and
+(b)	going into run-off or placing Insurance Business into run-off means ceasing to effect Contracts of Insurance, and placing a Captive Cell or a Long-Term Insurance Fund into run-off are to be construed accordingly.
+10.2	Notices and run-off plans
+10.2.1	Ceasing to effect contracts in a Class of Business
+This Rule ‎10.2 applies to a Captive Insurer that ceases or decides to cease to effect new Contracts of Insurance:
+(a)	in a Class of Business in which the Captive Insurer has previously carried on Insurance Business; or
+(b)	in respect of a Captive Cell or Long-Term Insurance Fund, in a Class of Business in which the Captive Insurer has previously carried on Insurance Business through that Captive Cell or Long-Term Insurance Fund.
+10.2.2	Notification to the Regulator
+10.2.2.(1)	A Captive Insurer to which this Rule ‎10.2 applies must, within twenty-eight days of deciding to cease to effect new Contracts of Insurance in a Class of Business, notify the Regulator of its decision, in a written notice specifying the following details:
+(a)	the effective date of the decision to cease effecting Contracts of Insurance;
+(b)	the Class of Business to which the decision relates; and
+(c)	where relevant, Captive Cell or Long-Term Insurance Fund to which the decision relates.
+10.2.2.(2)	A Captive Insurer which has provided a notice to the Regulator in accordance with Rule ‎10.2.2(1) must not effect any Contracts of Insurance in that Class of Business without the written permission of the Regulator. Where the notice referred to in Rule ‎10.2.2(1) relates to a Captive Cell or Long-Term Insurance Fund of the Captive Insurer, the restriction set out in this Rule applies only to that Captive Cell or Long-Term Insurance Fund.
+10.2.3	Run-off plan – Captive Insurer decides to go into run-off
+10.2.3.(1)	This Rule applies to:
+(a)	Captive Insurers that are in run-off or that maintain Captive Cells or Long-Term Insurance Funds that are in run-off;
+(b)	Captive Insurers that go into run-off or that place Captive Cells or Long-Term Insurance Funds into run-off;
+(c)	Captive Insurers that make a decision to go into run-off or to place a Captive Cell or Long-Term Insurance Fund into run-off; and
+(d)	Captive Insurers whose Financial Services Permission to effect Contracts of Insurance in respect of their entire Insurance Business or in respect of the entire business of a Captive Cell or Long-Term Insurance Fund is withdrawn by the Regulator.
+10.2.3.(2)	If a Captive Insurer takes a decision to go into run-off or to place a Captive Cell or Long-Term Insurance Fund into run-off, the Captive Insurer must, at the same time as the notice referred to in Rule ‎10.2.2(1), provide the Regulator with a written run-off plan in respect of the Insurance Business being placed into run-off.
+10.2.4	Run-off Plan – Regulator withdraws Captive Insurer's permission
+If the Regulator withdraws a Captive Insurer's permission to effect Contracts of Insurance in respect of the Captive Insurer's entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund, the Captive Insurer must, within twenty-eight days of the written notice of withdrawal of permission (or, if later, the period specified in that notice), provide the Regulator with a written run-off plan in respect of that Insurance Business.
+10.2.5	Period of run-off plan
+10.2.5.(1)	A run-off plan provided to the Regulator in accordance with this Rule must cover the run-off period until all liabilities to policyholders relating to the Insurance Business in run-off are met and must include:
+(a)	an explanation of how, and to what extent, all liabilities to policyholders will be met in full as they fall due;
+(b)	an explanation of how the Captive Insurer will comply with the requirements in Chapter 2 until such time as all liabilities owed to policyholders are met in full;
+(c)	a description, appropriate to the size and complexity of the Captive Insurer's business, of the Captive Insurer's business strategy;
+(d)	financial projections showing, in a form appropriate to the nature, size, and complexity of the Captive Insurer's operations, the forecast financial position of the Captive Insurer as at the end of each reporting period during the period to which the run-off plan relates; and
+(e)	an assessment of the sensitivity of the financial position of the Captive Insurer to stress arising from realistic scenarios relevant to the circumstances of the Captive Insurer.
+10.2.5.(2)	Where a Captive Insurer's Insurance Business in run-off relates to a Captive Cell or Long-Term Insurance Fund of that Captive Insurer, the run-off plan must deal with the matters set out in Rule ‎10.2.5(1) so far as they relate to that Captive Cell or Long-Term Insurance Fund.
+10.2.6	Captive Insurers to monitor run-off plan etc
+A Captive Insurer that has provided a written run-off plan to the Regulator must monitor the matters contained in the run-off plan and must notify the Regulator promptly and in writing of any significant departure from the run-off plan.
+10.2.7	Amended run-off plan
+Where a Captive Insurer has notified a matter to the Regulator in accordance with Rule ‎10.2.6, the Regulator may by notice in writing require the Captive Insurer to provide an amended run-off plan. The Captive Insurer must provide an amended run-off plan within twenty-eight days of receipt of the notice, unless the notice specifies a longer period.
+10.3	Provisions for collateral for Captive Insurers in run-off
+10.3.1	Application 
+This Rule applies only to a Captive Insurer that:
+(a)	is in run-off in relation to its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund;
+(b)	has provided a notice to the Regulator in accordance with Rule ‎10.2.2 in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund; or
+(c)	has received a written notice from the Regulator withdrawing its Permission to effect Contracts of Insurance in respect of its entire Insurance Business or the entire Insurance Business of a Captive Cell or Long-Term Insurance Fund.
+10.3.2	Regulator may issue collateral notice
+10.3.2.(1)	The Regulator may, by written notice (referred to in this Chapter as a 'collateral notice'), require a Captive Insurer to make available assets:
+(a)	of a type and in a manner described in Rule ‎10.3.2(5); and
+(b)	having a value, determined in accordance with the provisions of Chapter 6, of the lower of:
+(i)	the amount, if any, specified in the notice; and
+(ii)	the amount determined in accordance with Rule ‎10.3.2(4).
+10.3.2.(2)	A Captive Insurer must comply with the requirements of a collateral notice within the period (if any) specified in the notice, or within two months of the date of the notice, whichever is the longer.
+10.3.2.(3)	The Regulator may at any time, by written notice to the Captive Insurer, vary or revoke a collateral notice issued under Rule ‎10.3.2(1).
+10.3.2.(4)	The amount referred to in Rule ‎10.3.2(1)(b) is calculated as follows:
+(a)	in the case of a Captive Cell of a Captive Insurer which is a Cell Company, the sum of the following two amounts:
+(i)	the Insurance Liabilities attributable to that Captive Cell; and
+(ii)	the Minimum Cellular Capital Requirement applicable to that Captive Cell.
+(b)	in the case of a Long-Term Insurance Fund, subject to Rules ‎10.3.2(4)(c) and ‎10.3.2(4)(d), the sum of the following two amounts:
+(i)	the Insurance Liabilities attributable to that Long-Term Insurance Fund; and
+(ii)	the Minimum Fund Capital Requirement applicable to that Long-Term Insurance Fund;
+(c)	in the case of a Captive Insurer that is not a Cell Company, the sum of the following two amounts:
+(i)	the Captive Insurer's Insurance Liabilities; and
+(ii)	the Captive Insurer's minimum capital requirement as provided for in Rule 2.2.
+(d)	in the case of a Captive Insurer to which Rules ‎10.3.2(4)(a) and ‎10.3.2(4)(c) both apply, the amount set out in ‎10.3.2(4)(a); and
+(e)	in the case of a Captive Insurer to which Rules ‎10.3.2(4)(c) and ‎10.3.2(4)(d) both apply, the amount set out in Rule ‎10.3.2(4)(d).
+10.3.2.(5)	The assets referred to in Rule ‎10.3.2(1) must be made available in one of or a combination of the two arrangements:
+(a)	assets of a type described in PIN 4.6.3 may be deposited with a custodian nominated or approved in writing by the Regulator; or
+(b)	a Person, whose activities are primarily financial in nature and is nominated or approved in writing by the Regulator, may issue a confirmed letter of credit in favour of the Regulator, for the amount of the assets required to be made available.
+10.3.2.(6)	The terms and conditions of a custody arrangement referred to in Rule ‎10.3.2(5)(a) or a letter of credit referred to in Rule ‎10.3.2(5)(b) and any change to those terms and conditions, must be notified to the Regulator, which may within two months of such notification require the Captive Insurer to make any change to the terms and conditions of the arrangement or letter of credit.
+10.3.2.(7)	The Regulator may, by written notice to a Captive Insurer, require the Captive Insurer to charge in favour of the Regulator part or all of any assets deposited with a custodian in accordance with Rule ‎10.3.2(5)(a).
+10.3.2.(8)	The Captive Insurer must reassess, as at the end of March, June, September and December in each year, the amount of the assets that the Captive Insurer is required by a collateral notice to make available, and the amount of assets made available by the Captive Insurer.
+10.3.2.(9)	The Captive Insurer must report to the Regulator, within two months of the date as at which the reassessment referred to in Rule ‎10.3.2(8) is performed, the results of that reassessment and details of any action taken or proposed to be taken as a result of that assessment.
+10.3.2.(10)	If the reassessment referred to in Rule ‎10.3.2(8) shows that the amount of assets made available is less than the amount that the Captive Insurer is required to make available, the Captive Insurer must, within two months of the effective date of the reassessment, make additional assets available so that the Captive Insurer complies with the requirements of the collateral notice.
+10.3.2.(11)	If the reassessment shows that the amount of assets made available is more than the amount that the Captive Insurer is required to make available, the Captive Insurer may, with the written consent of the Regulator, remove assets from those made available provided that the Captive Insurer complies with the requirements of the collateral notice after the assets have been removed.
+10.3.3	Captive Insurers in run-off must notify Regulator of certain contracts
+10.3.3.(1)	This Rule applies to any Captive Insurer referred to in Rule ‎10.3.1.
+10.3.3.(2)	A Captive Insurer to which this Rule applies must inform the Regulator in writing of the existence and principal features of any contract which it enters into in respect of its Insurance Business in run-off, including Insurance Business carried on through a Captive Cell or a Long-Term Insurance Fund that is in run-off, or that is in existence at the time the Captive Insurer places that Insurance Business into run-off, and that is of any of the following types:
+(a)	contracts, other than Contracts of Insurance effected by the Captive Insurer prior to going into run-off, with parties that are Related to the Captive Insurer;
+(b)	contracts relating to the management of the Insurance Business in run-off, and any other contracts with the same counterparty or parties Related to that counterparty; or
+(c)	contracts for reinsurance of the Insurance Business that is in run-off, and any other contracts with the same counterparty or parties Related to that counterparty.
+10.3.4	Regulator may request additional information
+The Regulator may by written notice require a Captive Insurer to provide additional information as specified in that notice in respect of any contract notified to the Regulator in accordance with Rule ‎10.3.3(2).
+10.4	Limitations on distributions by ADGM Captive Insurers in run-off
+No Captive Insurer that is in run-off may make any distribution of profits or surplus however called or described, or return of capital, or any payment of management fees (other than fees payable under a contract notified to the Regulator in accordance with Rule ‎10.3.3(2) without the written consent of the Regulator. Any such distribution or return of capital or payment of management fees must be made within the period, if any, specified in the written notice of consent given by the Regulator.
+

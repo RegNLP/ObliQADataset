@@ -1,0 +1,603 @@
+
+1)	INTRODUCTION. This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with FSMR, the Market Rules (“MKT) of the Financial Services Regulatory Authority (“FSRA”) and the FSRA’s Guidance & Policies Manual.  
+
+2)	INTRODUCTION. This Guidance is published to assist Issuers, Listed Companies, Reporting Entities (and their advisors) to comply with the disclosure requirements contained in Chapter 11 of MKT, which relate to Minerals activities.  Chapter 11 of MKT is intended to align ADGM’s listing framework for the disclosure of Minerals activities with recognised global industry standards, as well as promote consistency in, and the quality of, disclosures made in relation to Mining activities.   
+
+3)	INTRODUCTION. The disclosure framework for Mining Reporting Entities in Chapter 11 of MKT is substantially driven by three Mining Reporting Standards; the JORC Code, the SAMREC Code and NI 43-101 and the CIM Standards.  These Mining Reporting Standards set guidelines that provide for standardised definitions and a comprehensive classification system for Mineral Resources and Ore Reserves.  The FSRA intends for Chapter 11 of MKT to work closely, and be consistent, with the Mining Reporting Standards.  If there are any inconsistencies, however, between FSMR or MKT and the Mining Reporting Standards, FSMR or MKT will prevail.  However, this does not mean that where a Mining Reporting Standards requirement is not required under FSMR or MKT that it is acceptable for the Mining Reporting Standard requirement to be ignored.
+
+4)	INTRODUCTION. In the context of the obligations and disclosures by Mining Reporting Entities, the FSRA operates as the Listing Authority within ADGM and is therefore the authority charged with supervising Mining Reporting Entity disclosures under FSMR, MKT, and by extension of Chapter 11 of MKT, the Mining Reporting Standards. 
+
+5)	INTRODUCTION. Nothing in this Guidance binds the FSRA in relation to the application of MKT to a particular Issuer, Listed Company or Mining Reporting Entity, or to a particular situation.  This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers.  The FSRA is not bound by the requirements set out in this Guidance and may – 
+
+a)	impose additional requirements to address any specific risks posed by Mining Reporting Entities; 
+
+b)	waive or modify any of the Rules relevant to Mining Reporting Entities, at its discretion, where appropriate.
+
+6)	Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the FSRA Glossary Rulebook (“GLO”).  
+
+7)	INTRODUCTION. For the purposes of this Guidance:
+
+a)	and chapter 11 of MKT, and as set out in Rule 11.1.2, Issuers, Listed Companies or Mining Reporting Entities, or any other entity required to make a disclosure in relation to Minerals activities, are collectively referred to as “Mining Reporting Entities”;
+
+b)	the terms “Mining Reporting Standard”, and the “JORC Code”, the “SAMREC Code” and “NI 43-101”, as applicable, can be used interchangeably; and
+
+c)	any reference to a Rule is a reference to a Rule in MKT, unless otherwise set out.
+
+8)	INTRODUCTION. For more details on the process for the offering, listing and ongoing disclosures relating to Minerals activities, please contact the FSRA via email at: LA@adgm.com.  
+
+
+9)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . The FSRA considers that Rules 11.2.1 and 11.2.2 are the most important Rules in relation to the requirement for Minerals activity disclosures within ADGM.  Rule 11.2.1 requires that any disclosure by a Mining Reporting Entity that includes a statement about Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves or Production Targets, must be prepared in accordance with a Mining Reporting Standard and in accordance with the requirements of MKT Chapter 11.
+
+10)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . In addition, Rule 11.2.2 states that where a disclosure does not meet a non-mandatory requirement contained in a Mining Reporting Standard, then the Mining Reporting Entity must provide in its disclosure a statement as to how and why its disclosure differs from the non-mandatory requirement contained in the Mining Reporting Standard.  
+
+11)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . As a result of these two Rules, the FSRA has established a clear obligation for Mining Reporting Entities to comply in full with all mandatory, as well as non-mandatory, requirements set out in a Mining Reporting Standard.
+
+12)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . In the context of the obligations of, and disclosures made by Mining Reporting Entities, the FSRA (as Listing Authority within the ADGM) operates as the ‘front-line’ regulator of the Rules and, to the extent practicable, the JORC Code, the SAMREC Code and NI 43-101 (to the extent that Mining Reporting Entities make disclosures in relation to their mining activities).
+
+13)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . The FSRA does not view as acceptable the description of a resource or reserve estimate as a “non-‘insert relevant Mining Reporting Standard’ compliant” resource or reserve estimate within a disclosure.  Where a Mining Reporting Entity discloses, for example, a ‘non-JORC compliant’ estimate of resources or reserves without prior consultation with the FSRA, the FSRA will consider requiring the relevant Mining Reporting Entity to implement a suspension in the trading of its Securities until the Mining Reporting Entity can disclose an appropriate clarification.  
+
+14)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE MINING REPORTING STANDARDS . Rules 11.1 to 11.10 set out the general requirements applicable to Mining Reporting Entities making a disclosure in relation to Minerals.  These Rules also apply to all Listed Companies/Reporting Entities making a disclosure in relation to Minerals, not just Mining Reporting Entities.  While Mining Reporting Entities are specifically captured by the disclosure obligations within Chapter 11 of MKT, all Reporting Entities are required to consider whether Mineralisation (or related activities) are material in the context of their own set of activities, resulting in a requirement to comply with Rules 7.2.1 and Chapter 11 in this context.
+
+
+15)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a ‘Mining Reporting Entity’?
+There are two types of Mining Reporting Entities under the Rules, being either:
+
+a)	a Mining Exploration Reporting Entity; or 
+
+b)	a Mining Production Reporting Entity. 
+
+16)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a ‘Mining Reporting Entity’?
+A Mining Exploration Reporting Entity is a Reporting Entity whose main undertaking consists of Exploration for Minerals, or a Reporting Entity that has been advised by the FSRA that it is a Mining Exploration Reporting Entity for the purposes of the Rules.  
+
+17)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a ‘Mining Reporting Entity’?
+A Mining Production Reporting Entity is a Reporting Entity whose main undertaking consists of the Extraction of Minerals, or a Reporting Entity that has been advised by the FSRA that it is a Mining Production Entity for the purposes of the Rules.
+
+18)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a ‘Mining Reporting Entity’?
+The FSRA may exercise its power to advise a Reporting Entity that it is a Mining Exploration Reporting Entity or a Mining Production Reporting Entity for the purposes of the Rules if, in the FSRA’s opinion, the Reporting Entity undertakes mining activity that comprises, or is over time likely to comprise, such a material part of the overall activity of the Reporting Entity that it is appropriate for the Reporting Entity to be subject to the quarterly activity, and other periodic, disclosure obligations set out in Chapter 11 of the Rules. 
+
+
+19)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+A Mining Project is defined in the Rules as a project to Explore for or Extract Minerals from a Mining Tenement(s). 
+
+20)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+The considerations taken into account to accurately define a Mining Project will often be commercial, including development decisions, budget allocations and how particular mining activities are presented in the disclosure made by a Mining Reporting Entity, including in its annual financial statements and on its website.  A Mining Project may include the development of a single mine, an incremental development in a producing mine, or an integrated development of a group of several mines and associated facilities with common ownership.  
+
+21)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+The FSRA considers that the requirements for disclosing Exploration Results, estimates of Mineral Resources, estimates of Ore Reserves, Non-Equivalent Estimates and Production Targets  only apply to information that is material. 
+
+22)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+The definition of Mining Project and the related concept of ‘materiality’ is intended by the FSRA to be interpreted and applied in a sensible and commercial manner.  In the majority of circumstances, the FSRA considers it likely that it will be readily apparent that a particular mining activity is material for the purposes of these Rules, and therefore the disclosure requirements of Chapter 11 will apply to any related disclosure of Exploration Results, estimates of Mineral Resources, estimates of Ore Reserves and Production Targets.
+
+23)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+The factors that a Mining Reporting Entity (and for that matter, any Reporting Entity) should consider when determining whether the disclosure of particular estimates are material include:
+
+a)	its market capitalisation;
+
+b)	whether it would expect the disclosure of information relating to the Mining Project to have a material effect on the price of its Financial Instruments;
+
+c)	whether its actual and projected expenditure on the Mining Project is, or is likely to be, material in the context of its expenditure on other Mining Projects and other (non-Mining) business activities;
+
+d)	whether its actual and projected revenue from the Mining Project is, or is likely to be, material in the context of its revenue from other Mining Projects and other (non-Mining) business activities;
+
+e)	whether it considers the Mining Project will be a material asset in the medium to long term;
+
+f)	whether it has previously made a disclosure in relation to the Mining Project which suggests that the Mining Project is material;
+
+g)	the prominence given to the Mining Project on its website, its Annual Financial Statement or in other promotional material it has distributed; and
+
+h)	the materiality guidelines in the International Financial Reporting Standards.
+
+24)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+An assessment of the materiality of a Mining Project, or the estimates/results relating to it, must be made at a point in time, having due regard to a Mining Reporting Entity’s business activities and financial position at that time.  Such assessment may change over time.  For example, certain estimates that are not considered material today may become material in the future, due to the discovery of new Mineral Resources or other information.  Similarly, estimates that are considered material today may not be material in the future, due to a Mining Project becoming exhausted or abandoned, or because a Mining Reporting Entity embarks on other more important Mining Projects.
+
+25)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+Mining Projects and materiality 
+If a Mining Reporting Entity discloses estimates/results that it viewed as material at the time of disclosure, but subsequently forms a view that they are no longer material, the FSRA expects the Mining Reporting Entity to make a further disclosure providing the clear rationale for the change view on materiality.  Such reasoning should generally follow the considerations outlined in paragraph 24 above. 
+
+26)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a material change in estimates? 
+As the focus of the Rules is on ‘materiality’, the FSRA does not expect to see a Mining Reporting Entity disclose a change in estimates that are not material.  The exception to this is when a Mining Reporting Entity discloses its Summary of Reserves and Resources.  The emphasis, therefore, is on the ‘materiality’ to a Mining Reporting Entity, rather than whether a Mining Project is significant or not.   
+
+27)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a material change in estimates? 
+For example, clauses 4 of the SAMREC Code and JORC Code  set out their principle of ‘materiality’, requiring that a disclosure ‘contains all the relevant information that investors and their professional advisers would reasonably require, and expect to find, for the purpose of making a reasoned and balanced judgement regarding the Exploration Results, Mineral Resources and [Ore] Reserves being reported’.
+
+28)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a material change in estimates? 
+Rules 11.4.1, 11.5.1 and 11.6.1 require certain information to be included in disclosure made by a Mining Reporting Entity, where there has been a material change (up or down) in Exploration Results, estimates of Mineral Resources or estimates of Ore Reserves as compared to when they were previously disclosed.  A material change could be in the form of material improvement or regression in terms of the grade, quality or estimated tonnage.
+
+29)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a material change in estimates? 
+Whether there has been a material change in estimates of Mineral Resources or Ore Reserves must be tested by reference to the last disclosure of those estimates.  The last disclosed estimates may have been either the initial estimates disclosed by a Mining Reporting Entity or a subsequent disclosure of materially changed estimates.
+
+30)	CONCEPTS RELATING TO THE DISCLOSURE OF MINING ACTIVITIES 
+What is a material change in estimates? 
+A Mining Reporting Entity must determine whether a change in estimates of its Mineral Resources or Ore Reserves is material or not, taking into account all relevant factors, including the style of Mineralisation and whether the change in estimates is likely to have a significant effect on the price of its Financial Instruments.  
+
+
+31)	PROSPECTUS DISCLOSURE. Importantly, Rule 11.3.1(1) requires that in addition to complying with Chapter 4 of the Rules, a Prospectus that includes a statement about Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves or Production Targets must comply with Rule 11.2.1 (in that such Prospectus must also (in terms of the disclosures made within such Prospectus) comply with a Mining Reporting Standard and Chapter 11 of the Rules.
+
+32)	Valuation Reports. Rule 11.3.2 additionally requires that a Prospectus relating to a mining company (and its related reporting of Mineral Reserves and Ore Reserves) must also include a valuation report prepared by an independent expert in accordance with a Valuation Standard.  Rule 11.3.3 set out further requirements to be disclosed within the valuation report.
+
+
+33)	Operating in a sustainable manner. Rule 11.3.1(2) requires a mining company’s Prospectus to include details of its policies and practices in relation to operating in a sustainable manner.  Mining Reporting Entities will be required to provide an annual update on these policies and practices, pursuant to Rule 11.11.2.
+
+34)	EXPLORATION TARGETS . The Mining Reporting Standards generally treat an Exploration Target  as a ‘statement or estimate of the Exploration potential of a mineral deposit in a defined geological setting where the statement or estimate quoted as a range of tonnes and a range of grade (or quality) relates to Mineralisation for which there has been insufficient Exploration to estimate a Mineral Resource”.  The Mining Reporting Standards also provide that any such information relating to an Exploration Target is to be expressed in such a way that it cannot be misrepresented or misconstrued as an estimate of a Mineral Resource or Ore Reserve.   
+
+35)	EXPLORATION TARGETS . The FSRA considers that it is implicit within the Mining Reporting Standards, and the treatment of Exploration Targets under the Mining Reporting Standards, that subsequent Exploration of an Exploration Target is to be directed towards the estimation of a Mineral Resource.  As the Mining Reporting Standards do not allow a Mining Reporting Entity to disclose a Mineral Resource that has no prospects of eventual economic Extraction, the FSRA also expects that a Mining Reporting Entity cannot disclose an Exploration Target where it is apparent that the tonnage and/or grade is so low (or so deep) or otherwise not extractable, that the Mineralisation has no prospects of being economically mined within a reasonable timeframe.  To do so would be misleading, and in breach of MKT and FSMR (for further information on misleading statements, refer to paragraph 67). 
+
+36)	EXPLORATION TARGETS . There is no specific Rule, or relevant Mining Reporting Standard, requirement to include a report based on Table 1 of the JORC Code or SAMREC Code when disclosing an Exploration Target.  However, to the extent that an Exploration Target is based on material Exploration Results, Rule 11.4.1(1) requires a disclosure of the Exploration Results to include all information that is material to understanding the Exploration Results (including, as set out in and applicable to the Guidance to Rule 11.4.1.(1), in relation to each of the criteria in section 1 (sampling techniques and data) and section 2 (reporting of Exploration Results) of Table of 1 of the JORC Code or SAMREC Code).
+
+
+37)	EXPLORATION RESULTS . The disclosure of Exploration Results is common in the early stages of Exploration, when the quantity of data is generally not sufficient to allow any reasonable estimates of Mineral Resources.  Disclosures of Exploration Results are not to be presented so as to unreasonably imply that potentially economic Mineralisation has been discovered. 
+
+38)	EXPLORATION RESULTS . Rule 11.4 requires a Mining Reporting Entity disclosing material Exploration Results for the first time, and any relevant updated/new Exploration Results thereafter, to disclose certain information with the Exploration Results.  The disclosure of this information is intended to improve the ability of investors to assess the significance of the Exploration Results, and the likelihood of Mineral Resources being identified following further Exploration.
+
+39)	EXPLORATION RESULTS . The information required to be disclosed includes a drill hole table for all material drill holes, if the information is material to understanding the Exploration Results.  Rule 11.4.1(3) states that the drill hole table must include, in tabular form, the following:
+
+a)	easting and northing of the drill hole collar;
+
+b)	elevation or RL of the drill hold collar;
+
+c)	dip and azimuth of the hole;
+
+d)	down hole width and depth; and
+
+e)	end of hole;
+
+40)	EXPLORATION RESULTS . If a Mining Reporting Entity determines that the information in the drill hole table is not material to understanding its Exploration Results, it must include a clear and accurate explanation in its disclosure as to why this is the case (pursuant to Rule 11.4.1(4)).
+
+41)	EXPLORATION RESULTS . Mining Reporting Entities should also consider the requirements of Rules 11.4.1(1) and (2) in relation to the disclosure of information material to understanding Exploration Results (refer to paragraph 36 above).
+
+42)	EXPLORATION RESULTS . For more details on Exploration Results, refer for example, Clauses 20 and 22 of the SAMREC Code, and Clauses 18 and 19 of the JORC Code (which talk of, among other things, the ‘perspective’/ ‘relevance’ of disclosed Exploration Results). 
+
+
+43)	MINERAL RESOURCES . Rule 11.5 requires a Mining Reporting Entity that is disclosing estimates of Mineral Resources (being Inferred Mineral Resources, Indicated Mineral Resources or Measured Mineral Resources) for the first time, or that have materially changed from when they were last disclosed, to disclose certain information.
+
+44)	MINERAL RESOURCES . Pursuant to Rule 11.5.1, the information included in the disclosure must be a fair and balanced representation of the information contained in the separate report prepared in accordance with Rule 11.5.2 (which must be included as an annexure to the disclosure).  In complying with this obligation, the FSRA does not expect a Mining Reporting Entity to prepare a summary of all the information contained in the separate report.  Instead, it is expected that only information which is material to understanding the estimates of Mineral Resources contained in the separate report, and that is not otherwise included in the body of the disclosure, be included.
+
+45)	MINERAL RESOURCES . Rule 11.5.1(1)(f) requires that a Mining Reporting Entity disclosing estimates of Mineral Resources include, amongst the other information required, a summary of all material information in relation to the mining and metallurgical methods and parameters, and other material modifying factors, considered by the Mining Reporting Entity to date.  In complying with this requirement, the FSRA does not require a Mining Reporting Entity to complete a comprehensive study of all mining and metallurgical methods and parameters.  Instead, the FSRA expects disclosure of the mining and metallurgical methods and parameters, and material modifying factors, considered in the estimation of the Mineral Resources.  
+
+46)	MINERAL RESOURCES . Clauses 20 to 28 of the JORC Code, Clauses 24 to 34 of the SAMREC Code and Part 2.2 (among others) of NI 43-101 set out additional requirements for the classification and disclosure of Mineral Resources.  Additionally, a Mining Reporting Entity when making a disclosure, for example, in relation to Mineral Resources under the JORC Code or SAMREC Code, is to refer to the key reporting sections in Table 1 of the relevant Mining Reporting Standard (including in relation to sampling techniques, sub-sampling techniques, sample preparation, drilling techniques, data spacing and distribution).  The key requirements in these Mining Reporting Standards in relation to geology and geological interpretation, estimation and modelling techniques and cut-off parameters are also to be complied with.
+
+
+47)	ORE RESERVES . Rule 11.6 requires a Mining Reporting Entity that is disclosing estimates of Ore Reserves (being Probable Ore Reserves or Proved Ore Reserves) for the first time, or that have materially changed from when they were last disclosed, to disclose certain information.
+
+48)	ORE RESERVES . Pursuant to Rule 11.6.1, the information included in the disclosure must be a fair and balanced representation of the information contained in the separate report prepared in accordance with Rule 11.6.2 (which must be included as an annexure to the disclosure).  In complying with this obligation, the FSRA does not expect a Mining Reporting Entity to prepare a summary of all the information contained in the separate report.  Instead, it is expected that that only information which is material to understanding the estimates of Mineral Resources contained in the separate report, that is not otherwise included in the body of the disclosure, be included.
+
+49)	ORE RESERVES . Pursuant to Rule 11.6.1(1)(a), in order to achieve the required level of confidence in the modifying factors to determine an estimate of Ore Reserves, a Mining Reporting Entity will need to have carried out a relevant Technical Study (preliminary feasibility study or feasibility study ).  The key underlying assumptions and outcomes of the Technical Study are also to be disclosed.  
+
+50)	ORE RESERVES . The FSRA does expect a Mining Reporting Entity to have to disclose commercially sensitive information (e.g., pricing or volumes under long term contractual commitments) to meet this Rule obligation.  A Mining Reporting Entity (and other relevant entities) may, however, have to carefully consider whether this information needs to be disclosed to meet other disclosure requirements, including in reference to:
+
+a)	where an Issuer is issuing a Prospectus within ADGM, and the requirement in section 62(1) of FSMR to include all information that investors would reasonably require and expect to find in a Prospectus for the purposes of making an informed investment decision; or 
+
+b)	the requirements in sections 95(2) of FSMR and Rule 7.2.1 to disclose information that ‘would, if generally available, be likely to have a significant effect on the price…’ of Financial Instruments.  
+
+51)	ORE RESERVES. In such cases, however, where a Mining Reporting Entity relies on the guidance set out in Rule 11.6.1(1)(a), it:
+
+a)	must make a statement to the effect that its material economic assumptions are commercially sensitive;
+
+b)	should explain why the information is considered a trade secret or commercially sensitive; and
+
+c)	must disclose sufficient information (possibly in narrative rather than numerical form, where the numbers are commercially sensitive) in order for investors to understand the methodology it has used to determine these factors and assumptions, and the basis on which it is reporting the estimates of Ore Reserves. 
+
+52)	ORE RESERVES . Mining Reporting Entities need to be careful not to claim that information is commercially sensitive when this is not the case.  If a Mining Reporting Entity, for example, has not yet entered into any commercially sensitive contracts that underpin its commodity price, capital expenditure or operational expenditure assumptions, it would be difficult to form a view that information about those assumptions would be commercially sensitive.
+
+53)	ORE RESERVES . Rule 11.6 also requires that when a Mining Reporting Entity discloses an estimate of Ore Reserves, the disclosure is also to include key information relating to mining (recovery/dilution) factors or assumptions, metallurgical factors or assumptions, cut-off parameters, study status and the relative accuracy/confidence.
+
+54)	ORE RESERVES . Clauses 29 to 36 of the JORC Code, Clauses 35 to 43 of the SAMREC Code and Part 2.2 (among others) of NI 43-101 set out additional requirements for the classification and disclosure of Ore Reserves.  
+
+
+55)	NON-EQUIVALENT ESTIMATES 
+When can Non-Equivalent Estimates be disclosed? 
+Rule 11.2.1 operates such that any disclosure relating to Exploration Targets, Exploration Results, Mineral Resources or Ore Reserves is to be prepared in accordance with a Mining Reporting Standard.  Rule 11.7.2 provides an exception to Rule 11.2.1 for a Mining Reporting Entity where that Mining Reporting Entity discloses material Non-Equivalent Estimates of Mineralisation.  Non-Equivalent Estimates are estimates classified under a reporting standard which is not deemed by the FSRA as a Mining Reporting Standard.
+
+56)	NON-EQUIVALENT ESTIMATES 
+When can Non-Equivalent Estimates be disclosed? 
+The ability of a Mining Reporting Entity to disclose Non-Equivalent Estimates under Rule 11.7.2 does not extend to disclosures of ‘non-material’ Non-Equivalent Estimates (e.g., the FSRA does not generally see it as acceptable practice for Mining Reporting Entities to be disclosing such non-material information).  This limitation also extends, via Rule 11.7.3, to situations where a Mining Reporting Entity attempts to disclose:
+
+a)	‘preliminary resources’ where the Mining Reporting Entity’s relevant Exploration and evaluation programs are incomplete;
+
+b)	Ore Reserves when the appropriate Technical Study(s) required by a Mining Reporting Standard to allow the conversion of Mineral Resources to Ore Reserves has not yet been completed;
+
+c)	Non-Equivalent Estimates of Mineralisation for areas adjacent to a Mining Reporting Entity’s Mining Tenements; or
+
+d)	with an intent to avoid the requirements of a Mining Reporting Standard and/or the Rules.  This includes a disclosure of estimates that would not fall within the letter, spirit or purpose of the definition of Non-Equivalent Estimates.  
+
+57)	NON-EQUIVALENT ESTIMATES 
+When can Non-Equivalent Estimates be disclosed? 
+A Mining Reporting Entity wishing to disclose Non-Equivalent Estimates of Mineralisation under Rule 11.7.2 must comply with the requirements in Rules 11.7.3 to 11.7.6.  If the Mining Reporting Entity is not able to comply with the requirements of these specific Rules, it cannot disclose the estimate. 
+
+58)	NON-EQUIVALENT ESTIMATES 
+When can Non-Equivalent Estimates be disclosed? 
+It is important to note that Rule 11.7.1 prohibits a Mining Reporting Entity from including any Non-Equivalent Estimates of Mineralisation in any Technical Study of a Mining Reporting Entity’s Mineral Resources or Ore Reserves.
+
+59)	NON-EQUIVALENT ESTIMATES 
+Non-Equivalent Estimates disclosure requirements 
+Rule 11.7.4 sets out the information to be included in a disclosure relating to material Non-Equivalent Estimates of Mineralisation.  Rule 11.7.4(1) importantly requires that when a Mining Reporting Entity is disclosing Non-Equivalent Estimates, a prominent, and proximate, statement relating to the lack of appropriate classification work (under a Mining Reporting Standard) and the related uncertainty of further evaluation work is required within the disclosure.
+
+60)	NON-EQUIVALENT ESTIMATES 
+Non-Equivalent Estimates disclosure requirements 
+Rule 11.7.4(2) requires the identification of the source and date of the Non-Equivalent Estimate.  The FSRA requires the original source and date of the estimate to be disclosed, and not a summary or restatement of that information that has, for example, been released by government agency or obtained from a third party database.  Rule 11.7.4(6) requires that a summary of the evaluation and/or exploration work on which the Non-Equivalent Estimates are based has to be disclosed.
+
+61)	NON-EQUIVALENT ESTIMATES 
+Non-Equivalent Estimates disclosure requirements 
+Importantly, Rules 11.7.4(9) to (11) relate to the evaluation and/or Exploration work that needs to be undertaken to verify the Non-Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.  Whilst the timing for this work is to be disclosed under Rule 11.7.4(10), Rule 11.7.4(11) requires a Mining Reporting Entity to disclose the proposed source of funding for the required evaluation and/or Exploration work. 
+
+62)	NON-EQUIVALENT ESTIMATES 
+Non-Equivalent Estimates disclosure requirements 
+For requirements for subsequent disclosures of Non-Equivalent Estimates are outlined in Rule 11.7.5.  Amongst other requirements, the disclosure is to include a positive confirmation from the Mining Reporting Entity that there is no new material information or data that would impact on the reliability or interpretation of the Non-Equivalent Estimates, or the Mining Reporting Entity’s ability to verify the Non-Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.  The FSRA intends for this Rule to operate in such a way that a Mining Reporting Entity cannot be aware of this information and choose not to disclose it.
+
+63)	NON-EQUIVALENT ESTIMATES 
+Non-Equivalent Estimates disclosure requirements 
+Pursuant to Rule 11.7.4(13), a disclosure containing Non-Equivalent Estimates must include a statement by a Competent Person that certain information in the disclosure (being the information provided under Rules 11.7.4(3) to (9)) is an accurate representation of the relevant data and related studies. 
+
+64)	NON-EQUIVALENT ESTIMATES 
+Summary of Reserves and Resources
+Rule 11.7.6 requires that a Mining Reporting Entity that has disclosed Non-Equivalent Estimates under Rules 11.7.4 and 11.7.5 which have not subsequently been verified and disclosed as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard, must include certain additional information in its Summary of Reserves and Resources, including:
+
+a)	the steps it has taken in evaluating the previously disclosed Non-Equivalent Estimates;
+
+b)	the status of any further evaluation and/or Exploration work required to verify and disclose the Non-Equivalent Estimates as Mineral Resources or Ore Reserves with a Mining Reporting Standard;
+
+c)	the status of any proposed source of funding for the evaluation and/or Exploration work referred to above; and
+
+d)	if the Non-Equivalent Estimates have not been verified and disclosed as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard after 3 years from the date they were initially disclosed, a statement explaining:
+
+(i)	why the Non-Equivalent Estimates have not been verified and disclosed as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard; and
+
+(ii)	the Mining Reporting Entity’s intention, proposed timetable and proposed source of funding with regard to verifying and disclosing the Non-Equivalent Estimates as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.
+
+65)	NON-EQUIVALENT ESTIMATES 
+Summary of Reserves and Resources
+The requirement to disclose the source of funding is an important one, as this will require Mining Reporting Entities to disclose both the expected work program, and the funding position in relation to that work program. 
+
+66)	NON-EQUIVALENT ESTIMATES 
+Summary of Reserves and Resources
+Save for including the information/explanations required above in a Summary of Reserves and Resources, Non-Equivalent Estimates must not be included in the information (presented as Mineral Resources or Ore Reserves) as they do not meet the requirement to be classified as Mineral Resources under a Mining Reporting Standard.  For this reason, the FSRA encourages Mining Reporting Entities that have disclosed Non-Equivalent Estimates under Rules 11.7.4 and 11.7.5 to undertake the work required to verify them as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard, as quickly and practically as possible.
+
+
+67)	PRODUCTION TARGETS .
+Rule 11.8 sets out the requirements for disclosing certain types of Production Targets.  The FSRA emphasises that Production Targets are forward looking statements. A Production Target must, therefore, be based on reasonable grounds or it will otherwise be deemed misleading.  An appropriate level of due diligence must, as a result, be applied to the preparation of a Production Target.  The assumptions and underlying figures used in preparing a Production Target need to be carefully vetted and signed off at a suitably senior level within the Mining Reporting Entity before it is disclosed.
+
+68)	PRODUCTION TARGETS
+What constitutes reasonable grounds?
+As set out above, it is the responsibility of a Mining Reporting Entity disclosing a Production Target to ensure that it has reasonable grounds to do so.  ‘Reasonable grounds’ extend not only to the Mineralisation underpinning a Production Target, but also to any assumptions regarding modifying factors (including, for example, the ‘modifying factors; set out within Table 1 of the SAMREC Code or JORC Code). 
+
+69)	PRODUCTION TARGETS
+What constitutes reasonable grounds?
+What will constitute ‘reasonable grounds’ for disclosure of a Production Target must be considered and judged according to the facts and circumstances of each case, and the requirements of FSMR.   The FSRA is of the view, however, that:
+
+a)	Probable Ore Reserves or Proved Ore Reserves will generally provide a reasonable basis for the disclosure of a Production Target, given the level of geological knowledge and confidence, and the consideration of the modifying factors, involved;
+
+b)	Indicated Mineral Resources or Measured Mineral Resources may provide a reasonable basis for disclosure of a Production Target, provided a Mining Reporting Entity has given sufficient consideration to the modifying factors in order to have reasonable grounds, and the Mining Reporting Entity clearly discloses the material assumptions it has made in this regard;
+
+c)	where a Mining Reporting Entity has disclosed estimates of Ore Reserves, Indicated Mineral Resources or Measured Mineral Resources, it may have reasonable grounds for including some level of Inferred Mineral Resources or an Exploration Target in a Production Target, subject to the Mining Reporting Entity confirming that the respective proportions of Inferred Mineral Resources or Exploration Target (pursuant to Rule 11.8.3(4)):
+
+(i)	are not the determining factors in the viability of the Production Target; and
+
+(ii)	do not feature as a significant proportion in the early mine plan.
+
+d)	a Production Target may only be wholly based on Inferred Mineral Resources if the Mining Reporting Entity complies with Rule 11.8.3(5). 
+
+70)	Production Targets – what can they be disclosed in relation to?  Rule 11.8.2 provides that a Mining Reporting Entity can disclose a Production Target in relation to:
+
+a)	its Mineral Resources and Ore Reserves Holdings; or
+
+b)	a material Mining Project (or two or more Mining Projects which together are material). 
+
+71)	Production Targets – what can they be disclosed in relation to?  A Mining Reporting Entity can disclose a Production Target that is based on a combination of Ore Reserves and/or Mineral Resources and an Exploration Target, provided that it does so in accordance with Rule 11.8.4, and it has reasonable grounds for doing so.
+
+72)	Production Targets – what can they be disclosed in relation to?  Rule 11.8.3(4) provides that, among other things, the Inferred Mineral Resources and Exploration Target (as applicable) do not feature as a significant proportion in the early mine plan.  The proportion of Inferred Mineral Resources and an Exploration Target that may be added to the end of the mine plan depends on the maturity of a Mining Project.  For example, a greater proportion may be justified by a producing mine (or a Mining Production Reporting Entity) with a history of converting Exploration Targets and Mineral Resources into Ore Reserves, than a Mining Exploration Reporting Entity that has Indicated Mineral Resources as the highest confidence Mineral Resource.  For the purpose of this Rule, therefore, the FSRA interprets the phrase ‘significant proportion’ to mean 25% or less of the Mineralisation used to determine the Production Target is attributed to Inferred Mineral Resources and/or an Exploration Target.
+
+
+73)	Production Targets – what is not acceptable?  Rule 11.8.1 provides that a Mining Reporting Entity cannot not disclose a Production target that is based wholly on:
+
+a)	on an Exploration Target;
+
+b)	on a combination of Inferred Mineral Resources and an Exploration Target; or
+
+c)	or partly on, Non-Equivalent Estimates. 
+
+74)	Production Targets – what is not acceptable?  In paragraphs a) and b) above, with no confirmed Ore Reserves, Measured Mineral Resources or Indicated Mineral Resources, there will be significant uncertainty as to the Mining Reporting Entity’s ability to achieve the Production Target.  In c) above, with the Mineralisation not having been verified and disclosed in accordance with a Mining Reporting Standard, there will be similar significant uncertainty as to the Mining Reporting Entity’s ability to achieve the Production Target. 
+
+
+75)	Production Targets-Disclosure requirements . Each of the items required by 11.8.3(1) to (7) to be disclosed in relation to a Production Target must be disclosed at the same time as the headline Production Target is disclosed, and in the same document. 
+
+76)	Production Targets-Disclosure requirements . Rule 11.8.3(1)(a) requires a Mining Reporting Entity to disclose the material assumptions, and material economic assumptions, used to determine a Production Target the first time it discloses the Production Target.  The aim of this is to facilitate greater transparency of the basis for a Production Target.
+
+77)	Production Targets-Disclosure requirements . Pursuant to Rule 11.8.3(1)(b), if a Mining Reporting Entity considers that the material economic assumptions are commercially sensitive (e.g., pricing or volumes under long term contractual commitments), the Mining Reporting Entity is required to disclose a statement to that effect and provide an explanation of the methodology used to determine the material economic assumptions.  Though this Rule 11.8.3(1)(b) allows for a Mining Reporting Entity to not disclose commercially sensitive information, the Mining Reporting Entity should carefully consider whether this commercially sensitive information needs to be disclosed to meet other disclosure obligations, including in reference to:
+
+a)	where an Issuer is issuing a Prospectus within ADGM, and the requirement in section 62(1) of FSMR to include all information that investors would reasonably require and expect to find in a Prospectus for the purposes of making an informed investment decision; or 
+
+b)	the requirements in sections 95(2) of FSMR and Rule 7.2.1 to disclose information that ‘would, if generally available, be likely to have a significant effect on the price…’ of Financial Instruments.  
+
+78)	Production Targets-Disclosure requirements . In such cases, however, where a Mining Reporting Entity relies on Rule 11.8.3(1)(b) it:
+
+a)	must make a statement to the effect that the material economic assumptions are commercially sensitive;
+
+b)	should explain why the information is considered a trade secret or commercially sensitive; and
+
+c)	must disclose sufficient information (possibly in narrative rather than numerical form, where the numbers are commercially sensitive) in order for investors to understand the methodology it has used to determine these factors and assumptions, and the basis on which it is reporting the relevant estimates. 
+
+79)	Production Targets-Disclosure requirements . Mining Reporting Entities need to be careful not to claim that information is commercially sensitive when this is not the case.  If a Mining Reporting Entity, for example, has not yet entered into any commercially sensitive contracts that underpin its commodity price, capital expenditure or operational expenditure assumptions (as it is not yet a Mining Production Reporting Entity), it would be difficult to form a view that information about those assumptions would be commercially sensitive.
+
+80)	Production Targets-Disclosure requirements . As Rule 11.8.3(1)(c) requires the disclosure of all material ‘non-economic’ assumptions, Mining Reporting Entities are not provided the same discretion relating to commercial sensitivity for these assumptions as what applies to material ‘economic assumptions’.  
+
+81)	Production Targets-Disclosure requirements . It is important to note that as a Production Target involves a representation about future matters, it must be based on reasonable grounds, meaning that the price, capital expenditure and operational expenditure assumptions used to calculate the Production Target must also be objectively reasonable, or else the representation could be deemed as misleading.   
+
+82)	Production Targets-Disclosure requirements . Rule 11.8.3(2) requires that if forecast commodity prices have been used, a Mining Reporting Entity must confirm that such forecast commodity prices were arrived at on reasonable grounds.
+
+83)	Production Targets-Disclosure requirements . Where a Production Target in in part based on Inferred Mineral Resources, Rule 11.8.3(6) requires a Mining Reporting Entity’s disclosure to include a prominent, and proximate, cautionary statement.  For more details on the FSRA’s expectations for prominent, and proximate, cautionary statements, please refer to paragraphs 87-89 below. 
+
+84)	Production Targets-Disclosure requirements . Where a Production Target is in part based on an Exploration Target, in addition to the Mining Reporting Entity’s disclosure needing to include a prominent, and proximate, cautionary statement, Rule 11.8.3(7)(a) also requires a statement on the factors that lead the Mining Reporting Entity to believe that it has a reasonable basis for disclosing the Production Target.
+
+85)	Production Targets-Disclosure requirements . The FSRA has not imposed a specific Rule obligation requiring confirmation that the estimates of Ore Reserves and/or Mineral Resources used in determining a Production Target have been prepared by a Competent Person in accordance with a Mining Reporting Standard.  The FSRA expects to see disclosure of the appropriate Competent Person statement in relation to the original disclosure of the estimates of Ore Reserves and/or Mineral Resources, as part of the Mining Reporting Entity meeting its obligations under the Mining Reporting Standards and the Rules.  The FSRA therefore suggests that Mining Reporting Entities reconfirm this position in any disclosure relating to Production Targets. 
+
+86)	Production Targets-Disclosure requirements . If a Mining Reporting Entity becomes aware that its Production results will differ materially (up or down) from any Production Target it has disclosed, it may have a legal obligation to disclose this.  This obligation to disclose may arise under Rule 7.2.1 and section 95(2) of FSMR, in order to disclose information that ‘would, if generally available, be likely to have a significant effect on the price…’ of Financial Instruments. 
+
+87)	Production Targets wholly based on Inferred Mineral Resources . As noted earlier, Mining Reporting Entities are required to note that a disclosure about a Production Target can be deemed misleading unless the Mining Reporting Entity has reasonable grounds for making the disclosure.  For this reason, the FSRA considers that only in exceptional circumstances will a Mining Reporting Entity be able to form the view that it has reasonable grounds to determine a Production Target wholly based on Inferred Mineral Resources.
+
+88)	Production Targets wholly based on Inferred Mineral Resources . Rule 11.8.3(5) therefore requires that where a Production Target is wholly based on Inferred Mineral Resources, the following additional requirements be satisfied:
+
+a)	disclosure of an explanation as to why the Mining Reporting Entity believes it has a reasonable basis for disclosing a Production Target wholly based on Inferred Mineral Resources.  This should, for example, be limited to types of Mineralisation where a Mining Project cannot be progressed, at the time of the disclosure, up to a higher level of confidence in the Mineralisation by conventional exploration alone;
+
+b)	disclosure of the level of confidence associated with the estimates of Inferred Mineral Resources and the basis of this level of confidence.  This should be provided in narrative form and be sufficiently descriptive such that investors are informed of the reasons why the Mining Reporting Entity maintains this level of confidence;
+
+c)	completion and disclosure of an independent technical report that is of a sufficient level of confidence to support the Production Target.  The Technical Study must be prepared by, or under the supervision of a Competent Person in accordance with a Mining Reporting Standard. The Technical Study produced by the independent Competent Person for the purposes of Rule 11.8.3(5)(c) should be a technical assessment report prepared in accordance with a Valuation Standard; and
+
+d)	inclusion, in the relevant disclosure, of the prominent, and proximate, cautionary statement required by Rule 11.8.3(5)(d).
+
+89)	Production Targets wholly based on Inferred Mineral Resources . The Inferred Mineral Resources used in determining the Production Target are to be prepared by, or under the supervision of, a Competent Person, but are not required to be prepared by, or under the supervision of, an independent Competent Person. 
+
+90)	Exemptions from disclosure - Subsequent disclosures & operating mines . Rule 11.8.4 allows Mining Reporting Entities to not have to include, within a subsequent disclosure of a Production Target, all the information set out in Rule 11.8.3 provided certain other conditions are satisfied.  One of these conditions is that the subsequent disclosure must cross refer to the disclosure containing the Production Target and all the required supporting information.  
+
+91)	Exemptions from disclosure - Subsequent disclosures & operating mines . Similarly, as set out in Rule 11.8.5, and with the FSRA being comfortable with a Mining (Production) Reporting Entity operating a mine underpinned by higher confidence Mineralisation, the disclosure obligations set out in Rule 11.8.3 do not apply when that operating mine is wholly underpinned by:
+
+a)	Ore Reserves;
+
+b)	a combination of Ore Reserves and Measured Mineral Resources; or
+
+c)	a combination of Ore Reserves and,
+
+(i)	Measured Mineral Resources; and/or
+
+(ii)	Indicated Mineral Resources, provided that the Indicated Mineral Resources are not the determining factor in the viability of the project.
+
+
+92)	Are near-term production forecasts a Production Target?  No, due to its limited time horizon, the FSRA does not consider a near-term production forecast a Production Target.  The disclosure requirements contained in Rule 11.8.3, therefore, do not apply to the disclosure of a near-term production forecast, if that production forecast relates to the current or forthcoming year (though the provisions of Rule 7.2.1 do apply).
+
+93)	Are near-term production forecasts a Production Target?  The FSRA also does not regard ‘aspirational statements’  as falling within the definition of ‘Production Target’.  Rule 11.8.3 also therefore does not apply to such statements. 
+
+
+94)	FORECAST FINANCIAL INFORMATION. Rule 11.9 sets out the requirements for disclosing forecast financial information (derived from a Production Target disclosed under Rule 11.8).  Similar to Production Targets, it is important to emphasise that forecast financial information is a forward-looking statement. 
+
+95)	FORECAST FINANCIAL INFORMATION. As outlined above, and similar to the treatment of Production Targets, it is the responsibility of a Mining Reporting Entity disclosing forecast financial information derived from a Production Target to ensure that it has reasonable grounds to do so. Reasonable grounds extend not only to the Mineralisation underpinning the forecast financial information, but also to, for example, any assumptions regarding ‘modifying factors’ in Table 1 of the SAMREC Code or JORC Code.  
+
+96)	FORECAST FINANCIAL INFORMATION. In determining what constitutes ‘reasonable grounds’ for forecast financial information derived from a Production Target, a Mining Reporting Entity must consider the same requirements applying to Production Targets set out in paragraph 69 above. 
+
+97)	FORECAST FINANCIAL INFORMATION. Pursuant to Rule 11.9.1, the disclosure requirements in Rule 11.9.2 apply to forecast financial information relating to a Mining Reporting Entity’s:
+
+a)	Mineral Resources and Ore Reserves Holdings; or
+
+b)	material Mining Project (or two or more Mining Projects which together are material). 
+
+98)	Disclosure requirements . Each of the requirements to be disclosed in relation to forecast financial information derived from a Production Target in Rule 11.9.2 must be disclosed at the same time as the headline financial forecast is disclosed, and in the same document.  Pursuant to Rule 11.9.2(2), the full disclosure requirements of Rule 11.8.3 (that relate to Production Targets) also apply to forecast financial information derived from a Production Target.
+
+99)	Disclosure requirements . Similar to the treatment of material assumptions relating to Production Targets in Rule 18.3.1(1), Rule 11.9.2(1) requires a Mining Reporting Entity to disclose the material assumptions underpinning the forecast financial information the first time the Mining Reporting Entity discloses it.  The aim of this Rule is to also facilitate greater transparency of the basis for the disclosure of forecast financial information.  For further guidance on the FSRA’s treatment of material assumptions, refer to paragraphs 76-80 above.  
+
+100)	Disclosure requirements . Pursuant to Rule 11.9.3, subsequent disclosures by a Mining Reporting Entity that refer to previously disclosed forecast financial information (derived from a Production Target) do not have to provide all the information set out in Rule 11.9.2 provided certain other conditions are satisfied.  One of these conditions is that the subsequent disclosure must cross refer to the disclosure containing the forecast financial information, as well as all the required supporting information.   This is consistent with the treatment of subsequent disclosure of Production Targets, set out in Rule 11.8.4.
+
+101)	Disclosure requirements . Similar to the considerations set out above for Production Targets, the FSRA does not consider that a near-term production forecast, due to both its limited time horizon and focus on production rather than financial information, is forecast financial information.  The disclosure requirements contained in Rule 11.9.2, therefore, do not apply to the disclosure of a near-term production forecast, if that production forecast relates to the current or forthcoming year (though Mining Reporting Entities should be aware that the provisions of Rule 7.2.1 do apply).
+
+102)	Disclosure requirements . Pursuant to Rule 11.9.4, and similar to Rule 11.8.5, due to the FSRA being comfortable with a Mining (Production) Reporting Entity operating a mine underpinned by higher confidence Mineralisation, the disclosure obligations set out in Rule 11.9.2 do not apply to forecast financial information when that operating mine is wholly underpinned by the Mineralisation identified in paragraph 91 above.
+
+103)	Disclosure requirements . Pursuant to Rule 11.9.2(2), a Mining Reporting Entity disclosing forecast financial information (derived from a Production Target) must disclose the underlying Production Target, and all the information contained in Rule 11.8.3.  In interpreting this Rule, the FSRA requires a Mining Reporting Entity disclosing forecast financial information based solely on Inferred Mineral Resources to include the additional information required by Rule 11.8.3(5), in-so-far as that information relates to the forecast financial information.   
+
+104)	SPECIFIC DISCLOSURE REQUIREMENTS
+Competent Persons
+Rule 11.12.1 requires that the first time a Mining Reporting Entity discloses an Exploration Target, Exploration Results, estimates of Mineral Resources or estimates of Ore Reserves, it must ensure that the disclosure, pursuant to Rule 11.12.1, states:
+
+a)	that it is based on, and fairly represents, information and supporting documentation prepared by a named Competent Person(s);
+
+b)	whether the Competent Person is an employee of the Mining Reporting Entity, or a Related Party, and, if not, the name of the Competent Person’s employer; and
+
+c)	the name of the professional organisation of which the Competent Person is a member.
+
+105)	SPECIFIC DISCLOSURE REQUIREMENTS
+Competent Persons
+As required by Rule 11.12.2, the statement referred to in Rule 11.12.1 must only be disclosed with the prior written consent of the Competent Person(s) as to the form and context in which the Exploration Results or estimates of Mineral Resources or Ore Reserves (and the supporting information) are set out and presented within the specific disclosure.
+
+106)	SPECIFIC DISCLOSURE REQUIREMENTS
+Competent Persons
+This obligation in Rule 11.12.2 applies (but is not solely limited to) disclosures containing Exploration Results (or materially changed Exploration Results) (Rule 11.4), and estimates (or materially changed estimates) of Mineral Resources (Rule 11.5) and Ore Reserves (Rule 11.6).  It also applies to the disclosure of a Mining Reporting Entity’s Summary of Reserves and Resources (Rule 11.11.1), as well as the disclosure of a MKT Form 11-1.  
+
+107)	SPECIFIC DISCLOSURE REQUIREMENTS
+Competent Persons
+As provided for in Rule 11.12.3, subsequent inclusion of the Competent Person’s statement is not required upon a re-disclosure of the same Exploration Results, Mineral Resources or Ore Reserves where the following is met:
+
+a)	any subsequent disclosure that refers to the Exploration Results or estimates of Mineral Resources or Ore Reserves references the earlier disclosure containing the statements and consent referred to in Rule 11.12.1; and
+
+b)	the Mining Reporting Entity confirms in the subsequent disclosure that it is not aware of any new information or data that materially affects the information included in the earlier disclosure, and that all material assumptions and technical parameters underpinning the estimates in the earlier disclosure continue to apply and have not materially changed.
+
+108)	SPECIFIC DISCLOSURE REQUIREMENTS
+Competent Persons
+If a Mining Reporting Entity is not able to meet these conditions then a subsequent disclosure is to include the statements and consent required by Rule 11.12.1.
+
+109)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+The requirements for disclosing pursuant to:
+
+a)	Rules 11.7.4(1) and 11.7.5(3) (Non-Equivalent Estimates); 
+
+b)	Rules 11.8.3(5)(d), 11.8.3(6) & (7) (Production Targets); 
+
+c)	Rules 11.8.4(3) & (4) (Production Targets); and 
+
+d)	Rules 11.9.3(3) & (4) (Forecast financial information),
+
+require the inclusion of a cautionary statement that is at least equally prominent, and if applicable, proximate to the disclosed information.
+
+110)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+At least equal prominence, for the purposes of the Rules, means the cautionary statement should have, at the very least, the same font type, size and colour as the relevant information.  This means that if the estimates of Prospective Resources are disclosed in a heading, the cautionary statement is to be in at least the same font type, size and colour as the heading.  The FSRA expects that, at the very least, where the relevant information is highlighted and emphasised in any way (e.g., by being printed in bold, italics or a different colour to the surrounding text), the prominent cautionary statement must, at the very least, be equally highlighted and emphasised.
+
+111)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+The FSRA considers that proximate, for the purposes of the Rules, means on the same page, and in the same paragraph or in the immediately preceding or following paragraph, as the relevant information.  Except as set out below, placing a cautionary statement in a footnote or endnote, or in a general disclaimer elsewhere in a disclosure, does not meet the requirement for the statement to be proximate.
+
+112)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+Where a disclosure includes multiple references to the relevant information, the required cautionary statement need only appear with the required prominence and proximity once, being where the relevant information first appears in the disclosure.
+
+113)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+To the extent that the cautionary statement appears more than once, the Mining Reporting Entity should ensure that its presentation is consistent.  For example, if a Mining Reporting Entity uses a smaller or less legible font when it first refers to the relevant information than in subsequent references, such that its cautionary statement is therefore smaller or less legible compared to the subsequent information, the Mining Reporting Entity will be regarded by the FSRA as not promoting the purpose or intent of the relevant Rule.  Similarly, if a Mining Reporting Entity first refers to the relevant information in plain font so that its cautionary statement is also in plain font, but then uses highlighted or emphasised text for subsequent references to the relevant information, the Mining Reporting Entity will be regarded by the FSRA as not promoting the purpose or intent of the relevant Rule.
+
+114)	SPECIFIC DISCLOSURE REQUIREMENTS
+Prominent, and proximate, cautionary statements 
+After the first use of a cautionary statement within a disclosure, it is sufficient for any subsequent reference to the estimate of Prospective Resources to include a footnote or endnote that cross-refers to the cautionary statement (which includes the page number where the prominent cautionary statement appears).   
+
+115)	SPECIFIC DISCLOSURE REQUIREMENTS
+Non acceptance of historical estimates
+Pursuant to Rule 11.12.4, the FSRA does not allow a disclosure by a Mining Reporting Entity that includes a statement about Exploration Targets, Exploration Results, Mineral Resources, Ore Reserves, Production Targets or a Technical Study to include Historical Estimates.  Historical Estimates are estimates of Mineralisation prepared prior to the publication of the first editions of the JORC Code, the SAMREC Code and NI 43-1-1.  
+
+116)	SPECIFIC DISCLOSURE REQUIREMENTS
+Non acceptance of historical estimates
+It is FSRA’s expectation that a Mining Reporting Entity wishing to disclose Historical Estimates will first verify them against a Mining Reporting Standard.
+
+117)	SPECIFIC DISCLOSURE REQUIREMENTS
+Disclosure against Table 1 of JORC Code / SAMREC Code
+In practice, the requirements for a Mining Reporting Entity to disclose Exploration Results (Rule 11.4), an estimate of Mineral Resources (Rule 11.5) or an estimate of Ore Reserves (Rule 11.6) include an obligation (via Rule 11.2.1) for the Mining Reporting Entity to report against, for example, Table 1 of the JORC Code or SAMREC Code on an ‘if not, why not’ basis. 
+
+118)	SPECIFIC DISCLOSURE REQUIREMENTS
+Disclosure against Table 1 of JORC Code / SAMREC Code
+This means that if a Mining Reporting Entity determines that one or more of the criteria in Table 1 of the JORC Code/SAMREC Code is not information material to the understanding of its disclosed information, the Mining Reporting Entity must identify those criteria and include in its disclosure a description of why it considers the information is not material to understanding the disclosed information.
+
+119)	SPECIFIC DISCLOSURE REQUIREMENTS
+Disclosure against Table 1 of JORC Code / SAMREC Code
+In such a circumstance, a Mining Reporting Standard cannot leave an item contained within Table 1 blank or state ‘not applicable/not relevant’, if it does not believe that the information is material to understanding the disclosed information.  Instead, the Mining Reporting Entity must include a clear statement as to why it is not material.  
+
+120)	SPECIFIC DISCLOSURE REQUIREMENTS
+Disclosure against Table 1 of JORC Code / SAMREC Code
+The FSRA would also further draw the attention of Mining Reporting Entities to the guidance set out above in paragraphs 50-53 in relation to commercially sensitive information.  The FSRA reiterates that the same considerations apply in relation to the reporting against Table 1 considerations.   
+
+121)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+The FSRA requires Mining Exploration Reporting Entities and Mining Production Reporting Entities to disclose, on a quarterly basis, an update of their activities.  Mining Exploration Reporting Entities are required, pursuant to Rule 11.10.1, to disclose a quarterly report which provides, on a consolidated basis:
+
+a)	details of its activities relating to mining Exploration, or a statement that there have been no activities relating to mining Exploration (if there have not been any);
+
+b)	a summary of its activities relating to mining production and development, or a statement that there have been no activities relating to mining production and development (if there have not been any);
+
+c)	a summary of the expenditure it has incurred in relation to mining Exploration or mining Production activities; and
+
+d)	details of the Mining Tenements, and the beneficial interests in farm-in and farm-out agreements, held by the Mining Exploration Reporting Entity as at the end of the relevant quarter, and any changes over the quarter. 
+
+122)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+Mining Production Reporting Entities are required, pursuant to Rule 11.10.3, to disclose a quarterly report which provides, on a consolidated basis:
+
+a)	details of its activities relating to mining production and development, or a statement that there have been no activities relating to mining production and development (if there have not been any);
+
+b)	a summary of its activities relating to mining Exploration, or a statement that there have been no activities relating to mining Exploration (if there have not been any); and
+
+c)	a summary of the expenditure it has incurrent in relation to mining production and mining Exploration.
+
+123)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+As required by Rules 11.10.2 and 11.10.4, the quarterly reports for both Mining Exploration Reporting Entities and Mining Production Reporting Entities are to be disclosed no later than one month after the end of the relevant quarter.
+
+124)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Mining Exploration Reporting Entities
+Mining Exploration Reporting Entities are required, pursuant to Rule 10.1.3B(1), to disclose a quarterly cash report in the form set out in MKT Form 10-1. Rule 10.1.3B2 requires a quarterly cash report to be disclosed no later than one month after the end of the relevant quarter.
+
+125)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Mining Exploration Reporting Entities
+Mining Exploration Reporting Entities, pursuant to Rules 10.1.7(2)(i) and (iii), and Rule 11.10.1, are not required to disclose:
+
+a)	within their semi-annual financial report, events that have happened in the first six months of a financial year; 
+
+b)	within their semi-annual financial report, a description of the principal risks/uncertainties for the remaining six months of the financial year; or 
+
+c)	a Full Year Indicative Financial Report.   
+
+126)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Mining Exploration Reporting Entities
+This is due to Mining Exploration Reporting Entities having as their main business activity the expenditure of funds on mining Exploration, and the expectation that they are unlikely to have material revenues outside of this activity.  As a result, the disclosure of a Mining Exploration Entity’s quarterly activity reports and quarterly cash reports (as set out above), along with any other disclosures required to be made under Chapters 7 and 11 of the Rules, allow for sufficient information (financial and otherwise) to be available to allow investors to make an informed decision as to the value of a Mining Reporting Entity’s Securities. 
+
+
+127)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+As required by Rule 11.11.1, a Mining Reporting Entity that has any Ore Reserves or Mineral Resources is required to disclose, on an annual basis, a Summary of Reserves and Resources.
+
+128)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+Flexibility is provided to a Mining Reporting Entity as to when the Summary of Reserves and Resources is to be disclosed.  Rather than requiring the Summary of Reserves and Resources to always be disclosed by a Mining Reporting Entity in its annual financial report, a Mining Reporting Entity has the flexibility (provided by Rules 11.10.1(5) and 11.10.3(4)) to disclose the Summary of Reserves and Resources within either its annual financial report or as part of its quarterly activities report.
+
+129)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+A Mining Reporting Entity should disclose its Summary of Reserves and Resources within the same report each year (whether that be its annual financial report, or a particular quarterly activities report) so as to allow for suitable year-on-year comparison, and Rules 12.10.1(6) and 11.10.3(5) require each quarterly activity report to state when the previous and next disclosure of a Summary of Reserves and Resources was, and is next to be, disclosed.  Together, these Rules allow a Mining Reporting Entity to fully align the preparation and disclosure of its Summary of Reserves and Resources with its review process and corporate planning/reporting cycle.
+
+130)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+It is noted that the Mining Reporting Standards (e.g., Clause 9 of the JORC Code or Clause 7 of the SAMREC Code) set out that prior written consent (of the named Competent Person who approved the required Competent Person statement as a whole as to form and context in which it appears) must be disclosed as part of a Mining Reporting Entity’s annual disclosure of Mineral Resources and Ore Reserves.  This consent is included in MKT Form 11-1 (discussed later in this Guidance). 
+
+131)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+Mining Reporting Entities, pursuant to Rule 11.11.2, are also required to include an update on its policies and practices for operating in a sustainable manner.  
+
+
+132)	INTERACTION OF CHAPTER 11 WITH OTHER RULE DISCLOSURE OBLIGATIONS. As set out in earlier parts of this Guidance, the disclosure obligations relating to mining activities and to Mining Reporting Entities (as set out in Chapter 11 of the Rules) operate closely with the disclosure obligations set out in separately within the Rules, including Chapter 2 (The Listing Rules), Chapter 4 (Offers of Securities), Chapter 7 (Market Disclosure) and Chapter 10 (Accounting Periods, Financial Reports and Auditing).  For example, where a Mining Reporting Entity is required to make a disclosure in relation to mining activities under Rule 7.2.1, the information contained in the disclosure must not only comply with Rule 7.2.1 but also with any applicable Rules within Chapter 11.  The same principle applies in the context of an Issuer making an Offer of Securities within ADGM, such that the Prospectus requirements of Chapter 4 of the Rules, Appendix 1 of the Rules (Content of a Prospectus) and Chapter 11 all apply.
+
+133)	INTERACTION OF CHAPTER 11 WITH OTHER RULE DISCLOSURE OBLIGATIONS. All other things being equal, the FSRA considers that the obligation for a Mining Reporting Entity to disclose material information about mining activities under Rule 7.2.1 and Chapter 11 will generally only be triggered when the Mining Reporting Entity is in possession of all the information that it is required to include in a disclosure about that relevant mining activity (being the information it is required to disclose under Chapter 11 of the Rules).
+
+134)	INTERACTION OF CHAPTER 11 WITH OTHER RULE DISCLOSURE OBLIGATIONS. Prior to a Mining Reporting Entity having all the information available to it, the FSRA considers that whatever material information it may have about the mining activity will generally be insufficiently definite to warrant disclosure under the Rules.  Therefore, provided the material information is and remains confidential, and the FSRA has not formed the view that the information ceases to remain confidential (e.g., where there are exceptions from disclosing the information), the material information is not immediately required to be disclosed under Rule 7.2.1.  For more information, please refer to Chapter 7 of the Rules, and any relevant Guidance that the FSRA may publish from time in relation to the FSRA’s expectations as to how Reporting Entities are to comply with Chapter 7.   
+
+
+135)	Offers, and Admission to FSRA Official List of Securities. As set out in the Rules, and reinforced by this Guidance, the disclosure obligations imposed by the FSRA establish a high bar for the purposes of compliance by Mining Reporting Entities.  The intent behind these Rules is to provide a clear, rational set of regulatory requirements, in order to provide:
+
+a)	Mining Reporting Entities with clear requirements as to what they need to understand and ensure compliance with, to allow them to suitably comply with the requirements of being a Mining Reporting Entity; and
+
+b)	the market (that invests and trades in the Securities of the Mining Reporting Entity) a clear, and suitably regulated, framework to allow it better understand the information disclosed by Mining Reporting Entities. 
+
+136)	Offers, and Admission to FSRA Official List of Securities. For these reasons, the FSRA considers these Rules (particularly in the way that they inter-relate between Issuers/entities making an Offer of Securities and Reporting Entities) establish a standard of disclosure, and expectations of related conduct by Mining Reporting Entities, of a market leading calibre.  The FSRA expects therefore that these Rules be applied only to those entities that will undertake the full set of requirements within the Rules, meaning that a Mining Reporting Entity should be:
+
+a)	conducting an Offer of Securities and complying with Rule 11.3; 
+
+b)	seeking admission to the Official List of Securities (under section 51 of FSMR); 
+
+c)	seeking admission to trading on a Recognised Investment Exchange (RIE);  and 
+
+d)	complying with the ongoing disclosure Rules in their entirety, including Chapter 11.
+
+137)	Offers, and Admission to FSRA Official List of Securities. In effect, the FSRA sees the ability of a Mining Reporting Entity to raise capital within ADGM and ensure ongoing compliance with the Rules as part of an over-arching set of regulatory requirements.  The following circumstances, therefore, are important to note:
+
+a)	If an Issuer was seeking to make a Prospectus Offer within ADGM, but not seeking to be listed and traded within ADGM, then depending on where the listing and trading was to occur, the FSRA may not view the entity as having the required ‘investor protection’ and ‘disclosure’ protections in place, and may not form a view that it can approve the Prospectus under Rule 4.6.2.  In such circumstance, it may be the FSRA’s general view that the Issuer (or relevant entity) also seek admission to the Official List and admission to trading on an RIE;
+
+b)	If an issuer was seeking to make a prospectus offer outside ADGM, but then seek to be listed and traded within ADGM, then depending on where the listing and trading was to occur the FSRA may not view the issuer as having made an offer of securities (equivalent to the requirements within the Rules), such that there were inadequate ‘investor protection’ and ‘disclosure’ protections in place, and it may, therefore, form a view that it cannot approve an admission to the Official List (under section 50(2) of FSMR).  In such circumstance, it may be the FSRA’s general view that the Issuer (or relevant entity) also make a Prospectus Offer within ADGM as well;
+
+c)	If an Issuer was seeking to make a Prospectus Offer within ADGM and in another ‘equivalent’ jurisdiction , but not seeking to be listed and traded within ADGM, the FSRA may be in a position to consider, based on its review of the Prospectus, that the required ‘investor protection’ and ‘disclosure’ protections are in place, and may be able to form a view that it can approve the Prospectus under Rule 4.6.2;
+
+d)	If an Issuer was seeking to make a Prospectus Offer within ADGM and outside ADGM (into an ‘equivalent jurisdiction’ ), as well as seeking admission to the Official List and admission to trading on an RIE (on a primary listing, dual-listing, or secondary listing basis), the FSRA may be in a position to consider that the required ‘investor protection’ and ‘disclosure’ protections are in place, and may be able to form a view that it can approve the Prospectus under Rule 4.6.2 and approve an admission to the Official List of Securities (under section 50(2) of FSMR).
+
+138)	Offers, and Admission to FSRA Official List of Securities. Considering the circumstances above, and the positioning of the FSRA in relation to these matters, the FSRA suggests that Issuers/Mining Reporting Entities (and their advisors) contact the FSRA as early as possible to discuss.
+
+
+139)	MKT FORM 11-1 – Summary of Reserves and Resources. Rule 11.11.1 requires a Mining Reporting Entity to include in its Summary of Reserves and Resources (see paragraphs 128-131 above) a table set out in the form of MKT Form 11-1.  The information contained in MKT Form 11-1 must be current as of the date no earlier than one month prior to the disclosure of MKT Form 11-1.  The FSRA considers that the annual disclosure of the Summary of Reserves and Resources allows Mining Reporting Entities to comply with any applicable annual reporting obligations set out in a Mining Reporting Standard (for example, under Clause 15 of the JORC Code).
+
+140)	MKT FORM 11-1 – Summary of Reserves and Resources. The use of the table format within MKT Form 11-1 is intended to provide Mining Reporting Entities with flexibility in the way it discloses the Summary of Reserves and Resources, as well as ensuring consistency of reporting under the Rules.  In Guidance set out below Rule 11.2.1, the FSRA sets out an expectation that to ensure consistency of its disclosures, Mining Reporting Entities should be mindful of the table format for the disclosure of Mineral Resources or Ore Reserves as set out in MKT Form 11-1.  
+
+141)	MKT FORM 11-1 – Summary of Reserves and Resources. The geographical areas by which a Mining Reporting Entity chooses to disclose its Summary of Reserves and Resources within MKT Form 11-1 is a matter for the Mining Reporting Entity to determine, having regard to its individual circumstances and the materiality of the Mineral Resources and Ore Reserves in question.  Mining Reporting Entities can choose to report by continent, by country, by state or by other distinct geographical area.  Mining Reporting Entities may also choose to disclose holdings for a particular Mining Tenement, Mining Project or deposit (if material), with a mix of other geographical areas.
+
+142)	MKT FORM 11-1 – Summary of Reserves and Resources. MKT Form 11-1 requires a Mining Reporting Entity to disclose, amongst other things, a summary of its governance arrangements and internal controls, as well as a summary of its policies and practices relating to operating in a sustainable manner.

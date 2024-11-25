@@ -1,0 +1,673 @@
+
+1)	SCOPE. 
+This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (“FSRA”) and the FSRA’s Guidance & Policies Manual.
+
+2)	SCOPE. 
+This Guidance sets out the FSRA’s approach to the regulation of the trading, clearing, settlement and related activities for Spot Commodities in and from ADGM, including activities conducted by Recognised Investment Exchanges, Multilateral Trading Facilities, Organised Trading Facilities, Price Reporting Agencies and intermediary-type Authorised Persons.  This Guidance, together with the applicable ADGM Regulations and FSRA Rules governing the use of Spot Commodities, is collectively referred to as the “Spot Commodities Framework” or “Framework”.
+
+3)	SCOPE. 
+This Guidance is applicable to the following Persons:
+
+a)	an Applicant for a Financial Services Permission (“FSP”) or a Recognition Order to carry on a Regulated Activity in relation to Spot Commodities in or from the Abu Dhabi Global Market (“ADGM”);
+
+b)	an Authorised Person, or Recognised Body (being a Recognised Investment Exchange (RIE) or Recognised Clearing House (RCH)), conducting Regulated Activities in relation to Spot Commodities in or from the ADGM; or
+
+c)	an RIE with a stipulation in its Recognition Order permitting it to carry on the Regulated Activity of Operating a Multilateral Trading Facility (“MTF”) or Operating an Organised Trading Facility (“OTF”) (in relation to Spot Commodities) within ADGM.
+
+4)	SCOPE. 
+This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers.  The FSRA is not bound by the requirements set out in this Guidance and may – 
+
+a)	impose additional requirements to address any specific risks posed by Regulated Activities in relation to Spot Commodities; 
+
+b)	waive or modify any of the Rules relevant to Regulated Activities in relation to Spot Commodities, at its discretion, where appropriate.
+
+5)	SCOPE. 
+Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the FSRA Glossary Rulebook (“GLO”).
+
+6)	SCOPE. 
+For the purposes of this Guidance, an Authorised Person permitted to carry on Regulated Activities involving Spot Commodities, an RIE holding a stipulation on its Recognition Order permitting it to operate a Multilateral Trading Facility or Organised Trading Facility, or a RCH providing clearing/settlement services (in relation to Spot Commodities) is referred to as an Authorised Person. 
+
+7)	SCOPE. 
+This Guidance sets out FSRA’s expectations as to the operation of the Spot Commodities Framework.  Where applicable, the FSRA has set out its interpretation/expectations in relation to the operation of certain Rules, particularly those set out in Chapter 22 of the Conduct of Business Rules (“COBS”).  There are a number of Rules set out in Chapter 22 of COBS, however, where the FSRA has not set out additional guidance in relation to that Rule within this Guidance.   In such context, the FSRA expects Applicants/Authorised Persons to consider such Rules set out in Chapter 22 of COBS in their most appropriate context. 
+
+8)	SCOPE. 
+For more details on the application of the Spot Commodities Framework and/or the process for authorisation as an RIE, RCH , MTF, OTF or a Spot Commodity Settlement Facility (SCSF) , please contact the FSRA at MIP@adgm.com.  Similarly, for more details on the application of the Spot Commodities Framework and/or the process for authorisation for any other Spot Commodities business activities, please contact the FSRA at authorisation@adgm.com.
+
+
+9)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. 
+Spot Commodity markets operate globally, significantly impacting economic wellbeing and financial stability.  Spot Commodity markets, however, frequently operate with little to no regulatory oversight, leaving them exposed to Market Abuse and Financial Crime, amongst other regulatory issues.  Furthermore, given the connectivity of Spot Commodity markets to the wider financial system through Financial Instruments (including Derivatives), market intermediaries and supply chain financing, there are contagion risks to the stability, and operations, of the wider financial system.  Examples of harm resulting from Spot Commodity market risks include the significant losses for banking institutions from the financing of fraudulent Spot Commodity inventories, and participants using Inside Information (from Spot Commodity markets) to profit in Commodity Derivative markets.  Financial sector rules intended to prevent such abuse are often limited in scope or unenforceable, further harming market participants and consumers, and the ultimate integrity of Spot Commodity markets as a whole.
+
+10)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. 
+Most commodity markets are distinguished by spot/cash markets in which physical commodities are sold, as well as Derivatives markets in which financial contracts for future delivery of the commodity or cash value on a final settlement price are exchanged.  While, Derivatives markets generally operate under mature regulatory regimes, including through the direct supervision of trading venues and financial participants, as well as through specific adoption of regional or commodity specific codes of conduct, spot markets are mostly unregulated.
+
+11)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. 
+The FSRA’s regulatory approach under the Spot Commodities Framework is to set out clear regulatory obligations for those Persons undertaking Spot Commodity activities within or from ADGM.  The Spot Commodities Framework therefore intends to strengthen transparency, support and foster market integrity, identify and combat issues relating to sustainability, and provide a regulatory framework relating to delivery, settlement and key transactional activities relating to the global commodity trading ecosystem.
+
+12)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. 
+While the Spot Commodities Framework allows for a number of potential Regulated Activities in relation to Spot Commodities to be undertaken within ADGM, the FSRA anticipates that the requirements of the Framework are such that they will most likely be satisfied by Spot Commodity market participants and trading venues already operating in established markets.  Examples of such activities may therefore include, but not be limited to:  
+
+a)	a ‘Commodity Derivative’ RIE providing a market in Financial Instruments and for Spot Commodities  (pursuant to a stipulation in its Recognition Order);
+
+b)	a ‘Commodity Derivative’ RIE operating an MTF as a secondary market for Spot Commodities;
+
+c)	a ‘Commodity Derivative’ intermediary, such as a broker, dealer or trader, operating an MTF or OTF as a secondary market for Spot Commodities;
+
+d)	a Commodity producer operating an MTF or OTF as a (secondary and primary) market for Spot Commodities;
+
+e)	a Price Reporting Agency operating an MTF for the primary purpose of Spot Commodity price discovery;
+
+f)	Spot Commodity auctions, used as part of any of the activities in COBS Rule 22.9.1 in addition to the activities set out in (a), (b), (c) and (d) above;
+
+g)	the trading or pricing of Spot Commodity premiums, including location and location differential pricing, brands and hallmarks, and other Spot Commodity characteristics or related specifications, used as part of any of the activities set out in (a), (b), (c) and (d) above;
+
+h)	an RIE providing a market in Financial Instruments (including Commodity Derivatives) operating an MTF or OTF in Spot Commodities (pursuant to a stipulation in its Recognition Order);
+
+i)	a ‘Commodity Derivative’ RCH providing settlement/clearing services for Spot Commodity trading venues; and
+
+j)	an Authorised Person Providing Credit in relation to the storage and transport (including but not limited to) shipping of Accepted Spot Commodities, used in relation to any of the activities set out in (a), (b), (c), (d) and (g) above.
+
+13)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. 
+The FSRA intends that the Spot Commodities Framework further builds, and expands on, the existing methods for regulatory oversight of Spot Commodity markets, including for the combined oversight of Commodity Derivative, Environmental Instrument and Spot Commodity markets.  Additionally, the Spot Commodities Framework intends to address key risks that the sourcing of spot commodities pose (via COBS Rule 22.3).  
+
+14)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+The FSRA also notes that observations of Spot Commodity markets by Price Reporting Agencies (“PRAs”) and other similar bodies are widely used to price and settle Financial Instruments, including Futures, swaps, ETFs and indexes.  The informal and unregulated nature of some PRA services risks the integrity of some financial markets and may directly harm consumers.  The Spot Commodities Framework specifically seeks to address this through providing a regulated framework to operate these PRAs, including through the use of auctions.
+
+15)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. Importantly, the Spot Commodities Framework also addresses issues relating to ethical and environmental governance, disclosure/transparency, Market Abuse and the regulation of MTFs and OTFs, by using the Spot Commodities Framework in a manner similar to the regulatory approach taken in relation to securities/derivatives exchanges globally.
+
+16)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK. For clarification, the Spot Commodities Framework does not apply to: 
+
+a)	any activities involving Commodity Derivatives; 
+
+b)	capital formation/capital raising;
+
+c)	any activities involving Spot Commodities that are not Accepted Spot Commodities;
+
+d)	the securitisation of any Spot Commodity or group of Spot Commodities; or
+
+e)	any other activity or arrangement using Spot Commodities that is deemed by the Regulator not to constitute part of a Regulated Activity, where necessary and appropriate in order for the Regulator to pursue its objectives.
+
+
+17)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+Regulated Activities using Spot Commodities. 
+In accordance with section 30 of FSMR, Applicants that qualify for authorisation to carry on Regulated Activities will be granted an FSP  to carry on the relevant Regulated Activities.  Separately, an Authorised Person may be required to also receive approval (including via a stipulation in its FSP) from the FSRA as to whether it can also use (certain) Specified Investments, Financial Instruments, Virtual Assets and Accepted Spot Commodities as part of its Regulated Activities.  
+
+18)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+Regulated Activities using Spot Commodities.
+ To be authorised to conduct Regulated Activities that allow for the use of Spot Commodities, an Applicant must satisfy FSRA that all applicable requirements of FSMR and the relevant FSRA Rulebooks have been, and will continue to be, complied with.  Upon being granted an FSP, the Applicant will be an Authorised Person for the purposes of the FSMR and the FSRA Rulebook, and will have the same regulatory status within ADGM as any other Authorised Person.  
+
+19)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+Regulated Activities using Spot Commodities. 
+The principal Rules for Authorised Persons conducting Regulated Activities using Spot Commodities are set out in Chapter 22 of COBS.  These product specific Rules apply in addition to any other Rules applicable to the Regulated Activity being conducted by Authorised Person (e.g., Operating a Multilateral Trading Facility, Operating an Organised Trading Facility or Dealing).
+
+20)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+Regulated Activities using Spot Commodities. 
+COBS Rule 22.1.2 operates such that ‘Client Investments’ described in the General Rulebook (“GEN”) are read to include Spot Commodities.  This means that the various Rules using these terms throughout the FSRA Rulebooks are expanded to capture Spot Commodities, including in particular the Rules contained in Chapters 3 and 6 of COBS.  Within the Code of Market Conduct (“CMC”), the provisions relating to Market Abuse in relation to Financial Instruments, equally extend to Market Abuse in the context of Accepted Spot Commodities.
+
+
+21)	PURPOSE & FEATURES OF THE SPOT COMMODITIES FRAMEWORK.
+Combination of Regulated Activities.
+Applicants approved by the FSRA as an Authorised Person and permitted to use Spot Commodities will be granted an FSP for the relevant Regulated Activity being conducted by that Authorised Person.   The operations of the Authorised Person when it is conducting its Regulated Activity will be limited such that it is only permitted to the engage in the use of Accepted Spot Commodities, unless it has been otherwise authorised by the FSRA.  Any Applicant seeking to also to be permitted to use Specified Investments/Financial Instruments, in addition to Accepted Spot Commodities, will need to apply to the FSRA to be able to operate using those Specified Investments/Financial Instruments and will need and comply with the requirements of the FSRA in relation to those Specified Investments/Financial Instruments (including in relation to any relevant fees).
+
+
+22)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+or the purposes of the Spot Commodities Framework, the FSRA has defined Spot Commodities in GLO as follows:
+
+“Spot Commodities” means any physical or energy good of a fungible nature that is capable of being delivered, which is, or can be, traded on a secondary market.
+
+23)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+For clarification, the FSRA considers that a Spot Commodity is:  
+
+a)	a good sold for cash and promptly delivered when the transaction is settled;
+
+b)	not a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is therefore not considered a ‘Future’);
+
+c)	not a Financial Instrument involving conventional assets (e.g., Securities or Derivatives); 
+
+d)	not a service or other items that are not goods, such as currencies or rights in real estate, or that are intangible; and
+
+e)	an Environmental Instrument , where deemed by the Regulator to be a carbon offset for the purposes of section 258 of FSMR (see Rule COBS 22.2.2(d)).
+
+24)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+COBS Rule 22.2 permits Authorised Persons to conduct Regulated Activities in relation to Accepted Spot Commodities only.  The FSRA has a general power to determine each Accepted Spot Commodity that will be permitted to be used by an Authorised Person within or from ADGM, including activities involving Spot Commodity Titles, in order to prevent activities deemed not to be operating without suitable Due Diligence controls or responsibly or sustainably produced.
+
+25)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+A Spot Commodity that meets the FSRA’s requirements, as demonstrated by an individual Authorised Person, will constitute an Accepted Spot Commodity for that individual Authorised Person’s activities only.  COBS Rule 22.2.2 states that for the purpose of determining whether, in its opinion, a Spot Commodity meets the requirements of being an Accepted Spot Commodity, the FSRA will consider the following relevant factors:
+
+a)	the Authorised Person’s requirement for, and standards used, in relation to responsible and sustainable sourcing, including adherence to internationally recognised certification standards (see COBS Rules 22.2.2(a) and 22.3).  The FSRA’s regulatory approach under the Spot Commodities Framework allows for the physical settlement of Spot Commodities but only permits the use of Spot Commodities that are compliant, on an ongoing basis, to stringent sustainable, responsible and other ethical due diligence standards;
+
+b)	the market fundamentals in respect of the relevant Spot Commodity’s market, including its market practices and characteristics, liquidity, depth and breadth, the number of participants, transparency and its fair and orderly requirements (see COBS Rule 22.2.2(b)); and
+
+c)	any other factors, that in the opinion of the FSRA, are to be taken into account (see COBS Rule 22.2.2(c)), which include the key factors as set out in paragraph 26 of this Guidance.
+
+26)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+Accordingly, for the purposes of COBS Rules 22.2.2(a), (b) and (c), Authorised Persons conducting a Regulated Activity in relation to Spot Commodities are required to demonstrate to the FSRA that the proposed Spot Commodity meets the requirements of being an Accepted Spot Commodity.  The following table sets out the FSRA’s regulatory approach to determining if a Spot Commodity meets the requirements of an Accepted Spot Commodity:
+
+/Table Start
+
+Requirement
+	Regulatory Approach
+Responsible and Sustainable Sourcing
+
+(COBS Rule 22.2.2(a))	The FSRA requires Accepted Spot Commodities to meet appropriate standards for responsible and sustainable sourcing, including adherence to internationally recognised certification standards.  Particular regard is given to due diligence over mandatory labour, environmental and such supply chain controls, as well as the enforceability of rules preventing the use of conflict minerals. 
+
+Authorised Persons will be required to demonstrate provisions for third-party audits of producers’ environmental and occupational health and safety practices and investigatory and enforcement powers, as well as grievance mechanisms whereby third parties can report potential instances of non-compliance.
+
+Market Fundamentals
+
+(COBS Rule 22.2.2(b)) 
+	The FSRA will consider the size of the Spot Commodity market, including its market practices, liquidity, depth and breadth of demand, the number of active participants, and the controls/processes to manage volatility of a particular Spot Commodity (for transparency and fair and orderly trading purposes).
+
+Delivery Soundness
+
+(COBS Rule 22.2.2(c))
+	There are a wide range of practices related to the storage of Spot Commodities, which vary by type of Spot Commodity, trading venue, and jurisdiction.  The FSRA requires Accepted Spot Commodity storage and delivery mechanisms to adhere to appropriate standards, including alignment with IOSCO’s Good and Sound Practices , with particular regard for oversight, transparency, conflicts of interest, fees and incentives and operations.
+
+Fungibility
+
+(COBS Rule 22.2.2(c))
+	The FSRA requires Accepted Spot Commodities to be able to be delivered and be freely replaceable by another of a similar nature or kind for the purposes of the relevant contract (or is normally regarded as such in the Spot Commodities market), the two goods will be fungible in nature for these purposes. 
+
+Sanctions and Anti Money Laundering
+
+(AML and COBS Rule 22.2.2(c))
+	The FSRA requires Accepted Spot Commodities to have had appropriate due diligence and controls relating to Sanctions and Anti Money Laundering in relation to any delivery in accordance with applicable laws. 
+
+Delivery Jurisdiction
+
+(COBS Rule 22.2.2(c))
+	The FSRA requires Accepted Spot Commodities to be delivered in jurisdictions where the storage or delivery facility operates under rules and regulations deemed, by the FSRA, to have equivalent standards as with those of Abu Dhabi Global Market and the United Arab Emirates. 
+
+Spot Commodities that are produced, processed, stored, delivered, owned, financed or otherwise associated with jurisdictions that are subject to international or regional sanctions, as well as jurisdictions considered as having strategic Anti Money Laundering and Financial Crime deficiencies, will not be permitted.
+
+The FSRA may also recognise, for all requirements set out in this paragraph 26, where a Spot Commodity, or Spot Commodity Activities generally, are regulated by an IOSCO Member.
+
+\Table End
+
+
+27)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+Authorised Persons will need to submit the details of how each Accepted Spot Commodity that is proposed to be used meets the requirements for the purposes of COBS Rule 22.2.2 and paragraphs 25 and 26 above.  The use of each Accepted Spot Commodity will be approved as part of the formal application process for review and approval of an FSP.  Though an Authorised Person may, for example, propose to admit to trading a commonly traded Spot Commodity, the Authorised Person’s controls relating to responsible and sustainable sourcing, and sound delivery mechanisms may not yet be fully developed.  In such circumstances, the FSRA may require the Authorised Person to delay the commencement of trading until such time that suitable controls have been developed and implemented.     
+
+28)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodities and Accepted Spot Commodities
+Due to Accepted Spot Commodities being determined for use on the basis of each individual Authorised Person, the FSRA will not maintain a ‘public’ list of Accepted Spot Commodities.
+
+29)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Title
+The FSRA’s regulatory approach under the Spot Commodities Framework allows for Accepted Spot Commodities to be settled through physical delivery or through the exchange of ownership title, which includes warrants, bills of lading or warehouse receipts.  For the purposes of the Spot Commodities Framework therefore, the FSRA has defined Spot Commodity Title in GLO, as follows:
+
+“Spot Commodity Title” means an instrument that confers on the holder a right entitling the holder to hold, acquire, or transfer, an Accepted Spot Commodity.
+
+30)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Title
+For clarification, and as relevant to COBS Rule 22.5, the FSRA considers a Spot Commodity Title is -  
+
+a)	an original legal document proving ownership over a defined and verifiable quantity or portion of a Spot Commodity;
+
+b)	an original legal document that can be used to transfer ownership of a Spot Commodity;
+
+c)	not a contract for the sale of a commodity under which delivery is to be made at a future date, other than the period generally accepted in the market for that Spot Commodity as the standard delivery period (it is not therefore considered a ‘Future’); 
+
+d)	not a Financial Instrument involving conventional assets (e.g., Securities or Derivatives); and
+
+e)	not a digital, virtual or tokenised right over a Spot Commodity.
+
+31)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Title
+The FSRA only permits activities involving a Spot Commodity Title where the underlying Spot Commodity which has been deemed by the FSRA to be an Accepted Spot Commodity.  For the purposes of this guidance, activities applicable to Accepted Spot Commodities should be understood to include Spot Commodity Titles.
+
+32)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+The FSRA recognises that there is a wide range of practices related to the storage of Spot Commodities, which vary by type of Spot Commodity, trading venue, and jurisdiction.  Disparities are found to varying degrees in practices related to the oversight, governance, operations and controls of storage facilities, and in the transparency afforded by those who practice it.  While the FSRA does not expect that delivery and storage practices will become uniform across Accepted Spot Commodity activities, the FSRA does expect adherence to good or sound storage practices as established in COBS Rules 22.4.1 to 22.4.6.
+
+33)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Pursuant to COBS Rule 22.4.1, a delivery and/or storage facility used by an Authorised Person can be operated from within ADGM or outside ADGM.  Specifically, for the purposes of COBS Rules 22.4.1, an Authorised Person will need to submit to the FSRA the details of how each delivery and storage facility that it proposes to use, whether located inside or outside ADGM, meets the requirements set out in Rule 22.4.2(a) to (e).
+ 
+34)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+For the purposes of COBS Rule 22.4.2(a), where the proposed storage facility is located outside ADGM, an Authorised Person should provide an assessment on how the rules and regulations of that jurisdiction are deemed (legally and operationally) equivalent to those of ADGM.  The FSRA will also expect to review services agreements between the Authorised Person and the storage facility, to ensure the legal enforceability of these rules and regulations.
+
+35)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+When applying COBS Rule 22.4.2(d), an Authorised Person should have independent third party audits carried out at appropriate times, for the inventories and deliveries undertaken at the storage facility, as well as the facilities infrastructure itself.  Where necessary, further third-party audits will be required for the obligations of Accepted Spot Commodities, as outlined in paragraph 26 above.
+
+36)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+COBS Rules 22.4.2(c)(i) and (ii) require a delivery and/or storage facility to adhere, or adopt, appropriate international standards for storage and delivery mechanisms (including with regard to IOSCO’s Good and Sound Practices), as well as with OHSAS 18001 Health & Safety Management (or equivalent certification standards).  For the latter, such adherence should also include standards relating to quarantine and bio hazards.
+
+37)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+When applying COBS Rule 22.4.2(e), an Authorised Person should undertake a full assessment of the risks associated with each proposed storage facility, and will be expected to provide details of appropriate insurance to protect market participants from financial loss resulting from these risks.
+
+38)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Pursuant to COBS Rule 22.4.3, an Authorised Person must have arrangements in place for the approval, management, monitoring and control of a storage facility operated by itself or by third parties.  In demonstrating compliance with the Rule, an Authorised Person must have powers to resolve any negative circumstances/behaviour in a timely fashion, such as taking emergency action itself or by compelling the delivery and/or storage facility to take appropriate action.  The FSRA expects this to include the Authorised Person having the ability to sanction the delivery and/or storage facility for any acts or omissions that compromise market integrity.
+
+39)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Pursuant to COBS Rule 22.4.3(e), an Authorised Person should establish that a storage facility must seek approval (and continue to review) storage facility fees, such that they are set in a manner that is fair, transparent and non-discriminatory for all market participants.  Where a storage facility offers discounts for the storage of Accepted Spot Commodities, consideration as to whether those discounts are to be made available to all relevant market participants on similar terms is to be undertaken.  The FSRA expects that an Authorised Person consider publishing a list of available fees and discounts which are charged by, and available from, its appointed delivery and/or storage facilities.
+
+40)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+The FSRA recognises that there is a wide range of practices relating to commercial terms by which a Spot Commodity is delivered, as well as post-delivery assessment mechanisms for quality control and settlement adjustments.  Accordingly, Authorised Persons will need to submit to the FSRA the details of how each delivery and storage facility that it proposes to use meets the requirements set out in Rule 20.4.4 (a) to (g), including how they are suitable for the Accepted Spot Commodity, as well as how they are aligned with the generally accepted practices in the market for that Accepted Spot Commodity.
+
+41)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+When applying COBS Rules 22.4.5 and 22.4.6, an Authorised Person should have arrangements in place to allow Members to fulfil their delivery obligations, or other appropriate measures of resolution and restitution, to ensure the Authorised Person is able to operate on a fair and orderly basis.  The FSRA will review these proposed arrangements, which should be such that they are fair, transparent and non-discriminatory for all market participants.
+
+42)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Pursuant to COBS Rule 22.4.5, an Authorised Person must have arrangements in place with a delivery and/or storage facility to notify the Authorised Person of any changes which may affect the capability of the delivery and/or storage facility to facilitate properly its role in the settlement and delivery of the Accepted Spot Commodity(s).  An Authorised Person should require the delivery and/or storage facility to make timely disclosure the Authorised Person of any changes in terms of service, particularly if that could have an impact on the market price of an Accepted Spot Commodity.  In addition, an Authorised Person should keep the FSRA fully informed as to any issues related to delivery and/or storage related to disputes, defaults, delays, or penalties surrounding the delivery process.
+
+43)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+The requirements outlined in paragraphs 33 to 42 should be formalised in the rules, policies and procedures of an Authorised Person, as well as in the application for participation in the delivery process, or included with the contract or any other agreement that the delivery and/or storage facility enters into to formally codify the powers over its delivery and/or storage activities and behaviours. 
+
+44)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+From a governance perspective, the delivery and storage of Accepted Spot Commodities is to be appropriately governed and structured in order to avoid or mitigate actual or potential conflicts of interest between delivery and/or storage functions, and any other activities or functions within an Authorised Person, its Group or with relevant third parties.  Such governance arrangements may include having a separate team, which does not have other conflicting responsibilities within the Authorised Person (or relevant third party), handling the delivery and storage (or oversight of third parties doing so).  This is to include due diligence over applicable requirements for Accepted Spot Commodities, as established in paragraph 25.
+
+45)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Where an Authorised Person wishes to outsource part or all delivery and settlement arrangements (including due diligence) to a third party, the Authorised Person is required to perform its due diligence and background checks on the third party, and ensure that the third party meets all the FSRA’s requirements applicable to delivery and settlement arrangements.  Such Authorised Persons are required to make full disclosures to their Members and to the FSRA regarding such outsourced arrangements.  The Authorised Person retains full responsibility from a regulatory perspective for any issues that may result from such outsourcing, including the failure of any third party to meet its delivery and settlement arrangements (including due diligence).
+
+46)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+Noting the requirements set out in COBS Rules 22.4.2 to 22.4.6, an Authorised Person should have in place arrangements to ensure the financial stability, and continued operation, of the delivery and/or storage facility.  The FSRA may require upon demand, or on a periodic basis, a statement showing that the delivery and/or storage facility has sufficient regulatory capital, in line with these arrangements.
+
+47)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+An Authorised Person should consider mandating that the delivery and/or storage facility appoint a suitable person, at an appropriate level, with responsibility for adherence to the applicable rules, policies and procedures established by the Authorised Person.
+
+48)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Delivery & Storage
+An Authorised Person should be ready at any time to provide information, at the request of the FSRA, demonstrating that the delivery and/or storage facility is complying with the requirements set out in COBS Rules 22.4.2 to 22.4.6.  
+
+49)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Custody
+Due to their psychical nature, Spot Commodities may require specialist Custody arrangements, with the holding of Accepted Spot Commodities introducing additional operational risks.  For example, the safekeeping of gold bullion would require a custodian with appropriate secure vault facilities.
+
+50)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Custody
+For clarity, Custody arrangements differ to the services provided by delivery and/or storage facilities, as an Authorised Person that is Providing Custody is responsible for (as set out in COBS, Chapters 14, 15 and 16) arranging proper protection for Clients' Assets (including Accepted Spot Commodities) and Relevant Money.  By contrast, delivery and/or storage facilities are used by Authorised Persons (including those Providing Custody) in discharging their responsibilities, but the delivery and/or storage facility itself has no responsibility for safeguarding Accepted Spot Commodities, other than those included in the commercial agreement with the Authorised Person.
+
+51)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Custody
+In assessing whether an Authorised Person that is Providing Custody is able to fully comply with the arrangements of COBS Rule 22.8, the Authorised Person is required to demonstrate that suitable custodial arrangements are in place to securely hold each Accepted Spot Commodity.  The Authorised Person should consider appointing third-party experts to test and verify the proposed physical custodial arrangements, including relevant security and controls, to provide the FSRA the necessary comfort in relation to these arrangements. 
+
+52)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Custody
+Pursuant to COBS Rule 22.8.3, an Authorised Person is required to carry out reconciliations of Accepted Spot Commodity stocks on a more frequent basis (than as usually provided for in COBS Chapter 14, in relation to more conventional instruments/assets).  Authorised Persons will need to submit to the FSRA the details of how proposed arrangements, including outsourced arrangements where applicable, are suitable. 
+
+53)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Custody
+The FSRA expects that pursuant to COBS Rule 22.8.3, reconciliations are to include, where applicable, verification that Spot Commodity Titles details accurately represent the physical stock of Accepted Spot Commodities.
+
+54)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Capital Requirements
+The FSRA applies the regulatory capital requirements in COBS Rule 22.10 in two different scenarios, such that:
+
+a)	where the Authorised Person is an MTF or OTF, the regulatory capital to be held (under COBS Rule 22.10.1(a) and MIR Rule 3.2.1) is equivalent to 6 months’ operational expenses ; and
+
+b)	in relation to all other Authorised Persons, the ‘conventional’ regulatory capital requirements applicable to the Regulated Activities undertaken apply.
+
+55)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Capital Requirements
+For Recognised Bodies (being an RIE or RCH), the conventional regulatory capital requirements set out in MIR Rules 3.2 and 4.2 apply. 
+
+56)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Capital Requirements
+When applying COBS Rule 22.10 (and, as applicable, MIR Rule 3.2.1) to Authorised Persons, the FSRA will apply proportionality in considering whether any additional capital buffer must be held, based on the size, scope, complexity and nature of the activities and operations of the Authorised Person and, if so, the appropriate amount of regulatory capital required as an additional buffer.  An Authorised Person that the FSRA considers to be high risk may attract higher regulatory capital requirements.  
+
+57)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Capital Requirements
+Where an Authorised Person also carries on one or more Regulated Activities that are not related to Spot Commodities (e.g., Dealing in Investments or Providing Credit), the FSRA will apply a capital requirement that is the higher of the regulatory capital requirements applicable to the:
+
+a)	Regulated Activities engaged in using Spot Commodities; or
+
+b)	other Regulated Activities under the FSRA Prudential – Investment, Insurance Intermediation and Banking Rules (“PRU”).  
+
+58)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Anti-Money Laundering and Countering Financing of Terrorism 
+The use of Spot Commodities raise significant regulatory concerns for regulatory authorities and law enforcement agencies worldwide, particularly in relation to Money Laundering (“ML”) and Terrorism Financing (“TF”).  
+
+59)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Anti-Money Laundering and Countering Financing of Terrorism 
+The Financial Action Task Force (‘FATF’) has identified certain key risks applicable to Spot Commodities (particularly gold),  which include the following: 
+
+a)	The regulatory characteristics of Spot Commodities make them attractive for organised crime groups to participate in order to place and integrate illicit proceeds.  Given the limited level of industry oversight and licencing requirements, cash transactions have the potential to provide criminal groups with a continuous supply of untraceable Spot Commodities from various sources.  Furthermore, this supply can be purchased at below market cost, directly from market participants who do not have to prove how they own the Spot Commodity.  The high-volume of transactions conducted through these cash-intensive businesses can be easily falsified or co-mingled with the proceeds of crime, while the purchased Spot Commodity (such as gold) can be used to make untraceable settlements for illicit goods and services.  Due to a significant number of Spot Commodities purchases being conducted in cash, large numbers of transactions are undertaken anonymously; 
+
+b)	The majority of ML offences relating to commodity markets are associated with international trading, with it being easy to physically convert some Spot Commodities into different forms, in order to conceal from, or understate to, border authorities the value on the shipping documentation, such as bills of lading;
+
+c)	The exact amount of Spot Commodities activity is difficult to identify, as smuggling is an ideal method of moving it from one location to the next, either domestically or to international jurisdictions, where it can then be converted for use on secondary markets.  Criminals may recruit couriers to move commodities across borders both legally and illegally.  This allows criminals to remain anonymous and distance themselves from a transfer;
+
+d)	Due to the nature of Spot Commodity markets, the Spot Commodity itself does not have to exist, or be moved physically, to be traded.  Rather, citing the Spot Commodity as the traded good on an invoice can be used to justify large movements of money, either domestically or across borders; and
+
+e)	Components of Spot Commodity production, such as refining, smelting or shipping, may be located in jurisdictions that do not have adequate ML/TF controls.
+
+60)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Anti-Money Laundering and Countering Financing of Terrorism 
+In order to develop a robust and sustainable regulatory framework for Spot Commodities, FSRA is of the view that a comprehensive application of its Anti Money Laundering and Countering Financing of Terrorism “AML/CFT” framework should be in place, including full compliance with, among other things:
+
+a)	UAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulation of the Federal Law No. (20) of 2018 concerning Anti-Money Laundering and Combating Terrorism Financing;
+
+b)	the FSRA’s AML Rules or such other AML rules as may be applicable in ADGM from time to time; and 
+
+c)	the adoption of international best practices (including with regard to FATF Recommendations).
+
+61)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Anti-Money Laundering and Countering Financing of Terrorism 
+Taking into account Spot Commodities ML and TF risks, the importance of meeting global transparency and beneficial ownership standards, and the need to have proper mechanisms to exchange information with other regulators and counterparties, the FSRA requires that its AML Rules apply to all Authorised Persons, including those engaged in conducting Regulated Activities using Spot Commodities.
+
+
+
+62)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Anti-Money Laundering and Countering Financing of Terrorism 
+Key considerations for AML/CFT compliance. When considering the FATF Recommendations, in combination with the application of the AML Rules, the FSRA notes the following key principles that an Authorised Person conducting Regulated Activities using Spot Commodities should consider:
+
+Principle 1: Risk Based Approach
+
+a)	FATF expects countries, regulators, financial institutions and other concerned parties to adopt a ‘Risk Based Approach’ (“RBA”).  Authorised Persons are expected to understand the risks associated with their activities and allocate proper resources to mitigate those risks.  A RBA can only be achieved if it is embedded into the compliance culture of the Authorised Person, which enables the Authorised Person to make decisions and allocate appropriate resources in the most efficient and effective way. 
+
+b)	Authorised Persons should, on a periodic basis, carry out a proper risk based assessment of their processes and activities.  In order to implement the RBA, Authorised Persons are expected to have processes in place to identify, assess, monitor, manage and mitigate ML risks.  The general principle is that in circumstances where there are higher risks of ML, Authorised Persons are required to implement enhanced measures to manage and mitigate those risks.
+
+c)	With the use of Spot Commodities being largely unregulated within financial services, any financial institution banking an Authorised Person conducting Regulated Activities using Spot Commodities must not only satisfy itself, but also its foreign correspondent financial institution(s), that the Authorised Person is well regulated and has appropriate systems and controls in place to address ML, TF and sanctions risks.  These systems and controls should include robust processes to carry out ‘customer risk assessment’ and ‘customer due diligence’ checks (collectively, “CDD”) on Clients and beneficial owners, to monitor transactions for these risks, and the willingness and ability of the Authorised Person to provide complete transparency to its financial institution(s) and foreign correspondent financial institution(s) if and when required.
+
+Principle 2: Business Risk Assessment
+
+d)	Chapter 6 of the AML Rules requires Relevant Persons to take appropriate steps to identify and assess the ML risks to which their businesses are exposed, taking into consideration the nature, size and complexity of their activities.  Importantly, in the context of Spot Commodities, FATF Recommendation (15) states that: 
+
+“Countries and financial institutions should identify and assess the money laundering or terrorist financing risks that may arise in relation to (a) the development of new products and new business practices, including new delivery mechanisms, and (b) the use of new or developing technologies for both new and pre-existing products. In the case of financial institutions, such a risk assessment should take place prior to the launch of the new products, business practices or the use of new or developing technologies. They should take appropriate measures to manage and mitigate those risks.”
+
+e)	Another aspect of assessing the business risk relevant to Authorised Persons is gaining familiarity with the characteristics and terminology  of the Spot Commodity industry.  Additionally, Authorised Persons, and their management and staff, should be aware of the possible misuse of Spot Commodities in criminal activities, as well as the physical nature of Spot Commodities (including delivery and storage facilities). 
+
+f)	When making its assessment, an Authorised Person must give consideration to all business risks.  For example, while an issue may be identified in relation to delivery soundness, the FSRA expects Authorised Persons to consider these risks from all perspectives to establish whether the risk triggers other issues for consideration (including ML/TF risks, technology governance and consumer protection).  An Authorised Person must then use the identified risks to develop and maintain its AML/CTF policies, procedures, systems and controls and take all reasonable steps to eliminate or manage such risks.
+ 
+Principle 3: Due Diligence 
+
+g)	The Authorised Person, where it is operating an MTF or OTF, is to assess whether a potential Member is adequately regulated in its home jurisdiction, such that the Authorised Person can suitably rely on its Members, to undertake Customer Risk Assessment and CDD checks.  Where Members/Clients are not properly regulated, the FSRA expects that MTFs or OTFs will centralise the relevant compliance activities internally (and not be able to rely on their ‘members’ for such purposes).  
+
+h)	CDD rules, policies and procedures are required to be implemented by all Authorised Persons.  Authorised Persons should have a process to ensure its Members (and/or in relevant circumstances, itself) assess all Clients according to the Client’s risk profile (and taking into consideration the Authorised Person’s RBA).  This risk-based assessment is required to be undertaken for each Client prior to transacting any business on behalf of the Client.  Authorised Persons must, as applicable, ensure CDD is undertaken for each Client and comply in full with Chapter 8 of the AML Rules noting that the FSRA does not consider it appropriate for Authorised Persons (or its Members, as applicable) to use simplified CDD when conducting Regulated Activities using Accepted Spot Commodities.  
+
+Principle 4: Governance, Systems and Controls
+
+i)	Authorised Persons are required to implement an appropriate governance structure, especially in relation to physical due diligence, and provide for the development and maintenance of all necessary controls to ensure appropriate ML and TF compliance. 
+
+j)	The FSRA expects Authorised Persons to act responsibly and always be vigilant in ensuring that their activities are not subject to any misuse by participants with Spot Commodities that may have been tainted in any way from illegal or unethical sourcing.  The FSRA expects that an Authorised Person’s internal processes establish the types of ‘indicators’ or activities that could be used to identify when Accepted Spot Commodities may have been used or sourced in an illegal manner.  
+
+
+63)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Sanctions
+Pursuant to the FSRA’s AML Rules, an Authorised Person must have arrangements in place to ensure that any business conducted by it, or by or through any of its participants, shall not cause the Authorised Person, or its participants, to be in breach of any relevant Sanctions laws or regulations.   
+
+64)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Sanctions
+An Authorised Person should (for the purposes of AML Rule 11.1.1(1)) implement and maintain arrangements that are adequate to ensure compliance with applicable Sanctions.  The FSRA expects these arrangements to include policies and procedures that ensure compliance with applicable laws relating to Sanctions, including for the provision of information on the beneficial ownership of a person taking delivery of a Spot Commodity, a register of the beneficial ownership of all delivery mechanisms/methods and evidence of the destination for any delivery. 
+
+65)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Sanctions
+Pursuant to AML Rule 11.2.1(1), an Authorised Person must have arrangements in place to ensure that only Spot Commodities that are not subject to sanctions or associated with an entity in the supply chain that is itself subject to a sanction, are used as part of its Regulated Activities, or utilised as part of a delivery and/or storage facility operated by itself (or by any third parties it uses).  In demonstrating compliance with the Rule, an Authorised Person must have powers to resolve any breach in a timely fashion, such as taking emergency action itself or by compelling the delivery and/or storage facility to take appropriate action.  The FSRA expects this to include the Authorised Person having the ability to sanction a Member, market participant or the delivery and/or storage facility for acts or omissions that compromise compliance with applicable sanctions.
+
+66)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Sanctions
+Pursuant to AML Rule 11.1.1(2), an Authorised Person must have arrangements in place to notify the Regulator, as soon as practicable, of any breaches, or potential breaches of applicable sanctions, as well as the actions it has taken to correct.  Authorised Persons using Accepted Spot Commodities will also need to comply with all other applicable FSRA notification requirements.
+
+67)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs, MTFs and OTFs
+While multiple Regulated Activities can be conducted within ADGM, and regulated by the FSRA, the FSRA considers that the operation of trading venues (via RIEs, MTFs or OTFs) in respect Spot Commodities to be the key activity subject to regulatory oversight within the Spot Commodities Framework. 
+
+68)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs, MTFs and OTFs
+Consistent with the treatment of all Authorised Persons (see paragraph 98), the FSRA requires MTFs and OTFs to be based in substance within ADGM.   In addition to the substantial commitment of resources required, this also means that the FSRA’s regulatory oversight extends to its order book, matching engine, rulebook(s), ensuring fair and orderly markets, settlement, and for the purposes of preventing/monitoring for Market Abuse, amongst the relevant requirements set out in the Market Infrastructure Rules (“MIR”) and Chapter 8 of COBS.
+
+69)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs, MTFs and OTFs
+In practical terms, this means that for start-up MTFs or OTFs, its entire order book and the functionality of its matching engine will be subject to FSRA oversight.  For existing operational of Spot Commodity platforms that already have their order book/matching engine outside ADGM prior to making an application, a determination of which parts (if not all) of its order book (and how its matching engine) will come under FSRA regulatory oversight needs to be made by the Applicant,  to allow it to apply to become authorised.
+
+70)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Market Abuse / Market Surveillance
+MTFs are required to operate an effective market surveillance program to identify, monitor, detect and prevent conduct amounting to market misconduct and/or Financial Crime.  Given the significant risks within Spot Commodity markets, an MTF’s or OTF’s surveillance system will need to be robust, and regularly reviewed and enhanced.
+
+
+71)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Public disclosure
+Any arrangements of an MTF or OTF used to make information public (including trading information required to be disclosed under MIR Rules 3.5 and 3.6) must satisfy a number of conditions, including that it is reliable, monitored continuously, and made available to the public on a non-discriminatory basis.  While an MTF or OTF can choose the format structure to be used for dissemination, MIR Rule 3.7.4 requires it to conform to a consistent and structured format.
+
+72)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Public disclosure
+In terms of the timing of disclosure of MTF/OTF trading information, the FSRA recognises that current Spot Commodity industry practice is for such trading information to be released on a discretionary or opaque basis (in alignment with current practice for trading within Spot Commodity markets, but different to the current industry/regulatory practice of delayed data widely seen within Securities/Derivatives markets).  The FSRA is not proposing any additional specific requirements at this stage (to those already applicable in COBS Rule 8.3.1 and MIR Rule 3.7), but will continue to monitor industry practice.
+
+
+73)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Default Rules
+The details of an MTF’s or OTF’s Membership model will determine the full, or partial, application of MIR Rules 3.10.1 to 3.10.3.  The FSRA, at a minimum, expects MTFs or OTFs to have in place both rules and a process to suspend or terminate access to its markets in circumstances where a Member is unable to meet its obligations in respect of transactions relating to Accepted Spot Commodities.
+
+74)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Default Rules
+The FSRA suggests that an Applicant/Authorised Person consider different scenarios/circumstances where it may need to utilise the powers provided to it under its Default Rules, and take appropriate action as required.  Scenario testing of this kind could relate to when there is a financial and/or technical ‘default’ in relation to, for example, delivery failure, storage failure or wider banking arrangements.  Due to the short settlement cycle of Spot Commodity markets, the impact of a ‘default’ may be on a per-transaction basis or structural basis, in limiting the ability of Members to fulfil their delivery obligations (and therefore the ability of the MTF to operate on a fair and orderly basis).
+
+75)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Default Rules
+To prepare for the event of a loss/default, the FSRA expects an MTF or OTF to have, clear arrangements for the management of such loss (e.g., what is the exposure of individual Clients, counterparties and itself, as applicable).     
+
+76)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs operating an MTF or OTF using Accepted Spot Commodities
+Pursuant to MIR Rule 3.4.1, an RIE may operate an MTF or OTF, provided that its Recognition Order includes a stipulation permitting it to do so.  MIR Rule 3.4.2 requires that where such a stipulation is granted to an RIE, the RIE must meet the requirements of the Spot Commodities Framework in relation to operation of the MTF or OTF (using Spot Commodities) while the remainder of its operations must be operated in compliance with the MIR Rules.  
+
+77)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs operating an MTF or OTF using Accepted Spot Commodities
+This means that an RIE (in addition to operating markets relating to the trading of Financial Instruments) can, where permitted by the FSRA and subject to MIR Rule 3.4.2, operate a separate MTF or OTF under its Recognition Order.  This MTF or OTF may operate using Accepted Spot Commodities.
+
+78)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs operating an MTF or OTF using Accepted Spot Commodities
+Authorised Persons that are operating an MTF or OTF wishing to also operate a RIE will be required to relinquish their FSP upon obtaining a Recognition Order (to operate the RIE).  If licensed by the FSRA to carry out both Regulated Activities (e.g., operating an MTF and operating an RIE), the Recognition Order will include a stipulation to that effect pursuant to MIR Rule 3.4.1.   
+
+79)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+RIEs operating an MTF or OTF using Accepted Spot Commodities
+In interpreting COBS Rule 8.2(c), and given the current lack of global regulation of Spot Commodity intermediaries, MTFs or OTFs are permitted to only operate a ‘Membership’ model in accordance with MIR Rule 2.8.  The MTF/OTF is therefore required to assess whether a potential Member is adequately regulated in its home jurisdiction, such that the MTF or OTF can suitably rely on their Members, for example, to undertake CDD and AML checks.  Where Members are not properly regulated, the FSRA expects that MTFs or OTFs will have in place additional compliance resources internally (and not be able to rely on their ‘Members’ for such purposes).  
+
+80)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Market Abuse and Transaction Reporting (FSMR)
+As the Spot Commodities Framework does not treat Spot Commodities as Financial Instruments/Specified Investments, certain FSMR provisions have been expanded to specifically capture the use of Spot Commodities within ADGM.  
+
+81)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Market Abuse and Transaction Reporting (FSMR)
+Importantly, the Market Abuse Provisions (including section 92) in Part 8 of FSMR specifically cover Market Abuse Behaviour in relation to Accepted Spot Commodities admitted to trading on an RIE, MTF or OTF.  In this regard, the FSRA imposes the same high regulatory standards to Accepted Spot Commodities traded on RIEs, MTFs or OTFs as it does to Financial Instruments traded on RIEs, MTFs or OTFs.   
+
+82)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Market Abuse and Transaction Reporting (FSMR)
+Similar to the reporting requirements imposed on RIEs, MTFs and OTFs in relation to Financial Instruments (pursuant to section 149 of FSMR), such entities are also required to report details of orders and transactions in Accepted Spot Commodities traded on their platforms.  The FSRA expects these RIEs, MTFs and OTFs using Spot Commodities to report to the FSRA on both a real-time and batch basis.
+
+
+83)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Auction Platforms
+Complementing the other activities offered by Spot Commodity trading venues, auction platforms can provide Spot Commodity market participants with a transparent platform to trade and price Spot Commodities for immediate delivery.  The FSRA, therefore, may grant a stipulation allowing an Authorised Person (for the purposes of this paragraph, an RIE, MTF or OTF) to operate an Accepted Spot Commodity Auction Platform, upon being satisfied that the Authorised Person meets the requirements of COBS Rule 22.9.
+
+84)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Settlement
+Two broad types of entities are able to provide Spot Commodity settlement facilities to RIEs, MTFs and OTFs, in accordance with MIR Rules 2.10, 3.8 and 4.3.  In choosing an RCH or Spot Commodity Settlement Facility (SCSF) to utilise for custody operations (MIR 2.10) or settlement (MIR 3.8), an MTF or OTF can only use a proposed RCH or SCSF when the FSRA has been able to determine that the relevant settlement facility allows it to meet its MIR obligations.  
+
+85)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Recognised Investment Exchanges (RIEs)
+Subject to being granted a Recognition Order, RIEs operating within ADGM are permitted to provide a market in Financial Instruments (and Accepted Spot Commodities, pending FSRA approval by way of stipulation in its Recognition Order).  An RIE must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in MIR Chapters 2 and 3 before a Recognition Order can be granted.  Once it has been granted, an RIE must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 3) on an ongoing basis.
+
+86)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Recognised Investment Exchanges (RIEs)
+As set out in paragraphs 76-78, an RIE may also operate an MTF or OTF, provided that its Recognition Order includes a stipulation permitting it to do so. 
+
+87)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Recognised Clearing Houses (RCHs)
+Subject to being granted a Recognition Order, RCHs operating within ADGM are permitted to settle different types of Financial Instruments (and Accepted Spot Commodities, pending FSRA approval by way of stipulation in its Recognition Order).  An RCH must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in MIR Chapters 2 and 4 before a Recognition Order can be granted.  Once it has been granted, a RCH must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 4) on an ongoing basis.
+
+88)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Recognised Clearing Houses (RCHs)
+RIEs, MTFs and OTFs operating within ADGM may engage the services of an RCH for the purposes of MIR Rules 2.10 and 3.8.
+
+89)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+For the purposes of this Guidance and distinct from RCHs, the FSRA will consider SCSFs suitable for the purposes of settlement (MIR Rule 3.8) of Spot Commodities.  A SCSF, holding an FSP for Providing Custody, may provide settlement services in Spot Commodities for MTFs or OTFs (as applicable).  Therefore, for the purposes of settlement of Spot Commodities, the arrangements that an MTF or OTF would normally have in place with a RCH can be met with suitable arrangements in place with an SCSF, if the requirements as described in this section are met.
+
+90)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+Pursuant to MIR Rule 3.8.1, MTFs/OTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform.  MIR Rule 3.8.2 allows for a RCH or Remote Clearing House to be deemed as sufficient for the purposes of satisfying MIR Rule 3.8.1. 
+
+91)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+Pursuant to MIR Rule 3.8.3, however, and in the context of Accepted Spot Commodities, an MTF/OTF must provide the FSRA the satisfactory arrangements made when such MTF or OTF does not engage a RCH (for example, to use in this context, when it has engaged, or proposing to engage, an SCSF).  To clarify, the FSRA will require that arrangements to use an SCSF for settlement purposes will require the SCSF to comply with the requirements of MIR Rule 4.3.3 (with the references to a RCH being read as references to an SCSF).    
+
+92)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+Pursuant to MIR Rule 4.3.3, in determining whether there are satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions, the FSRA may have regard to the SCSF’s:
+
+a)	rules and practices relating to clearing and settlement, including its arrangements with another Person for the provision of clearing and settlement services;
+
+b)	arrangements for matching trades and ensuring that the parties are in agreement about trade details;
+
+c)	arrangements for making deliveries and payments, in all relevant jurisdictions;
+
+d)	procedures to detect and deal with the failure of a Member (or participants) to settle in accordance with its rules;
+
+e)	arrangements for taking action to settle a trade if a Member (or participant) does not settle in accordance with its rules;
+
+f)	arrangements for monitoring its Members’ settlement performance; and
+
+g)	Default Rules and default procedures.
+
+93)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+The FSRA reserves the right at any point in time, either during the Authorisation process  or as part of its supervisory oversight of an SCSF, to consider the applicability of other Rules within MIR Chapter 4 (Rules Applicable to RCHs), dependent on the relevance of those Rules to the business model/operations of the SCSF.
+
+94)	REGULATORY REQUIREMENTS - SPOT COMMODITY ACTIVITIES
+Spot Commodity Settlement Facilities (SCSFs)
+Entities seeking to operate as SCSF’s should take note of the following:
+
+a)	For transactions where delayed settlement occurs (e.g., on an end of day or t+n basis), the FSRA may likely require the SCSF to integrate specific risk management functions within its operations, as per the requirements of MIR Chapter 4, including in relation to (but not limited) to the scenarios identified in (b) and (c) below.
+
+b)	For transactions with instantaneous delivery versus payment (DvP) , the FSRA may deem certain aspects relating to default management to not apply.  For transactions where end of day, or t+n DvP occurs, there may be scope for the SCSF to implement default management provisions commensurate to the length of the settlement time-horizon.
+
+c)	In the case of a SCSF performing DvP on a delayed basis, the FSRA may impose certain further obligations on the SCSF (as set out in Chapter 4 of MIR) including in relation to the following:
+•	MIR Rule 4.2 (capital requirements – in relation to credit, counterparty, and market risks);
+•	MIR Rule 4.5 (default management);
+•	MIR Rule 4.6 (stress testing);
+•	MIR Rule 4.7 (risk management);
+•	MIR Rule 4.10 (collateral management and margin); and
+•	MIR Rule 4.12 (segregation and portability of Client Assets).
+
+
+95)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Sustainability 
+Under the 2019 Sustainable Finance Agenda, ADGM outlined its commitment to develop a more sustainable financial system, through encouraging sustainable financial products and integrating sustainability considerations into regulations, governance and risk management.  The FSRA’s Spot Commodities Framework, therefore, intends to ensure that participants can operate in markets that have suitable minimum standards for responsible and sustainable sourcing and supply, including adherence to internationally recognised certification standards.  Consumers, participants and investors benefit by the introduction of greater transparency, resilience and integrity into commodity markets.
+
+96)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Sustainability 
+Examples of Spot Commodity sourcing and supply practices that the Spot Commodities Framework intends to promote (by way of COBS Rules 22.2.2(a) and 22.2.3) include greater transparency to aid collective ethical responsibility and facilitating solutions which address sustainability from multiple perspectives, as well as providing greater choice for market participants.
+
+97)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Sustainability 
+Examples of Spot Commodity sourcing and trading practices that the Spot Commodities Framework intends to restrict include the use of mandatory labour and conflict minerals, as well as eliminating opaque supply chains that prohibit cohesive approaches to sustainable production (by way of COBS Rule 22.3).
+
+98)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Substance requirements of Authorised Persons
+In order to operate effectively as an Authorised Person within ADGM, an Authorised Person conducting a Regulated Activity in relation to Accepted Spot Commodities must commit resources of a nature allowing it to be operating in substance within ADGM.  Depending on the relevant Regulated Activities being undertaken, the FSRA expects to see substantive resources committed within ADGM across all line of the Authorised Person’s activities, including, but not limited to, commercial, governance, compliance, market surveillance, operations, technical, IT, finance and HR functions.  The FSRA expects the ‘mind and management’ of an Authorised Person to be located within ADGM.  
+
+99)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Dealing in Accepted Spot Commodities
+Authorised Persons intending to operate solely as a broker or dealer for Clients (including the operation of an OTC broking or dealing desk) are not permitted to structure their broking/dealing service or platform in such a way that would have it be considered as operating an MTF/OTF using Spot Commodities.  The FSRA would consider features such as allowing for price discovery, displaying a public trading order book (accessible to any member of the public, regardless of whether they are Clients), and allowing trades to automatically be matched using an exchange-type matching engine as characteristic of an MTF/OTF using Spot Commodities, and not activities acceptable for an intermediary-type Authorised Person to undertake.
+
+100)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Insurance
+Pursuant to COBS Rule 22.8.4, the FSRA requires that an Authorised Person Providing Custody in relation to Accepted Spot Commodities to maintain insurance in relation to the physical activities that are carried out in relation to Spot Commodities.  As part of the Authorisation process, the FSRA will consider these insurance arrangements, including with regard to, but not excluding further requirements, theft, fraud, natural disasters and default.
+
+101)	SPECIFIC FSRA GUIDANCE ON THE SPOT COMMODITIES FRAMEWORK
+Third party audit obligations
+Authorised Persons should have independent third party verification or checks carried out at an appropriate amount of time to verify that the due diligence requirements for Accepted Spot Commodities are suitable and robust.  
+
+
+102)	APPLICATION PROCESS
+The Application process to become an Authorised Person is broadly broken down into five stages, as follows:
+
+a)	Due Diligence & Discussions with FSRA team(s);
+
+b)	Submission of Formal Application;
+
+c)	Granting of In Principle Approval;
+
+d)	Granting of Final Approval; and
+
+e)	‘Operational Launch’ Testing.
+
+103)	APPLICATION PROCESS
+Prior to the submission of an Application, all Applicants are expected to provide the FSRA with a clear explanation of their proposed business model and to demonstrate how the Applicant will meet all applicable FSRA Rules and requirements.  These sessions will also involve the Applicants providing a number of in-depth technology demonstrations, across all aspects of its proposed Spot Commodities activities. 
+
+
+104)	APPLICATION PROCESS
+Submission of Formal Application. Following discussions with the FSRA, and upon the FSRA having reasonable comfort that the Applicant’s proposed business processes, technologies and capabilities are at a sufficiently advanced stage, the Applicant will be required to submit a completed Spot Commodities Application Form, and supporting documents, to the FSRA. Payment of the fees applicable to the Application, as set out in paragraphs 109-115, must also be made at the time of submission. The FSRA will only consider an Application as having been formally submitted, and commence its formal review of the Application, upon receipt of both the completed Application and the associated fees.    
+
+
+
+105)	APPLICATION PROCESS
+Granting of In Principle Approval (IPA). The FSRA will undertake an in depth review of the Application, and supporting documents, submitted by an Applicant. The FSRA will only consider granting an IPA for a FSP to those Applicants that are considered able to adequately meet all applicable Rules and requirements.  An Applicant will be required to meet all conditions applicable to the IPA prior to being granted with final approval and an FSP for the relevant activity. 
+
+
+
+106)	APPLICATION PROCESS
+Granting of Final Approval (Financial Services Permission). Subject to being satisfied that the Applicant has met all conditions applicable to the IPA, the FSRA will grant the Applicant with final approval for an FSP for the relevant Regulated Activities.  Final approval will be conditional upon the FSRA being further satisfied in relation to the Applicant’s operational testing and capabilities, and completion of a third party verification of the Applicant’s systems where applicable.
+
+
+
+107)	APPLICATION PROCESS
+‘Operational Launch’ Testing. An Applicant will only be permitted to progress to operational launch when it has completed its operational launch testing to the FSRA’s satisfaction, including completion of third party verification of the Applicant’s systems and controls, where applicable.  
+ 
+108)	APPLICATION PROCESS
+‘Operational Launch’ Testing. Noting the heightened risks associated with activities related to Spot Commodities, Authorised Persons will be closely supervised by the FSRA once licensed.  Authorised Persons will be expected to meet frequently with the FSRA, will be subject to ongoing assessments and should be prepared to undergo thematic reviews from time to time.
+
+109)	FEES
+Authorisation and supervision fees
+The Fees applicable to Authorised Persons in relation to Spot Commodities have been established in consideration of the risks involved in relation to Spot Commodities activities and the supervisory requirements placed on the FSRA to suitably regulate these Authorised Persons and Spot Commodities activities in ADGM.  
+
+110)	FEES
+Authorisation and supervision fees
+Pursuant to FEES Rule 3.19.1, an Applicant for an FSP to conduct a Regulated Activity using Spot Commodities must pay, at the time of submission of its Application, an initial authorisation fee of (as applicable): 
+
+a)	$20,000; or 
+
+b)	$125,000 if the Applicant is seeking to operate an RIE, MTF or OTF (in relation to Spot Commodities). 
+
+111)	FEES
+Authorisation and supervision fees
+Pursuant to FEES Rule 3.18.2 annual supervision fees for an Authorised Person conducting a Regulated Activity using Spot Commodities, payable in accordance with paragraph 1 of the FEES Rulebook, are set as follows:
+
+a)	$15,000; or 
+
+b)	$60,000 if the Applicant is seeking to operate an RIE, MTF or OTF (in relation to Spot Commodities). 
+
+
+112)	FEES
+Cumulative application of Fees 
+If an Applicant/Authorised Person will be conducting multiple Regulated Activities using Spot Commodities as part of its FSP, the fees (authorisation and supervision) payable by that Authorised Person will be cumulative, and considered across the following:
+
+a)	Authorised Person intermediary-type activities (as outlined in paragraph 99 of this Guidance); or
+
+b)	activities as an MTF or OTF.
+
+113)	FEES
+Cumulative application of Fees 
+In practice, and to further clarify, this results in several scenarios for FEES relating to Spot Commodities activities, being:
+
+a)	Intermediary Activities only = Application Fee of $20,000 and annual supervision fee of $15,000; and
+
+b)	MTF/OTF = Application fee of $125,000 and annual supervision fee of $60,000.
+
+114)	FEES
+Cumulative application of Fees 
+Noting the above paragraph, if an Applicant/Authorised Person will be undertaking a Regulated Activity involving conventional assets (e.g., Securities or Derivatives) in addition to Spot Commodities, it will need to seek approval from the FSRA for its FSP to permit it to carry out its Regulated Activity in relation to both asset types (conventional and Spot Commodities).  The fees attributable to that Authorised Person for its Regulated Activities, conventional and Spot Commodity-related, may not be cumulative should the FSRA apply its discretion to reduce or waive a fee, under FEES 1.2.8 (considering the high fees already imposed on Applicants/Authorised Persons conducting Regulated Activities using Spot Commodities.  
+
+115)	FEES
+Cumulative application of Fees 
+Pursuant to FEES Rule 1.2.4, the FSRA reserves its right to impose additional fees in circumstances where a ‘substantial additional’ regulatory burden is imposed on FSRA. 

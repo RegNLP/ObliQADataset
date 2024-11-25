@@ -1,0 +1,1053 @@
+
+1)	INTRODUCTION
+This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with FSMR and the Market Rules (MKT) of the Financial Services Regulatory Authority (“FSRA”).
+
+2)	INTRODUCTION
+Pursuant to section 50 of FSMR,  the FSRA is required to maintain the Official List, and may admit to the Official List such Securities as it considers appropriate.  It is important to note that, pursuant to section 50 of FSMR, only the FSRA can maintain an Official List of Securities, and neither Recognised Investment Exchanges (RIEs) nor any other entity within ADGM are able to maintain their own ‘Official List of Securities’.  Section 50 of FSMR further provides that in maintaining the Official List, the FSRA may refer to itself as the Listing Authority.  For this purpose, Chapter 7 of MKT sets out the Rules applicable to ‘Market Disclosure’ or otherwise known as its ‘continuous disclosure’ framework.  This Guidance sets out the Listing Authority’s expectations in relation to its continuous disclosure framework, and provides guidance to Reporting Entities to assist their decision making in relation to their continuous disclosure obligations.
+
+3)	INTRODUCTION
+It is important for Reporting Entities to ensure that they have suitable compliance systems and controls in place so that they can meet their continuous disclosure obligations, and respond to continuous disclosure events in a timely manner. 
+
+4)	INTRODUCTION
+Consideration of continuous disclosure issues are often intensely time critical in nature, due to their market context, implications for price discovery and other ‘real time’ implications and basis.  The opportunity, and time available, therefore, for consultation within a Reporting Entity, or between the Listing Authority and a Reporting Entity, is often very limited.
+
+5)	INTRODUCTION
+A transparent and pragmatic working relationship between the Listing Authority and Reporting Entities is therefore vital to the integrity and operation of ADGM’s Securities markets.  The Listing Authority encourages Reporting Entities to work closely with the Listing Authority to promote investor confidence and facilitate access to Disclosure information of a high and credible quality.
+
+6)	INTRODUCTION
+This Guidance is not an exhaustive source of the Listing Authority’s, policy on the exercise of its regulatory functions and powers.  The Listing Authority is not bound by the provisions set out in this Guidance and may: 
+
+a)	impose additional requirements to address any specific risks posed by Digital Securities; and/or
+
+b)	waive or modify any of the Rules relevant to Digital Securities, at its discretion, where appropriate.
+
+7)	INTRODUCTION
+Nothing in this Guidance binds the Listing Authority, in relation to the application of FSMR or MKT to a particular Listed Entity/Reporting Entity, or in a particular situation.  Nothing in this Guidance is to be taken as legal advice, and the Listing Authority recommends that Reporting Entities obtain their own independent legal advice.
+
+8)	INTRODUCTION
+Unless otherwise defined, or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in FSMR or the FSRA Glossary Rulebook (“GLO”).  Where a reference is made to a Rule, such reference is to be read as a reference to a Rule within MKT.  In reading this Guidance, readers should be aware of the interchangeability, but difference in treatment, between the concepts of Listed Entity and Reporting Entity.   This Guidance therefore may refer to Listed Entity or Reporting Entity on a singular basis, or to them collectively, as applicable.  The information set out in this Guidance relates both to Securities and Units of a Listed Fund (Chapter 3 of the Rules), as applicable. 
+
+9)	INTRODUCTION
+For more details on the requirements, and process, for making ensuring compliance with the Continuous Disclosure framework, please contact the Listing Authority at LA@adgm.com. 
+
+
+10)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Compliance with Rule 7.2.1 is critical to the orderly conduct and integrity of the Official List and ADGM’s Securities markets.  Rule 7.2.1 is the cornerstone of the FSRA’s continuous disclosure framework, and is based on the principle of ensuring the timely flow of Inside Information from a Reporting Entity that may have a significant effect on the price or value of a Listed Entity’s Securities.
+
+11)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Rule 7.2.1 supports the operation of sections 75 and 95 of FSMR, and imposes obligations on Reporting Entities to Disclose information in accordance with these sections (via the relevant Rules within MKT).
+
+12)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Disclosures made, or required to be made, by a Reporting Entity are sent to the FSRA’s disclosure platform  by electronic means.  Such Disclosure satisfies the requirements of section 74 of FSMR and Rule 7.7.1, being the FSRA’s disclosure platform for the receipt, storage and dissemination of all Disclosures made by Reporting Entities. 
+
+13)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Disclosures made via the FSRA’s disclosure platform must be made in the English language.  If an original document underpinning a Disclosure was prepared and executed in another language, the Listing Authority requires the original document to be accompanied by a full translation of that document in English.  Should there be an inconsistency between the English and non-English versions of a Disclosure document, the Listing Authority will rely upon the English version of the document to prevail in relation to that inconsistency.
+
+14)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Disclosures are released to the market (Recognised Investment Exchanges, data vendors, etc) at no cost to the public, via ADGM’s public website. The ADGM website is the primary publication mechanism for Disclosures.
+
+15)	IMPORTANCE OF CONTINUOUS DISCLOSURE 
+Rules 7.2.1 and 7.2.2
+Rules 7.2.1 and 7.2.2 apply to all Reporting Entities (including in relation to a Listed Fund), and for Listed Entities who have a Security admitted to the Official List.  Rules 7.2.1 and 7.2.2 importantly state that: 
+
+“Immediate Disclosure of Inside Information 
+
+7.2.1	(1)	Once a Reporting Entity is, or becomes, aware of Inside Information, it must immediately Disclose that Inside Information.
+	
+	(2)	A Reporting Entity must ensure that the Disclosure it makes pursuant to (1) is    not false, misleading, or deceptive and does not omit anything likely to affect the import of the Inside Information. 
+	
+	(3)	For the purposes of complying with the requirement in (1), the Reporting Entity must, subject to Rule 7.2.4, immediately make its Disclosure, and in the manner specified in Rule 7.7.1.
+
+	Exceptions to Rule 7.2.1
+
+7.2.2	Rule 7.2.1 does not apply to specific information if and so long as all of the following are satisfied:
+
+(1)	Any one or more of the following applies:
+
+(a)	the information relates to an incomplete matter or negotiation;
+
+(b)	the Disclosure of the information would be in breach of a law or in contempt of court;
+
+(c)	the information comprises matters of supposition or is insufficiently certain or definite for it to be Disclosed; 
+
+(d)	the information has been created for the internal management purposes of the Listed Entity; or
+
+(e)	the information is a trade secret; and
+
+(2)	the information is confidential and the Regulator is not of the opinion that the information is no longer confidential; and
+
+(3)	a reasonable person would not expect the information to be Disclosed.”
+
+
+16)	THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK 
+Rules 7.2.1 and 7.2.2 aim to balance the needs of investors to receive information that may have a significant effect on the price or value of a Listed Entity’s Securities at the earliest reasonable time, and the interests of a Reporting Entity of not having to Disclose information prematurely or where it is inappropriate to do so.  
+
+17)	THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK 
+If the Listing Authority forms the view that there is, or may be, a false market, the interests of investors will prevail and the Listing Authority may require the Disclosure of information considered necessary to correct or prevent a false market under Rules 2.2.4 and 7.5.1(b) (refer to paragraphs 100 to 115 below).
+
+18)	THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK 
+Other than in the context of a false market, the time at which Inside Information must be disclosed will be determined by the interaction between Rules 7.2.1 and 7.2.2, such that the obligation to Disclose Inside Information that falls:
+
+a)	outside Rule 7.2.2, will arise as soon as the Reporting Entity becomes aware of the Inside Information; and
+
+b)	within Rule 7.2.2, will not arise unless and until Rule 7.2.2 no longer applies.
+
+19)	THE POLICY OBJECTIVE OF THE FSRA’S CONTINUOUS DISCLOSURE FRAMEWORK 
+In relation to both circumstances in paragraph 18 above, when the obligation to Disclose has been triggered, the Inside Information must be Disclosed immediately.
+
+20)	INSIDE INFORMATION
+Section 95 of FSMR defines “Inside Information” for the purposes of FSMR and the FSRA Rulebook, including MKT.  Sections 95(2), (5), (6) and (8) set out the following:
+
+“(2) Inside Information is information of Precise nature which –
+
+(a)	is not generally available;
+
+(b)	relates, directly or indirectly, to one or more Reporting Entities or Issuers of the Financial Instruments or to one or more of the Financial Instruments ….; and
+
+(c)	would, if generally available, be likely to have a significant effect on the price of the Financial Instruments, … or Related Instruments.
+
+(5)	Information is Precise if it – 
+
+(a)	indicates circumstances that exist or may reasonably be expected to come into existence or an event that has occurred or may reasonably be expected to occur; and
+
+(b)	is specific enough to enable a conclusion to be drawn as to the possible effect of those circumstances or that event of the price of Financial Instruments, … or Related Instruments.
+
+(6) Information would be likely to have a significant effect on price if and only if it is information of a kind which a reasonable investor would be likely to use as part of the basis of his investment decisions.
+
+(8) Information which can be obtained by research or analysis conducted by, or on behalf of, users of a market is to be regarded, for the purposes of this Part, as being generally available to them.”
+
+21)	INSIDE INFORMATION
+In the context of a Reporting Entity making a decision in relation to a continuous disclosure matter, consideration of whether information is Inside Information is the most important part of such a decision. 
+
+22)	INSIDE INFORMATION
+The information being considered by a Reporting Entity must relate to a particular Listed Entity and/or its Securities.  Information that is publicly available and which relates either Securities or a Listed Entity generally, or that affects all Listed Entities in a market, or a particular sector, is not information which relates to a particular Listed Entity.  For example, a Petroleum Production Reporting Entity should generally not be required to Disclose general changes in the price or value of Petroleum.  It may, however, be obligated to Disclose the effect of general changes in the price or value of Petroleum if those changes affect its previously Disclosed financial forecast or earnings guidance. 
+
+23)	INSIDE INFORMATION
+Inside Information does not need to be generated by the Reporting Entity itself, and may be generated by a third party (such as from regulatory bodies like the FSRA, industry specific authorities bodies (e.g., telecommunications, transport, communication, competition) or from entities such as the ADGM Takeovers Panel), or relate to an external event.  The obligation of a Reporting Entity is to Disclose such Inside Information immediately once it becomes aware of it.  In the case of Inside Information that has originated from a third party, it may be necessary for the Reporting Entity to seek a Trading Halt, in order to allow time for the Reporting Entity to prepare and make the Disclosure. 
+
+24)	INSIDE INFORMATION
+When is information Inside Information?
+As set out above, section 95(2) of FSMR defines the concept of Inside Information, as including information that it is not generally available, relates to Securities (and Related Instruments) and would, if generally available, have a significant effect on the price of such Securities.  Importantly, section 95(6) additionally provides that it is information that a reasonable investor would use as part of the basis of their investment decision.   
+
+25)	INSIDE INFORMATION
+When is information Inside Information?
+It should be noted that the test in section 95 of FSMR of whether information is Inside Information is objective, and the fact that a Reporting Entity’s officers may genuinely, and honestly, believe that information is not Inside Information, and that therefore it does not need to be Disclosed, will not avoid a breach of Rule 7.2.1, if that view is ultimately found to be incorrect. 
+
+26)	INSIDE INFORMATION
+When is information Inside Information?
+The Listing Authority acknowledges that the various factors of the test for determining whether information is Inside Information may cause some difficulty for Reporting Entities to accurately make this assessment.  In complying with Rule 7.2.1 a Reporting Entity must predict how investors may react to particular information when it is Disclosed.  While in many circumstances this may be obvious, in others circumstances it may not be as clear.  This potential challenge is inescapable, however, as it is the Reporting Entity, and only the Reporting Entity, that can and must form a view as to whether the information of which it is aware (and the rest of the market is not aware of) is Inside Information, and therefore needs to be Disclosed under Rule 7.2.1.
+
+27)	INSIDE INFORMATION
+When is information Inside Information?
+An officer of a Reporting Entity who is facing a decision on whether information is Inside Information that needs to be Disclosed under Rule 7.2.1 may find it helpful to consider the following three questions:
+
+a)	would this information influence my decision to buy or sell Securities in the Listed Entity at the current market price?
+
+b)	knowing that this information has not been Disclosed, would I feel exposed to an action for Insider Trading if I were to buy or sell Securities in the Listed Entity at their current market price?
+
+c)	if the information is not Disclosed and the price of the Listed Entity’s Securities changes once the market becomes aware of the information, would I feel that that the Listed Entity would be exposed to adverse comment or market perception (including from investors, market commentators, litigation funders and other interested stakeholders)?
+
+28)	INSIDE INFORMATION
+When is information Inside Information?
+If the answer to any question in paragraph 27 above is ‘yes’, then that may offer an indication that the information is Inside Information and, if it does not fall within the exemption to immediate Disclosure provided by Rule 7.2.2, may need to be Disclosed immediately under Rule 7.2.1.
+
+29)	INSIDE INFORMATION
+When is information Inside Information?
+If a Reporting Entity decides not to Disclose particular information because in its opinion it is either:
+
+a)	not Inside Information; or
+
+b)	the information is Inside Information, but the Inside Information falls within the exemption to immediate Disclosure by Rule 7.2.2,  
+
+and there is a sudden and unexplained movement in the market price and/or traded volume of a Listed Entity’s Securities, it may need to quickly revisit its decision on whether the information should be Disclosed.  Such a movement in the market price and/or traded volume of a Listed Entity’s Securities may indicate that the information is no longer confidential and/or that the Reporting Entity’s initial decision on whether the information is Inside Information was, or is now, incorrect.
+
+30)	INSIDE INFORMATION
+Assessing, and the context of, Inside Information
+In assessing whether or not information is Inside Information, and therefore needs to be disclosed under Rule 7.2.1, the information needs to be considered in context, rather than in isolation, against:
+
+a)	the circumstances affecting the Listed Entity at the time;
+
+b)	any external information that is publicly available at the time; and
+
+c)	any previous information that the Reporting Entity has Disclosed (e.g., in an Approved Prospectus, under its continuous or financial reporting disclosure obligations (including earnings guidance or financial forecasts)).
+
+31)	INSIDE INFORMATION
+Assessing, and the context of, Inside Information
+The following example illustrates the importance of taking into account the context surrounding the information being considered for Disclosure.  In isolation, a small decrease in the earnings of a Listed Entity may not be considered Inside Information.  However, if that small decrease triggers a breach of certain financial covenants of that Listed Entity resulting in possible default under its Debenture/debt facilities, then this information considered in context may indeed be Inside Information.  
+
+32)	INSIDE INFORMATION
+Assessing, and the context of, Inside Information
+Conversely, information that a Listed Entity has received a formal offer from another entity to purchase one of the Listed Entity’s major assets at a significant premium would typically be considered Inside Information.  However, if the Listed Entity has no intention of selling, or no capacity to sell, or the prospective purchaser does not have the ultimate ability to complete the purchase, the information may not necessarily be Inside Information.
+
+33)	INSIDE INFORMATION
+Assessing, and the context of, Inside Information
+The need to assess information in context also means that new Inside Information may need to be Disclosed due to its impact on Inside Information previously Disclosed.  Information that a Listed Entity has, for example, investigated and decided not to pursue a particular business transaction may not be Inside Information, if there was no knowledge or expectation within the market that the Listed Entity was considering the transaction.  If, however, the Reporting Entity has previously Disclosed that the Listed Entity was intending to undertake such a transaction, the fact that the Listed Entity has changed its mind may be Inside Information, and require Disclosure under Rule 7.2.1.
+
+34)	INSIDE INFORMATION
+Assessing, and the context of, Inside Information
+The Listing Authority considers that information that causes the price of a Listed Entity’s Securities to remain at, or about, its current level can be Inside Information when the price would otherwise have been expected to move significantly in a particular direction in line with price movements in the market generally or in the particular Listed Entity’s sector.
+
+35)	INSIDE INFORMATION
+Examples of information that may be considered Inside Information
+Set out below is a list (that is neither exhaustive nor definitive) of circumstances which would likely require a Reporting Entity to consider whether the information constitutes Inside Information that may require Disclosure under Rule 7.2.1: 
+
+a)	A transaction for which the consideration payable, or receivable, is a significant proportion of the written down value of a Listed Entity’s consolidated assets.  The Listing Authority expects that normally an amount of 5% or more would be significant, but a smaller amount may be significant in a particular circumstance; 
+
+b)	A transaction that will lead to a significant change in the nature or scale of a Listed Entity’s activities;
+
+c)	A change in a Listed Entity’s financial forecast or expectations, or the fact that the Listed Entity’s earnings will be significantly different from market expectations;
+
+d)	The entry into, variation or termination of a material agreement;
+
+e)	The development, or key amendment to, significant Intellectual Property (IP) of the Listed Entity;
+
+f)	A significant capital raising (e.g., via Shares, Debentures, Sukuk);
+
+g)	Over or under subscription to an Offer of Securities;
+
+h)	A significant change to a Listed Entity’s capital structure;
+
+i)	Giving or receiving a notice of intention to make a Takeover;
+
+j)	The granting, amendment or withdrawal of a material licence;
+
+k)	Becoming a party to, or the outcome of, material legal proceedings;
+
+l)	A significant Mining or Petroleum discovery;
+
+m)	The completion of a development/testing phase of a new pharmaceutical product;
+
+n)	Failure to comply with covenants in financing arrangements, including the consequences of such non-compliance;
+
+o)	Any rating applied by a credit rating agency to a Listed Entity, or its Securities, and any change to such a rating; 
+
+p)	The appointment of an administrator or receiver; or
+
+q)	A copy of a document containing Inside Information of a Listed Entity disclosed to or via a non-ADGM recognised investment exchange, or other regulatory body equivalent to the Listing Authority, that is available to the public in jurisdictions outside ADGM.  The copy Disclosed via the FSRA Disclosure Platform must be in English.
+
+36)	INSIDE INFORMATION
+Examples of information that may be considered Inside Information
+Where possible, and practicable, the Listing Authority will be prepared to work with Reporting Entities to review Inside Information that should/is to be Disclosed.  Such assistance, however, will not relieve the Reporting Entity from its responsibility and obligation, under the Rules, to make an immediate Disclosure of Inside Information.  A Reporting Entity is not to withhold a Disclosure of information it reasonably believes to be Inside Information on account of a desire to have a discussion on the matter with the Listing Authority.  Any assistance from, or engagement with, the Listing Authority should not be taken to constitute legal advice pertaining to a Reporting Entity’s obligations.
+
+37)	BECOMING AWARE OF INSIDE INFORMATION
+In considering the operation of Rule 7.2.1,  the concept of ‘awareness’, or knowledge, of Inside Information is central to operation of FSRA’s continuous disclosure framework.  In interpreting Rule 7.2.1, the Listing Authority considers that a Reporting Entity  becomes ‘aware’ of Inside Information if, and as soon as, an Officer  of the Reporting Entity has, or ought reasonably to have, come into possession of the Inside Information in the course of the performance of their duties as an Officer of that Reporting Entity.
+
+38)	BECOMING AWARE OF INSIDE INFORMATION
+The extension of a Reporting Entity’s ‘awareness’ to include information that its Officers ‘ought reasonably have come into possession of’ (over and above information that its Officers, in fact, ‘know’) means that a Reporting Entity is considered to be ‘aware’ of Inside Information if the information is known by anyone within the Listed Entity, and is of such significance that it ought reasonably to have been brought to the attention of an Officer of the Listed Entity.  Without this extension to the concept of ‘awareness’, a Reporting Entity would be able to avoid, or delay, meeting its continuous disclosure obligations in circumstances where Inside Information had not been brought to the attention of its Officers in a timely manner by others within the Listed Entity.  A Listed Entity will need to ensure that it has in place internal systems, processes and controls to ensure that Inside Information is promptly brought to the attention of its Officers.
+
+39)	BECOMING AWARE OF INSIDE INFORMATION
+In regard to Rule 7.2.1, the first question that an Officer of a Reporting Entity should therefore consider is whether the Reporting Entity is aware of any Inside Information.  If yes, that Officer must consider, immediately,  whether that Inside Information must be Disclosed.  Suitable systems and procedures must therefore be implemented by a Reporting Entity to ensure that Inside Information is promptly identified by, or within, a Listed Entity (in light of the ‘awareness’ extension discussed in paragraph 38 above) and a decision is taken as to whether a Disclosure is required.    
+
+40)	BECOMING AWARE OF INSIDE INFORMATION
+It is possible that a member of the senior management of a Listed Entity may be aware of information about an internal matter or proposal that, until such time as the Board of the Listed Entity formally signs off on the internal matter or proposal, will not be regarded as Inside Information.   There is a distinction between an Officer of a Listed Entity making a recommendation that requires Board approval (such as a management recommendation to return capital to shareholders), and an event or fact that arises independently of any decision by the Listed Entity (such as notice from a third party to terminate a material contract or agreement).  In the case of the latter, a Reporting Entity cannot delay Disclosure of this information pending formal sign-off by the Board of the Listed Entity.  This will also be the case if there is Inside Information underlying a recommendation to the Board of the Listed Entity.
+
+41)	BECOMING AWARE OF INSIDE INFORMATION
+A Listed Entity may receive information about a particular event or circumstance in instalments over time.  In some cases, the initial information about the event or circumstance is such that the Listed Entity cannot reasonably form a view on whether the information constitutes Inside Information and the Listed Entity/Reporting Entity may, therefore, need to wait for further, more complete, information, or make further enquiries, or obtain expert advice, in order to form a view.   In such a case, a Listed Entity will only become aware of Inside Information that needs to be Disclosed under Rule 7.2.1 when an Officer has, or ought reasonably to have, come €nto possession of sufficient information about the event or circumstance in order to be able to determine it represents Inside Information.
+
+42)	BECOMING AWARE OF INSIDE INFORMATION
+Reporting Entities should not be tempted to use this as an avenue to avoid, or delay, meeting its continuous disclosure obligations, by forming a ‘convenient’ view that it needs further information before it can assess if such information represents Inside Information, or by not making, or delaying, further enquiries or requesting relevant expert advice.  If a Listed Entity/Reporting Entity is in possession of information that constitutes Inside Information, the subjective view of its Officers that it requires further information before it can assess whether the information is Inside Information will not avoid a breach of Rule 7.2.1.  Furthermore, the extension of a Listed Entity’s awareness to information that an Officer ‘ought reasonably have come into possession of’ will require a Listed Entity/Reporting Entity, to make any further enquiries, or to obtain any expert advice, needed to confirm whether the information it has constitutes Inside Information to do so within a reasonable time period.
+
+
+43)	IMMEDIATELY
+Under Rule 7.2.1, Inside Information must be Disclosed ‘immediately’ upon the Reporting Entity becoming aware of the Inside Information, unless it falls within an exemption from Disclosure provided by Rule 7.2.2.  The Listing Authority considers that the word ‘immediately’ should not be read as meaning ‘instantaneously’, but rather as meaning ‘promptly and without delay’; that is, doing it as quickly as it can be done in the circumstances (acting promptly) and not deferring, postponing or putting it off to a later time.
+
+44)	IMMEDIATELY
+It is understood that some period of time will necessarily pass between when a Reporting Entity first becomes obliged to make a Disclosure under Rule 7.2.1, and when it makes that Disclosure.  This passing of time, does not, of itself, indicate that there has been a delay in the Disclosure.  Some Disclosures may be able to be prepared and Disclosed relatively quickly, while others may take longer.  The question in each case is whether the Reporting Entity is proceeding to complete and make its Disclosure as quickly as it can in the circumstances and not deferring, postponing or delaying it to a later time. 
+
+45)	IMMEDIATELY
+The Listing Authority recognises that how quickly a Reporting Entity can make a Disclosure of Inside Information will vary, depending on a number of factors, including:
+
+a)	the need for the Disclosure to be carefully prepared so that it is not false, misleading or deceptive, and does not omit anything likely to affect the import of the Inside Information (as required by Rule 7.2.1(2));  
+
+b)	where and when the Inside Information originated;
+
+c)	the forewarning, if any, the Listed Entity/Reporting Entity had of the information;
+
+d)	the amount, and complexity, of the Inside Information;
+
+e)	the need, in some circumstances, to verify the accuracy of the Inside Information;
+
+f)	the need, in some circumstances, for a Disclosure to comply with specific legal or Rule requirements; and
+
+g)	the need, in some circumstances, for a Disclosure to be approved by a Reporting Entity’s Board or disclosure committee. 
+
+46)	IMMEDIATELY
+The Listing Authority will take into account the above factors when assessing whether a Reporting Entity has complied with its obligations to make a Disclosure under Rule 7.2.1 promptly and without delay.
+
+47)	IMMEDIATELY
+If the obligation to Disclose Inside Information under Rule 7.2.1 is triggered during a period when the Recognised Investment Exchange (RIE) upon which the Listed Entity’s Securities are admitted to trading  is not trading (e.g., overnight or on a weekend), the Listing Authority considers that it will normally be sufficient for the Reporting Entity to make its Disclosure before the RIE next opens for trading.  However, if the obligation to Disclose Inside Information under Rule 7.2.1 is triggered while the RIE is open for trading, the Reporting Entity will be expected to make a Disclosure as promptly as it can in the circumstances, and without delay.  If this is not possible, the Listing Authority would expect the Reporting Entity to request a Trading Halt.  
+
+48)	IMMEDIATELY
+If a Listed Entity/Reporting Entity becomes aware of Inside Information relating to a future event (e.g., that a breach of financing covenant or the termination of a material agreement is inevitable), the Reporting Entity must Disclose this immediately after it becomes aware of that Inside Information.  
+
+49)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+If the RIE upon which a Listed Entity’s Securities is, or will be, trading immediately after a Reporting Entity first becomes obliged to Disclose Inside Information under Rule 7.2.1, but before the Reporting Entity can Disclose that Inside Information, the Reporting Entity should consider whether it is appropriate to request a Trading Halt (under Rule 7.8), and therefore halt trading on the RIE.
+
+50)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+In certain circumstances, the application, and implementation by the Listing Authority, of a Trading Halt can be beneficial for both the Listed Entity and the RIE’s market, by ensuring that the Listed Entity’s Securities are not trading on the RIE on an uninformed basis.  It will signal to investors, and the wider market, that Inside Information may be shortly, or is in the process of being, Disclosed.  The application, and implementation by the Listing Authority, of a Trading Halt may help to reduce the exposure of a Listed Entity/Reporting Entity (and their Officers, as applicable) to the legal, regulatory and financial consequences that could result from the Reporting Entity having breached its obligation to Disclose Inside Information in accordance with Rule 7.2.1.
+
+51)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+A Trading Halt or Suspension is not equally suitable in every circumstance.  For example, a Trading Halt can only last for a maximum of two Business Days, so it will not be suitable in circumstances relating to a complex or protracted disclosure matter that is unlikely to be resolved within inside this time.  In these circumstances, a Suspension may be more appropriate.
+
+52)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+As a Reporting Entity’s primary obligation under Rule 7.2.1 is to Disclose Inside Information promptly and without delay, the Listing Authority does not expect a Reporting Entity to request a Trading Halt, or Suspension, before it has determined whether the particular information represents Inside Information.  Having made this determination, if the Reporting Entity is able to make the required Disclosure promptly and without delay then, in normal circumstances, the Reporting Entity does not need a Trading Halt or Suspension to manage its disclosure obligations.  
+
+53)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+A Trading Halt or Suspension may, however, be necessary in the following circumstances:
+
+a)	there are indications that the Inside Information has lost its confidentiality ahead of a Disclosure (see Rule 7.2.2(2)), and it is having, or (where the RIE upon which the Listed Entity’s Securities are admitted to trading is not yet open for trading) is likely to have, when the RIE opens for trading, a significant effect on the price of the Listed Entity’s Securities;
+
+b)	the Reporting Entity has been asked by the Listing Authority to correct or prevent a false market;  or
+
+c)	the information is particularly significant Inside Information and likely to cause a significant movement in the price of the Listed Entity’s Securities (for example, Inside Information relating to a significant capital raising, the Board of the Listed Entity resolving to appoint an administrator, or that the Listed Entity is to win approval for a one-off contract that will substantially change the scale and activities of the Listed Entity); 
+
+and in circumstances where the RIE’s market is:
+
+d)	open for trading in the Listed Entity’s Securities, the Reporting Entity is not in a position to make the Disclosure immediately; or
+
+e)	not open for trading in the Listed Entity’s Securities, the Reporting Entity will not be in a position to make the Disclosure before the RIE opens for trading.
+
+54)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+A Trading Halt, or Suspension, will also be necessary if for any reason there is going to be a delay in the release of the Disclosure under Rule 7.2.1, and the RIE’s market is trading during any part of the delay.   Examples of this could include where the:
+
+a)	Reporting Entity considers the Disclosure of the Inside Information to be so significant that it ought to be approved by the Listed Entity’s Board before being released but, due to the unavailability of directors, the Board meeting is not able to be held promptly and without delay; or
+
+b)	situation is uncertain, or evolving, but is likely to be resolved within a relatively short period of time and the Reporting Entity considers that it is better for the Disclosure to be delayed until there is greater certainty or clarity in relation to the outcome.  
+
+55)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+Generally, a Suspension is appropriate where a:
+
+a)	Listed Entity’s Securities have been in a Trading Halt but the relevant disclosure matter has not been resolved within the two Business Day period provided by the Trading Halt;
+
+b)	circumstance warrants the granting of a Trading Halt by the Listing Authority, but the Listed Entity is not of the view that the relevant disclosure matter will be resolved within the two Business Day period provided by a Trading Halt; or  
+
+c)	Listed Entity is in serious financial difficulty and the Reporting Entity is of the reasonable view that continued trading of the Listed Entity’s Securities on the RIE is likely to be materially prejudicial to the Listed Entity’s ability to successfully complete a complex transaction, or set of transactions, that is critical to its continued financial viability.  
+
+56)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+The Listing Authority strongly recommends that where a Reporting Entity is considering, or unsure about, requesting a Trading Halt or Suspension (to cover the period of time needed for the Reporting Entity to make its Disclosure of Inside Information), the Reporting Entity should contact the Listing Authority to discuss the situation at the earliest opportunity. 
+
+57)	IMMEDIATELY
+Use of a Trading Halt or Suspension to manage Disclosure issues
+If a Reporting Entity decides not to request a Trading Halt or Suspension (to stop or prevent the Listed Entity’s Securities trading on an RIE ahead of the Disclosure of Inside Information), the Listing Authority encourages the Reporting Entity to monitor the various matters set out in paragraph 88 below, in order to monitor whether the Inside Information remains confidential.  If a Reporting Entity does detect that confidentiality is lost, the Reporting Entity should contact the Listing Authority immediately to discuss whether it is appropriate to request a Trading Halt or Suspension.
+
+58)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+Not every circumstance in which a Reporting Entity intends to Disclose, but has not Disclosed, Inside Information (on the basis of one of the examples in paragraph 53 above), will warrant a Trading Halt or a Suspension.  On this basis, when a Reporting Entity makes a request to the Listing Authority for a Trading Halt or Suspension (pursuant to Rule 7.8, or Rules 2.6 and 2.6.3, as applicable), to allow it the time needed to prepare, and release, the Disclosure of Inside Information under Rule 7.2.1, the Listing Authority will usually ask the Reporting Entity to outline the:
+
+a)	nature of the Inside Information in question;  
+
+b)	reasons for requesting the Trading Halt or Suspension; 
+
+c)	event expected to occur which will conclude the Trading Halt or Suspension; and
+
+d)	intended scope of, and timing for, the release of the Disclosure; 
+
+and assess for itself whether the circumstances warrant the granting of the Trading Halt or Suspension. 
+
+59)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+If the Listing Authority considers that the information is of a nature that is unlikely to be Inside Information or that the circumstances do not warrant the granting of a Trading Halt or Suspension, the Listing Authority may decline the request and require the Reporting Entity to make its Disclosure as quickly possible.  The Listing Authority, however, considers the likelihood of this occurring to be quite rare.
+
+60)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+When granting a Trading Halt or Suspension, the Listing Authority will normally Disclose both its notice of Trading Halt or Suspension, and the written request (setting out the details in paragraph 58 above) sent by the Reporting Entity to the Listing Authority, immediately upon granting the Trading Halt or Suspension. 
+
+61)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+At the point in time when the Reporting Entity is in a position to make the Disclosure of the Inside Information (as it relates to paragraph 58c) above), the Listing Authority recommends that the Reporting Entity share the draft Disclosure (that will be the basis for lifting the Trading Halt or Suspension) prior to it being submitted to and released onto the FSRA Disclosure Platform, to allow the Listing Authority to review the draft Disclosure.  When the Listing Authority has formed the view that the Disclosure is suitable for release, upon the Reporting Entity submitting it into the FSRA Disclosure Platform, the Listing Authority will simultaneously release the relevant Disclosure and its notice formally lifting the Trading Halt or Suspension.   
+
+62)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+In circumstances where the Reporting Entity does not make the Disclosure of Inside Information by the time stated in its request for a Trading Halt or Suspension,  the Listing Authority will likely request the Reporting Entity to make a further Disclosure at that time in order to provide an update to the market, including in particular when the Disclosure of Inside Information is expected to be released.  It is expected that the Reporting Entity and the Listing Authority will remain in close contact until such time that the Reporting Entity is in a position to make the relevant Disclosure of Inside Information.    
+
+63)	IMMEDIATELY
+Listing Authority process for granting a Trading Halt / Suspension
+It should be noted that a Reporting Entity cannot request trading of a Security to be halted or suspended directly with an RIE.  Instead, the process will entail the RIE halting or suspending trading immediately upon receipt of the Listing Authority’s disclosure of a Trading Halt or Suspension of the Listed Entity’s Securities.  Similarly, upon receipt from the Listing Authority of the lifting of a Trading Halt or Suspension, the RIE can then reinstate to trading the Listed Entity’s Securities. 
+
+
+64)	EXEMPTIONS FROM DISCLOSURE OF INSIDE INFORMATION – RULE 7.2.2
+Rule 7.2.2 provides an exception to the requirements to make a Disclosure under Rule 7.2.1.  This exception allows for the non-Disclosure of Inside Information as long as certain criteria, as outlined in Rule 7.2.2, are satisfied.  A Reporting Entity must Disclose the Inside Information required by Rule 7.2.1, unless each of the Rules in 7.2.2(1), 7.2.2(2) and 7.2.2(3) are met.  For the purposes of falling within the exception under Rule 7.2.2, it is not sufficient to withhold the Disclosure of Inside Information as required by Rule 7.2.1 if only one or two of Rules 7.2.2(1), 7.2.2(2) and 7.2.2(3) are met. 
+
+
+65)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Rule 7.2.2(1) sets out the different types of Inside Information which may be exempt from Disclosure.  The Inside Information need fall within only one of Rule 7.2.2(1)(a) to (e) in order for Rule 7.2.2(1) to be satisfied.  In addition, as noted above, to be able to rely on the exception generally in Rule 7.2.2, both of Rules 7.2.2(2) and 7.2.2(3) must also be met.
+
+66)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Incomplete matter or negotiation (Rule 7.2.2(1)(a))
+Rule 7.2.2(1)(a) allows for non-Disclosure by a Reporting Entity of Inside Information that relates to an incomplete matter or negotiation.  The Listing Authority considers that:
+
+a)	matters are generally considered complete at the point where the matter has been finally determined or resolved.  For example, a recommendation to issue further capital made by a Listed Entity’s management to its Board is an incomplete matter.  The matter becomes complete where the Board of the Listed Entity resolves to, and approves, the further capital raising; and
+
+b)	negotiations are to be generally considered completed at the point in which contracts are signed or the Listed Entity is otherwise committed to proceeding with the transaction.  It should be noted that a signed contract even if subject to conditions precedent or conditions subsequent will generally not be considered an incomplete negotiation.
+
+67)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Incomplete matter or negotiation (Rule 7.2.2(1)(a))
+In cases where a Reporting Entity relies on a matter, or negotiation, not being final or complete until a Listed Entity’s Board decision is made, or a contract signed, it is understood that the Listed Entity may schedule the relevant Board decision, or signing of the contract, after trading on the relevant RIE closes, or before the RIE’s market reopens.  The Listing Authority will generally have no concerns with this practice, provided confidentiality  is maintained until the Board decision is made, or the contract is signed. 
+
+68)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Incomplete matter or negotiation (Rule 7.2.2(1)(a))
+The Listing Authority considers an agreement entered into in connection with the negotiation of a transaction to be very different to a principal agreement to implement the transaction.  The Listing Authority will not normally consider a confidentiality agreement or an exclusivity agreement to indicate that a negotiation is complete.  The terms, nevertheless, of a procedural agreement of this kind may require Disclosure, if such terms constitute (all or part of) Inside Information and Rules 7.2.2(2) and 7.2.2(3) are not met.
+
+69)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Breach of law (Rule 7.2.2(1)(b))
+To fall within the exception contained in Rule 7.2.2(1)(b), Disclosure of the Inside Information must breach a specific law, regulation, rule, administrative order or court order binding on the Listed Entity. 
+
+70)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Breach of law (Rule 7.2.2(1)(b))
+The fact that the Inside Information is subject to a confidentiality agreement or to duties of confidentiality under a general law, such that its Disclosure may give rise to legal action for damages or for injunctive or other relief, is not sufficient to fall within this Rule.
+
+71)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Matters of supposition, or insufficiently certain or definite (Rule 7.2.2(1)(c))
+Rule 7.2.2(1)(c) provides an exception for the non-Disclosure of Inside Information due to it comprising matters of supposition or matters that are insufficiently certain or definite to warrant Disclosure.  This refers to:
+
+a)	matters which are assumed, or believed, without knowledge or proof; 
+
+b)	information that is vague or imprecise;
+
+c)	information, the truth or accuracy of which is open to doubt; and
+
+d)	a matter in relation to which the likelihood of it occurring, or the impact in the event that it does occur, is uncertain,
+
+such that a reasonable person would not expect it to be Disclosed.  In some circumstances, information of this nature may be so uncertain or indefinite that it falls at the first hurdle and does not, in fact, constitute Inside Information in which case it is not required to be Disclosed under Rule 7.2.1, regardless of whether it falls within the exception provided by this Rule.
+
+72)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Matters of supposition, or insufficiently certain or definite (Rule 7.2.2(1)(c))
+It should be noted that the exception in paragraph 71d) will not apply in circumstances where a Listed Entity/Reporting Entity is aware of information about a known event (and that the event constitutes Inside Information), but needs time to enable the Listed Entity/Reporting Entity to determine the financial impact of the event.  In this scenario, Rule 7.2.1 will generally require such Inside Information to be Disclosed immediately.  It is not appropriate for a Reporting Entity to delay Disclosing Inside Information of this nature on the basis of this exception due to it being unable to state the financial impact of the event in its Disclosure.
+
+73)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Matters of supposition, or insufficiently certain or definite (Rule 7.2.2(1)(c))
+In the event that a Reporting Entity is not in the position to include the financial impact of the Inside Information in its Disclosure, it is appropriate for the Reporting Entity to immediately Disclose whatever information is in its possession, and signal that a further Disclosure will be made when it has completed its assessment of the financial impact.  If the Reporting Entity is concerned that Disclosing the Inside Information, without providing further information in relation to the financial impact of that information, could lead to a false market in the Listed Entity’s Securities, it should consult with the Listing Authority and discuss whether it would be appropriate to request a Trading Halt or Suspension (in order to obtain the time it needs to assess the financial impact of the Inside Information, and to make a more complete Disclosure).   
+
+74)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Information created for internal management purposes (Rule 7.2.2(1)(d))
+Rule 7.2.2(1)(d) allows for the non-Disclosure by a Reporting Entity of Inside Information that has been generated for a Listed Entity’s internal management purposes.  This includes Inside Information generated not only for the internal management purposes of the Listed Entity itself, but also for the internal management purposes of any controlled entity of the Listed Entity, or any other entity in which the Listed Entity may have an economic interest.
+
+75)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Information created for internal management purposes (Rule 7.2.2(1)(d))
+A number of a Listed Entity’s internal management documents clearly fall within the exception in this Rule, including budgets, management accounts, forecasts and business plans.
+
+76)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Information created for internal management purposes (Rule 7.2.2(1)(d))
+The Inside Information does not have to be generated internally to fall within the exception in this Rule.  Inside Information generated externally (e.g., Sponsor, compliance advisor, Competent Person, professional/legal advisors or consultant) may fall within this Rule provided the information is going to be used for a Listed Entity’s internal management purposes (for example, to help inform a management decision).
+
+77)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Information created for internal management purposes (Rule 7.2.2(1)(d))
+It should be noted that the simple inclusion, or mention, of Inside Information in a document used or generated for internal management purposes does not automatically mean that the Inside Information is necessarily protected from Disclosure by the exception in this Rule.  Management documents will often include Inside Information (relating to (potential) events or circumstances) that will require Disclosure under Rule 7.2.1, where such Inside Information could not appropriately be described as information generated for internal management purposes only.
+
+78)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Trade secrets (Rule 7.2.2(1)(e))
+Inside Information that also constitutes a Trade secret is exempted from Disclosure due to the proprietary nature of such information.  The term ‘trade secret’ refers to something that has economic value to a Listed Entity, due to it not being generally known, or easily discoverable by observation, and for which effort has been made to maintain secrecy.  This may include a formula, recipe, device, program, method, technique or process.  It may also include a compilation of information, such as a client list, pricing list or database. 
+
+79)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Trade secrets (Rule 7.2.2(1)(e))
+Trade secrets are often protected by copyright, or may otherwise give rise to rights in equity that are capable of being protected by an action for breach of confidence.  In some jurisdictions they may also be protected by statute.
+
+80)	TYPES OF INSIDE INFORMATION EXEMPT FROM DISCLOSURE (RULE 7.2.2(1))
+Trade secrets (Rule 7.2.2(1)(e))
+As Rules 7.2.2(1), 7.2.2(2) and 7.2.2(3) operate collectively, where a Listed Entity has lost confidentiality in relation to a trade secret (that is, it has been observed or become generally known), the Reporting Entity may no longer be able to claim an exception under Rules 7.2.2(1)(e), 7.2.2(2) and 7.2.2(3) to its duty of Disclosure. 
+
+81)	CONFIDENTIALITY (RULE 7.2.2(2))
+For Rule 7.2.2(2) to apply, two different components must be satisfied, being the:
+
+a)	relevant Inside Information must be confidential; and
+
+b)	Listing Authority has not formed the view that the Inside Information has ceased to be confidential.
+
+82)	CONFIDENTIALITY (RULE 7.2.2(2))
+Consideration of whether Inside Information is confidential is not subjective; it is objective.  The Inside Information cannot be in the public domain, and accordingly, if it is not, it must be secret (confidential). 
+
+83)	CONFIDENTIALITY (RULE 7.2.2(2))
+To ensure that this Rule is met, where negotiations are in progress between a Listed Entity and another party, both the Listed Entity and the other party must keep the fact, and content, of those negotiations confidential.  There may be a confidentiality agreement in place, but this is not necessary.  It is important to recognise that Inside Information that is subject to a confidentiality agreement does not necessarily mean that the Inside Information is confidential in fact.
+
+84)	CONFIDENTIALITY (RULE 7.2.2(2))
+Even with robust confidentiality arrangements in place, it is important to recognise that the greater the number of people who know, or are aware, of the confidential Inside Information, the greater the risk that the Inside Information will cease to remain confidential.  As an example of this, if a Listed Entity is proposing to acquire another entity, business or asset and wants to, as part of its due diligence, make enquiries of the target business’ employees, customers or suppliers, or a Listed Entity is proposing to undertake a new issue of Securities and wishes to engage with advisers, brokers and potential investors, the Listed Entity/Reporting Entity, and the other parties involved in such a transaction, needs to be prepared that those discussions may result in a loss of confidentiality.
+
+85)	CONFIDENTIALITY (RULE 7.2.2(2))
+As soon as Inside Information is received by a person who is not bound by an obligation of confidentiality, this Rule 7.2.2(2) can no longer be met, and the Inside Information must be Disclosed.  This may be the case even if the Listed Entity has entered into confidentiality arrangements in relation to the Inside Information and/or the Inside Information has come from a source other than the Listed Entity.
+
+86)	CONFIDENTIALITY (RULE 7.2.2(2))
+In relation to media and third parties attempting to force a Reporting Entity, by way of speculation published within the media, to make a Disclosure, the Listing Authority is of the view that though there is, or has been, public, media or third party speculation, it does not necessarily mean the Inside Information relates is no longer confidential.  The Listing Authority does not consider that, on its own, media speculation about a matter (that represents Inside Information) necessarily means that confidentiality has been lost.  The more credible the source, however, of the media comment or speculation, and the specificity of the media comment or speculation, the more likely it is to indicate that confidentiality may have been lost. 
+
+87)	CONFIDENTIALITY (RULE 7.2.2(2))
+An assessment of whether Inside Information remains confidential will need to be made in the relevant circumstances, considering the parties involved, in relation to that Inside Information.  The Listing Authority will review each particular circumstance on its own merit, and the Listing Authority’s approach, while being mindful of market integrity implications, is not to require a Disclosure where it is satisfied that confidentiality remains in place. 
+
+88)	CONFIDENTIALITY (RULE 7.2.2(2))
+If a Listed Entity is negotiating a significant transaction and is relying on Rule 7.2.2 to not Disclose the transaction (information in relation to which represents Inside Information), it is important that the Reporting Entity closely monitors the situation for any indication that confidentiality has been lost.  In these circumstances, the Reporting Entity should be monitoring,  as a matter of course:
+
+a)	the market price of the Listed Entity’s Securities, and of the Securities of any other listed entity involved in the transaction;
+
+b)	major newspapers;
+
+c)	major newswire services, such as Bloomberg or Reuters;
+
+d)	 any investor/investment blogs, chat-sites or other social media that is known to discuss/cover the Listed Entity; and
+
+e)	enquiries from analysts or journalists,
+
+for signs that information about the transaction may no longer be confidential. 
+
+89)	CONFIDENTIALITY (RULE 7.2.2(2))
+The Listing Authority recommends that a Reporting Entity should have a draft Disclosure ready, should its disclosure obligations be triggered under Rule 7.2.1 (in circumstances where it is clear that confidentiality has been lost).  The Listing Authority further recommends that the Reporting Entity have prepared a draft written communication to be sent to the Listing Authority requesting a Trading Halt or Suspension, to be sent if it becomes clear that confidentiality has been lost and the Reporting Entity can no longer rely on Rule 7.2.2(2) so as not to make a Disclosure of the Inside Information.
+
+90)	CONFIDENTIALITY (RULE 7.2.2(2))
+In relation to the second component of Rule 7.2.2(2), the Listing Authority may form the view that Inside Information relating to a matter involving a Listed Entity has ceased to be confidential, and that Rule 7.2.2(2) is no longer satisfied, if there is a:
+
+a)	reasonably specific and reasonably accurate  media or analyst report about the Inside Information;
+
+b)	reasonably specific and reasonably accurate rumour known to be circulating the market about the Inside Information; or
+
+c)	sudden and significant movement in the market price and/or traded volumes in the Listed Entity’s Securities that cannot be explained by other events or circumstances.   
+
+91)	CONFIDENTIALITY (RULE 7.2.2(2))
+In regard to each of paragraphs 90a) and 90b) above, the Listing Authority will have regard to the degree of specificity in the media report, analyst report or market rumour, in determining whether, and the extent to which, confidentiality has been lost.  For example, if the report/rumour simply refers to a Listed Entity being about to enter into a particular transaction with another party, without including any of the specific transaction details, the Listing Authority will generally only require the Listed Entity/Reporting Entity to Disclose the fact that it is in negotiations with that party, without the Disclosure needing to include any of the details being negotiated.
+
+92)	CONFIDENTIALITY (RULE 7.2.2(2))
+On the other hand, if the report/rumour includes specific and accurate transaction details, the Listing Authority will generally expect the Reporting Entity to Disclose those details.  If the report/rumour includes inaccurate transaction details, the Disclosure required will depend on the circumstances; in some circumstances, it may be appropriate to correct those details, while in other circumstances it may be appropriate to simply indicate that the details are inaccurate or still being negotiated. 
+
+93)	CONFIDENTIALITY (RULE 7.2.2(2))
+In relation to the circumstances of paragraph 90c) above, there may be occasions where a Reporting Entity (or its advisors) wish to debate with the Listing Authority whether a sudden and significant movement in the market price and/or traded volume of a Listed Entity’s Securities can be appropriately attributed to Inside Information ceasing to be confidential.  In these circumstances, if a Reporting Entity advises the Listing Authority that there is Inside Information that has not yet been Disclosed due to reliance on Rule 7.2.2(2),  and it is not able to evidence any other event, circumstance or information which could explain the movement in the market price and/or traded volumes of the Listed Entity’s Securities, the Listing Authority will have no option but to assume that Inside Information in question has become known to some participants in the RIE’s market for those Securities, and that the Inside Information is therefore no longer confidential. 
+
+94)	CONFIDENTIALITY (RULE 7.2.2(2))
+Upon a Reporting Entity being advised by the Listing Authority  that it is of the view that the Inside Information is no longer confidential, Rule 7.2.2 no longer applies and the Reporting Entity will then be obliged to immediately Disclose the Inside Information under Rule 7.2.1.
+
+95)	THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+The Listing Authority interprets this Rule such that a ‘reasonable person’ would not expect the Inside Information to be Disclosed.  This Rule is an objective one, and is to be judged from the perspective of an independent and judicious bystander, and not from the perspective of someone whose interests are aligned with the Listed Entity/Reporting Entity or with the investment community.
+
+96)	THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+The Listing Authority views the ‘reasonable person’ test provided by Rule 7.2.2(3) as being an over-arching test, as compared to the other two parts of Rule 7.2.2.  This means that the ‘reasonable person’ test provided by Rule 7.2.2(3) needs to be satisfied in addition to satisfaction of Rules 7.2.2(1) and 7.2.2(2).  The very reason why the categories in Rule 7.2.2(1) are prescribed is that they reflect the types of Inside Information that the Listing Authority would not expect to be Disclosed, at least while such Inside Information remains confidential.
+
+97)	THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+As a result, the ‘reasonable person’ test in Rule 7.2.2(3) has a very narrow range of application.  It is unlikely to be triggered outside of operating as an over-arching test, and would do so only if there was something particular in the circumstances relating to Inside Information in question.  Two examples of this would be where:
+
+a)	a Reporting Entity has selectively picked its Disclosures, Disclosing ‘positive’ information of a particular type that is likely to have a positive effect on the market price of a Listed Entity’s Securities, but then declining to Disclose ‘negative’ information of the same type that would be likely to have a negative effect on the market price of the Listed Entity’s Securities, on the incorrect basis or assumption that it is not Inside Information or it is protected from Disclosure by Rule 7.2.2; or
+
+b)	where the Inside Information needs to be Disclosed in order to prevent the Disclosure of other Inside Information under Rule 7.2.1 from being misleading or deceptive.  
+
+98)	THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+The ‘reasonable person’ test in Rule 7.2.2(3) therefore performs two subsidiary functions, being that it reinforces the fact that Rule 7.2.2 does not operate to protect Inside Information from Disclosure if it:
+
+a)	has ceased to be confidential; or
+
+b)	is required to correct, or prevent, a false market.
+
+99)	THE REASONABLE PERSON TEST (RULE 7.2.2(3))
+In relation to the former, this is because a reasonable person would expect that once Inside Information has become known to, and is being traded on by, some parts of the RIE’s market for the Listed Entity’s Securities (as evidenced, for example, by a sudden and significant movement in the market price and/or traded volumes of a Listed Entity’s Securities), that the Inside Information should be Disclosed immediately, for the benefit of the RIE’s full market.  In the latter case, this is due to a reasonable person expecting a Reporting Entity, who is acting responsibly, to immediately Disclose any information to correct, or prevent, a false market.
+
+
+100)	FALSE MARKET (RULE 7.5.1(b))
+Rule 7.5.1(b) states the following:
+
+“7.5.1	(1)	The Regulator may, pursuant to its power under section 84 of the FSMR, issue a written notice directing a Reporting Entity (a “Direction Notice”) to Disclose specified information and to take any other steps as the Regulator considers appropriate in the following circumstances:  
+
+(a)	…
+
+(b)	to correct or prevent a false market if the Regulator considers that there is or is likely to be a false market in a Listed Entity’s Securities.
+
+Guidance
+
+The Regulator would consider, for example, that there is, or is likely to be, a false market in the Listed Entity’s Securities if:
+
+(i)	a Listed Entity/Reporting Entity has information that has not been Disclosed, for example, due to Rule 7.2.2 applying;
+
+(ii)	there is a reasonably specific media comment or rumour concerning the Listing Entity that has not been confirmed or clarified by a Disclosure by the Reporting Entity; and
+
+(iii)	there is evidence that the comment or rumour is having, or the Regulator considers that the comment or rumour is likely to have a significant impact on the price of the Listed Entity’s Securities.”
+
+101)	FALSE MARKET (RULE 7.5.1(b))
+The term ‘false market’ refers to a situation where there is significant misinformation or significantly incomplete information in the market.  These circumstances compromise price discovery in a Listed Entity’s Securities and may arise, for example, where:
+
+a)	a Reporting Entity has Disclosed false, misleading or deceptive information; 
+
+b)	there is other false or misleading information, including a false rumour, circulating in the (RIE’s) market; or
+
+c)	a segment of the (RIE’s) market is trading on the basis of Inside Information that is not available to the (RIE’s) market as a whole.
+
+102)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+Pursuant to Rule 7.5.1(b), if the Listing Authority considers that there is, or is likely to be, a false market in a Listed Entity’s Securities, it may direct the Reporting Entity to disclose any information it requires to correct or prevent a false market.
+
+103)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+To correct or prevent a false market, the Listing Authority may require the Reporting Entity to disclose Inside Information, even in circumstances where the Reporting Entity considers that the Inside Information falls within the exceptions of Rule 7.2.2 and therefore does not require immediate Disclosure under Rule 7.2.1.  It is likely in these circumstances that the Listing Authority will take the view that the Inside Information is no longer confidential and/or that a reasonable person would expect the information to be Disclosed.  As a result, the Listing Authority would then be of the view that the Inside Information no longer falls within Rule 7.2.2 and that immediate Disclosure is required.
+
+104)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+The Listing Authority may also require a Reporting Entity to Disclose information that is not, of itself, Inside Information, for example, to correct a false rumour that the Listed Entity is about to enter into a significant transaction when in fact it is not. 
+
+105)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+If the Listing Authority has concerns that there is, or is likely to be, a false market in a Listed Entity’s Securities, it will normally contact the Reporting Entity to discuss the situation, and the steps that should be taken to correct or prevent the false market, including its powers of direction noted in paragraph 100 above and/or the Reporting Entity considering a request for a Trading Halt. 
+
+106)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+Where a Reporting Entity makes a Disclosure to prevent or correct a false market in a Listed Entity’s Securities, it must make it clear in the Disclosure that the intention of the Disclosure is to prevent or correct a false market.
+
+107)	FALSE MARKET (RULE 7.5.1(b))
+Listing Authority Direction powers to correct or prevent a false market
+If the Listing Authority has not been able to contact the Reporting Entity, or the Reporting Entity does not cooperate with the Listing Authority in rectifying the false market issue, the Listing Authority may Suspend the Listed Entity’s Securities to prevent a false market from occurring, or from continuing.   
+
+108)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+False market issues often arise in relation to reports in the media (both conventional and online) or from analysts commenting or speculating on a matter relating to a Listed Entity, for example, that is about to enter into a significant transaction or that is in significant financial difficulty.  These issues can also arise in the context of rumours circulating in the market orally or via email, blogs, bulletin boards, chat sites, messaging sites or other social media.
+
+109)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+A false market may arise in the following scenarios:
+
+a)	If a report/rumour appears to contain or to be based on credible Inside Information, but is wholly or partially inaccurate, a failure by the Reporting Entity to correct it may lead to a false market in the Listed Entity’s Securities. 
+
+b)	Equally, if a report/rumour is accurate, a failure by the Reporting Entity to confirm the facts may contribute to doubts about the accuracy of that report/rumour, also leading to a false market in the Listed Entity’s Securities. 
+
+c)	Additionally, if a report/rumour that is false has been disseminated within the market, but is not widely known, this may lead to an issue where that segment of the market that is aware of the report/rumour is trading on an uninformed or false market basis.  
+
+110)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+The Listing Authority does not expect a Reporting Entity to respond to every market rumour, in the (social) media or in analyst reports that concerns it.  The Listing Authority, in particular, will generally not require the Reporting Entity to respond to the report/rumour, where the: 
+
+a)	report/rumour does not appear to be contributing to a significant change in the price and/or traded volume in the Listed Entity’s Securities, and
+
+b)	Reporting Entity convinces the Listing Authority that the report/rumour:
+
+(i)	appears to be mere supposition or speculation; or
+
+(ii)	simply confirms a matter that is generally understood by the market due to, for example, previous Disclosures by the Reporting Entity, or media/analyst commentary.
+
+111)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+The Listing Authority does consider, however, that a Reporting Entity has a responsibility to respond to a report/rumour where it appears to contain, or is based on, credible Inside Information, whether it is accurate or not, and there is a significant impact on the price and/or traded volume of the Listed Entity’s Securities which coincides with the report/rumour.   If the Reporting Entity does not respond to the report/rumour voluntarily, the Listing Authority will consider using its powers under Rule 7.5.1 to require it to do so. 
+
+112)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+Where the Listing Authority has concerns that a report/rumour has caused, or is likely to cause, a false market in a Listed Entity’s Securities, it will usually endeavour to contact the Reporting Entity to discuss the situation.   In such circumstances, the Listing Authority will usually ask the Reporting Entity to confirm whether the report/rumour is accurate.  When responding to this question, the Listing Authority expects the Reporting Entity to answer frankly and honestly, even if the report/rumour relates to information that the Reporting Entity considers confidential and not something that is required to be disclosed under Rule 7.2.2. 
+
+113)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+Depending on the circumstances relating to a report/rumour, if the Listing Authority is concerned that there is, or is likely to be, a false market in the Listed Entity’s Securities and the Reporting Entity advises that:
+
+a)	the report/rumour is accurate, the Listing Authority may ask the Reporting Entity to make a Disclosure confirming the report/rumour, or it may ask the Reporting Entity to make a more detailed Disclosure under Rule 7.2.1;
+
+b)	the report/rumour is partially accurate, the Listing Authority may ask the Reporting Entity to make a Disclosure to correct or clarify the report/rumour, or it may ask the Reporting Entity to make a more detailed Disclosure under Rule 7.2.1;
+
+c)	the report/rumour is totally inaccurate, the Listing Authority may ask the Reporting Entity to make a Disclosure that denies or corrects the report/rumour; or
+
+d)	it does not know whether the report/rumour is accurate or not, the Listing Authority may ask the Reporting Entity to make a Disclosure stating that it has no knowledge of the information pertaining to report/rumour, and can therefore neither confirm nor deny the report/rumour.
+
+114)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+Where a Reporting Entity advises the Listing Authority that it needs time to prepare a Disclosure, and the RIE’s market (in the Listed Entity’s Securities) is either currently trading or will commence trading before the Reporting Entity can make the Disclosure, the Listing Authority will usually suggest to the Reporting Entity that it requests a Trading Halt. 
+
+115)	FALSE MARKET (RULE 7.5.1(b))
+Media reports, analyst reports and market rumours
+In considering the circumstances of whether or not a report/rumour has caused, or is likely to cause, a false market, the Listing Authority is more likely to consider the impact, or likely impact, on the price of the Listed Entity’s Securities rather than the accuracy, or inaccuracy, of the information contained in the report/rumour.
+
+
+116)	HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS?
+The obligation of a Reporting Entity under Rule 7.2.1 to Disclose Inside Information is separate to, but operates closely with, a Reporting Entity’s other obligations under the Rules (particularly those in Chapter 9 and APP 2).  The Disclosure of information under, for example, APP 2 of the Rules will satisfy the obligation to Disclose Information under Rule 7.2.1 provided, in each case, the Disclosure is made within the timeframe required under Rule 7.2.1. 
+
+117)	HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS?
+The continuous disclosure obligations in Rule 7.2.1 also, importantly, operate closely with the:
+
+a)	periodic/financial disclosure obligations set out in chapter 10 of the Rules; and
+
+b)	the general disclosure obligations under FSMR, ADGM Commercial Laws (for Listed Entities incorporated in ADGM) and international commercial and corporate laws (for Listed Entities that are not incorporated in ADGM), including Prospectus Offer documents, bidders and targets statements, etc. 
+
+118)	HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS?
+Once the documents referred to in paragraphs 117a) or 117b) above have been Disclosed, the Listing Authority will regard the information in them as now ‘within the market’, and therefore not requiring separate Disclosure under Rule 7.2.1. 
+
+119)	HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS?
+The Listing Authority does not generally expect a Reporting Entity to Disclose information in a document included in paragraph 117 above ahead of the scheduled release date for that document,  provided that all of the limbs in Rule 7.2.2 are met or that the Listing Authority does not consider that a Disclosure is required under Rule 7.5.1(b) to prevent a false market.  There will be cases, however, where in the course of preparing, for example, a financial disclosure required under chapter 10 of the Rules, Inside Information may come to light that ought to immediately Disclosed under Rule 7.2.1. 
+
+120)	HOW DOES RULE 7.2.1 INTERACT WITH OTHER DISCLOSURE OBLIGATIONS?
+As a further example, in the course of preparing a financial disclosure as required under chapter 10 of the Rules, it may become clear to a Listed Entity/Reporting Entity that its reported earnings will differ significantly from those of the previous period.  In such a circumstance, the Reporting Entity must immediately Disclose this expected significant difference in earnings under Rule 7.2.1.  The Reporting Entity cannot wait until the scheduled release of the reported earnings (within the financial disclosure document) to Disclose the significant difference in earnings. 
+
+
+121)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+A Disclosure of Inside Information under Rule 7.2.1 must be accurate, complete and not misleading, as Disclosing materially false or misleading information potentially breaches Rule 7.2.1(2).  Opinions expressed in a Disclosure, therefore, are to be honestly held and balanced, and should be clearly identified as a statement of opinion, rather than a statement of fact.
+
+122)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+Any forward looking statements in a Disclosure, such as earnings, or production, guidance, must also have a reasonable basis in fact, or they will otherwise be deemed as misleading.  The Listing Authority encourages the inclusion of material assumptions and qualifications within a Disclosure, as it provides context and will help the market in the Listed Entity’s Securities to understand the basis for, and price in, the forward looking statements.     
+
+123)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+A Disclosure must be presented in language that is appropriate for publication.  It should be factual, relevant and expressed in a clear and objective manner.  Emotive, intemperate and defamatory language is not to be used, nor should vague or imprecise terms. 
+
+124)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+Where possible, a Disclosure of Inside Information under Rule 7.2.1 should contain sufficient detail for investors (or their professional advisers) to understand the ramifications of the Disclosed Inside Information, and to assess its impact on the price, or value, of the Listed Entity’s Securities.   For example, depending on the specific circumstances, a Disclosure that relates to the signing of a contract for a significant acquisition would likely include:
+
+a)	details of the assets proposed to be acquired; 
+
+b)	details of any material conditions that are required to be satisfied before the agreement becomes legally binding or proceeds to completion;
+
+c)	information about the likely effect of the acquisition on the Listed Entity’s financial position including, but not limited to, total assets, total equity interests, annual revenue, annual expenditure/costs, and annual profit;
+
+d)	if the Listed Entity is proposing to issue Securities as part of, or in conjunction with, the transaction, detailed information about the issue (including its effect on the total issued capital of the Listed Entity, and the (full) purposes for which the funds raised will be used);
+
+e)	if any changes to the Listed Entity’s Board, or senior management, are proposed as a result of the transaction, details of those changes; and
+
+f)	the timetable for implementing the transaction.
+
+125)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+It is open to a Reporting Entity to include in a Disclosure references or hyperlinks  to other documents where further information can be found.  If those documents, however, have not been Disclosed, the Disclosure referencing these other documents is required to include sufficient detail about significant contents of these documents, such that investors can understand and assess their significance and decide whether they need to read them. 
+
+126)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+The contents of a Disclosure 
+Reporting Entities should not use a Disclosure under Rule 7.2.1 as a mechanism to Disclose information that is promotional, political or biased in nature.  It is for this reason that the Listing Authority will generally  not allow a Reporting Entity to Disclose a broker research report, or any extract from, or hyperlink to, such a report.   Any Inside Information in such a broker research report is already required to be Disclosed under Rule 7.2.1, so it can be easily inferred that a Reporting Entity seeking to disclose the broker report is doing so in order to disclose its opinion-based information/material (such as a buy recommendation or price target).  This will clearly, therefore, raise the question of whether the Reporting Entity is intending to disclose the report for promotional reasons, rather than as required under Rule 7.2.1.  It will also likely raise concerns about whether the Reporting Entity is effectively endorsing a price target, earnings estimate or any other forward looking statements in the report.  In the event that a Reporting Entity Discloses, or makes reference in a Disclosure to, a broker report, the Listing Authority will likely require the Reporting Entity to make a further Disclosure addressing these concerns.
+
+127)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Commercially sensitive information 
+Where a Listed Entity signs a significant agreement, it is generally open to a Reporting Entity to consider whether it will Disclose a copy of such agreement, if it wishes to do so.  Making such a Disclosure will help reduce the amount of information about the significant agreement that needs to be included in its other Disclosure documents,  and will also avoid any later issues about whether the significant terms of the agreement have been Disclosed. 
+
+128)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Commercially sensitive information 
+The Listing Authority does recognise, however, that there are circumstances where a Reporting Entity will not wish to Disclose a copy of such an agreement, for example, where it contains commercially sensitive information that ought not be Disclosed.  In such cases, the Disclosure made about the agreement is still required to contain a fair and balanced summary of the full significant terms of the agreement, and any other relevant information relating to the agreement that is Inside Information.  A Reporting Entity is, however, not entitled to avoid the Disclosure of commercially sensitive information by characterising it as a trade secret in order to benefit from the provisions of Rule 7.2.2(1)(e). 
+
+129)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Disclosure headings 
+The FSRA Disclosure Platform Disclosure lodgement screen includes a ‘title’ field where a title for a Reporting Entity’s Disclosure is to be inserted.  It is common for a Reporting Entity to insert the heading, or an abridged version of the heading, from the Disclosure document itself as the ‘title header’ for that Disclosure.
+
+130)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Disclosure headings 
+Reporting Entities need to take care with the title used in a Disclosure.  The Listing Authority will generally use the title used in a Disclosure within the FSRA Disclosure Platform as the title of the Disclosure when it is published on the FSRA Public Register (and displayed on RIE members/trading participant trading screens).  The title/header will also be distributed to, or may be otherwise be used by, news/media agencies and vendors.  Many investors, and market participants, will use this title/header to assess whether they read a Disclosure.  
+
+131)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Disclosure headings 
+The title to a Disclosure should briefly and accurately convey the contents of the Disclosure (for example, ‘Full year profit up by 7%’, ‘Resignation of Chairperson’, ‘Completion of acquisition of ABC Group’, or ‘Closure of Share Purchase Plan’).  
+
+132)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Disclosure headings 
+The title to a Disclosure should also convey a fair and balanced impression of the substance of a Disclosure, so as to not mislead readers as to its contents or significance.  For example, the title a Reporting Entity gives to a Disclosure that contains forward looking information (such as earnings guidance) that is speculative, or highly qualified, should not overstate the information that the Disclosure contains.  Similarly, a title a Reporting Entity gives to a Disclosure that contains essentially negative Inside Information should not attempt to disguise that fact by picking out a small piece of positive information and highlighting that positive information in the header of the Disclosure.  
+
+133)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Disclosure headings 
+Most importantly, it is not suitable to ‘hide’ Inside Information in a Disclosure behind an innocuous title, such as ‘CEO’s presentation to XYZ Conference’.  Reporting Entities are either to ensure that the title to such a Disclosure identifies the Inside Information (for example, ‘CEO’s presentation and announcement of Strategic Review’), or preferably, discloses the Inside Information in a separate Disclosure.
+
+134)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Who can make a Disclosure under Rule 7.2.1 
+Disclosures under Rule 7.2.1 can only be made a Reporting Entity.  The Listing Authority cannot, and will not, accept a Disclosure required by Rule 7.2.1 from a third party, such as a security holder, or a former Board member, company secretary or senior manager of the Listed Entity.   
+
+135)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+Consistent with global practice, the Listing Authority is of the view that it is appropriate for some particularly important Disclosures of Inside Information to be considered, and approved, by the Board of a Listed Entity before they are Disclosed.
+
+136)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+Noting, however, the requirement for a Disclosure of Inside Information to be made immediately, a Reporting Entity/Listed Entity is to have suitable arrangements in place to ensure this requirement can be met.  These arrangements may include the Board giving appropriate delegations as needed such that, for example where the Listed Entity is also the Reporting Entity, the senior management of the Listed Entity can make certain Disclosures of their own accord.  In circumstances where a Disclosure matter falls outside any applicable delegations, Reporting Entities may wish to ensure that it is able to convene a disclosure committee that can meet on short notice to consider a Disclosure.  Disclosure committees often comprise the chairperson of the Board, the CEO, Company Secretary, CFO and the general counsel.
+
+137)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+Where it is a decision of a Board of the Listed Entity that is to be the subject of a Disclosure under Rule 7.2.1, such as a decision by the Board to declare a dividend, take action under a Takeover or to appoint an administrator, the obligation to make a Disclosure under Rule 7.2.1 will generally not arise until the Board has made that decision.  It will not usually be necessary to request a Trading Halt pending a Board decision, although this may change if the subject/topic of what is to be decided by the Board no longer remains confidential.  
+
+138)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+In circumstances where the information to be Disclosed falls within the exceptions to immediate Disclosure under Rule 7.2.2, but the Board determines that it is appropriate and timely to make the Disclosure at that time, it will be the decision of the Board that is the trigger for the Disclosure, rather than any specific obligation under Rule 7.2.1. 
+
+139)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+In circumstances, however, where the Inside Information to be Disclosed relates to an event that has already happened, and the information:
+
+a)	does not, and did not at any time, fall within Rule 7.2.2; or
+
+b)	fell within Rule 7.2.2, but has since ceased to do so,
+
+the obligation to make a Disclosure will have arisen before the Board can consider the matter.   To comply with the timing requirements of Rule 7.2.1, the Disclosure must then be made promptly and without delay.  This, in turn, means that the required Board meeting to consider the Disclosure must be convened, and the Board must settle and approve the Disclosure, promptly and without delay.
+
+140)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Board approval of Disclosures 
+Consideration of this Disclosure cannot be delayed to a previously scheduled regular Board meeting, or to a meeting to be convened at a future date.  The Reporting Entity should also consider whether it may need to request a Trading Halt.  The Listing Authority strongly encourages a Reporting Entity that is unsure about whether it should be requesting a Trading Halt to allow time for the Board of the Listed Entity to approve a Disclosure, to contact the Listing Authority at the earliest opportunity to discuss the situation.
+
+141)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Interaction with non-listed entities 
+Reporting Entities/Listed Entities need to be aware that the obligation of a Reporting Entity to Disclose will still exist irrespective of whether the counterparty to the Listed Entity’s transaction/activity is subject to the Rules and irrespective of any commercial agreement made with its counterparties.  
+
+142)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Interaction with non-listed entities 
+For example, where a Listed Entity conducts a significant proportion of its business with privately owned entities, and these arrangements are the subject of confidentiality agreements, the existence of such confidentiality arrangements between the parties does not excuse the Reporting Entity from complying with its Disclosure obligations under the Rules.  A Listed Entity, and its controlled entities, must not enter into business or commercial arrangements which prevent the Reporting Entity from complying with the Rules, particularly Rules 7.2.1 and 7.5.1(b).
+
+143)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Interaction with non-listed entities 
+The Listing Authority suggests that any Listed Entity that is entering into a confidentiality or non-disclosure agreement should require that the agreement provides that:
+
+a)	if the Listed Entity/Reporting Entity requires it, the non-listed entity will provide to the Listed Entity/Reporting Entity all of the information the Reporting Entity requires to comply with the Rules; and
+
+b)	the Reporting Entity may Disclose that information as necessary for the Reporting Entity to comply with the Rules.
+
+144)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Non-release of Inside Information before Disclosing 
+In any situation where a Reporting Entity is required to Disclose Inside Information under Rule 7.2.1, it is not permitted to make that information public until the Reporting Entity has received confirmation from the FSRA Disclosure Platform that the relevant Disclosure has been published. The Listing Authority will not accept Disclosures on an embargoed basis, including the release of information for media or analyst purposes.
+
+145)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Non-release of Inside Information before Disclosing 
+To avoid a breach of the Rules, including Rule 7.2.1, directors and senior management of a Listed Entity/Reporting Entity should take precautions in relation to what they say when speaking in public about the Listed Entity.  They should only discuss Inside Information that has already been Disclosed, or information that is not Inside Information.  This includes presentations/addresses at annual general meetings, and other shareholder meetings, where the Inside Information has not yet been Disclosed. 
+
+146)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Non-release of Inside Information before Disclosing 
+Reporting Entities should balance their obligations under the Rules with their obligations to the market in an appropriate way, such that the requirement to Disclose first should not discourage Listed Entities/Reporting Entities from engaging with the investment community through the ordinary course of its investor relations activities (without losing sight of their continuous disclosure obligations). 
+
+147)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Non-release of Inside Information before Disclosing 
+Where a Listed Entity is also listed on another Regulated Exchange, it is expected that the Reporting Entity will make a Disclosure at the same time as it discloses to the other Regulated Exchange.   The Listing Authority does recognise, however, that the RIE’s market in the Listed Entity’s Securities may be closed at the time that the other Regulated Exchange releases the disclosure publicly.  The Listing Authority would not consider this to be a breach of the Rules by the Reporting Entity.  The Listing Authority encourages Reporting Entities to work with it for the co-Disclosure of Inside Information where the Listed Entity is also listed on another Regulated Exchange.
+
+148)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Other Reporting Entity steps to assist with compliance with Rule 7.2.1 
+Steps or actions that a Reporting Entity can take to help manage its disclosure obligations under Rule 7.2.1 include:  
+
+a)	To allow a Reporting Entity to urgently request a Trading Halt without delay, having a template letter ready for use at all times requesting the Listing Authority to grant a Trading Halt.  
+
+b)	Anticipating what might happen if the Inside Information leaks about a confidential transaction being negotiated, and have a template Disclosure ready that can be finalised and Disclosed straight away.
+
+c)	Where it has advance notice of an event that is likely to require Disclosure under Rule 7.2.1, preparing a draft Disclosure ahead of time, allowing it to be Disclosed immediately.
+
+d)	Where the event that gives rise to the need to make a Disclosure is within its control, being sensitive to the RIE’s market (upon which the Listed Entity’s Securities are admitted to trading) trading hours and, where possible, looking to ensure the event happens and the Disclosure is made before trading commences  or after trading closes (so as to avoid any disruption to the normal course of trading of the Listed Entity’s Securities of the’RIE's market). 
+
+e)	Ensuring that it, and its relevant Officers responsible for communication with the Listing Authority, has the:
+
+(i)	organisational knowledge to have relevant and meaningful discussions on Rule matters; and
+
+(ii)	authority to request a Trading Halt or Suspension and make a Disclosure, if that is what is required under the Rules. 
+
+f)	Ensuring that it has appropriate arrangements in place to control, or deny, access to Inside Information (pursuant to Rules 7.2.7 to 7.2.9).  The Listing Authority encourages efforts to keep the numbers of these ‘insiders’ to a minimum.
+
+g)	Ensuring that it has in place arrangements for maintaining the confidentiality of Inside Information before Disclosure. These should include adequate training for Employees in the handling, distribution and announcement of Inside Information as appropriate. Reporting Entities should, for example, guard against the risk of Inside Information being leaked to the market through selective disclosure or otherwise. 
+
+h)	Ensuring that it is readily contactable by the Listing Authority by phone, and available to discuss any pressing Disclosure issues that arise, during the normal trading hours (on the RIE for which the Listed Entity’s Securities are admitted to trading) and for at least one hour either side of the RIE’s normal trading hours each Business Day.
+
+149)	DISCLOSURES – SYSTEMS, CONTROLS & CONTENT
+Other Reporting Entity steps to assist with compliance with Rule 7.2.1 
+The issue set out in paragraph 148h) above is most important, as the need to resolve a continuous disclosure matter may be extremely sensitive, and time critical.  In circumstances where the Listing Authority is not able to contact the Reporting Entity (being the Reporting Entity’s designated contact points with the Listing Authority), or the Reporting Entity’s designated contacts do not have the organisational knowledge or authority to address the matter promptly, the Listing Authority may Suspend the Listed Entity’s Securities until the matter is properly resolved. 
+
+
+150)	DISCLOSING FINANCIAL INFORMATION 
+When making a Disclosure of Inside Information under Rule 7.2.1, Reporting Entities often Disclose financial information.  Understanding the financial position of a Listed Entity is important as it provides a basis for forming a view as to the price that investors are willing to trade for in a Listed Entity’s Securities.  In general, information relating to the financial position of a Listed Entity can fall into three categories, being:
+
+a)	the financial impact of specific events, such as major acquisition or disposals;
+
+b)	significant changes to prospective financial information, such as earnings, profits or production forecasts.  Such prospective financial information relating to a Listed Entity may be first Disclosed by a Reporting Entity/Listed Entity itself, or may have become generally available from another source, such as analyst’s forecasts;  and
+
+c)	a gradual cumulative change in a Listed Entity’s financial position due to a number of influences that individually would otherwise not require a Disclosure. 
+
+151)	DISCLOSING FINANCIAL INFORMATION 
+Noting the third category above, the Listing Authority suggests that when a Listed Entity prepares its monthly or periodic internal management accounts, that it considers, with its Reporting Entity, whether there is any significant information or systemic changes reflected in those accounts that would require a Disclosure to be made.
+
+152)	DISCLOSING FINANCIAL INFORMATION 
+If financial information is Disclosed by a Reporting Entity on a frequent, or periodic basis, it may be that the RIE’s market in the Listed Entity’s Securities does not react as extremely as they may where a significant loss is Disclosed for the first time at the end of a reporting period.  Reporting Entities should be aware that they are permitted to make Disclosures of financial information outside the time periods stipulated by the periodic reporting requirements of the Rules, particularly those set out in chapter 10 of the Rules.  The Disclosures (discussed in the paragraphs below in relation to earnings guidance) demonstrate the variety of metrics that a Reporting Entity may Disclose on a monthly, or quarterly, basis.  The Listing Authority does appreciate, however, that the Disclosure of periodic metrics may not be suitable for all Reporting Entities.
+
+153)	DISCLOSING FINANCIAL INFORMATION 
+If a Reporting Entity does regularly Disclose financial information, it should include appropriate qualifications and assumptions, as relevant, within the Disclosures to ensure that the financial information is not misleading or deceptive, and that readers of the financial information properly understand the basis on which the financial information has been prepared.  Reporting Entities need to also apply appropriate and consistent financial metrics when Disclosing financial information, and include the basis for the calculation of the financial information.  The Disclosure of financial information needs to be reliable, particularly given that such results will not have been subject to an audit or audit review.
+
+
+154)	EARNINGS GUIDANCE 
+The Listing Authority understands that Reporting Entities may wish to provide periodic earning guidance and that this can, where appropriately prepared, be of assistance to the market in a Listed Entity’s Securities.   As a general policy, a positive or negative variation in excess of 10% to 15% (from the previous corresponding period) will likely be considered to comprise Inside Information, and should be Disclosed as soon as a Reporting Entity becomes aware of the variation.  
+
+155)	EARNINGS GUIDANCE 
+In making a Disclosure in relation to earnings guidance, a Reporting Entity must provide details, however qualified, of the extent of the earnings variation.  For example, a Disclosure may indicate that, based on internal management accounts, a Listed Entity’s expected NPAT or EBITDA will be an approximate amount (e.g., $50 million), within a stated range (e.g., between $45 million to $55 million), or alternatively is expected to move by an (approximate) percentage (e.g., up 25% to 30%).
+
+156)	EARNINGS GUIDANCE 
+Whilst the Listing Authority accepts that earnings guidance may not be precise and may be further changed on finalisation of a Listed Entity’s financial statements, it does not encourage the use of terms that are insufficiently precise or potentially misleading such as ‘single digit’, ‘double digit’ or ‘best/worst year predicted’, in Disclosures of earnings guidance.
+
+157)	EARNINGS GUIDANCE 
+Where a Reporting Entity has Disclosed earnings guidance, it will be subject to the requirements set out in Rules 7.2.1(2) and 7.7.1(2) to ensure that information is not false, misleading or deceptive.  This may result in the Reporting Entity being subject to a greater obligation to continually update the market in relation to changes to its earnings expectations than it would be if the Reporting Entity did not Disclose earnings guidance (or where broker/analyst expectations are not consistent with a Reporting Entity’s undisclosed earnings expectations). 
+
+158)	EARNINGS GUIDANCE 
+If a Reporting Entity has previously Disclosed earnings guidance (say, 10% up), and the Reporting Entity becomes aware of a similar variation from the previously Disclosed earnings guidance (say, a further 15%), then the Reporting Entity should Disclose the new earnings guidance as well (being 25% up).  
+
+159)	EARNINGS GUIDANCE 
+In circumstances where a Reporting Entity has Disclosed earnings guidance at any time during the year, the Listing Authority expects the Reporting Entity to include the date of that Disclosure in the (relevant) semi-annual financial report  or preliminary statement of annual financial results , as well as a summary of that earnings guidance and, if applicable, an explanation of any significant difference from the most recently Disclosed earnings guidance.  Furthermore, the underlying figures and assumptions used to produce the earnings guidance should be carefully and closely reviewed, and signed off at an appropriately senior level (within the Listed Entity/Reporting Entity). 
+
+160)	EARNINGS GUIDANCE 
+As it is the directors of a Listed Entity who are ultimately responsible for confirming that its financial statements have been prepared in accordance with applicable accounting standards, and that they give a true and fair view of the Listed Entity’s financial performance, it is also generally appropriate for earnings guidance to be approved by a Listed Entity’s board before it is Disclosed by the Reporting Entity.
+
+161)	EARNINGS GUIDANCE 
+Informal earnings guidance 
+Regardless of whether they have a practice of providing periodic earnings guidance or not, Listed Entities/Reporting Entities need to be careful in their communication with Security holders, analysts and the media, such that they do not make statements that could be construed as informal earnings guidance.  Statements that may be construed in this way could include that a Reporting Entity/Listed Entity:
+
+a)	is ‘happy’ or ‘comfortable’ with, or expects its earnings to be ‘in line with’ analyst forecasts or consensus estimates; or
+
+b)	expects its earnings to be in line with, or a particular percentage above/below, the corresponding prior period. 
+
+162)	EARNINGS GUIDANCE 
+Informal earnings guidance 
+If the Listing Authority becomes aware of a Reporting Entity/Listed Entity providing informal earnings guidance in a public forum, or to a Security holder, analyst or journalist, the Listing Authority may require the Reporting Entity, under Rule 7.5, to make a Disclosure to ensure that the whole market is informed of the informal earnings guidance.  If the informal earnings guidance was provided by way of comment on an analyst’s forecast or consensus estimate, the Listing Authority may require the Reporting Entity to clarify in its Disclosure which particular analyst forecast is being commented on, the range of the forecast, and if the range of the forecast is wide, where within the range the Listed Entity’s earnings guidance has fallen.
+
+163)	EARNINGS GUIDANCE 
+Significant differences to earnings guidance 
+For many Listed Entities, the market’s expectation of its earnings (for the current and/or future reporting periods) will often be a significant drive of the price of the Listed Entities Securities.  The market’s expectations may have derived from:
+
+a)	earlier earnings guidance  Disclosed by the Reporting Entity;
+
+b)	in the case of (e.g., smaller Market Capitalisation) Listed Entities not covered by brokers/analysts, the financial performance of the previous corresponding reporting period;  or 
+
+c)	in the case of (e.g., larger Market Capitalisation) Listed Entities that are covered by brokers/analysts, the earnings forecasts provided by the brokers/analysts.
+
+164)	EARNINGS GUIDANCE 
+Significant differences to earnings guidance 
+Market expectations may also have been set, or modified, by an ‘outlook statement’ in a previous period’s annual report/annual financial statement, ‘results’ Disclosure or other relevant Disclosure made by the Reporting Entity over the reporting period.  Some Reporting Entities Disclose, for example, periodic (monthly or quarterly) production reports, sales reports or other metrics, allowing the Reporting Entity to send an early signal of a change in earnings.  Some Reporting Entities also provide an ‘outlook’ update at their annual general meeting, or within the Disclosure of their half year or full year financial results. 
+
+165)	EARNINGS GUIDANCE 
+Significant differences to earnings guidance 
+If a Reporting Entity becomes aware that its earnings for the current reporting period will significantly differ from market expectations it needs to carefully consider whether it has an obligation to Disclose this information.  The obligation to Disclose may arise under Rule 7.2.1  if the difference is of such a magnitude that a reasonable person would expect it to have a significant effect on the price of a Listed Entity’s Securities.  
+
+166)	EARNINGS GUIDANCE 
+Significant differences to earnings guidance 
+The Listing Authority considers that the best guide to the market expectations of a Listed Entity’s Securities are where a Reporting Entity has, in relation to the current reporting period: 
+
+a)	Disclosed earnings guidance, and even if it is covered by analysts, the earnings guidance previously Disclosed by the Reporting Entity; 
+
+b)	Disclosed earnings guidance, and if it is not covered by analysts, the earnings guidance previously Disclosed by the Reporting Entity;  
+
+c)	not Disclosed earnings guidance, and if it is covered by analysts, the earnings forecasts of those analysts; and
+
+d)	not Disclosed earnings guidance, and if it is not covered by analysts, the Reporting Entity’s earnings for the previous corresponding period. 
+
+167)	EARNINGS GUIDANCE 
+Correcting analyst forecasts 
+A Reporting Entity does not have an obligation under the Rules to correct the earnings forecast of an individual analyst, or the consensus estimate of any individual information vendor, nor does a Reporting Entity have an obligation to bring that external forecast, or estimate, into alignment with its own internal earnings forecast.   It is a Reporting Entity’s obligation, however, to make a Disclosure immediately if, and when, it becomes aware that its earnings for a reporting period will significantly differ from earnings guidance it has previously Disclosed (as this represents Inside Information).
+
+168)	EARNINGS GUIDANCE 
+Correcting analyst forecasts 
+Where a Reporting Entity becomes aware that an analyst’s forecast for its earnings significantly differs from the Listed Entity’s own internal forecast (or for that matter, its Disclosed forecast or guidance), the Reporting Entity/Listed Entity may benefit by exploring with the analysts the reasons for the significant difference.  If it becomes clear that the analyst may have made a factual or computational error, or may have missed an earlier Disclosure by the Reporting Entity, then the Reporting Entity should make that clear.  This may help to set proper market expectations about a Listed Entity’s earnings and avoid any later issues in relation to its earnings Disclosures that could raise potential disclosure issues under Rule 7.2.1.
+
+169)	EARNINGS GUIDANCE 
+Correcting analyst forecasts 
+A Listed Entity/Reporting Entity should ensure that any slides/presentations (including applicable speaking notes) used in analyst briefings are Disclosed (and placed on the Listed Entity’s website).  This will ensure that all analysts are treated equally, including those not able to attend an analyst briefing.  It will also ensure that the information provided in the analyst briefing is Disclosed to the Listed Entity’s market in general.
+
+170)	EARNINGS GUIDANCE 
+Correcting analyst forecasts 
+An analyst must not be given Inside Information, unless and until it has been Disclosed under Rule 7.2.1, and the Reporting Entity has received confirmation of the release of that information from the Listing Authority (via the FSRA Disclosure Platform).  To this end, a Reporting Entity should therefore have a procedure for reviewing discussions with analysts (after such discussion), so as to check if any Inside Information has inadvertently been discussed or provided.  If this has been the case, the Reporting Entity is to ensure that the Inside Information is immediately Disclosed.
+
+171)	SUPERVISION BY LISTING AUTHORITY 
+Monitoring and Surveillance 
+Operating as the Listing Authority within ADGM, the Listing Authority is obliged to have adequate arrangements to monitor and enforce compliance with the Rules.  To ensure that it meets this obligation, the Listing Authority undertakes various monitoring and surveillance activities to detect possible breaches of Rule 7.2.1. 
+
+172)	SUPERVISION BY LISTING AUTHORITY 
+Monitoring and Surveillance 
+The Listing Authority will work, and discuss, with Reporting Entities any questions a Reporting Entity may have under the Rules.  The Listing Authority monitors all Disclosures made by Reporting Entities, and will follow up with a Reporting Entity if any Disclosure raises any other continuous disclosure, or other Rule, issues.
+
+173)	SUPERVISION BY LISTING AUTHORITY 
+Monitoring and Surveillance 
+The Listing Authority reviews relevant media before the opening on each Business Day of an RIE’s market in a Listed Entity’s Securities to identify any article about a Listed Entity that may raise continuous disclosure issues.  If such an article is identified, the Listing Authority will follow up with the Reporting Entity, noting that its expectation is that a Reporting Entity will make every effort to contact the Listing Authority before the Listing Authority makes any such contact.
+
+174)	SUPERVISION BY LISTING AUTHORITY 
+Monitoring and Surveillance 
+The FSRA also has a responsibility to undertake surveillance on the markets within ADGM, and will monitor trading in Securities (admitted to trading on an RIE) on a real time basis, so as to identify abnormal trading  that may indicate, amongst other things, that there may have been a loss of confidentiality in relation to Inside Information that has yet to be Disclosed under Rule 7.2.1.  The FSRA will also monitor various news services, investor forums and chat sites to assist with the surveillance of ADGM markets.  The Listing Authority will follow up with a Reporting Entity in relation to any concerns raised or identified.
+
+175)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+If the Listing Authority identifies abnormal trading (on the relevant RIE) in a Listed Entity’s Securities that raises potential continuous disclosure issues, the Listing Authority will contact the Reporting Entity to discuss the situation. 
+
+176)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+As part of this engagement, the Listing Authority will seek to understand whether the Reporting Entity is aware of any Inside Information concerning the Listed Entity that has not been Disclosed and which, if known, could explain the abnormal trading in the Listed Entity’s Securities.  When responding to questions of this nature, the Reporting Entity is expected to answer in a frank and honest manner and, if there is any such information, advise the Listing Authority of the general nature of the information, even if the Reporting Entity considers the information to be confidential in nature and not something that would require Disclosure under Rule 7.2.1.      
+
+177)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+A failure by the Reporting Entity to provide this information to the Listing Authority may result in the Listing Authority being unable to assist the Reporting Entity in meeting its disclosure obligations under the Rules.  Refusing to answer the question will also constitute a breach of Rules 2.8.1(2) and/or (3), entitling the Listing Authority to Suspend trading in the Listed Entity’s Securities.
+
+178)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+In such discussions, the Reporting Entity will either:
+
+a)	not be aware of any such Inside Information, in which case, depending on the particular circumstance, the Listing Authority may issue a market activity query letter asking the Reporting Entity to confirm that fact in writing (see paragraphs 182 to 186 below); or 
+
+b)	be aware of such Inside Information, in which case, this will generally lead to a discussion about whether there are reasons, aside from a possible loss of confidentiality, which might explain the abnormal trading.  
+
+179)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+In the latter case above, if the Listing Authority is of the opinion that the Inside Information remains confidential and does not need to be Disclosed at that time due to an exemption under Rule 7.2.2, the Listing Authority will not Disclose, nor require the Reporting Entity to Disclose, the Inside Information.
+
+180)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+Where the Reporting Entity is not able to identify any reason to explain the abnormal trading in the Listed Entity’s Listed Securities, other than a possible loss of confidentiality regarding the Inside Information, the Listing Authority may be left with no option but to take the view that the Inside Information is no longer confidential.  In this case, the Reporting Entity will be required to make an immediate Disclosure of the Inside Information under Rule 7.2.1 and/or Rule 7.5.1(b).  Where this occurs, the Listing Authority will endeavour to work with the Reporting Entity to achieve a suitable outcome under Rule 7.2.1.  In operating towards this outcome, the Listing Authority will seek to avoid placing any undue prejudice on the Reporting Entity.   
+
+181)	SUPERVISION BY LISTING AUTHORITY 
+Actions taken by the Listing Authority if abnormal trading is detected 
+The Listing Authority’s aim in these circumstances is to avoid the RIE’s market trading on an uninformed basis.  As a result, if such a matter arises during normal trading hours, a high degree of urgency will be attached to it.  This will mean that the window for consultation on the matter will be limited and, absent a Trading Halt, the Listing Authority will not accommodate a detailed, or protracted, discussion with the Reporting Entity.   
+
+182)	SUPERVISION BY LISTING AUTHORITY 
+Market Activity Query (MAQ) Letters 
+As outlined in paragraph 178a) above, the Listing Authority will generally issue a market activity query letter (a ‘MAQ Letter’) when it detects abnormal trading in a Listed Entity’s Securities and, in its discussions with the Reporting Entity about the abnormal trading, the Reporting Entity has advised the Listing Authority that it is not aware of any Inside Information which has not yet been Disclosed and that could explain the abnormal trading.   In those discussions with a Reporting Entity, the Listing Authority will advise whether or not a MAQ Letter is to be sent, and advise that the MAQ Letter will be Disclosed by the Listing Authority at the same time it is sent to the Reporting Entity.
+
+183)	SUPERVISION BY LISTING AUTHORITY 
+Market Activity Query (MAQ) Letters 
+In general, it is the Listing Authority’s practice to issue a MAQ Letter on the same day as the discussions with the Reporting Entity relating to the abnormal trading occur.  As set out above, at the same time the MAQ Letter is sent to the Reporting Entity, the Listing Authority will generally Disclose the letter as well.  This will publicly advise the RIE’s market in the Listed Entity’s Securities that the Listing Authority has made enquiries of the Reporting Entity, that the Listing Authority and the Reporting Entity have had discussions, that a MAQ Letter has been sent and outline when a response from the Reporting Entity is due.  The MAQ Letter will require the Reporting Entity to provide a prompt response within the timeframe specified in the MAQ Letter.  This will often be a fairly short period (for example, overnight or within several hours of the MAQ Letter being sent by the Listing Authority).  Pursuant to Rules 2.8.1(2) and (3), a Reporting Entity must respond to a MAQ Letter within the time specified by the Listing Authority within the MAQ Letter.  MAQ Letters are issued by the Listing Authority under Rule 2.8.2.
+
+184)	SUPERVISION BY LISTING AUTHORITY 
+Market Activity Query (MAQ) Letters 
+The purpose of the MAQ Letter is to enable both the Listing Authority, and the market in the Listed Entity’s Securities, to be satisfied that the Reporting Entity is in compliance with its continuous disclosure obligations under the Rules.  The fact that the Listing Authority has discussed the matter with the Reporting Entity, sent the MAQ Letter and a Trading Halt or Suspension has not been applied for (either before or shortly after Disclosure by the Listing Authority of the MAQ Letter), is likely to create an expectation in the market that there is no Inside Information to be Disclosed.  If Inside Information exists and should have been Disclosed, a Trading Halt should have been requested by the Reporting Entity.  If through subsequent internal discussions, the information of which the Reporting Entity is aware of changes, or the view of the Reporting Entity changes in relation to the information becoming Inside Information, then action may have to be taken by the Reporting Entity.  This may include the Reporting Entity now requesting a Trading Halt or Suspension before responding to the MAQ Letter.
+
+185)	SUPERVISION BY LISTING AUTHORITY 
+Market Activity Query (MAQ) Letters 
+Listing Authority MAQ Letters will generally follow a standard template.  Typically, a MAQ Letter will identify the abnormal trading and ask a Reporting Entity to respond separately to each of the following questions: 
+
+(i)	Is the Reporting Entity aware of any Inside Information that concerns it that has not been Disclosed and which, if known, could be an explanation for recent trading in the Listed Entity’s Securities? 
+
+Please note that as recent trading in the Listed Entity’s Securities may indicate that Inside Information has ceased to be confidential, the Reporting Entity is unable to rely on the exemption from Disclosure under Rule 7.2.1 provided by Rule 7.2.2 when responding to this question.
+
+(ii)	If the answer to question i) is yes, can a Disclosure be made immediately? If not, why not and when is it expected that a Disclosure will be made?
+
+Please note, if the answer to question a) is yes and a Disclosure cannot be made immediately, you will need to contact the Listing Authority immediately to discuss.  This discussion will likely require the Reporting Entity to consider a Trading Halt.
+
+(iii)	If the answer to question i) is no, is there any other explanation that the Reporting Entity may have for the price [and volume] change in relation to the Listed Entity’s Securities? 
+
+(iv)	Please confirm that the Reporting Entity is in compliance with the Market Rules, and in particular, Rule 7.2.1.
+
+186)	SUPERVISION BY LISTING AUTHORITY 
+Market Activity Query (MAQ) Letters 
+When the Reporting Entity’s response has been received and reviewed by the Listing Authority, the response may be Disclosed by the Listing Authority where it indicated in the MAQ Letter that it may do so.
+
+187)	SUPERVISION BY LISTING AUTHORITY 
+Aware Letters 
+When the Listing Authority has concerns that a Reporting Entity may not have Disclosed Inside Information at the time it should have under Rule 7.2.1, it will typically issue an ‘aware letter’ to the Reporting Entity.  The purpose of an ‘aware letter’ is to enable the Listing Authority, and the market in the Listed Entity’s Securities, to be satisfied that the Reporting Entity is in compliance with its continuous disclosure obligations under the Rules.  Aware letters are issued under Rule 2.8.2.  A Reporting Entity must respond to an ‘aware letter’ by the time specified by the Listing Authority in the letter.
+
+188)	SUPERVISION BY LISTING AUTHORITY 
+Aware Letters 
+Similar to a MAQ Letter, ‘aware letters’ tend to follow a standard template.  Generally, they will identify the information in question and the relevant date it was Disclosed, and ask the following questions: 
+
+(i)	Does the Reporting Entity believe the information identified in the letter to be Inside Information (being information that a reasonable person would expect to have a significant effect on the price of the Listed Entity’s Securities)?
+
+(ii)	If the answer to question i) is “yes”, please confirm the following:
+
+i.	When did the Reporting Entity first become aware of the Inside Information identified in the letter? Please include details of the relevant time and circumstances of the Reporting Entity becoming aware of the [key contents of the Inside Information]?
+
+ii.	If the Reporting Entity was aware of the [key contents of the Inside Information] prior to the date of this letter, please advise why the Reporting Entity did not Disclose the Inside Information or request a Trading Halt or Suspension at an earlier time?  Please comment specifically on the application of Rule 7.2.1.
+
+(iii)	If the answer to question i) is “no”, please confirm the basis on which the Reporting Entity does not consider the information to be Inside Information?
+
+(iv)	Please confirm that the Reporting Entity is in compliance with the Markets Rules and, in particular, Rule 7.2.1.
+
+189)	SUPERVISION BY LISTING AUTHORITY 
+Aware Letters 
+When a Reporting Entity’s response has been received and reviewed by the Listing Authority, both the ‘aware letter’ and the Reporting Entity’s response will usually be Disclosed together by the Listing Authority, so that the market in the Listed Entity’s Securities is aware that the Listing Authority has made enquiries of the Reporting Entity about the timeliness of its Disclosures, and of the Reporting Entity’s response to those enquiries. 
+
+190)	SUPERVISION BY LISTING AUTHORITY 
+Listing Authority requests for further information 
+The Listing Authority may ask a Reporting Entity to submit further information, documentation or an explanation about a matter, to enable the Listing Authority to be satisfied that the Reporting Entity is in compliance with its obligations under the Rules, if the Listing Authority has concerns that a:
+
+a)	Reporting Entity may have failed to Disclose Inside Information that should have been Disclosed under Rule 7.2.1; or
+
+b)	Disclosure under Rule 7.2.1 or Rule 7.5.1(b) may be inaccurate, incomplete or misleading.  
+
+191)	SUPERVISION BY LISTING AUTHORITY 
+Listing Authority requests for further information 
+A Reporting Entity must comply with such a request from the Listing Authority within the time specified by the Listing Authority (pursuant to Rules 2.8.1(1) and (2)).  Depending on the nature of the information requested, the Listing Authority may require the information to be Disclosed.  The Listing Authority may, but is not required to, notify a Reporting Entity of the proposed Disclosure and allow the Reporting Entity an opportunity to comment.  If the Reporting Entity believes that the information it provides to the Listing Authority is Inside Information, but which falls within the exemption from immediate Disclosure under Rule 7.2.2, the Reporting Entity must submit to the Listing Authority reasons for why it has formed that belief (at the time the relevant Inside Information is provided to the Listing Authority). 
+
+192)	SUPERVISION BY LISTING AUTHORITY 
+Complaints or allegations of non-compliance by Reporting Entities 
+If the Listing Authority receives a complaint or allegation from a third party alleging that a Reporting Entity has failed to Disclose particular Inside Information that should have been Disclosed under Rule 7.2.1, the Listing Authority will normally enquire of the Reporting Entity as to the accuracy of the information, and if the information represents Inside Information, relating to the complaint or allegation. 
+
+193)	SUPERVISION BY LISTING AUTHORITY 
+Complaints or allegations of non-compliance by Reporting Entities 
+If, as a result of the enquiry, the Listing Authority forms the view that the information is accurate, is Inside Information, and is not within exemption from Disclosure provided by Rule 7.2.2, the Listing Authority will ask the Reporting Entity to make a Disclosure about the matter under Rule 7.2.1.  If the information should have been Disclosed earlier, the Listing Authority may issue an ‘aware letter’ (see paragraphs 187 to 189 above), or take other relevant action. 
+
+

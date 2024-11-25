@@ -1,0 +1,422 @@
+1.	INTRODUCTION
+1.1	Application
+1.1.1	These Rules apply to a Person in relation to:
+(a)	an application to seek or vary a Financial Services Permission or Recognition Order;
+(b)	an application for approval, or variation of responsibilities, of a Person to perform a Controlled Function;
+(c)	an application for approval in respect of a Controller of an Authorised Person or a Recognised Body;
+(d)	an application to register a Public Fund;
+(e)	a notification of intent to offer an Exempt Fund or a Qualified Investor Fund;
+(f)	a notification of intent by an Authorised Fund Manager to manage a Foreign Fund;
+(g)	a declaration of intent by a Foreign Fund Manager to manage a Domestic Fund;
+(h)	registering a Domestic Fund pursuant to the Fund Passporting Rules;
+(i)	an application to approve a Prospectus;
+(j)	an application for admission of Securities to the Official List of Securities; 
+(k)	an application for approval of an Offer document produced under legislation in a jurisdiction other than ADGM;  
+(l)	an application by a Domestic Firm to open a branch in another jurisdiction; 
+(m)	the submission of a Regulatory Filing after its due date; and
+(n)	designations related to sustainable finance.
+1.2	General provisions
+1.2.1	Timing of payment
+Where pursuant to these Rules a fee is payable for any application to the Regulator, the application will not be regarded as submitted until the fee and any associated supplementary fee has been paid in full.
+1.2.2	In regard to fees payable on an annual basis pursuant to these Rules:
+(a)	the initial annual fee must be paid in full to the Regulator within twenty days of the date on which the fee becomes due, prorated for the remainder of the calendar year; and
+(b)	subsequent annual fees for the period commencing 1 January are payable in advance and must be paid in full to the Regulator on or before 31 January of the calendar year to which the fee relates.
+1.2.2.Guidance	
+1.2.2.Guidance.1.	References to “days” in these Rules means a business day, being a normal working day in ADGM, in accordance with the Interpretation Regulations.
+1.2.2.Guidance.2.	In all instances in the first year of supervision, Applicants, Authorised Persons and Recognised Bodies will be required to pay a portion of the annual supervision fee based on the number of months remaining until the end of the calendar year. 
+1.2.2.Guidance.3.	The Regulator will not provide a refund of any prepaid supervision fees in circumstances where an Applicant seeks to amend the scope of an existing Financial Services Permission by removing one or more Regulated Activities.
+1.2.3	Additional supervision fees triggered when an Authorised Person amends its Financial Services Permission to include additional Regulated Activities are payable in accordance with Rule 1.2.2.
+1.2.4	Supplementary fees
+The Regulator may require a Person to pay to the Regulator a supplementary fee in circumstances where it expects to incur substantial additional costs or expend substantial additional effort in dealing with an application, authorisation, filing or when conducting on-going supervision.
+1.2.4.Guidance	
+1.2.4.Guidance.1.	The amount of any supplementary fee will  reflect the Regulator’s reasonable estimate of the  additional time, effort and resources, including those of third parties, necessary to address an issue.  Matters which may cause the Regulator to require the payment of a supplementary fee could include, for example:
+a.	complex applications by reason of the Applicant's start-up profile, origin, ownership structure or proposed business model;
+b.	cases where it may be necessary to conduct intense supervisory scrutiny of an entity or individual from a risk perspective;
+c.	complex restructurings or changes in an Authorised Person’s or Recognised Body's structure or activities; 
+d.	waiver or modification requests which are particularly complex or novel, in the opinion of the Regulator;
+e.	novel proposals and applications that cover untested ground or untested areas of the financial services regulatory regime; or
+f.	assessing complex business models, the supervision of which will require the Regulator to incur material additional expenses, such as, but not limited to, businesses which operate in, or rely upon activities performed in jurisdictions with which, in the view of the Regulator, insufficient arrangements for co-operation exist between the Regulator and the relevant Non-ADGM Financial Services Regulator(s) in that jurisdiction(s).
+1.2.4.Guidance.2.	In cases where a supplementary fee is to be charged, the Regulator will notify the Person as soon as reasonably possible of the amount of the supplementary fee. The payment of a supplementary fee does not prevent the Regulator from charging an additional supplementary fee.
+1.2.5	Means of payment
+(a)	In respect of any fee payable in accordance with these Rules, the fee must be paid:
+(i)	in USD; and
+(ii)	into the Regulator’s bank account by bank transfer directly from a bank account or via a debit or credit card maintained by the Person specified in (b).
+(b)	The Regulator will accept payment of a fee from the Person to whom the Rule applies, from a member of the Person’s Group, an Applicant’s legal advisor or from a Person who has applied to be a Controller of the Applicant but only where the Applicant is in formation and does not have a bank account in its own name.
+(c)	A fee payable under Chapter 9 may be paid by any of the following:
+(i)	the Issuer, Offeror or Reporting Entity of Securities;
+(ii)	if the Issuer is a Special Purpose Vehicle, by the Person who controls, directly or indirectly, the Special Purpose Vehicle;
+(iii)	the lead arranger of a proposed issue of Securities; or
+(iv)	the legal advisor acting for a Person referred to in (i), (ii) or (iii).
+1.2.6	Late payment
+Except for late Regulatory Filings for which a fee is incurred in accordance with Rule 1.2.7, when a fee is not paid in full on or before the due date or within the prescribed period, such non-payment incurs a late payment fee of:
+(a)	$2,000; or
+(b)	an amount equivalent to 3% of the fee due,
+whichever is the greater. In addition, the outstanding fee due shall be increased by 1% for each calendar month, or part of a calendar month, that it remains outstanding beyond the due date.
+1.2.6.Guidance	
+If a fee is not paid by the date on which it becomes due, in addition to any late payment fee incurred under these Rules, the Regulator may, at its discretion, take regulatory action arising from the breach of a Rule including the suspension or withdrawal of any authorisation or approval notwithstanding the payment of any late payment fee.
+1.2.7	Late Payment Fees relating to Regulatory Filings
+An Authorised Person, a Designated Non-Financial Business or Profession or a Recognised Body that submits a Regulatory Filing after the due date must pay to the Regulator a fee of $500.
+1.2.7.Guidance	
+Where a Regulatory Filing is submitted after the date on which it becomes due, the Authorised Person, Designated Non-Financial Business or Profession or a Recognised Body is in breach of a Rule. In addition to the imposition of a fee under Rule 1.2.7, the Regulator may take further action.
+For Designated Non-Financial Businesses or Professions, Rule 1.2.7 relates to the AML Return, as required by Rule 4.6.1 in the Anti-Money Laundering and Sanctions Rules and Guidance Rulebook.
+1.2.8	Relief from Payment
+The Regulator may at any time reduce, waive or refund all or part of any fee including any supplementary or late payment fee if it considers that, in the circumstances of a particular case, it would be fair and reasonable to do so.
+2.	AMENDMENTS TO FINANCIAL SERVICES PERMISSIONS, AND WAIVERS AND MODIFICATIONS
+2.1	Amendment of a Financial Services Permission other than the addition of a Regulated Activity
+(a)	Subject to Rule 2.1(c), an Authorised Person applying to amend the scope of an existing Financial Service Permission to enable it to undertake additional Regulated Activities must pay to the Regulator such application fees as set out in Rule 3.2.1.
+(b)	An Authorised Person applying to amend the scope of an existing Financial Services Permission to enable it to serve Retail Clients, other than pursuant to Rule 3.20.1, must pay to the Regulator an application fee of $5,000.
+(c)	An Authorised Person applying to amend the scope of an existing Financial Services Permission to enable it to conduct Islamic Financial Business must pay to the Regulator an application fee of $5,000. 
+(d)	An Authorised Person applying to amend the scope of an existing Financial Services Permission through the amendment or removal of a condition, other than in accordance with (b) or (c), must pay to the Regulator an application fee of $5,000.
+2.2	Request for a waiver or modification of a Rule
+An Authorised Person or a Recognised Body applying for a waiver or modification of a specific Rule or set of Rules which, in the opinion of the Regulator, is complex or novel must pay to the Regulator an application fee of $5,000.
+2.2.Guidance	
+In accordance with Rule 1.2.4, the Regulator may require a Person to pay a supplementary fee where the request for a waiver or modification is particularly complex or novel in the opinion of the Regulator. 
+
+
+3.	APPLICATION AND SUPERVISION FEES  
+3.1	Introduction
+3.1.1	This Chapter outlines the specific application and supervision fees payable by Applicants for a Financial Services Permission and Authorised Persons in respect of Regulated Activities.
+3.2	Multiple Regulated Activities
+3.2.1	In respect of: 
+(a)	an Applicant seeking to obtain a Financial Service Permission enabling the Applicant to undertake multiple Regulated Activities; or 
+(b)	an Authorised Person seeking to amend a Financial Service Permission to enable it to undertake one or more additional Regulated Activities. 
+the Applicant or Authorised Person, as the case may be, must pay the highest of the relevant application fees associated with the Regulated Activities being applied for at that time.  Each additional Regulated Activity applied for at that time shall incur an additional application fee of the lesser of $10,000 or the application fee specified in these Rules.  
+3.2.2	An Authorised Person which has been granted a Financial Service Permission enabling it to undertake multiple Regulated Activities must pay the highest of the relevant supervision fees associated with such Regulated Activities under these Rules.  Each additional Regulated Activity applied for shall incur an additional annual supervision fee of the lesser of $10,000 or the supervision fee associated with such Regulated Activity.  Where a Financial Service Permission has been amended to allow the Authorised Person to conduct one or more additional Regulated Activities, the additional supervision fees described in this Rule are payable in accordance with Rule 1.2.2.
+3.2.3	An Applicant seeking a Financial Services Permission to Manage a Collective Investment Fund which is a Venture Capital Fund, or a Fund Manager with a Financial Services Permission restricted to the management of Venture Capital Funds, may also apply to conduct the Regulated Activities of Advising on Deals in Investments and Arranging Deals in Investments without incurring additional application or supervision fees where those activities are restricted to co-investments in assets in which the Venture Capital Fund which the Applicant or Fund Manager will manage.
+3.2.3.Guidance	
+3.2.3.Guidance.1.	In accordance with Rules 3.2.1 to 3.2.3 an Applicant or an Authorised Person must pay:
+a.	the application fee for the Regulated Activity attracting the highest fee which has been applied for at that time, and
+b.	an application fee of $10,000 for each additional Regulated Activity it seeks to conduct, subject to instances where the fee for an additional Regulated Activity is lower than $10,000, in which case the lower fee must be paid.
+3.2.3.Guidance.2.	Supervision fees shall be calculated on the basis of the full amount of the highest supervision fee applicable the Regulated Activities permitted by the Authorised Person’s Financial Service Permission, plus, for each additional Regulated Activity, the lesser of $10,000 or the supervision fee specified by these Rules.
+3.2.3.Guidance.3.	Fees for specific asset classes are in addition to those for the Regulated Activity being undertaken or to be undertaken. Examples of fees for specific asset classes are detailed in the following sections or chapter:
+a.	Virtual Assets in FEES 3.17 and 3.18;
+b.	Spot Commodities in FEES 3.19;
+c.	OTC Leveraged Products in FEES 3.20;
+d.	Funds in FEES 8.
+3.2.3.Guidance.4.	An Applicant seeking a Financial Services Permission specifically in relation to a Venture Capital Fund should consider Section 3.10.
+3.3	Regulated Activities
+Accepting Deposits and Providing Credit
+3.3.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $70,000 to carry on the Regulated Activity of:
+(a)	Accepting Deposits; or
+(b)	Providing Credit.
+3.3.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $100,000 to carry on the Regulated Activity of:
+(a)	Accepting Deposits; or
+(b)	Providing Credit.
+3.3.3	An Authorised Person must pay to the Regulator an additional annual supervision fee of $10,000 where it carries on:
+(a)	both Regulated Activities in Rule 3.3.2; or
+(b)	the Regulated Activities of Managing a Profit Sharing Investment Account and that of Providing Credit.
+3.4	Regulated Activities
+Dealing in Investments as Principal and Dealing in Investments as Agent
+3.4.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Dealing in Investments as Principal, but not as a Matched Principal, must pay to the Regulator an application fee of $40,000.
+3.4.2	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Dealing in Investments as Principal, but not as a Matched Principal, must pay to the Regulator an annual supervision fee of $50,000.
+3.4.3	An Applicant for a Financial Services Permission to carry on either the Regulated Activity of Dealing in Investments as Principal as a Matched Principal, or the Regulated Activity of Dealing in Investments as Agent must pay to the Regulator an application fee of $25,000
+3.4.4	An Authorised Person with a Financial Services Permission to carry on either the Regulated Activity of Dealing in Investments as Principal as a Matched Principal or the Regulated Activity of Dealing in Investments as Agent must pay to the Regulator an annual supervision fee of $25,000.
+3.5	Regulated Activities
+Managing a Profit Sharing Investment Account
+3.5.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Managing a Profit Sharing Investment Account must pay to the Regulator an application fee of $30,000.
+3.5.2	Subject to Rule 3.3.3(b), an Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Managing a Profit Sharing Investment Account must pay to the Regulator an annual supervision fee of $30,000.
+3.6	Regulated Activities
+ Managing Assets, Providing Trust Services and Providing Custody
+3.6.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $25,000 to carry on the Regulated Activity of:
+(a)	Managing Assets;
+(b)	Providing Trust Services; or
+(c)	Providing Custody.
+3.6.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $25,000 to carry on the Regulated Activity of:
+(a)	Managing Assets;
+(b)	Providing Trust Services; or
+(c)	Providing Custody.
+3.7	Regulated Activities
+Insurance Management
+3.7.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $15,000 to carry on the Regulated Activity of Insurance Management.
+3.7.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $20,000 to carry on the Regulated Activity of Insurance Management.
+3.8	Regulated Activities
+Arranging Custody, Advising on Investments or Credit, Arranging Deals in Investments and Insurance Intermediation
+3.8.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $15,000 to carry on the Regulated Activity of:
+(a)	Arranging Custody;
+(b)	Advising on Investments or Credit;
+(c)	Arranging Deals in Investments; or
+(d)	Insurance Intermediation.
+3.8.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $15,000 to carry on the Regulated Activity of:
+(a)	Arranging Custody;
+(b)	Advising on Investments or Credit;
+(c)	Arranging Deals in Investments; or
+(d)	Insurance Intermediation.
+3.9	Regulated Activities
+Providing Money Services
+3.9.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Providing Money Services must pay to the Regulator an application fee as detailed in the table below, in accordance with the activity that it will carry on.
+
+/Table Start
+Activity	Application fee ($)
+Currency exchange or Money Remittance	15,000
+Payment Services	25,000
+/Table End
+
+
+3.9.2	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Providing Money Services that will conduct both of the activities detailed in Rule 3.9.1 must pay to the Regulator an application fee of $25,000.
+3.9.3	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Providing Money Services must pay to the Regulator an annual supervision fee as detailed in the table below, in accordance with the activity that it will carry on.
+/Table Start
+Activity	Annual supervision fee ($)
+Currency exchange or Money Remittance	15,000
+Payment Services	25,000
+/Table End
+3.9.4	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Providing Money Services and that carries out both of the activities detailed in Rule 3.9.3 must pay to the Regulator an annual supervision fee of $25,000.
+
+3.10	Other Regulated Activities
+3.10.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $10,000 to carry on the Regulated Activity of:
+(a)	Arranging Credit;
+(b)	Operating a Multilateral Trading Facility;
+(c)	Operating an Organised Trading Facility;
+(d)	Managing a Collective Investment Fund;
+(e)	Managing a Venture Capital Fund and co-investments;
+(f)	Acting as the Administrator of a Collective Investment Fund;
+(g)	Acting as Trustee of an Investment Trust; 
+(h)	Operating a Credit Rating Agency; or
+(i)	Operating a Private Financing Platform.
+3.10.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $10,000 to carry on the Regulated Activity of:
+(a)	Arranging Credit;
+(b)	Operating a Multilateral Trading Facility;
+(c)	Operating an Organised Trading Facility;
+(d)	Managing a Collective Investment Fund;
+(e)	Managing a Venture Capital Fund and co-investments;
+(f)	Acting as the Administrator of a Collective Investment Fund;
+(g)	Acting as Trustee of an Investment Trust; or
+(g)	Acting as Trustee of an Investment Trust;
+(h)	Operating a Credit Rating Agency; or
+(i)	Operating a Private Financing Platform.
+3.11	Effecting Contracts of Insurance and Carrying Out Contracts of Insurance
+Insurers
+3.11.1	An Applicant for a Financial Services Permission to carry on either one or both of the Regulated Activities of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal must pay to the Regulator an application fee of $40,000 for either or both Regulated Activities.
+3.11.2	An Authorised Person with a Financial Services Permission to carry on either one or both of the Regulated Activities of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal must pay to the Regulator an annual supervision fee of $50,000 for either or both Regulated Activities.
+
+
+
+3.11.3	Captive Insurers and Insurance Special Purpose Vehicles. An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $5,000 to carry on the Regulated Activity of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as:
+(a)	a Captive Insurer; or
+(b)	an Insurance Special Purpose Vehicle.
+3.11.4	Captive Insurers and Insurance Special Purpose Vehicles. An Authorised Person with a Financial Services Permission to carry on either one or both of the Regulated Activities of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as a Captive Insurer or an Insurance Special Purpose Vehicle must pay to the Regulator an annual supervision fee of $5,000 for either or both Regulated Activities.
+
+3.11.5	Cell Companies. An Applicant under Rule 3.11.1 or Rule 3.11.3 that intends to operate as a Cell Company must pay to the Regulator an additional application fee of $8,000 for the Cell Company plus $1,000 for each Cell.
+3.11.6	Cell Companies. An Authorised Person under Rule 3.11.2 or Rule 3.11.4 that operates as a Cell Company must pay to the Regulator an additional annual supervision fee of $8,000 for the Cell Company plus $1,000 for each Cell.
+3.11.7	Cell Companies. An Authorised Person under Rule 3.11.2 or Rule 3.11.4 that operates as a Cell Company must pay to the Regulator an application fee of $1,000 for each Cell that it wishes to add after it has received its Financial Services Permission.
+3.11.7.Guidance	
+Authorised Persons carrying on the Regulated Activities of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as an Insurer, Captive Insurer or Insurance Special Purpose Entity may do so in the form of a Cell Company for which the fees in Rules 3.11.5 to 3.11.7 are additional to those specified in Rules 3.11.1 to 3.11.4, as applicable.
+3.12	Providing Information in Relation to a Specified Benchmark and Administering a Specified Benchmark
+3.12.1	An Applicant for a Financial Services Permission must pay to the Regulator an application fee of $5,000 to carry on the Regulated Activity of:
+(a)	Providing Information in Relation to a Specified Benchmark; or
+(b)	Administering a Specified Benchmark.
+3.12.2	An Authorised Person with a Financial Services Permission must pay to the Regulator an annual supervision fee of $5,000 to carry on the Regulated Activity of:
+(a)	Providing Information in Relation to a Specified Benchmark; or
+(b)	Administering a Specified Benchmark.
+3.13	Operating a Representative Office
+3.13.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Operating a Representative Office must pay to the Regulator an application fee of $5,000.
+3.13.2	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Operating a Representative Office must pay to the Regulator an annual supervision fee of $5,000. 
+3.14	Providing Third Party Services
+3.14.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Providing Third Party Services must pay to the Regulator an application fee of $5,000. 
+3.14.2	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Providing Third Party Services must pay to the Regulator an annual supervision fee of $5,000.
+3.15	Developing Financial Technology Services within the RegLab 
+3.15.1	An Applicant for a Financial Services Permission to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab must pay to the Regulator an application fee of $1,000. 
+3.16	Regulated Activities conducted as Islamic Financial Business
+3.16.1	An Applicant for a Financial Services Permission to conduct a Regulated Activity of Islamic Financial Business, either through the operation of an Islamic Window or as an Islamic Financial Institution, must pay to the Regulator an application fee of $5,000, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake in a Shari’a-compliant manner.
+3.16.2	An Authorised Person with a Financial Services Permission to carry on a Regulated Activity of Islamic Financial Business, either through the operation of an Islamic Window or as an Islamic Financial Institution must pay to the Regulator an annual supervision fee of $5000, in addition to the supervision fees due in respect of each underlying Regulated Activity which the Authorised Person undertakes.
+
+
+
+3.17	Specific asset classes. Virtual Assets
+3.17.1	An Applicant for a Financial Services Permission to carry on a Regulated Activity in relation to Virtual Assets must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+(a)	$20,000 for each Regulated Activity; or
+(b)	$125,000 if the Regulated Activity is Operating a Multilateral Trading Facility without any additional Regulated Activity.
+3.17.2	An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to Virtual Assets must pay to the Regulator, in addition to the supervision fees due in respect of each Regulated Activity which the Authorised Person undertakes, an annual supervision fee of:
+(a)	$15,000 for each Regulated Activity; or
+(b)	$60,000 if the Regulated Activity is Operating a Multilateral Trading Facility without any additional Regulated Activity.
+3.17.2.Guidance	
+3.17.2.Guidance.1.	These fees are in addition to any incurred for Regulated Activities carried on that do not involve Virtual Assets.
+3.17.2.Guidance.2.	For additional guidance concerning the fees associated with Regulated Activities carried on in relation to Virtual Assets, please refer to the Regulator’s “Guidance – Regulation of Virtual Asset Activities in ADGM”.
+
+
+3.18	Trading Levy for Virtual Assets Multilateral Trading Facility 
+3.18.1	An Authorised Person with a Financial Services Permission to carry on the Regulated Activity of Operating a Multilateral Trading Facility in relation to Virtual Assets must pay to the Regulator a trading levy of daily trading value of Virtual Assets traded (as applicable), payable monthly.
+
+/Table Start
+Daily Trading Value (DTV) ($)	Trading Levy
+DTV ≤ 10m	0.0015%
+10m < DTV ≤ 50m	0.0012%
+50m <DTV ≤ 250m	0.0009%
+DTV > 250m	0.0006%
+/Table End
+Unless otherwise determined by a Multilateral Trading Facility (and agreed to by the Regulator), the Regulator expects that the calculation of average daily value of Virtual Assets traded should occur at 12am Abu Dhabi time (+4hr GMT).
+
+
+3.19	Spot Commodities
+3.19.1	An Applicant for a Financial Services Permission to carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+(a)	$20,000; or
+(b)	$125,000 if the Regulated Activity is Operating a Multilateral Trading Facility or Organised Trading Facility without any additional Regulated Activity.
+3.19.2	An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to Spot Commodities must pay to the Regulator, in addition to the supervision fees due in respect of each Regulated Activity which the Authorised Person undertakes, an annual supervision fee of:
+(a)	$15,000; or
+(b)	$60,000 if the Regulated Activity is Operating a Multilateral Trading Facility or Organised Trading Facility without any additional Regulated Activity.
+3.19.2.Guidance	
+Where an application concerns activities relating to Spot Commodities that will be carried on by a Recognised Body, whether a Recognised Investment Exchange or Recognised Clearing House, the fees in Section 4.1 will apply.
+3.20	OTC Leveraged Products
+3.20.1	An Applicant for a Financial Services Permission to carry on a Regulated Activity in relation to OTC Leveraged Products must pay to the Regulator, in addition to the application fees due in respect of each Regulated Activity which the Applicant proposes to undertake, an application fee of:
+(a)	$5,000; or
+(b)	$40,000 where those OTC Leveraged Products are to be offered to Retail Clients.
+3.20.2	An Authorised Person with a Financial Services Permission to carry on a Regulated Activity in relation to OTC Leveraged Products must pay to the Regulator, in addition to the supervision fees due in respect of each Regulated Activity which the Authorised Person undertakes, an annual supervision fee of:
+(a)	$5,000; or
+(b)	$40,000 where those OTC Leveraged Products are to be offered to Retail Clients.
+
+ 
+3.20.2.Guidance	
+The table below provides a summary of the fees for applications and supervision where a Regulated Activity is carried out on a standalone basis. Where more than one Regulated Activity is carried out Section 3.2 and the relevant Rule(s) in Chapter 3 provide details of the binding requirements and the appropriate treatment.
+
+
+/Table Start 
+Section(s)	Application ($k)	Supervision ($k)	Group	Regulated Activity
+TRADITIONAL ASSETS
+3.3	70	100	Accepting Deposits	Accepting Deposits
+3.8	15	15	Advising on Investments or Credit 	Advising on Investments or Credit 
+3.8	15	15	Arranging Deals in Investments	Arranging Deals in Investments 
+3.10	10	10	Collective Investments	Acting as the Administrator of a Collective Investment Fund
+3.10	10	10		Acting as Trustee of an Investment Trust
+3.10	10	10		Managing a Collective Investment Fund
+3.10	10	10		Managing a Venture Capital Fund and co-investments
+3.10	10	10	Credit	Arranging Credit
+3.3	70	100		Providing Credit
+3.8	15	15	Custody	Arranging Custody
+3.6	25	25		Providing Custody
+3.4	40	50	Dealing in Investments
+	Dealing in Investments as Principal
+3.4	25	25		Dealing in Investments as Matched Principal 
+3.4	25	25		Dealing in Investments as Agent
+			Insurance	Carrying Out Contracts of Insurance as Principal
+				Effecting Contracts of Insurance
+3.11	40	50		- as an Insurer
+3.11	5	5		- as a Captive Insurer or Insurance Special Purpose Vehicle
+3.11	8 plus 1 per Cell	8 plus 1 per Cell		- as a Cell Company (additional to fees above)
+3.8	15	15		Insurance Intermediation
+3.7	15	20		Insurance Management
+3.5	30	30	Managing a Profit Sharing Investment Account	Managing a Profit Sharing Investment Account
+3.6	25	25	Managing Assets	Managing Assets
+			Providing Money Services	Providing Money Services
+3.9	15	15		- Currency exchange
+3.9	15	15		- Money Remittance
+3.9	25	25		- Payment Services
+3.10	10	10	Operating a Credit Rating Agency 	Operating a Credit Rating Agency 
+3.10	10	10	Operating a Private Financing Platform 	Operating a Private Financing Platform 
+3.13	5	5	Operating a Representative Office 	Operating a Representative Office 
+3.14	5	5	Providing Third Party Services	Providing Third Party Services
+3.10	10	10	Operating Multilateral and Organised Trading Facilities	Operating a Multilateral Trading Facility
+3.10	10	10		Operating an Organised Trading Facility
+3.6	25	25	Providing Trust Services 	Providing Trust Services 
+3.12	5	5	Specified Benchmarks 	Administering a Specified Benchmark
+3.12	5	5		Providing Information in Relation to a Specified Benchmark
+3.15	1	-	Technology Innovation in Financial Services	Developing Financial Technology Services within the RegLab 
+VIRTUAL ASSETS
+3.17, 3.18	125	60	Operating Multilateral and Organised Trading Facilities	Operating a Multilateral Trading Facility
+3.17	20	15	All other Regulated Activities	All other Regulated Activities
+SPOT COMMODITIES
+3.19	125	60	Operating Multilateral and Organised Trading Facilities	Operating a Multilateral Trading Facility or Organised Trading Facility
+3.19	20	15	All other Regulated Activities	All other Regulated Activities
+OTC LEVERAGED PRODUCTS
+3.20	40	40	Retail Clients	
+3.20	5	5	Other clients	
+ISLAMIC FINANCIAL BUSINESS
+3.16	5	5	All Regulated Activities	Engaging in Islamic Financial Business, either through an Islamic Window or as an Islamic Financial Institution
+ 
+/Table End
+
+ 
+4.	RECOGNISED BODIES, REMOTE BODIES AND REMOTE MEMBERS
+4.1	Recognised Bodies
+4.1.1	An Applicant for recognition as either a Recognised Investment Exchange or a Recognised Clearing House must pay to the Regulator an application fee of $125,000.
+4.1.2	A Recognised Body with a Recognition Order as either a Recognised Investment Exchange or Recognised Clearing House must pay to the Regulator an annual supervision fee of $60,000. 
+4.1.3	An Applicant for recognition as both a Recognised Investment Exchange and a Recognised Clearing House must pay to the Regulator an application fee of $250,000.
+4.1.4	A Recognised Body with recognition as both a Recognised Investment Exchange and a Recognised Clearing House must pay to the Regulator an annual supervision fee of $120,000.
+4.2	Remote Bodies
+4.2.1	An Applicant for recognition as a Remote Body must pay to the Regulator an application fee of $10,000.
+4.2.2	A Remote Body is required to pay to the Regulator an annual recognition fee of $1,000.
+4.3	Remote Members
+4.3.1	An Applicant for recognition as a Remote Member must pay to the Regulator an application fee of $1,000.
+4.3.2	A Remote Member is required to pay to the Regulator an annual recognition fee of $1,000.
+4.3.2.Guidance	
+4.3.2.Guidance.1.	Where an application concerns activities relating to Spot Commodities that will be undertaken by a Recognised Body, whether a Recognised Investment Exchange or Recognised Clearing House, the fees in Section 4.1 will apply.
+4.3.2.Guidance.2.	Depending on the complexity and risks inherent in an Applicant’s business model, the Regulator, when considering an application in relation to Virtual Assets, may decide to apply the relevant fees relating to specific Regulated Activities and Virtual Assets cumulatively in certain circumstances. Applicants are directed to review the discussion of factors relating to the calculation of fees for Virtual Asset related business models contained in the Regulator’s “Guidance - Regulation of Virtual Asset Activities in ADGM”.
+
+
+5.	APPROVED PERSONS 
+5.1.1	An Applicant or Authorised Person applying to the Regulator.
+(a)	for Approved Person status for an individual; or
+(b)	to amend an Approved Person’s approval to include a new Controlled Function; 
+must pay to the Regulator an application fee of $500 for each application in respect of an Approved Person.
+6.	CONTROLLERS
+6.1.1	An Authorised Person or a Recognised Body applying for written approval of a proposed new Controller, or a change in the Holding of an existing Controller which would trigger the requirement to seek the approval of the Regulator, must pay to the Regulator an application fee of $1,000.
+6.1.1.Guidance	
+The Regulator may charge a supplementary fee in addition to the fee specified in Rule 6.1.1 where:
+a.	the Controller is from a jurisdiction where there is no adequate memorandum of understanding in place between the Regulator and the relevant Non-ADGM Financial Services Regulator in that jurisdiction;
+b.	the Controller proposes, in connection with their approval, to change the business model, business activities, or senior management of the Authorised Person or Recognised Body; or
+c.	the application will otherwise require the Regulator to incur substantial additional expense or expend substantial additional effort due to its complexity.
+7.	FOREIGN BRANCHES OF DOMESTIC FIRMS
+7.1	Specific fees
+7.1.1	Where an Authorised Person that has its registered head office in ADGM applies to the Regulator for approval to establish a branch outside ADGM, it must pay to the Regulator an application fee equal to 50% of the highest application fee set out in Chapter 3 of these Rules for those Regulated Activities it seeks to undertake from the proposed branch.
+7.1.2	An Authorised Person that has established a branch outside ADGM from which it conducts Regulated Activities must pay to the Regulator an annual supervision fee equal to 50% of the highest annual supervision fee for those Regulated Activities it undertakes from the branch.  The initial supervision fee due shall be prorated and paid in accordance with Rule 1.2.2(a).
+7.1.2.Guidance	
+The Regulator may charge a supplementary fee in addition to the fees specified in Rule 7.1.1 and 7.1.2 where the proposed branch would operate in a jurisdiction where there is no adequate memorandum of understanding in place between the Regulator and the relevant Non-ADGM Financial Services Regulator in that jurisdiction.
+
+
+8.	FUNDS
+8.1	Application to register a Public Fund
+8.1.1	The Fund Manager, or the Person proposing to be the Fund Manager, of a Domestic Fund which is a Public Fund but is not an Umbrella Fund, who is applying to register the Public Fund, must pay to the Regulator an application fee of $6,000. 
+8.1.2	The Fund Manager, or the Person proposing to be the Fund Manager, of a Domestic Fund which is a Public Fund but is not an Umbrella Fund, must pay an annual registration renewal fee to the Regulator of $6,000, at the time of registration of the Public Fund, prorated for the remainder of the calendar year for the initial year of registration and thereafter due at the commencement of each successive calendar year.
+8.1.3	The Fund Manager, or the Person proposing to be the Fund Manager, of a Domestic Fund which is a Public Fund that is an Umbrella Fund, who is applying to register the Fund, must pay to the Regulator:
+(a)	an application fee of $6,000 in respect of the Umbrella Fund and its first Sub-Fund; and 
+(b)	an additional application fee of $3,000 for each additional Sub-Fund of the Umbrella Fund which it seeks to register;
+8.1.4	The Fund Manager of a Domestic Fund which is a Public Fund and an Umbrella Fund is required to pay an annual registration fee of $6,000 to the Regulator in respect of the Umbrella Fund and its first Sub-Fund and an additional annual registration renewal fee of $3,000 for each additional Sub-Fund of the Umbrella Fund that it has registered.
+8.1.5	Such fees as are due under Rules 8.1.2 and 8.1.4 at the time of registration of each Fund or Sub-Fund, as the case may be, must be prorated for the remainder of the calendar year for the initial year of registration and are thereafter due in full at the commencement of each successive calendar year.
+8.2	Notifications in relation to Exempt Funds and Qualified Funds
+8.2.1	The Fund Manager or the Person proposing to be the Fund Manager of a Domestic Fund which is an Exempt Fund or a Qualified Investor Fund, but which is not an Umbrella Fund that notifies the Regulator of their intention to offer the Units of such Fund, is required to pay to the Regulator an annual notification fee of $2,000, prorated for the remainder of the calendar year for the initial year and thereafter due in full at the commencement of each successive calendar year.
+8.2.2	The Fund Manager of an Exempt Fund, or a Qualified Investor Fund, that is an Umbrella Fund, is required to pay an annual notification renewal fee of $2,000 to the Regulator in respect of the Umbrella Fund and its first Sub-Fund and an additional annual notification renewal fee of $1,000 for each additional Sub-Fund of the Umbrella Fund, prorated for the remainder of the calendar year and thereafter due in full at the commencement of each successive calendar year.
+8.3	Filing a Prospectus pursuant to FUNDS Rules 9.2.1(b), 9.4.2(1)(b) or 9.4.2(2)(b)
+8.3.1	An Authorised Person filing a Prospectus with the Regulator in relation to a Public Fund, in accordance with FUNDS Rule 9.2.1(b) must pay to the Regulator a filing fee of $6,000.
+8.3.2	A Fund Manager filing a Supplementary or Replacement Prospectus with the Regulator in relation to a Public Fund in accordance with FUNDS Rule 9.4.2(1)(b) or 9.4.2(2)(b) respectively, must pay to the Regulator a filing fee of $3,000 in respect of each such Prospectus filed. 
+8.4	Notification by an Authorised Fund Manager to manage a Foreign Fund 
+8.4.1	A Fund Manager submitting a notification to the Regulator of its intention to manage a Foreign Fund must pay to Regulator a fee of $2,000.
+8.5	Management of a Domestic Fund by a Foreign Fund Manager
+8.5.1	A Foreign Fund Manager providing a declaration to the Regulator of its intention to manage a Domestic Fund must pay to Regulator a fee of $20,000.
+8.6	Registering a Domestic Fund pursuant to the Fund Passporting Rules
+8.6.1	A Fund Manager registering a Domestic Passported Fund with the Regulator must pay to the Regulator a notification fee of $9,500 in respect of each Domestic Passported Fund.
+8.6.2	A Fund Manager of a Domestic Passported Fund must pay to the Regulator an annual passporting fee of $2,000 in respect of each Domestic Passported Fund.
+8.6.2.Guidance	
+8.6.2.Guidance.1.	The filing of a Supplementary Prospectus for a Public Fund does not trigger the payment of a fee unless the review of the Supplementary Prospectus will require the Regulator to incur substantial additional costs or expend substantial additional effort when conducting its review, in which event the Regulator may require payment of a supplementary fee in accordance with Rule 1.2.4.
+8.6.2.Guidance.2.	Where a fee is to be prorated for a calendar year in accordance with the Rules in this Chapter, the portion of the fee due is to be based on the number of months remaining until the end of the calendar year. 
+8.6.2.Guidance.3.	A person seeking or wishing to retain the designation of a Fund as an ADGM Green Fund or an ADGM Climate Transition Fund must pay the relevant fee as set out in Chapter 10.
+
+
+9.	SPECIFIC FEES RELATED TO MARKETS
+9.1	Filing a Prospectus relating to the Offer of Securities other than Units
+9.1.1	A Person filing a Prospectus relating to the Offer of Securities other than Units with the Regulator must pay to the Regulator a filing fee of:
+(a)	$20,000, where the Prospectus to be filed in either one or more documents relates to Shares, Certificates over Shares and Warrants over Shares; or
+(b)	$10,000, where the Prospectus to be filed in either one or more documents relates to Structured Products, Debentures, Certificates over Debentures and Warrants over Debentures.
+9.2	Admission to the Official List of Securities
+9.2.1	An Applicant for admission of Securities to the Official List of Securities must pay to the Regulator an application fee of $3,000.
+9.2.1.Guidance	
+A Listed Entity with Securities admitted to the Official List of Securities is not required to pay an annual supervision fee to the Regulator. 
+9.3	Approval of an Offer document originating from outside ADGM
+9.3.1	A Person applying to the Regulator for approval of an Offer document produced under legislation in a jurisdiction other than ADGM must pay to the Regulator a filing fee of $5,000.
+9.3.1.Guidance	
+The filing of a Supplementary Prospectus does not trigger the payment of a fee unless the review of the Supplementary Prospectus will require the Regulator to incur substantial additional costs or expend substantial additional effort when conducting its review, in which event the Regulator may require payment of a supplementary fee in accordance with Rule 1.2.4.
+10.	FEES RELATED TO SUSTAINABLE FINANCE
+10.1	Applications for a designation
+10.1.1	A Person applying to the Regulator for any of the following designations:
+(a)	ADGM Green Fund;
+(b)	ADGM Climate Transition Fund;
+(c)	ADGM Green Portfolio;
+(d)	ADGM Climate Transition Portfolio;
+(e)	ADGM Green Bond; or
+(f)	ADGM Sustainability Linked Bond
+must pay to the Regulator an application fee of $2,000. 
+10.2	Annual designation fee
+10.2.1	A Person granted a designation under Rule 10.1.1 must pay to the Regulator an annual designation fee of $2,000:
+(a)	prorated for the remainder of the calendar year following the initial granting of the designation; and
+(b)	for subsequent calendar years commencing 1 January, payable in full to the Regulator on or before 31 January of the calendar year to which the fee relates.
+10.2.1.Guidance	
+In accordance with Rule 1.2.2, for Rule 10.2.1(a) the portion due of the annual designation fee is to be based on the number of months remaining until the end of the calendar year. 
+
+

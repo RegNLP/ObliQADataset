@@ -1,0 +1,1214 @@
+BANK RECOVERY AND RESOLUTION REGULATIONS 2018	
+Regulations to make provision for bank recovery and resolution and connected purposes.  
+							Date of Enactment: 11 December 2018
+The Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, hereby enacts the following Regulations–
+
+Part 1	General
+Part 1.1.	Definitions
+In these Regulations, unless the context otherwise requires—
+/Table Start
+Additional Tier 1 Capital	means capital instruments that meet the conditions for "AT1 Capital" laid down in the Rules made by the Regulator. 
+ADGM	means the Abu Dhabi Global Market.
+ADGM Branch	means a Branch through which a Non-ADGM Institution carries on Regulated Activities in or from the ADGM.
+ADGM Founding Law	means Law No (4) of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi. 
+ADGM Insolvency Regulations	means the ADGM Insolvency Regulations 2015.
+ADGM Parent Institution	means an Institution that has an Institution or Non-ADGM Institution as a subsidiary.
+ADGM Parent Undertaking	means a Parent Undertaking—
+(a)	registered in and incorporated under the laws of the ADGM; and
+(b)	that has an Institution or Non-ADGM Institution as a Subsidiary.
+ADGM Subsidiary	means a Subsidiary of an Institution that is registered in and incorporated under the laws of the ADGM.
+Affected Creditor 	means a creditor whose claim relates to a liability that is reduced or converted to Shares by the exercise of the Write Down or Conversion Power pursuant to the application of the Bail-in Tool.
+Authorised Person	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Bail-in Tool	means the mechanism for recapitalising an Institution or for effecting the exercise of the Write Down or Conversion Power pursuant to section ‎49.
+
+Branch	means a place of business of a legal person which—
+(a)	has no separate legal personality; and
+(b)	carries out directly all or some of the transactions inherent in the business of Institutions outside the ADGM.
+Business of the ADGM Branch	means—
+(a)	any rights and liabilities of a Non-ADGM Institution arising as a result of the operations of its ADGM Branch; and
+(b)	any other property in the ADGM of the Non-ADGM Institution.
+Business Reorganisation Plan	means a Business Reorganisation Plan drawn up and implemented in accordance with section ‎55.
+
+Capital Resources	means the sum of Tier 1 Capital and Tier 2 Capital.
+Central Securities Depository	means a legal person that carries out the activity of Acting as a Central Securities Depository, as such term is defined in section 258 of the Financial Services and Markets Regulations 2015.
+Client Assets	means Client Money and Client Investments.
+Client Money	has the meaning given to that term under section 4 of the Financial Services and Markets Regulations 2015.
+Client Investments	means all investments held or controlled on behalf of a client in the course of, or in connection with, the carrying on of investment business.
+Collateral Arrangement	has the meaning given to that term under section 298 of the Insolvency Regulations 2015.
+Common Equity Tier 1 Capital	means capital instruments that meet the conditions for "CET1 Capital" laid down in the Rules made by the Regulator.
+Confidential Information	means information which, regardless of whether or not the information was received by virtue of a requirement to provide it imposed by or under these Regulations—
+(a)	relates to the business or other affairs of any person; and
+(b)	was received by the recipient for the purposes of, or in the discharge of, any functions of the Regulator under any Rules made by or under these Regulations;
+unless—
+(c)	the information has been made available to the public by virtue of being disclosed in any circumstances in which, or for any purposes for which, disclosure is not precluded by this section; or
+(d)	it is in the form of a summary or collection of information so framed that it is not possible to ascertain from it information relating to any particular person.
+Conversion Rate	means the ratio that determines the number of Shares into which a liability of a specific class will be converted, by reference either to a single instrument of the class or to a specified unit of value of a debt claim.
+Core Business Lines	means business lines and associated services which represent material sources of revenue, profit or franchise value for an Institution or an Institution's Group.
+Covered Bond	means a bond issued by an Institution where the proceeds from the issue of those bonds shall be invested in assets which, during the whole period of validity of the bonds, are capable of covering claims attaching to the bonds and which, in the event of failure of the Institution, would be used on a priority basis for the reimbursement of the principal and payment of the accrued interest.
+Crisis Management Measure	means—
+(a)	the exercise of a Resolution Action in relation to an Institution by the Regulator;
+(b)	the recognition of a Foreign Resolution Action by the Regulator; or
+(c)	the exercise of a Resolution Power in support of a Foreign Resolution Action by the Regulator.
+Crisis Prevention Measure	means— 
+(a)	the imposition by the Regulator of a requirement to take relevant measures with respect to an Institution's recovery plan;
+(b)	the imposition by the Regulator of a requirement to take measures to remove impediments to the recoverability of an Institution;
+(c)	the imposition of an early intervention measure described in section ‎18‎(4);
+(d)	the appointment of a temporary administrator under section ‎19‎(1); or 
+(e)	the exercise of the Write Down or Conversion Power.
+Critical Clearing Services	means central counterparty clearing services the withdrawal of which may, in the Regulator's opinion, threaten the stability of the financial system of the ADGM.
+Critical Functions	means activities, services or operations the discontinuance of which is likely to lead to the disruption of services that are essential to the real economy in the ADGM or relevant to Institutions operating in the ADGM the disruption of financial stability due to the size, market share, external or internal interconnectedness, complexity, or cross-border activities of an Institution or Institution's Group, with particular regard to the substitutability of those activities, services or operations.
+Debt Instruments	means bonds and other forms of transferable debt, instruments creating or acknowledging debt and instruments giving rights to acquire debt instruments.
+Default Event Provision	means a provision of a contract or other agreement—
+(a)	that has the effect that if a specified event or situation arises—
+(i)	the agreement is terminated, modified, replaced or suspended;
+(ii)	rights or duties under the agreement are terminated, modified, replaced or suspended;
+(iii)	a right accrues to terminate, modify or replace the agreement;
+(iv)	a right accrues to terminate, modify or replace rights or duties under the agreement;
+(v)	a set-off or netting right accrues under the contract;
+(vi)	a sum becomes payable or ceases to be payable;
+(vii)	a right accrues to obtain possession, exercise control or enforce any security over any property;
+(viii)	delivery of anything becomes due or ceases to be due;
+(ix)	a right to claim a payment or delivery accrues, changes or lapses;
+(x)	any other right accrues, changes or lapses; or
+(xi)	an interest is created, changes or lapses; or
+(b)	that has the effect that a provision of the contract or agreement—
+(i)	takes effect only if a specified event occurs or does not occur;
+(ii)	takes effect only if a specified situation arises or does not arise;
+(iii)	has effect only for so long as a specified event does not occur;
+(iv)	has effect only while a specified situation lasts;
+(v)	applies differently if a specified event occurs;
+(vi)	applies differently if a specified situation occurs; or
+(vii)	applies differently while a specified situation lasts.
+Definitive Valuation	means a valuation carried out under section ‎37.
+
+Deposit	has the meaning given to that term in paragraph 85 of Schedule 1 in the Financial Services and Markets Regulations 2015 and "Depositor" shall be interpreted accordingly.
+Derivative Contract	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Difference of Treatment Valuation	means a valuation carried out under section ‎68.
+
+Director	has the meaning given to that term under section 146 of the Companies Regulations 2015.
+Document	means any record of information recorded physically, electronically or in any other form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information in legible form, or in a form from which it can readily be produced in visible and legible form.
+Early Intervention Action	means—
+(a)	the taking of an early intervention measure (as defined in section ‎18);
+(b)	the appointment of temporary administrator under section ‎19; or
+(c)	the variation of the terms of engagement of a temporary administrator under section ‎19‎(13).
+
+Eligible Depositor	means a person (other than a market counterparty or a bank) who, at the relevant time, is a creditor of a bank which is an Abu Dhabi Global Market firm by virtue of being owed an amount of money held by the bank as a Deposit and "Eligible Deposit" shall be interpreted accordingly.
+Eligible Liabilities	means liabilities and capital instruments that do not qualify as Common Equity Tier 1 Capital instruments, Additional Tier 1 Capital instruments or Tier 2 Capital instruments of an Institution that are not excluded from the exercise of the Write Down or Conversion Power under section ‎49‎(7).
+
+Financial Contracts	includes the following contracts and agreements—
+(a)	securities contracts, including—
+(i)	contracts for the purchase, sale or loan of a security, a group or index of securities;
+(ii)	options on a security or group or index of securities; and
+(iii)	repurchase or reverse repurchase transactions on any such security, group or index;
+(b)	commodities contracts, including—
+(i)	contracts for the purchase, sale or loan of a commodity or group or index of commodities for future delivery;
+(ii)	options on a commodity or group or index of commodities; and
+(iii)	repurchase or reverse repurchase transactions on any such commodity, group or index;
+(c)	futures and forwards contracts, including contracts (other than a commodities contract) for the purchase, sale or transfer of—
+(i)	a commodity or property of any other description;
+(ii)	a service; or
+(iii)	a right or interest;
+for a specified price at a future date;
+(d)	swap agreements, including—
+(i)	swaps and options relating to interest rates, spot or other foreign exchange agreements, currency, an equity index or equity, a debt index or debt, a commodity index or commodity, weather, emissions or inflation;
+(ii)	total return, credit spread or credit swaps; and
+(iii)	any agreements or transactions that are similar to an agreement referred to in subsections ‎(i) or ‎(ii) which is the subject of recurrent dealing in the swaps or derivatives markets;
+(e)	inter-bank borrowing agreements where the term of the borrowing is three months or less; and
+(f)	master agreements for any of the contracts or agreements referred to in subsections ‎(a) to ‎(e).
+
+Financial Services Permission	is a permission given, or having effect as if so given, by the Regulator in accordance with Part 4 of the Financial Services and Markets Regulations 2015.
+Foreign Institution	means an entity, the head office of which is established in a jurisdiction other than the ADGM, that would, if it were established within the ADGM, be covered by the definition of an Institution.
+Foreign Resolution Action	means an action under the law of a jurisdiction other than the ADGM to manage the failure or likely failure of a Foreign Institution where the action is comparable or equivalent, in terms of objectives and anticipated results, to Resolution Actions under these Regulations.
+Foreign Resolution Order	means an order made by the Regulator under section 78‎(1).
+
+General Resolution Principles	means the general principles of resolution set out in section ‎25.
+
+Group	has the meaning given to that term under section 260(1) of the Financial Services and Markets Regulations 2015.
+Group Entity	means a legal person that is part of a Group. 
+Group Recovery Plan	means a recovery plan prepared and maintained in accordance with section ‎8.
+
+Group Resolution Plan	means a resolution plan prepared and maintained in accordance with section ‎11.
+
+Guidance	means the guidance issued by the Regulator in accordance with section ‎5.
+
+Guiding Principles	means the guiding principles specified in section ‎4.
+
+In-Scope Entity	means any of the entities listed in section ‎2‎(1).
+
+Individual Recovery Plan	means a recovery plan prepared and maintained in accordance with section ‎7.
+
+Individual Resolution Plan	means a resolution plan prepared and maintained in accordance with section ‎10.
+
+Insolvency Proceedings	has the meaning given to that term under section 298 of the Insolvency Regulations 2015. 
+Institution	means an Investment Firm or a Recognised Clearing House.
+Institution in Resolution	means an Institution in respect of which Resolution Action is being taken.
+Intragroup Financial Support	includes—
+(a)	a loan, a guarantee, the provision of assets for use as collateral or any combination of these forms of support; and
+(b)	provision for support (in any form) in one or more transactions or in a transaction entered into by a Group Entity which is an Institution that is the intended recipient of the support and any other person within that Institution's Group.
+Investigation	means an investigation commenced by the Regulator under section 79.
+Investment Firm	means an Authorised Person, excluding Non-ADGM Institutions, conducting any of the following Regulated Activities—
+(a)	Accepting Deposits;
+(b)	Dealing in Investments as Principal; or
+(c)	Managing a Profit Sharing Investment Account.
+Management	includes—
+(a)	in relation to an Investment Firm, Recognised Clearing House, ADGM Parent Undertaking or ADGM Subsidiary, the Directors, senior managers or managers of same and, if applicable, former members of Management who are or were responsible both individually and collectively for the management of same; and
+(b)	in relation to an ADGM Branch, the person or persons who effectively direct the Business of the ADGM Branch.
+Non-ADGM Financial Institution	means an entity, the head office of which is established in a jurisdiction other than the ADGM, that carries out an activity which would, if carried out within the ADGM, be any of the following Regulated Activities—
+(a)	Accepting Deposits;
+(b)	Dealing in Investments as Principal; or
+(c)	Managing a Profit Sharing Investment Account.
+Non-ADGM Insolvency Law	means the laws of a third country that relate to insolvency.
+Non-ADGM Insolvency Proceeding	means a proceeding under the laws of a third country relating to insolvency that is comparable, in terms of objectives and anticipated results, to Insolvency Proceedings.
+Non-ADGM Institution	means an Investment Firm or Recognised Clearing House whose principal place of business and head office is in a jurisdiction other than the ADGM. 
+Non-CET1 Capital Instrument	means Additional Tier 1 Capital instruments and Tier 2 Capital instruments.
+Parent Undertaking	has the meaning given to that term in section 1018 of the Companies Regulations 2015.
+Pre-Resolution Valuation	means a valuation carried out under section ‎35, whose objective is to assess the value of the assets and liabilities of an Institution that is not an ADGM Branch or the Business of an ADGM Branch that meets the Resolution Conditions.
+Prospectus	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Provisional Valuation	means a valuation carried out under section ‎36.
+
+Recipient	means the person or entity to which Shares, Debt Instruments, rights, assets or liabilities, or any combination of those items are transferred from an Institution in Resolution.
+Recognised Clearing House	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Recognised Foreign Resolution Action	means a Foreign Resolution Action which is, or part of which is, recognised by the Regulator under section 78‎(1).
+
+Recognised Investment Exchange	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Recognition Requirements	has the meaning given to that term in section 120 of the Financial Services and Markets Regulations 2015, as it applies to a clearing house.
+Recovery Plan	means an Individual Recovery Plan or a Group Recovery Plan.
+Regulated Activities	has the meaning given to that term in section 19 of the Financial Services and Markets Regulations 2015.
+Regulator	has the meaning given to that term in section 258 of the Financial Services and Markets Regulations 2015.
+Residual Institution	means, in circumstances where part of the business of an Institution has been sold to a private sector purchaser using the Sale of Business Tool, the non-sold or non-transferred part of the Institution and the legal entity in which any related assets, liabilities or business resides.
+Resolution	means the application under these Regulations of a Resolution Tool in order to achieve one or more of the Resolution Objectives.
+Resolution Action	means—
+(a)	the decision to place an Institution that satisfies the Resolution Conditions in Resolution;
+(b)	the application of a Resolution Tool; or 
+(c)	the exercise of one or more Resolution Powers.
+Resolution Conditions	means the conditions set out in section ‎22.
+
+Resolution Order	means the order setting out the decision of the Regulator regarding the Resolution of an Institution.
+Resolution Objectives	means the resolution objectives specified in section ‎21.
+
+Resolution Plan	means an Individual Resolution Plan or a Group Resolution Plan.
+Resolution Power	means any of the powers under section ‎58. 
+
+Resolution Safeguard	means a safeguard set out under sections ‎67 to ‎75.
+
+Resolution Tool	means the Sale of Business Tool and Bail-in Tool.
+Sale of Business Tool	means transferring rights, assets, liabilities or Shares, of an Institution in Resolution to a purchaser in accordance with section ‎42‎(1).
+
+Secured Liability	means a liability where the right of the creditor to payment or other form of performance is secured by a Collateral Arrangement.
+Shadow Director	has the meaning given to that term under section 147 of the Companies Regulations 2015.
+Shareholders	means holders of Shares.
+Shares	means shares, instruments that are convertible into or give the right to acquire shares, and instruments representing interests in shares and the corporate instruments conferring voting rights, control or equity in a body corporate. 
+Share Transfer Order	means an order for the transfer of Shares.
+Subsidiary	has the meaning given to that term under section 1015 of the Companies Regulations 2015.
+Threshold Conditions	has the meaning given to that term in section 7(2) of the Financial Services and Markets Regulations 2015.
+Tier 1 Capital	means the sum of Common Equity Tier 1 Capital and Additional Tier 1 Capital.
+Tier 2 Capital	means capital instruments or subordinated loans that meet the conditions for "T2 Capital" laid down in the Rules made by the Regulator.
+Title Transfer Collateral Arrangement	has the meaning given to that term under section 298 of the Insolvency Regulations 2015.
+Transfer Power	means the power to transfer Shares, Debt Instruments, rights, assets or liabilities, or any combination of those items, from an Institution in Resolution to a Recipient.
+UAE	means the United Arab Emirates.
+Winding Up	means, in relation to an Institution, the realisation of the assets of the Institution and the distribution of the proceeds of such realisation to those entitled to receive them under ADGM Insolvency Regulations.
+Write Down or Conversion Power	means the write down or conversion power under sections ‎64 and ‎66.
+/Table End
+
+
+Part 1.2.	Application
+(1)	These Regulations apply to—
+(a)	Investment Firms;
+(b)	Recognised Clearing Houses;
+(c)	ADGM Parent Undertakings; 
+(d)	ADGM Subsidiaries; and
+(e)	ADGM Branches.
+(2)	For the purposes of these Regulations, an Institution does not cease to be an Institution if it no longer holds a Financial Services Permission or recognition order as an Investment Firm or a Recognised Clearing House as a result of a Resolution Action.
+
+
+Part 2	The Regulator
+Part 2.3.	Functions and powers of the Regulator
+(1)	The Regulator shall carry out such functions and shall have such powers as are conferred on it by or under the ADGM Founding Law and any enactment, including these Regulations. 
+(2)	The Regulator may do whatever it considers necessary for or in connection with, or reasonably incidental to, performing its functions and exercising its powers.
+Part 2.4.	Guiding Principles
+Part 2.4.(1)	In performing its functions and exercising its powers, the Regulator shall take into consideration the following guiding principles—
+(a)	the need to meet the objectives set out in the Financial Services and Markets Regulations 2015;
+(b)	the financial stability of the ADGM, including the prevention of contagion (including contagion to market infrastructures such as Recognised Investment Exchanges and Recognised Clearing Houses) and maintaining market discipline;
+(c)	to ensure the continuity of the provision of Critical Functions in the ADGM;
+(d)	the reduction of the risk to the public of financial loss due to the financial unsoundness of a person to whom these Regulations apply;
+(e)	the protection and enhancement of the reputation and integrity of and public confidence in the ADGM in commercial and financial matters; and
+(f)	any other principles as the Board may set.
+Part 2.4.(2)	Unless otherwise stated in these Regulations, the Guiding Principles are each of equal significance and are to be balanced as appropriate in each case. 
+
+
+Part 2.5.	Power of the Regulator to give Guidance
+Part 2.5.(1)	The Regulator may give Guidance either generally or to a particular In-Scope Entity with respect to—
+(a)	the operation of any provision of these Regulations;
+(b)	any other matter relating to the functions and powers of the Regulator; and
+(c)	any other matter about which it appears to the Regulator to be desirable to give Guidance.
+Part 2.5.(2)	Guidance issued by the Regulator shall be indicative and non-binding.
+Part 2.6.	Limitation of liability
+Part 2.6.(1)	This section applies to the Board, the Regulator, any member or any person who is, or is acting as, an officer, employee or agent of the Regulator or who is performing any duty or exercising any power on behalf of the Regulator or under the control of the Regulator.
+Part 2.6.(2)	A person or body to whom this section applies shall not be liable in damages or for any claims for compensation for anything done or omitted in the discharge or purported discharge of any function under, or authorised by or under, these Regulations unless it is shown that the act or omission was in bad faith or fraudulent.
+
+
+Part 3	Recovery and Resolution Planning
+Part 3.Chapter 1	Recovery Plans
+Part 3.Chapter 1.7.	Individual Recovery Plans
+Part 3.Chapter 1.7.(1)	The Regulator may require an Institution to prepare and submit to the Regulator for review an Individual Recovery Plan for the Institution. In exercising this discretion, the Regulator will consider the risk profile of the Institution and the impact of its failure on the financial system, market confidence or the economy in the ADGM or the reputation, integrity or public confidence in the stability of the ADGM.
+Part 3.Chapter 1.7.(2)	The Individual Recovery Plan shall include the information set out in Part 1 of the Schedule and shall set out measures that would be taken by the Institution for the restoration of its financial position in the event of a significant deterioration of such financial position. The Regulator may require that additional information be included in the Individual Recovery Plan.
+Part 3.Chapter 1.7.(3)	The Management of the Institution shall assess and approve the Individual Recovery Plan before submitting it to the Regulator.
+Part 3.Chapter 1.7.(4)	For Institutions forming part of a Group headed by a Non-ADGM Financial Institution, the Regulator may require disclosure of part or all of any existing Recovery Plans prepared at the Group level at the request of the supervisory authorities in jurisdictions other than the ADGM of any Group Entities. The Regulator may determine that such a disclosure satisfies the requirements under subsection ‎(1).
+Part 3.Chapter 1.7.(5)	Unless directed otherwise by the Regulator, Institutions required to prepare an Individual Recovery Plan under subsection (1) shall update their Individual Recovery Plans annually and after any change to their legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Individual Recovery Plan.
+
+
+Part 3.Chapter 1.8.	Group Recovery Plans
+Part 3.Chapter 1.8.(1)	The Regulator may require an ADGM Parent Institution to prepare and submit to the Regulator a Group Recovery Plan for the Group headed by the ADGM Parent Institution as a whole. 
+Part 3.Chapter 1.8.(2)	The Group Recovery Plan shall identify measures that may be required to be implemented at the level of the ADGM Parent Institution, the Institutions and other Subsidiaries, with the aim to achieve the stabilisation of the Group as a whole, or any Institution of the Group, when it is in a situation of stress so as to address or remove the causes of the distress and restore the financial position of the Group or the Institution in question, at the same time taking into account the financial position of other Group Entities. The Group Recovery Plan shall include the information set out in Part 1 of the Schedule (with any necessary modifications for the Group level). The Regulator may require that additional information be included in the Group Recovery Plan. 
+Part 3.Chapter 1.8.(3)	The Management of the ADGM Parent Institution shall assess and approve the Group Recovery Plan before submitting it to the Regulator.
+Part 3.Chapter 1.8.(4)	Unless directed otherwise by the Regulator, ADGM Parent Institutions required to prepare a Group Recovery Plan under subsection (1) shall update their Group Recovery Plans annually and after any change to the Group's legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Group Recovery Plan.
+Part 3.Chapter 1.9.	Assessment of Recovery Plans 
+Part 3.Chapter 1.9.(1)	The Regulator shall examine Recovery Plans submitted to it with a view to identifying any elements in the Recovery Plan which may adversely impact the resolvability or supervision of the Institution or Group. 
+Part 3.Chapter 1.9.(2)	In assessing a Recovery Plan, the Regulator may consider— 
+(a)	whether the arrangements proposed in the Recovery Plan would, if implemented, be reasonably likely to maintain or restore the viability and financial position of the Institution; 
+(b)	whether the arrangements proposed in the Recovery Plan would be reasonably likely to be implemented quickly and effectively in situations of financial stress and, as far as possible, without any material adverse impact on the financial system of the ADGM;
+(c)	any preparatory measures taken or planned to be taken by the Institution;
+(d)	the possibility that the Recovery Plan may have to be implemented at the same time as Recovery Plans prepared by other Institutions; and
+(e)	whether the capital and funding structure of the Institution is appropriate, having regard to the level of complexity of its organisational structure and its risk profile.
+Part 3.Chapter 1.9.(3)	In assessing a Group Recovery Plan, the Regulator may consider the potential impact of the recovery measures on financial stability in all the jurisdictions in which the Group operates. In doing so, the Regulator may consult the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entities or Branches are located.
+Part 3.Chapter 1.9.(4)	If the Regulator determines that there are material deficiencies in a Recovery Plan, or material impediments to its implementation, it shall notify the relevant Institution of its assessment in writing and require the Institution to submit, within two months, extendable with the Regulator's approval by one month, a revised Recovery Plan demonstrating how those deficiencies or impediments have been addressed.
+Part 3.Chapter 1.9.(5)	If the Institution fails to submit a revised Recovery Plan within the specified timeframe, or the Regulator determines that a matter notified under subsection ‎(4) has not been adequately addressed in the revised Recovery Plan, the Regulator may direct the Institution to take any measures it considers to be necessary and proportionate. Such directions may include, without limitation, directing the Institution to—
+(a)	reduce the risk profile of the Institution or Group, including liquidity risk;
+(b)	require it or its Group to undertake timely recapitalisation;
+(c)	review its or its Group's strategy and structure;
+(d)	change its or its Group's funding strategy in order to improve the resilience of Core Business Lines and Critical Functions; and
+(e)	change its or its Group's governance or Subsidiary structure.
+
+
+Part 3.Chapter 2	Resolution Plans
+Part 3.Chapter 2.10.	Individual Resolution Plans
+Part 3.Chapter 2.10.(1)	The Regulator may require an Institution to prepare and submit to it an Individual Resolution Plan for the Institution. In exercising this discretion, the Regulator will consider the risk profile of the Institution and the impact of its failure on the financial system, market confidence or the economy in the ADGM or the reputation, integrity or public confidence in the stability of the ADGM.
+Part 3.Chapter 2.10.(2)	An Individual Resolution Plan shall—
+(a)	be proportionate to the systemic importance of the Institution;
+(b)	set out the options for applying a Resolution Tool and a Resolution Power to the Institution;
+(c)	take into consideration relevant scenarios including that the event of a failure of the Institution may be unusual, occur at a time of broader financial instability or system-wide events;
+(d)	include procedures for informing and consulting relevant employees throughout the Resolution process, where appropriate; and
+(e)	set out the information specified in Part 3 of the Schedule.
+Part 3.Chapter 2.10.(3)	The Regulator may require that additional information be included in the Individual Resolution Plan.
+Part 3.Chapter 2.10.(4)	For Institutions forming part of a Group headed by a Non-ADGM Financial Institution, the Regulator may require disclosure of part or all of any existing resolution plans prepared at a Group level at the request of the supervisory authorities or resolution authorities in jurisdictions other than the ADGM of any Group Entities. The Regulator may determine that such a disclosure satisfies the requirements under subsection ‎(1). 
+Part 3.Chapter 2.10.(5)	The Management of the Institution shall assess and approve the Individual Resolution Plan before submitting it to the Regulator.
+Part 3.Chapter 2.10.(6)	Unless directed otherwise by the Regulator, Institutions required to prepare an Individual Resolution Plan under subsection (1) shall update their Individual Resolution Plans annually and after any change to the Institution's legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Individual Resolution Plan.
+Part 3.Chapter 2.11.	Group Resolution Plans
+Part 3.Chapter 2.11.(1)	The Regulator may require an ADGM Parent Institution to prepare a Group Resolution Plan for the Group headed by the ADGM Parent Institution as a whole. 
+Part 3.Chapter 2.11.(2)	A Group Resolution Plan shall—
+(a)	be proportionate to the systemic importance of the Group;
+(b)	set out the options for applying Resolution Tools and Resolution Powers to the Group;
+(c)	take into consideration relevant scenarios including that the event of a failure of the Group may be unusual, occur at a time of broader financial instability or system-wide events;
+(d)	include procedures for informing and consulting employee representatives throughout the resolution process, where appropriate; and
+(e)	set out the information specified in Part 3 of the Schedule (with any necessary modifications for the Group level).
+Part 3.Chapter 2.11.(3)	The Regulator may require that additional information be included in the Group Resolution Plan.
+Part 3.Chapter 2.11.(4)	The Management of the ADGM Parent Institution shall assess and approve the Group Resolution Plan before submitting it to the Regulator.
+Part 3.Chapter 2.11.(5)	Unless directed otherwise by the Regulator, ADGM Parent Institutions required to prepare a Group Resolution Plan under subsection (1) shall update their Group Resolution Plans annually and after any change to the Group's legal or organisational structure, business or financial situation, which could have a material effect on, or necessitate a change to, the Group Resolution Plan.
+
+
+Part 3.Chapter 2.12.	Assessment of Resolution Plans
+Part 3.Chapter 2.12.(1)	The Regulator may examine Resolution Plans submitted to it with a view to identifying any elements of the Resolution Plan which may adversely impact the resolvability or supervision of the Institution or Group.
+Part 3.Chapter 2.12.(2)	The Regulator may require an Institution to cooperate, assist and provide the information specified in Part 2 of the Schedule for the purposes of assessing a Resolution Plan for the Institution or its Group.
+Part 3.Chapter 2.12.(3)	In assessing a Resolution Plan, the Regulator may consider the extent to which it satisfies the requirements and criteria laid down in sections ‎10‎(2) and ‎11‎(2), as applicable. 
+Part 3.Chapter 2.12.(4)	In assessing a Group Resolution Plan, the Regulator shall consider the potential impact of the resolution measures on financial stability in all the jurisdictions in which the Group operates. In doing so, the Regulator may consult the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entities or Branches are located.
+Part 3.Chapter 2.12.(5)	If the Regulator determines that there are material deficiencies in a Resolution Plan or material impediments to its implementation, it shall notify the relevant Institution of its assessment in writing and require the Institution to submit, within two months, extendable with the Regulator's approval, a revised Resolution Plan demonstrating how those deficiencies or impediments have been addressed.
+Part 3.Chapter 2.12.(6)	If the Institution fails to submit a revised Resolution Plan within the specified timeframe, or the Regulator determines that a matter notified under subsection ‎(5) has not been adequately addressed in the revised Resolution Plan, the Regulator may direct the Institution to take any measures it considers to be necessary and proportionate, including any of the steps in section 9(5). 
+
+
+Part 3.Chapter 3	Resolvability
+Part 3.Chapter 3.13.	Assessment of resolvability for Institutions
+Part 3.Chapter 3.13.(1)	In assessing a Resolution Plan, the Regulator may carry out a resolvability assessment with respect to the Institution. Such an assessment shall determine the extent to which the Institution is resolvable.
+Part 3.Chapter 3.13.(2)	An Institution shall be determined as resolvable if it is feasible and credible for the Regulator to Wind Up the Institution under Insolvency Proceedings or to resolve it by applying a Resolution Tool to, and exercising Resolution Powers in respect of, the Institution while avoiding to the maximum extent possible any significant adverse effect on the financial system, including in circumstances of broader financial instability or system-wide events, with a view to ensuring the continuity of Critical Functions carried out by the Institution.
+Part 3.Chapter 3.13.(3)	For the purposes of the assessment of resolvability referred to under subsection ‎(1), the Regulator may consider the matters set out in Part 4 of the Schedule. The Regulator shall carry out any potential resolvability assessment in pursuit of the Resolution Objectives and in accordance with the General Resolution Principles.
+Part 3.Chapter 3.13.(4)	Where the Institution is part of a Group which has submitted a Group Resolution Plan under section ‎10‎(5), a simplified resolvability assessment may be conducted by taking into account the Group Resolution Plan and by considering the resolvability of the elements of the Group which are relevant to the functions of the Regulator. 
+Part 3.Chapter 3.13.(5)	The Regulator shall be permitted but is not required to publish or disclose any resolvability assessment.
+Part 3.Chapter 3.14.	Assessment of resolvability for Groups
+Part 3.Chapter 3.14.(1)	In assessing a Resolution Plan, the Regulator may carry out a resolvability assessment with respect to the Group headed by the ADGM Parent Institution as a whole. Such an assessment shall determine the extent to which the Group is resolvable.
+Part 3.Chapter 3.14.(2)	A Group shall be determined as resolvable if it is feasible and credible for the Regulator to Wind Up Group Entities under Insolvency Proceedings or to resolve Group Entities by applying a Resolution Tool to, and exercising Resolution Powers in respect of, the Group Entities while avoiding to the maximum extent possible any significant adverse effect on the financial system, including in circumstances of broader financial instability or system-wide events, with a view to ensuring the continuity of Critical Functions carried out by the Group Entities, where they can be easily separated in a timely manner or by other means.
+Part 3.Chapter 3.14.(3)	For the purposes of the assessment of resolvability referred to under subsection ‎(1), the Regulator shall, as a minimum, consider the matters set out in Part 4 of the Schedule (with any necessary modifications for the Group level). The Regulator shall carry out any potential resolvability assessment in pursuit of the Resolution Objectives and in accordance with the General Resolution Principles.
+Part 3.Chapter 3.15.	Powers to address or remove impediments to resolvability
+Part 3.Chapter 3.15.(1)	If a resolvability assessment identifies any material impediments to resolvability, these may be notified in writing by the Regulator to the relevant Institution and, where applicable, to the relevant resolution authorities in other jurisdictions in which the Institution or Group Entities operate.
+Part 3.Chapter 3.15.(2)	An Institution shall, within three months of the date of receipt of a notification under subsection ‎(1) or such other time period as may be specified in such notification, propose to the Regulator possible measures to address or remove the substantive impediments identified in the notification. The Regulator shall determine whether the measures referred to effectively address or remove the substantive impediments.
+Part 3.Chapter 3.15.(3)	If the Regulator assesses that the measures proposed under subsection ‎(2) do not effectively reduce or remove the impediments, the Regulator shall—
+(a)	subject to subsection ‎(6), require the Institution and its Group to take alternative measures, including, without limitation, any measure specified in subsection ‎(4) that may achieve that objective, and notify the Institution in writing of those measures and propose a plan to comply with them; and
+(b)	explain to the Institution how the measures proposed by the Institution would not have adequately removed the impediments to resolvability and how the alternative measures are proportionate in removing them.
+Part 3.Chapter 3.15.(4)	In addition, the Regulator may—
+(a)	if applicable, require the Institution to revise any Intragroup Financial Support or review the absence of an Intragroup Financial Support and may require the Institution to enter into agreements which provide for financial support to be given by—
+(i)	the Institution's Parent Undertaking established in a jurisdiction other than the ADGM to the Institution; or 
+(ii)	the Institution to a Subsidiary established in a jurisdiction other than the ADGM; 
+(b)	require the Institution to draw up service agreements, whether intra-group or with third parties, to cover the provision of Critical Functions;
+(c)	require the Institution to limit its maximum individual and aggregate exposures;
+(d)	impose specific or regular additional information requirements relevant for Resolution purposes;
+(e)	require the Institution to divest specific assets;
+(f)	require the Institution to limit or cease specific existing or proposed activities;
+(g)	require the Institution to restrict or prevent the development of new or existing business lines or sale of new or existing products;
+(h)	require changes to the legal or operational structures of the Institution or entities in its control so as to reduce complexity in order to ensure that Critical Functions may be legally and operationally separated from other functions through the application of a Resolution Tool; 
+(i)	require the Institution to transfer any business to a Subsidiary in the Group or to establish any new Subsidiary; or
+(j)	require the Institution to issue Eligible Liabilities or take other steps to meet minimum requirements for Capital Resources and Eligible Liabilities set under ‎Chapter 4.
+Part 3.Chapter 3.15.(5)	The Regulator may take or direct any of the same measures set out in subsection ‎(4) at the level of any Group Entity.
+Part 3.Chapter 3.15.(6)	The Regulator's power to require an Institution or Group to take measures under subsections ‎(3) or ‎(4) shall be limited to what is necessary in the public interest in order to simplify the structure and operations of the Institution or Group solely to improve its resolvability.
+
+Part 3.Chapter 4	Minimum requirements for Capital Resources and Eligible Liabilities
+Part 3.Chapter 4.16.	Minimum requirements for Capital Resources and Eligible Liabilities
+Part 3.Chapter 4.16.(1)	The Regulator may set for each Institution a minimum requirement for Capital Resources and Eligible Liabilities.
+Part 3.Chapter 4.16.(2)	An Institution shall at all times meet its minimum requirement for Capital Resources and Eligible Liabilities set by the Regulator under subsection ‎(1).
+Part 3.Chapter 4.16.(3)	The Regulator shall review the minimum requirement for Capital Resources and Eligible Liabilities and determine the appropriate level of the requirement.
+Part 3.Chapter 4.17.	Minimum share capital requirements
+Part 3.Chapter 4.17.(1)	The Regulator may impose additional Tier 1 Capital requirements so that in the event of the Regulator exercising a Write Down or Conversion Power in respect of the Institution, the Institution shall not be prevented from issuing sufficient new Shares to ensure that the conversion of liabilities into Shares can be carried out effectively in the future.
+Part 3.Chapter 4.17.(2)	An assessment by the Regulator as to whether to impose additional capital requirements, or to what extent to impose additional capital requirements under subsection ‎(1), may be carried out in conjunction with the development of a Resolution Plan under section ‎10 in respect of that Institution.
+
+
+Part 4	Early Intervention Actions
+Part 4.18.	Early intervention
+Part 4.18.(1)	Where the Regulator is satisfied that an Institution is infringing or is likely, in the near future, to infringe—
+(a)	either the minimum capital or liquidity requirements placed on it by the Regulator, including any new or additional capital requirements under sections 16 or ‎17; or
+(b)	the Threshold Conditions or the Recognition Requirements, as applicable,
+the Regulator may take any one or more early intervention measures, including those set out in subsection ‎(4), in relation to an Institution.
+Part 4.18.(2)	In this section, "early intervention measure" means a measure which may be taken by the Regulator in the exercise of its powers under these Regulations and the Financial Services and Markets Regulations 2015, with the object of addressing the conditions referred to in subsection ‎(1).
+Part 4.18.(3)	An infringement referred to in subsection ‎(1) may occur due to, among other things, a deteriorating financial condition, and may include one or more of the following—
+(a)	a deteriorating funding situation;
+(b)	an increasing level of leverage;
+(c)	an increasing level of non-performing or defaulting loans; or
+(d)	an increasing concentration of exposures.
+Part 4.18.(4)	Early intervention measures include, where applicable, the power of the Regulator to—
+(a)	require the Management of the Institution to—
+(i)	implement one or more of the arrangements or measures set out in its Recovery Plan; or
+(ii)	update its Recovery Plan where the circumstances that led to the early intervention are different from the assumptions in the Recovery Plan and implement one or more of the arrangements or measures set out in the updated Recovery Plan,
+within a specified timeframe and in order to ensure that the conditions for early intervention no longer apply;
+(b)	require the Management of the Institution to examine the situation, identify measures to overcome any problems identified and draw up an action programme to overcome those problems and a timeframe for its implementation;
+(c)	require the Management of the Institution to convene, or if the Management fails to comply with that requirement, convene directly a meeting of Shareholders of the Institution, and in both cases set the agenda and require certain decisions to be considered for adoption by the Shareholders;
+(d)	require one or more members of the Management of the Institution to be removed or replaced if those persons are determined by the Regulator to be unfit to perform their duties;
+(e)	require the Management of the Institution to draw up a plan for negotiation on restructuring of debt with some or all of its creditors according to the Recovery Plan, where applicable;
+(f)	require changes to the Institution's strategy;
+(g)	require changes to the legal or operational structures of the Institution;
+(h)	require the transfer of any business to a Subsidiary in the Group or establishment of any new Subsidiary;
+(i)	require, including through on-site inspections, if necessary, the provision to the Regulator of all information necessary in order to update the Resolution Plan and prepare for the possible Resolution of the Institution and for a Pre-Resolution Valuation to be conducted in accordance with section ‎35; or
+(j)	require the Institution to contact potential purchasers in order to prepare for the Resolution of the Institution, subject to the procedural requirements relating to the Sale of Business Tool.
+Part 4.18.(5)	For each of the early intervention measures set out in subsection ‎(4), the Regulator shall set out an appropriate deadline for completion to enable it to evaluate the effectiveness of the measure.
+
+
+Part 4.18.19.	Temporary administrator
+Part 4.18.19.(1)	Subject to subsection ‎(2), if the Regulator considers that the replacement of the Management of an Institution as an early intervention measure would be insufficient to remedy the situation, the Regulator may appoint one or more temporary administrators to the Institution.
+Part 4.18.19.(2)	Before appointing a person as a temporary administrator, the Regulator must be satisfied that the person has the qualifications, ability and knowledge required to carry out the functions of a temporary administrator and does not have a conflict of interest in relation to the Institution.
+Part 4.18.19.(3)	The Regulator may appoint the temporary administrator under subsection ‎(1) either to—
+(a)	replace the Management of the Institution for a specified period (which may be extended by the Regulator); or
+(b)	work for a specified period (which may be extended by the Regulator) with the Management of the Institution.
+Part 4.18.19.(4)	If the Regulator appoints a temporary administrator under subsection ‎(3), the Regulator shall, at the time of such an appointment, specify in the instrument of appointment— 
+(a)	the role of the temporary administrator and the period of time for which it is to be appointed in accordance with subsection ‎(3)‎(a) or ‎(b);
+(b)	subject to subsection ‎(6), the functions and powers of the temporary administrator which may include—
+(i)	ascertaining the financial position of the Institution;
+(ii)	some or all of the powers of the Management of the Institution under the Institution's articles of association, including the power to exercise some or all of the administrative functions of the Management of the Institution; and
+(iii)	managing the business or part of the business of the Institution with a view to preserving or restoring the financial position of the Institution and taking measures to restore the sound and prudent management of the business of the Institution;
+(c)	any limits on the role, functions and powers of the temporary administrator under subsection ‎(a) or ‎(b);
+(d)	any requirements for the Management of the Institution to consult or to obtain the consent of the temporary administrator prior to taking decisions or actions specified in the instrument of appointment; and
+(e)	subject to subsection ‎(7), any requirement that certain acts of the temporary administrator are to be subject to the prior consent of the Regulator.
+Part 4.18.19.(5)	The Regulator shall, in such manner as the Regulator considers appropriate, publish details of the name of the Institution and temporary administrator except where the temporary administrator does not have the power to represent the Institution.
+Part 4.18.19.(6)	The powers of a temporary administrator specified in an instrument of appointment under subsection ‎(4)—
+(a)	shall be based on what is proportionate in the circumstances; and
+(b)	shall comply with the Companies Regulations 2015.
+Part 4.18.19.(7)	The temporary administrator may convene a general meeting of the Shareholders of the Institution and set the agenda of such a meeting only with the prior consent of the Regulator.
+Part 4.18.19.(8)	The Regulator may require that a temporary administrator draw up reports on the financial position of the Institution and on the acts performed in the course of its appointment, at intervals set by the Regulator and at the end of the temporary administrator's appointment. 
+Part 4.18.19.(9)	The term of appointment of a temporary administrator shall not exceed one year, subject to renewal of the appointment where the conditions under subsection ‎(1) for appointing the temporary administrator continue to be met and the Regulator determines that the conditions are appropriate to maintain a temporary administrator. 
+Part 4.18.19.(10)	Subject to subsections ‎(1) to ‎(9), the appointment of a temporary administrator shall not prejudice the rights of the Shareholders of the Institution under the Companies Regulations 2015.
+Part 4.18.19.(11)	A temporary administrator shall not be liable in damages for anything done or omitted in the discharge or purported discharge of his or her functions as temporary administrator under these Regulations unless it is shown that the act or omission was in bad faith or fraudulent.
+Part 4.18.19.(12)	A temporary administrator shall not be deemed to be a Director, Shadow Director, partner, member, or de facto director of the Institution.
+Part 4.18.19.(13)	The Regulator shall have the exclusive power to appoint, remove, or vary the terms of engagement of, a temporary administrator, and may do so at any time.
+Part 4.18.20.	Application of early intervention measures and appointment of temporary administrator to Groups
+Where the conditions for the application of a measure under section ‎18 or the appointment of a temporary administrator in accordance with section ‎19 are met in relation to an ADGM Parent Institution, the Regulator shall decide whether to apply a measure under section ‎18 or appoint a temporary administrator under section ‎19 in respect of the relevant ADGM Parent Institution, taking into account the impact of those measures on any Group Entities or significant Branches. In doing so, the Regulator may consult the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entities or Branches are located.
+
+
+Part 5	Resolution Matters
+Part 5.Chapter 1	Objectives, Resolution Conditions and General Resolution Principles
+Part 5.Chapter 1.21.	Resolution Objectives
+Part 5.Chapter 1.21.(1)	In applying the Resolution Tools and exercising the Resolution Powers, the Regulator shall have regard to the Resolution Objectives specified in subsection ‎(2) and shall choose the Resolution Tools and Resolution Powers that in its view best achieve the Resolution Objectives that are relevant in the circumstances.
+Part 5.Chapter 1.21.(2)	The Resolution Objectives shall include all the Guiding Principles and the following additional considerations specific to Resolution—
+(a)	protection of Depositors (including Eligible Depositors) and investors, to the extent protected by law or compensation scheme; and
+(b)	protection of Client Assets.
+Part 5.Chapter 1.21.(3)	Unless otherwise stated in these Regulations, the Resolution Objectives are each of equal significance and are to be balanced as appropriate in each case. 
+Part 5.Chapter 1.21.(4)	A person exercising a resolution function under these Regulations shall have regard to the Resolution Objectives if they are relevant to that function.
+Part 5.Chapter 1.21.(5)	In pursuing the Resolution Objectives, the Regulator shall seek to avoid the destruction of value unless it is reasonable to achieve the Resolution Objectives.
+Part 5.Chapter 1.22.	Resolution Conditions
+Part 5.Chapter 1.22.(1)	A Resolution Action may be taken in respect of an Investment Firm or Recognised Clearing House only if the Regulator is satisfied that the following conditions are met—
+(a)	the Investment Firm or Recognised Clearing House is failing or is likely to fail;
+(b)	having regard to timing and other relevant circumstances, it is not reasonably likely that any action (except the application of a Resolution Tool or exercise of a Resolution Power) will be taken by or in respect of the Investment Firm or Recognised Clearing House that will prevent the failure or likely failure of the Investment Firm or Recognised Clearing House; and
+(c)	the application of a Resolution Tool is in the public interest.
+Part 5.Chapter 1.22.(2)	Notwithstanding subsection ‎(1), where an Institution is a Group Entity, a Resolution Action may be taken in respect of the Institution if the Regulator is satisfied that the following conditions are met—
+(a)	while the Institution does not in isolation meet the conditions set out in subsection ‎(1), the conditions set out in subsection ‎(1) are met in relation to another Group Entity in the Institution's Group (regardless of whether the other Group Entities in the Group also meet the Resolution Conditions); and
+(b)	the failure or likely failure of the Group Entity that meets the conditions set out in subsection ‎(1) would have adverse consequences for the Institution which would likely cause the Institution to meet the conditions set out in subsection ‎(1) in the future.
+Part 5.Chapter 1.22.(3)	A Resolution Action may be taken in respect of an ADGM Branch only if the Regulator is satisfied that the following conditions are met—
+(a)	the ADGM Branch is failing or is likely to fail;
+(b)	having regard to timing and other relevant circumstances, it is not reasonably likely that any action will be taken by or in respect of the ADGM Branch or Non-ADGM Institution that will prevent the failure or likely failure of the ADGM Branch or Non-ADGM Institution; 
+(c)	the application of a Resolution Tool is in the public interest; and
+(d)	the Non-ADGM Institution is—
+(i)	not subject to, and not likely in a reasonable timeframe to be subject to, any Foreign Resolution Action or Non-ADGM Insolvency Proceedings; or 
+(ii)	subject to Foreign Resolution Action, and one of the circumstances referred to in section 78(2) applies in respect of the Non-ADGM Institution.  
+Part 5.Chapter 1.22.(4)	A Resolution Action may be taken in respect of an ADGM Parent Undertaking or ADGM Subsidiary of an Institution only if the Regulator is satisfied that the following conditions are met—
+(a)	the ADGM Parent Undertaking or ADGM Subsidiary and one or more Institutions in the Group meet the conditions set out in subsection ‎(1); or
+(b)	notwithstanding the fact that the ADGM Parent Undertaking or ADGM Subsidiary does not meet the conditions set out in subsection ‎(1)—
+(i)	one or more of the Institutions in the Group meet the conditions set out in subsection ‎(1);
+(ii)	the assets and liabilities of such Institutions are such that their failure threatens an Institution in the Group or the Group as a whole; and 
+(iii)	Resolution Action with regard to the ADGM Parent Undertaking is necessary for the Resolution of such Institutions or for the Resolution of the Group as a whole.
+Part 5.Chapter 1.22.(5)	A Resolution Action, including any Resolution Action taken pursuant to a Foreign Resolution Order, may be taken in respect of an ADGM Parent Undertaking or ADGM Subsidiary of an Non-ADGM Financial Institution only if the Regulator is satisfied that the following conditions are met—
+(a)	the ADGM Parent Undertaking or ADGM Subsidiary meets the conditions set out in subsection ‎(1), or the resolution authority of the Non-ADGM Financial Institution has determined that the Non-ADGM Financial Institution meets the conditions for resolution under the laws of the jurisdiction in which the Non-ADGM Financial Institution is incorporated; or
+(b)	notwithstanding the fact that the ADGM Parent Undertaking or ADGM Subsidiary does not meet the conditions set out in subsection ‎(1)—
+(i)	the resolution authority of the Non-ADGM Financial Institution has determined that the Non-ADGM Financial Institution meets the conditions for resolution under the laws of the jurisdiction in which the Non-ADGM Financial Institution is incorporated;
+(ii)	its assets and liabilities are such that their failure threatens an Institution or the Group as a whole, or the Non-ADGM Insolvency Law of the jurisdiction in which the Non-ADGM Financial Institution is incorporated requires that Groups be treated as a whole; and 
+(iii)	Resolution Action with regard to the ADGM Parent Undertaking or ADGM Subsidiary is necessary for the Resolution of the Non-ADGM Financial Institution or for the Resolution of the Group as a whole.
+Part 5.Chapter 1.22.(6)	For the purposes of this section, a Resolution Action shall be in the public interest—
+(a)	it is necessary for the achievement of and is proportionate to one or more of the Resolution Objectives in light of the Guiding Principles; and 
+(b)	Winding Up the Institution under Insolvency Proceedings would not meet the Resolution Objectives to the same extent.
+Part 5.Chapter 1.22.(7)	The prior adoption of a measure under section ‎18 with regard to an Institution shall not be taken as indicative that the Resolution Conditions are met.
+
+
+Part 5.Chapter 1.23.	Circumstances in which an Institution is deemed to be failing or likely to fail
+Part 5.Chapter 1.23.(1)	An Investment Firm shall be deemed to be failing or likely to fail in one or more of the following circumstances—
+(a)	it is failing, or is likely to fail, to satisfy the Threshold Conditions in a way that would justify the cancellation by the Regulator under section 33 of the Financial Services and Markets Regulations 2015 of the Investment Firm's Financial Services Permission to carry out one or more Regulated Activities;
+(b)	the value of the assets of the Investment Firm determined in accordance with the Pre-Resolution Valuation is less than the value of its liabilities as so determined;
+(c)	the Investment Firm is unable to pay its debts or other liabilities as they fall due; or
+(d)	one or more of subsections ‎(a) to ‎(c) will, in the near future, apply to the Investment Firm.
+Part 5.Chapter 1.23.(2)	A Recognised Clearing House shall be deemed to be failing or likely to fail in one or more of the following circumstances—
+(a)	it is failing, or is likely to fail, to—
+(i)	maintain the continuity of any Critical Clearing Services it provides; or
+(ii)	satisfy the Recognition Requirements in a way that would justify the revocation by the Regulator under section 134 of the Financial Services and Markets Regulations 2015 of the recognition order in respect of the Recognised Clearing House; 
+(b)	the value of the assets of the Recognised Clearing House determined in accordance with the Pre-Resolution Valuation is less than the value of its liabilities as so determined; 
+(c)	the Recognised Clearing House is unable to pay its debts or other liabilities as they fall due; or
+(d)	one or more of subsections ‎(a) to ‎(c) will, in the near future, apply to the Recognised Clearing House.
+Part 5.Chapter 1.23.(3)	An ADGM Branch shall be deemed to be failing or likely to fail in one or more of the following circumstances—
+(a)	the Non-ADGM Institution is failing, or is likely to fail, to satisfy the Threshold Conditions in a way that would justify the cancellation by the Regulator under section 33 of the Financial Services and Markets Regulations 2015 of the Non-ADGM Institution's Financial Services Permission to carry on one or more Regulated Activities;
+(b)	the ADGM Branch is, in the opinion of the Regulator, unable or unwilling, or is likely to be unable, to pay its obligations to its creditors, or obligations otherwise arising from the Business of the ADGM Branch as they fall due; 
+(c)	the resolution authority of the Non-ADGM Institution has initiated a Foreign Resolution Action in relation to the Non-ADGM Institution, or has notified the Regulator of its intention to initiate such a proceeding; or
+(d)	one or more of subsections ‎(a) to ‎(c) will, in the near future, apply to the ADGM Branch.
+Part 5.Chapter 1.23.(4)	An ADGM Parent Undertaking or ADGM Subsidiary shall be deemed to be failing or likely to fail in one or more of the following circumstances—
+(a)	the value of the assets of the ADGM Parent Undertaking or ADGM Subsidiary determined in accordance with the Pre-Resolution Valuation is less than the value of its liabilities as so determined; 
+(b)	the ADGM Parent Undertaking or ADGM Subsidiary is unable to pay its debts or other liabilities as they fall due; or
+(c)	one or both of subsections ‎(a) and ‎(b) will, in the near future, apply to the ADGM Parent Undertaking or ADGM Subsidiary.
+
+
+Part 5.Chapter 1.24.	Requirement for notice
+Part 5.Chapter 1.24.(1)	The Management of an Institution shall notify the Regulator if the Management consider that the Institution is deemed to be failing or likely to fail pursuant to section ‎23.
+Part 5.Chapter 1.24.(2)	The Regulator shall determine whether the Resolution Conditions are met in respect of that Institution and shall record its decision together with reasons for the decision and the actions that the Regulator intends to take as a result of it. The Regulator may, but need not, make such records public.
+Part 5.Chapter 1.24.(3)	Where the Regulator determines that the Resolution Conditions are met in relation to an Institution pursuant to subsection ‎(2), the Regulator shall give notice of that determination, the Regulator's decision based on that determination, together with reasons for the decision recorded pursuant to subsection (2) and the actions that the Regulator intends to take as a result of it, as soon as practicable, to the following—
+(a)	the Institution;
+(b)	the Board;
+(c)	where applicable, the supervisory authorities and resolution authorities of the jurisdictions in which any Group Entity or significant Branches are located; and
+(d)	where applicable and necessary, the depositors guarantee schemes to which an Institution is affiliated.
+Part 5.Chapter 1.25.	General Resolution Principles
+The Regulator shall, in applying a Resolution Tool to an Institution, take appropriate measures to ensure that Resolution Action is taken in accordance with the following general principles of Resolution—
+(a)	the Shareholders of an Institution in Resolution shall bear first losses;
+(b)	where and to the extent reasonably practicable, the creditors of an Institution in Resolution shall bear losses after the Shareholders in accordance with the ordinary priority of their claims in Insolvency Proceedings, except as otherwise expressly provided for in these Regulations or subordinate legislation;
+(c)	the Management of the Institution in Resolution shall be replaced, except in those cases when the retention of the Management of the Institution, in whole or in part, is considered appropriate in the circumstances or necessary for the achievement of the Resolution Objectives;
+(d)	the Management of the Institution in Resolution shall provide all necessary assistance for the achievement of the Resolution Objectives;
+(e)	individuals and legal persons that are responsible for the failure of the Institution shall be made liable, in accordance with the law in force in the ADGM;
+(f)	except where otherwise provided under these Regulations or under ADGM Insolvency Regulations, creditors of the same class shall be treated in an equitable manner;
+(g)	where and to the extent reasonably practicable, no creditor ought to incur materially greater losses than would have been incurred had the Institution been Wound Up under Insolvency Proceedings unless it is in the public interest;
+(h)	Resolution Action shall be taken in accordance with the Resolution Safeguards; and
+(i)	the destruction of value resulting from the Resolution of an Institution shall be minimised.
+Part 5.Chapter 1.26.	Conditions for application of a Resolution Tool
+Part 5.Chapter 1.26.(1)	When applying a Resolution Tool to an Institution, the Regulator shall take into account the measures provided in the Institution's Resolution Plan (if applicable) unless the Regulator assesses that, in the circumstances, the Resolution Objectives may be achieved more effectively by taking actions that are not provided in the Resolution Plan. 
+Part 5.Chapter 1.26.(2)	If the Regulator—
+(a)	decides to apply a Resolution Tool to an Investment Firm, an ADGM Parent Undertaking or ADGM Subsidiary; and 
+(b)	the application of the Resolution Tool would result in loss being borne by the creditors or their claims being converted, 
+the Regulator shall consider exercising the Write Down or Conversion Power under section ‎64 to convert capital instruments immediately before, or contemporaneously to, applying the Resolution Tool.
+Part 5.Chapter 1.26.(3)	The Regulator may apply the Resolution Tools individually or in any combination. 
+Part 5.Chapter 1.26.(4)	Where the Sale of Business Tool is used to transfer only part of the rights, assets or liabilities of the Institution in Resolution or the Business of the ADGM Branch, the Residual Institution from which those rights, assets or liabilities have been transferred shall be Wound Up under Insolvency Proceedings unless otherwise directed by the Regulator. Such Winding Up shall be done within a reasonable time, having regard, if relevant, to the need for that Institution to provide services in order to enable the Recipient to carry out the activities or services acquired by virtue of that transfer, and any other reason that the continuation of the Residual Institution is necessary to achieve the Resolution Objectives or comply with the General Resolution Principles.
+
+
+Part 5.Chapter 2	General Resolution Matters
+Part 5.Chapter 2.27.	Ex-ante judicial approval
+Part 5.Chapter 2.27.(1)	A decision by the Regulator to take Resolution Action or make a Foreign Resolution Order shall be subject to it obtaining a prior judicial ruling from the Court in accordance with this section. 
+Part 5.Chapter 2.27.(2)	A judicial ruling in accordance with subsection (1) shall be mandatory prior to taking Resolution Action or making a Foreign Resolution Order, if the Resolution Action or Foreign Resolution Order amounts to or would amount to an action of confiscation or seizure or any restriction on individual ownership of funds, rights or activities under Article 19(1) of the ADGM Founding Law.
+Part 5.Chapter 2.27.(3)	A judicial ruling may be requested from the Court by the Regulator in all other cases that do not fall under subparagraph (2).
+Part 5.Chapter 2.27.(4)	Any application for a judicial ruling under this section shall be for a determination that the Regulator has reasonable grounds to conclude that the Resolution Conditions necessary for taking the Resolution Action or making a Foreign Resolution Order have been satisfied. 
+Part 5.Chapter 2.27.(5)	The hearing of any application brought by the Regulator under this section shall be held in private and may be conducted without notice to, and in the absence of, the Institution. 
+Part 5.Chapter 2.27.(6)	The Court  may issue a ruling declaring that the Regulator has reasonable grounds to conclude that the Resolution Conditions have been satisfied if the Regulator has demonstrated that the Resolution Conditions necessary for taking the Resolution Action or making a Foreign Resolution Order have been met.
+Part 5.Chapter 2.27.(7)	The Court shall not issue any interim or interlocutory order in relation to any Resolution Action in favour of a person other than the Regulator.  The rights of any Shareholder, creditor or other person affected in respect of any situation, action or omission in connection with Resolution Action will be limited to an action for compensation against the Institution in Resolution or the Residual Institution as may be determined by the Difference in Treatment Valuation and claimable pursuant to section 68. 
+Part 5.Chapter 2.27.(8)	Any subsequent judicial ruling of the Court arising from any appeal of a judicial ruling under this section, or the judicial review of any subsequent Resolution Action taken by the Regulator, or Foreign Resolution Order made by the Regulator, shall not affect or invalidate any transfer, provision or instrument made by the Regulator pursuant to such Resolution Action or Foreign Resolution Order and the Court may not quash any provision in any transfer, provision or instrument made by the Regulator pursuant to such Resolution Action. 
+Part 5.Chapter 2.27.(9)	Subsection (8) does not affect the power of the Court, subject to section 6, to award damages as a remedy. 
+Part 5.Chapter 2.28.	Restrictions on Other Proceedings
+Part 5.Chapter 2.28.(1)	Commencement of Insolvency Proceedings against an In-Scope Entity shall be taken only with notice to, and the consent of, the Regulator.
+Part 5.Chapter 2.28.(2)	For the purposes of subsection (1), the Court shall only consider an application to issue Insolvency Proceedings if the applicant has filed with the Court evidence of delivery of notice to the Regulator concerning the application to issue Insolvency Proceedings in relation to an In-Scope Entity, irrespective of whether the In-Scope Entity is under Resolution or a decision has been made public; and
+(a)	the Regulator has notified the Court that it does not intend to take any Resolution Action in relation to the In-Scope Entity; or 
+(b)	a period of seven days, beginning from the date on which the notification required  under subsection (1) was made, has expired, in which event the Regulator shall be deemed to have consented to the issuance of Insolvency Proceedings.
+Part 5.Chapter 2.28.(3)	Without prejudice to any restriction on the enforcement of security interests imposed pursuant to section ‎61, if necessary for the effective application of the Resolution Tools and Resolution Powers, the Regulator may request the Court to apply a stay for an appropriate period of time in accordance with the objective pursued, of any judicial action or proceeding in which an In-Scope Entity under Resolution is or becomes a party.
+Part 5.Chapter 2.29.	Creditor hierarchy
+Part 5.Chapter 2.29.(1)	For the purposes of Resolution of In-Scope Entities, the following shall have the same priority ranking which is higher than the ranking provided for the claims of ordinary unsecured, non-preferential creditors—
+(a)	an Eligible Deposit; and
+(b)	a Deposit that would be an Eligible Deposit if it were made in the ADGM.
+Part 5.Chapter 2.29.(2)	In respect of In-Scope Entities, the priority ranking set out in subsection (1) on In-Scope Entities shall override any relevant conflicting provisions set out in the Insolvency Regulations 2015.
+Part 5.Chapter 2.30.	Assessment by the Regulator
+Part 5.Chapter 2.30.(1)	Where there is a requirement to notify or obtain approval of the Regulator of an acquisition of, or increase in the level of, control under Part 10 of the Financial Services and Markets Regulations 2015 by virtue of the taking of Resolution Action that would result in a change in the level of ownership of a person by another person, the Regulator shall carry out a relevant assessment related to that notification in a timely manner that does not delay or prevent the taking of the Resolution Action.
+Part 5.Chapter 2.30.(2)	Where the Regulator has not completed an assessment required under subsection ‎(1) or given any relevant approval of a transfer or conversion by the date that the Resolution Action is made effective by the Regulator, the following shall apply—
+(a)	such a transfer or conversion shall have immediate legal effect;
+(b)	during the assessment period and during any divestment period, an acquirer's voting rights attached to such Shares shall be suspended and vested solely in the Regulator, which shall have no obligation to exercise any such voting rights and which shall have no liability whatsoever for exercising or refraining from exercising any such voting rights;
+(c)	during the assessment period and during any divestment period, neither the penalties nor other measures for failing to comply with the requirements for acquisitions or disposals of qualifying or significant shareholdings under Part 10 of the Financial Services and Markets Regulations 2015 and any subordinate legislation under the Financial Services and Markets Regulations 2015 shall apply to such a transfer or conversion;
+(d)	promptly upon completion of the assessment by the Regulator, the Regulator shall notify the acquirer in writing of whether the Regulator approves or, on the grounds referred to in the Financial Services and Markets Regulations 2015 or any subordinate legislation under the Financial Services and Markets Regulations 2015, opposes such a transfer of Shares to the acquirer or the acquisition of Shares by the acquirer as a result of conversion;
+(e)	if the Regulator approves such a transfer of Shares to the acquirer (or the acquisition of Shares by the acquirer as a result of conversion), then the voting rights attached to such Shares shall be deemed to be fully vested in the acquirer immediately upon receipt by the acquirer of such approval notice from the Regulator; and
+(f)	if the Regulator opposes such a transfer of Shares to the acquirer (or the acquisition of Shares by the acquirer as a result of conversion), then—
+(i)	the voting rights attached to such Shares as provided by subsection ‎(b) shall remain in full force and effect;
+(ii)	the Regulator may require the acquirer to divest such Shares within a divestment period determined by the Regulator having taken into account prevailing market conditions; and
+(iii)	if the acquirer does not complete such divestment within the divestment period established by the Regulator, then the Regulator may impose on the purchaser penalties and other measures for failing to comply with the requirements for acquisitions or disposals of qualifying or significant shareholdings under Part 10 of the Financial Services and Markets Regulations 2015 or any subordinate legislation under the Financial Services and Markets Regulation 2015.
+
+
+Part 5.Chapter 2.31.	Manner of recovery by Regulator of expenses
+The Regulator may recover from an Institution in Resolution any reasonable expenses properly incurred in connection with the application of a Resolution Tool or exercise of a Resolution Power in one or more of the following ways—
+(a)	as a deduction from any consideration paid by a Recipient to the Institution in Resolution, or as the case may be, to the owners of the Shares; or
+(b)	from the Institution in Resolution as a preferential creditor with priority over the claims of ordinary unsecured, non-preferential creditors.
+Part 5.Chapter 2.32.	Liabilities of Directors
+A Director of an Institution in Resolution shall not be liable to the Institution or any other persons that it owes duties to (including, but not limited to, Shareholders, creditors or employees of the Institution) for acts and omissions in compliance with a direction given by the Regulator under these Regulations or subordinate legislation.
+
+
+Part 5.Chapter 3	Special Management
+Part 5.Chapter 3.33.	Special management
+Part 5.Chapter 3.33.(1)	The Regulator may appoint a special manager to replace the Management of an Institution in Resolution.
+Part 5.Chapter 3.33.(2)	A special manager appointed under subsection ‎(1) must have the qualifications, ability and knowledge necessary to carry out his or her functions under these Regulations.
+Part 5.Chapter 3.33.(3)	The term of appointment of a special manager shall be for a period not exceeding one year, except that the Regulator may, in exceptional circumstances, renew the appointment for a further period not exceeding one year if the Regulator determines that the conditions for appointment of a special manager continue to be met.
+Part 5.Chapter 3.33.(4)	The Regulator shall, in such manner as it considers appropriate, publish notice of the appointment of a special manager.
+Part 5.Chapter 3.33.(5)	A special manager shall have all the powers of the Shareholders and Management of the Institution in Resolution, except that—
+(a)	the exercise of that power shall be under the control of the Regulator; and
+(b)	the Regulator may set limits to the action of a special manager or require that certain acts of the special manager be subject to the Regulator's prior consent.
+Part 5.Chapter 3.33.(6)	A special manager shall have a duty to take all measures necessary to promote the Resolution Objectives and to implement Resolution Actions in accordance with decisions of the Regulator.
+Part 5.Chapter 3.33.(7)	The duty specified in subsection ‎(6) may, where necessary, override any other duty placed upon a Director under the Companies Regulations 2015 and the Institution's constitutional documents in so far as they are inconsistent.
+Part 5.Chapter 3.33.(8)	The measures referred to in subsection ‎(6) may include—
+(a)	an increase of the Institution's capital;
+(b)	the reorganisation of the ownership structure of the Institution; or
+(c)	the takeover of the Institution by another Institution that is financially and organisationally sound by applying a Resolution Tool.
+Part 5.Chapter 3.33.(9)	In appointing a special manager to an Institution that is a Group Entity, the Regulator shall consider whether it is appropriate to appoint the same special manager that is appointed to another entity in the Institution's Group.
+Part 5.Chapter 3.34.	Regulator or special manager not to be treated as a Director of an Institution
+Nothing in these Regulations shall cause the Regulator or a special manager appointed by the Regulator under section 33 to be treated as or deemed to be a Director, Shadow Director, partner, member, or de facto Director of an Institution.
+
+
+
+Part 5.Chapter 4	Valuation
+Part 5.Chapter 4.35.	Pre-Resolution Valuation
+Part 5.Chapter 4.35.(1)	Subject to section ‎39 and prior to taking Resolution Action in respect of an In-Scope Entity, the Regulator shall cause to be carried out a Pre-Resolution Valuation of—
+(a)	in the case of an In-Scope Entity that is not an ADGM Branch, the assets and liabilities of the In-Scope Entity; and
+(b)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+Part 5.Chapter 4.35.(2)	The Regulator shall appoint an independent valuer to carry out a Pre-Resolution Valuation.
+Part 5.Chapter 4.35.(3)	The purpose of a Pre-Resolution Valuation shall be—
+(a)	to inform the decision of whether the Resolution Conditions or the conditions for the Write Down or Conversion Power are met;
+(b)	if the Resolution Conditions are met, to inform the decision on which a Resolution Tool should be applied;
+(c)	if the conditions for the Write Down or Conversion Power are met, to inform the decision on the extent of the cancellation or dilution of Shares and the extent of the write down or conversion;
+(d)	if the Bail-in Tool is to be applied, to inform the decision on the extent of the write down or conversion of Eligible Liabilities;
+(e)	if the Sale of Business Tool is to be applied, to inform the decision on the rights, assets, liabilities or Shares to be transferred and to inform the Regulator's understanding of what constitutes commercial terms for the purpose of the application of the tool; and
+(f)	in all cases, to ensure that any losses on the assets of the In-Scope Entity  are fully recognised at the moment a Resolution Tool is applied or the Write Down or Conversion Power is exercised.
+Part 5.Chapter 4.35.(4)	In carrying out a Pre-Resolution Valuation, the person carrying out the valuation shall—
+(a)	make prudent assumptions, including as to the rates of defaults and severity of losses;
+(b)	disregard any potential future provision of extraordinary public financial support; and
+(c)	take into account the fact that if any Resolution Tool is applied the Regulator may recover any reasonable expenses properly incurred from the In-Scope Entity in accordance with the General Resolution Principles.
+Part 5.Chapter 4.35.(5)	A valuation shall be supplemented by the following information as appearing in the accounting books and records of the In-Scope Entity (or, in the case of an ADGM Branch, the Non-ADGM Institution, as applicable)—
+(a)	a balance sheet, as at the date of the valuation, of—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the In-Scope Entity; and
+(ii)	in the case of an ADGM Branch, the Business of the ADGM Branch;
+(b)	a report on the financial position of the In-Scope Entity;
+(c)	an analysis and estimate of the accounting value of—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the assets of the In-Scope Entity; and
+(ii)	in the case of an ADGM Branch, the property and rights of the Non-ADGM Institution which form part of the Business of the ADGM Branch;
+(d)	where required to inform a decision relating to the Sale of Business Tool, an analysis and estimate of the market value of—
+(i)	in the case of an Institution that is not an ADGM Branch, the assets and liabilities of the Institution; and
+(ii)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+(e)	a list of outstanding liabilities (including any off balance sheet liabilities) of—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the In-Scope Entity; and
+(ii)	in the case of an ADGM Branch, the Non-ADGM Institution which form part of the Business of the ADGM Branch, 
+with the creditors subdivided into classes according to the priority their claims would have under Insolvency Proceedings; and
+(f)	an estimate of the amount each class of creditors and Shareholders might be expected to receive if—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the In-Scope Entity were to be Wound Up under Insolvency Proceedings; and
+(ii)	in the case of an ADGM Branch, the Non-ADGM Institution went into Non-ADGM Insolvency Proceedings.
+Part 5.Chapter 4.36.	Provisional Valuation
+Part 5.Chapter 4.36.(1)	Subject to section ‎39, where the Regulator considers that the urgency of the case makes it appropriate for Resolution Action to be taken in respect of an In-Scope Entity before a Pre-Resolution Valuation can be carried out by an independent valuer appointed under section ‎35‎(2), the Regulator may cause a Provisional Valuation to be carried out of—
+(a)	in the case of an In-Scope Entity that is not an ADGM Branch, the assets and liabilities of the In-Scope Entity; and
+(b)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+Part 5.Chapter 4.36.(2)	Where a Provisional Valuation is carried out—
+(a)	section ‎35‎(2) shall not be applicable to the Provisional Valuation;
+(b)	the Regulator shall comply with section ‎35‎(4) and ‎(5) so far as it is reasonable to do so in the circumstances; 
+(c)	the Provisional Valuation must make provision in respect of additional losses by the In-Scope Entity that are reasonably foreseeable; and
+(d)	the Provisional Valuation shall be a valid basis on which a decision to exercise a Resolution Power may be taken.
+Part 5.Chapter 4.36.(3)	For the purposes of carrying out a Provisional Valuation, the Regulator may rely on accounts drawn up by the In-Scope Entity.
+Part 5.Chapter 4.37.	Definitive Valuation
+Part 5.Chapter 4.37.(1)	Subject to section ‎39, where the Regulator has caused a Provisional Valuation to be carried out under section ‎36, the Regulator shall, in accordance with any eligibility criteria prescribed under section ‎40, appoint an independent valuer to carry out, as soon as practicable, a Definitive Valuation of—
+(a)	in the case of an In-Scope Entity that is not an ADGM Branch, the assets and liabilities of the In-Scope Entity; and
+(b)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+Part 5.Chapter 4.37.(2)	The purpose of the Definitive Valuation is to—
+(a)	ensure that—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the full extent of any losses on the assets of the In-Scope Entity is recognised in the accounting records of the In-Scope Entity; 
+(ii)	in the case of an ADGM Branch, the full extent of any losses on the property and rights of the Non-ADGM Institution which formed part of the Business of the ADGM Branch is recognised in the accounting records of the Non-ADGM Institution; and
+(b)	inform a decision by the Regulator as to whether—
+(i)	additional consideration should be paid by a purchaser for any property, rights, liabilities or Shares transferred under a Sale of Business Tool; or
+(ii)	to increase or reinstate any liability which has been reduced or cancelled by a Resolution Order.
+Part 5.Chapter 4.37.(3)	Where a Definitive Valuation is carried out, section ‎35‎(2) shall be applicable to the Definitive Valuation and the Regulator shall comply with section ‎35‎(4) and ‎(5).
+Part 5.Chapter 4.37.(4)	A Definitive Valuation may be carried out separately from the Difference of Treatment Valuation or simultaneously with, and by, the same independent valuer who carries out the Difference of Treatment Valuation, but the Definitive Valuation and the Difference of Treatment Valuation shall be distinct from each other.
+Part 5.Chapter 4.37.(5)	A person who participates in any manner in a Provisional Valuation of an In-Scope Entity shall not, regardless of the capacity in which the person participated, by reason only of that participation be deemed to be ineligible for appointment as an independent valuer for the purpose of carrying out a Definitive Valuation of that In-Scope Entity.
+Part 5.Chapter 4.38.	Consequences of a higher valuation being produced by Definitive Valuation
+Part 5.Chapter 4.38.(1)	Where a Definitive Valuation produces a higher valuation of the net asset value of an In-Scope Entity than the Provisional Valuation, the Regulator may—
+(a)	instruct a purchaser to pay additional consideration for any rights, assets, liabilities or Shares transferred under the Sale of Business Tool; or
+(b)	modify any liability of—
+(i)	in the case of an In-Scope Entity that is not an ADGM Branch, the In-Scope Entity; and
+(ii)	in the case of an ADGM Branch, the Non-ADGM Institution,
+which has been reduced, deferred or cancelled pursuant to the Write Down or Conversion Power or a Resolution Order so as to increase or reinstate that liability.
+Part 5.Chapter 4.38.(2)	A power under subsection ‎(1)—
+(a)	shall not be exercised so as to increase the value of the liability beyond the value it would have had if the Resolution Order which reduced, cancelled or deferred it had not been made; and
+(b)	shall be exercised by the issue by the Regulator of a Resolution Order (whether or not that instrument contains any other provisions authorised by this subsection or subsection ‎(1)).
+Part 5.Chapter 4.39.	Technical standards
+Part 5.Chapter 4.39.(1)	The Regulator may prescribe standards for the purpose of a Pre-Resolution Valuation or Definitive Valuation.
+Part 5.Chapter 4.39.(2)	A Pre-Resolution Valuation or Definitive Valuation shall be carried out in accordance with any such technical standards set or adopted by the Regulator under subsection ‎(1) and otherwise in accordance with applicable accountancy standards.
+Part 5.Chapter 4.40.	Eligibility criteria for independent valuer
+The Regulator may prescribe the eligibility criteria for the appointment of a person as an independent valuer for the purposes of section ‎35, ‎37 or ‎68.
+Part 5.Chapter 4.41.	Ancillary powers of an independent valuer
+Part 5.Chapter 4.41.(1)	Subject to the Resolution Safeguards, an independent valuer may do anything necessary or desirable for the purposes of, or in connection with, the performance of the independent valuer's functions under these Regulations.
+Part 5.Chapter 4.41.(2)	The independent valuer shall have, without limitation, the power to—
+(a)	require any member of Management of an In-Scope Entity to attend an interview at a specified time and place and answer questions;
+(b)	require an In-Scope Entity to produce at a specified time and place any specified Documents or Documents of a specified description; 
+(c)	require an In-Scope Entity to provide such information as the independent valuer may require; 
+(d)	require an In-Scope Entity to provide such assistance as the independent valuer may require; or
+(e)	enter the business premises of an In-Scope Entity during normal business hours for the purpose of inspecting and copying Documents on such premises.
+Part 5.Chapter 4.41.(3)	The Regulator may confer on an independent valuer such ancillary powers as the Regulator thinks necessary for the purposes of, or in connection with, the exercise of the independent valuer's functions under these Regulations, or the exercise or performance of any power or duty conferred or imposed on the independent valuer under these Regulations.
+
+
+Part 6	Resolution Tools and Resolution Safeguards
+Part 6.Chapter 1	Sale of Business Tool
+Part 6.Chapter 1.42.	Application of the Sale of Business Tool
+Part 6.Chapter 1.42.(1)	The Regulator may apply the Sale of Business Tool to an Institution that meets the Resolution Conditions by effecting a sale of all or part of the business of the Institution in Resolution to one or more purchasers by making—
+(a)	one or more property transfer instruments for the transfer of all or any rights, assets or liabilities of the Institution; and
+(b)	in the case of an Institution that is not an ADGM Branch, one or more Share transfer instruments for the transfer of all or part of the Shares of the Institution.
+Part 6.Chapter 1.42.(2)	Subject to the Resolution Safeguards, the Regulator may apply the Sale of Business Tool to an Institution without—
+(a)	the consent of the Shareholders of the Institution or any third party other than the purchaser; and
+(b)	complying with any procedural requirements under the Companies Regulations 2015 or the constitutional documents of the Institution other than those procedural requirements specified in these Regulations or subordinate legislation.
+Part 6.Chapter 1.42.(3)	The Regulator shall ensure that a transfer made by applying the Sale of Business Tool under this section is made on commercial terms having regard to the circumstances.
+Part 6.Chapter 1.42.(4)	The Regulator shall take reasonable measures to specify, on the basis of a Pre-Resolution Valuation, commercial terms for the transfer made under the Sale of Business Tool under this section. 
+Part 6.Chapter 1.42.(5)	Subject to the section ‎31, the net proceeds of consideration paid by the purchaser on the transfer made under the Sale of Business Tool under this section shall be applied for the benefit of—
+(a)	the owners of the Shares, where the Sale of Business Tool has been effected by transferring Shares issued by the Institution in Resolution from the holders of those Shares or instruments to the purchaser subject to first reimbursing any creditor of the Residual Institution ranking higher in the hierarchy which has been written down or bailed-in, where and to the extent reasonably practicable; and
+(b)	the Institution in Resolution, where the Sale of Business Tool has been effected by transferring some or all of—
+(i)	in the case of an Institution that is not an ADGM Branch, the assets or liabilities of the Institution to the purchaser; and
+(ii)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+Part 6.Chapter 1.42.(6)	When applying the Sale of Business Tool to an Institution, the Regulator may exercise the Transfer Power more than once in order to make supplemental transfers of—
+(a)	in the case of an Institution that is not an ADGM Branch, any rights, assets or liabilities of or Shares issued by the Institution; and
+(b)	in the case of an ADGM Branch, the Business of the ADGM Branch.
+Part 6.Chapter 1.42.(7)	A transfer made under the Sale of Business Tool shall be subject to the Resolution Safeguards.
+Part 6.Chapter 1.42.(8)	The Regulator shall immediately notify any other competent authority of its non-compliance with any procedural requirements under subsection ‎(2)‎(b).
+Part 6.Chapter 1.43.	Power to transfer rights, assets, liabilities or Shares transferred to the purchaser back to the Institution in Resolution or to original owners
+Subject to the Resolution Safeguards, after the application of the Sale of Business Tool, the Regulator may, with the consent of the purchaser, transfer—
+(a)	the rights, assets, or liabilities transferred to the purchaser back to the Institution in Resolution; or
+(b)	the Shares back to their original owners,
+and the Institution in Resolution or the original owners shall be obliged to take back any such rights, assets, liabilities or Shares.
+Part 6.Chapter 1.44.	Rights of the Institution in Resolution under the Sale of Business Tool
+In the case of an Institution that is not an ADGM Branch, where a transfer under the Sale of Business Tool is effected by way of a transfer of Shares of the Institution in Resolution, the Institution in Resolution may exercise any rights following the transfer that it was entitled to exercise prior to the transfer.
+Part 6.Chapter 1.45.	Rights of the purchaser under the Sale of Business Tool
+Part 6.Chapter 1.45.(1)	Where a transfer under the Sale of Business Tool results in the purchaser's acquisition of activities or services that require authorisation, the purchaser may continue to operate such business without complying with the requirements for authorisation, registration or obtaining a licence under the Financial Services and Markets Regulations 2015, Data Protection Regulations 2015 or Commercial Licensing Regulations 2015 to undertake such business for a period not exceeding six months, within which period an application for authorisation, registration or licence under the Financial Services and Markets Regulations 2015, Data Protection Regulations 2015 or Commercial Licensing Regulations 2015 shall be made.
+Part 6.Chapter 1.45.(2)	Where a transfer under the Sale of Business Tool has been effected by way of a transfer of rights, assets and liabilities, the purchaser shall be entitled to exercise any such rights following the transfer that the Institution in Resolution (or, in the case of an ADGM Branch, the Non-ADGM Institution, as appropriate) was entitled to exercise prior to the transfer and shall be subject to all such liabilities, including membership rights and access to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses, exchanges, Recognised Investment Exchanges, investor compensation schemes and deposit guarantee schemes and rights and liabilities between such entities and the purchaser, provided that the purchaser meets the criteria for such membership or participation in such systems. 
+Part 6.Chapter 1.45.(3)	Where a transfer under the Sale of Business Tool has been effected by way of a transfer of rights, assets and liabilities, the purchaser shall be entitled to rely on any anti-money laundering assessments already undertaken by the Institution in Resolution (or, in the case of an ADGM Branch, the Non-ADGM Institution, as appropriate) unless directed otherwise by the Regulator.
+Part 6.Chapter 1.45.(4)	Where a purchaser does not meet the membership or participation criteria for a relevant payment and securities settlement system, clearing house, exchange, investor compensation scheme or deposit guarantee scheme, the rights referred to in subsection ‎(2) shall be exercised for such period as may be specified by the Regulator, not exceeding 24 months, subject to renewal on application by the purchaser to the Regulator.
+Part 6.Chapter 1.45.(5)	Without prejudice to the Resolution Safeguards, Shareholders and creditors of an Institution in Resolution and other third parties whose rights, assets and liabilities are not transferred under the Sale of Business Tool shall not have any rights over or in relation to the rights, assets or liabilities transferred.
+Part 6.Chapter 1.46.	Marketing of rights, assets, liabilities or Shares
+Part 6.Chapter 1.46.(1)	Subject to the exceptions in subsection (4) and section ‎47, when applying the Sale of Business Tool to an Institution—
+(a)	the Regulator shall market or make arrangements for the marketing of the rights, assets, liabilities or Shares that the Regulator intends to transfer; and
+(b)	pools of rights, assets, liabilities or Shares may be marketed separately under subsection ‎(a).
+Part 6.Chapter 1.46.(2)	Marketing under subsection ‎(1) shall be carried out in accordance with the following principles—
+(a)	it shall involve good faith efforts not to materially misrepresent the rights, assets, liabilities, or Shares that the Regulator intends to transfer, having regard to the circumstances and in particular the need to maintain financial stability;
+(b)	it shall not unduly favour or discriminate between identified potential purchasers;
+(c)	it shall be free from conflicts of interest;
+(d)	it shall not confer any unfair advantage on a potential purchaser;
+(e)	it shall take account of the need to effect a rapid Resolution Action; and
+(f)	it shall aim at maximising, as far as possible, the sale price for the rights, assets, liabilities or Shares involved.
+Part 6.Chapter 1.46.(3)	Subject to subsection ‎(2)‎(b), the principles in subsection ‎(2) shall not prevent the Regulator from soliciting particular potential purchasers.
+Part 6.Chapter 1.46.(4)	The Regulator may apply the Sale of Business Tool to an Institution without complying with the requirement to market under subsection ‎(1)‎(a) if the Regulator determines that compliance with such requirements would be likely to undermine one or more of the Resolution Objectives and, in particular, if the Regulator considers that compliance with the requirements would be likely to undermine the effectiveness of the Sale of Business Tool in addressing the failure or likely failure identified under section ‎23 or achieving the Resolution Objectives. 
+Part 6.Chapter 1.47.	Delay of disclosure of information to the public on application of the Sale of Business Tool
+On application of the Sale of Business Tool to an Institution—
+(a)	disclosure of information to the public which would as a matter of law be required in relation to the sale may be delayed for the time necessary to plan and structure the Resolution of the Institution; and 
+(b)	disclosure to the public of the marketing which would as a matter of law be required may be delayed where all of the following conditions are met—
+(i)	immediate disclosure is likely to prejudice the legitimate interests of the Institution in Resolution;
+(ii)	delay of disclosure is in the public interest; and
+(iii)	the disclosure of the marketing information entails a risk of undermining the financial stability of—
+(A)	the Institution in Resolution;
+(B)	in the case of an ADGM Branch, the Non-ADGM Institution; and 
+(C)	the financial system in the ADGM.
+Part 6.Chapter 1.48.	Residual Institution to be Wound Up
+If the Sale of Business Tool has been used to transfer systemically important services or the viable business of an Institution, to a private sector purchaser, the Residual Institution shall be Wound Up under Insolvency Proceedings, within an appropriate timeframe, having regard to any need for the Residual Institution to provide services or support to enable the purchaser to carry on the activities or services acquired by the virtue of that transfer.
+
+
+
+Part 6.Chapter 2	Bail-in-tool
+Part 6.Chapter 2.49.	Application of Bail-in Tool
+Part 6.Chapter 2.49.(1)	The Regulator may apply the Bail-in Tool only in relation to an Institution that is not an ADGM Branch. The Bail-in Tool may be exercised only to meet the Resolution Objectives, in accordance with the General Resolution Principles, for any of the following purposes—
+(a)	to recapitalise an Institution that meets the Resolution Conditions to the extent sufficient to restore the Institution's ability to comply with the Threshold Conditions or Recognition Requirements as applicable and continue to carry out the activities for which the Institution is authorised, or recognised under the Financial Services and Markets Regulations 2015, and to sustain sufficient market confidence in the Institution; or
+(b)	to convert to Shares or reduce the principal amount of claims or Debt Instruments that are transferred under the Sale of Business Tool.
+Part 6.Chapter 2.49.(2)	The Regulator may under subsection ‎(1) make one or more Resolution Orders in order to apply the Bail-in Tool to an Institution that is not an ADGM Branch.
+Part 6.Chapter 2.49.(3)	The Regulator may apply the Bail-in Tool for the purposes referred to in subsection ‎(1)‎(a) only if there is a reasonable prospect that the application of the Bail-in Tool together with other relevant measures will, in addition to achieving the relevant Resolution Objectives, restore the Institution to financial soundness and long-term viability.
+Part 6.Chapter 2.49.(4)	Where there is no such reasonable prospect as referred to in to subsection ‎(3), the Regulator may apply the Bail-in Tool for the purposes referred to in subsection ‎(1)‎(b) together with Sale of Business Tool.
+Part 6.Chapter 2.49.(5)	The Regulator may apply the Bail-in Tool under subsection ‎(1) while respecting, in each case, the legal form of the Institution or while changing its legal form if the Regulator is of the view that changing the legal form is necessary to achieve the Resolution Objectives.
+Part 6.Chapter 2.49.(6)	The Bail-in Tool may be applied in respect of any liability of an Institution, provided that the liability is not excluded from the scope of the Bail-in Tool under subsection (1), ‎(7) or ‎(8).
+Part 6.Chapter 2.49.(7)	The Regulator shall not exercise the Write Down or Conversion Power in relation to the following liabilities whether they are governed by the laws of the ADGM or by the law of another jurisdiction—
+(a)	secured liabilities (including, but not limited to, Covered Bonds, liabilities in the form of financial instruments used for hedging purposes which form an integral part of the cover pool and which according to the ADGM law are secured in a way similar to Covered Bonds and financial collateral arrangements and liabilities under Derivative Contracts, to the extent the liabilities thereunder are secured), but this exclusion shall not prevent any liability in respect of net sum following close out of a Derivative Contract, to the extent it is an unsecured liability;
+(b)	any liability that arises by virtue of the holding of Client Assets by the Institution that is not an ADGM Branch;
+(c)	any liability that arises by virtue of a fiduciary relationship between the Institution (as fiduciary) and another person (as beneficiary) provided that such beneficiary's interests are protected under ADGM Insolvency Regulations or civil law;
+(d)	liabilities to Institutions excluding entities that are part of the same Group, with an original maturity of less than seven days;
+(e)	liabilities owed to payment and securities settlement systems. Central Securities Depositories, clearing houses, Recognised Clearing Houses or their operators or their participants and arising from the participation in any such system; or
+(f)	a liability to any one of the following—
+(i)	an employee, in relation to accrued salary, pension benefits or other fixed remuneration, except for the variable component of remuneration that is not regulated by a collective bargaining agreement;
+(ii)	a commercial or trade creditor arising from the provision to the Institution in Resolution of goods and services that are critical to the daily functioning of its operations, including information technology services, utilities and rental, servicing and upkeep of premises; or
+(iii)	any tax and social security authority or scheme in the UAE. 
+Part 6.Chapter 2.49.(8)	In exceptional circumstances, where the Bail-in Tool is applied, the Regulator may exclude or partially exclude certain liabilities from the application of the Write Down or Conversion Power where—
+(a)	it is not possible to bail-in that liability within a reasonable time despite the reasonable efforts of the Regulator;
+(b)	the exclusion is strictly necessary and is proportionate to achieve the continuity of Critical Functions and Core Business Lines in a manner that maintains the ability of the Institution in Resolution to continue key operations, services and transactions;
+(c)	the exclusion is strictly necessary and proportionate to avoid giving rise to widespread contagion, in particular as regards Deposits and Eligible Deposits which would severely disrupt the functioning of financial markets, including financial market infrastructures, in a manner that could cause broader financial instability; or
+(d)	the application of the Bail-in Tool to those liabilities would cause a destruction of value such that the losses borne by other creditors would be higher than if those liabilities were excluded from bail-in.
+Part 6.Chapter 2.49.(9)	Where the Regulator decides to exclude or partially exclude an Eligible Liability or class of Eligible Liabilities under subsection ‎(8), the level of write down or conversion applied to other Eligible Liabilities may be increased to take account of such exclusions, provided that the level of write down or conversion applied to other Eligible Liabilities complies with the General Resolution Principles specified in section ‎25‎(g).
+Part 6.Chapter 2.49.(10)	In exercising its discretion under subsection ‎(8), the Regulator shall give due consideration to—
+(a)	the need not to apply any bail-in to a netting set prior to such netting being completed;
+(b)	the need to avoid disruption to payment and securities settlement systems, Central Securities Depositories, clearing houses and Recognised Clearing Houses;
+(c)	the principle that losses shall be borne first by Shareholders and subsequently by creditors of the Institution in Resolution in order of preference in light of section ‎25‎(g);
+(d)	the level of loss absorbing capacity that would remain in the Institution in Resolution if the liability or class of liabilities were excluded; and
+(e)	the need to maintain adequate resources for Resolution financing.
+Part 6.Chapter 2.50.	Assessment of amount of bail-in
+Part 6.Chapter 2.50.(1)	In applying the Bail-in Tool under section ‎49, the Regulator shall assess for the purposes of subsection ‎(2), on the basis of the Pre-Resolution Valuation, the aggregate of—
+(a)	where applicable, the amount by which Eligible Liabilities must be written down in order to ensure that the net asset value of the Institution in Resolution is equal to zero; and
+(b)	where applicable, the amount by which Eligible Liabilities must be converted into Shares or other types of capital instruments in order to restore the Common Equity Tier 1 Capital ratio of the Institution in Resolution. 
+Part 6.Chapter 2.50.(2)	The assessment referred to in subsection ‎(1) shall establish the amount by which Eligible Liabilities need to be written down and converted in order—
+(a)	to restore the Common Equity Tier 1 Capital ratio of the Institution in Resolution;
+(b)	to sustain sufficient market confidence in the Institution in Resolution; and
+(c)	to enable the Institution to continue, for at least one year, to satisfy the Threshold Conditions or Recognition Requirements and to carry on the activities or services acquired by the virtue of that transfer under the Financial Services and Markets Regulations 2015.
+Part 6.Chapter 2.50.(3)	Where capital has been written down in accordance with the Write Down or Conversion Power under section ‎64, the Bail-in Tool has been applied, and the level of write down based on the Pre-Resolution Valuation is found to exceed requirements when assessed against the Definitive Valuation, a write up mechanism shall be applied to reimburse creditors and then Shareholders to the extent necessary.
+Part 6.Chapter 2.51.	Treatment of Shareholders in bail-in or write down or conversion
+Part 6.Chapter 2.51.Part 6.Chapter 2.51.(1)	When applying the Bail-in Tool or the Write Down or Conversion Power, the Regulator shall take, in respect of Shareholders of the Institution in Resolution, one or both of the following actions—
+(a)	cancel existing Shares or transfer them to bailed-in creditors; and
+(b)	provided that, in accordance with the Pre-Resolution Valuation (or Provisional Valuation, if applicable), the Institution in Resolution has a positive net value, dilute existing Shareholders as a result of the conversion into Shares of—
+(i)	Non-CET1 Capital Instruments issued by the Institution pursuant to the Write Down and Conversion Power; or
+(ii)	Eligible Liabilities issued by the Institution in Resolution pursuant to the Write Down and Conversion Power under section ‎66.
+Part 6.Chapter 2.51.(2)	The Regulator shall take the actions referred to in subsection ‎(1) in respect of Shareholders where the Shares were issued or conferred in the following circumstances—
+(a)	pursuant to the conversion of Debt Instruments to Shares in accordance with the contractual terms of the original Debt Instruments, on the occurrence of an event that preceded or occurred at the same time as the assessment by the Regulator that the Institution that is not an ADGM Branch met the Resolution Conditions; or
+(b)	pursuant to the conversion of Non-CET1 Capital Instruments to Common Equity Tier 1 Capital instruments, under the Write Down or Conversion Power under section ‎64.
+Part 6.Chapter 2.51.(3)	In considering which action to take in accordance with subsection ‎(1), the Regulator shall have regard to—
+(a)	the Pre-Resolution Valuation (or Provisional Valuation, if applicable);
+(b)	the amount by which the Regulator has assessed that Common Equity Tier 1 Capital items must be reduced and Non-CET1 Capital Instruments must be written down or converted pursuant to the Write Down or Conversion Power under section ‎64; and
+(c)	the aggregate amount assessed by the Regulator under section ‎50‎(1).
+Part 6.Chapter 2.52.	Sequence of write down or conversion
+Part 6.Chapter 2.52.(1)	Subject to any exclusions set out in section ‎49‎(7) and ‎(8), in exercising the Write Down or Conversion Power when applying the Bail-in Tool, the Regulator shall meet the following requirements—
+(a)	the Regulator shall reduce the Common Equity Tier 1 Capital items in accordance with section ‎65‎(1);
+(b)	if the total reduction under subsection ‎(a) is less than the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c), the Regulator shall reduce the principal amount of Additional Tier 1 Capital instruments to the extent required and to the extent of their capacity;
+(c)	if the total reduction pursuant to subsections ‎(a) and ‎(b) is less than the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c), the Regulator shall reduce the principal amount of Tier 2 Capital instruments to the extent required and to the extent of their capacity;
+(d)	if the total reduction of Tier 1 and Tier 2 Capital instruments pursuant to subsections ‎(a), ‎(b) and ‎(c) is less than the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c), the Regulator shall reduce to the extent required the principal amount of subordinated debt that is neither Additional Tier 1 nor Tier 2 Capital in accordance with the hierarchy of claims that would apply to the Institution under Insolvency Proceedings, in conjunction with the write down pursuant to subsections ‎(a), ‎(b) and ‎(c) to produce the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c); and
+(e)	if the total reduction of Tier 1 and Tier 2 Capital instruments and Eligible Liabilities pursuant to subsections ‎(a) to ‎(d) is less than the sum of the amounts referred in section ‎51‎(3)‎(b) and ‎(c), the Regulator shall reduce to the extent required the principal amount of, or outstanding amount payable in respect of, the rest of Eligible Liabilities in accordance with the hierarchy of claims that would apply to the Institution under Insolvency Proceedings, including the ranking of Deposits provided for in section ‎29, pursuant to the Bail-in Tool, in conjunction with the write down pursuant to subsections ‎(a) to ‎(d) to produce the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c).
+Part 6.Chapter 2.52.(2)	When applying the Write Down or Conversion Power, the Regulator shall allocate the losses represented by the sum of the amounts referred to in section ‎51‎(3)‎(b) and ‎(c) equally between Shares and Eligible Liabilities of the same rank by reducing the principal amount of, or outstanding amount payable in respect of, those Shares and Eligible Liabilities to the same extent pro rata to their value, except where a different allocation of losses amongst liabilities of the same rank is allowed in the circumstances specified in section ‎49‎(8).
+Part 6.Chapter 2.52.(3)	Before applying the Write Down or Conversion Power, the Regulator shall convert or reduce the principal amount of instruments referred to in subsections ‎(1)‎(b), ‎(c) and ‎(d) when those instruments contain the following terms and have not been fully converted—
+(a)	terms that provide for the principal amount of the instrument to be reduced on the occurrence of any event that refers to the financial situation, viability, solvency or levels of Capital Resources of the Institution; or
+(b)	terms that provide for the conversion of the instrument to Shares on the occurrence of any such event.
+Part 6.Chapter 2.52.(4)	Where the principal amount of an instrument has been reduced, but not reduced to zero, in accordance with terms referred to in subsection ‎(3)‎(a) before the application of the bail-in pursuant to subsection ‎(1), the Regulator shall apply the Write Down or Conversion Power to the residual amount of that principal amount in accordance with subsection ‎(1).
+Part 6.Chapter 2.52.(5)	In deciding on whether liabilities are to be written down or converted into Shares, the Regulator shall not convert one class of liabilities while a class of liabilities that is subordinated to that class remains substantially unconverted into Shares or not written down, unless otherwise permitted under subsections ‎49‎(7) and ‎(8).
+Part 6.Chapter 2.53.	Derivatives
+Part 6.Chapter 2.53.(1)	The Regulator shall be entitled to exercise the Write Down or Conversion Power in relation to a liability arising from a Derivative Contract only when, upon or after closing-out that Derivative Contract, there is a net liability which is an Eligible Liability.
+Part 6.Chapter 2.53.(2)	The Regulator may terminate and close out any Derivative Contract upon an Institution's entry into Resolution for the purpose of realising an Eligible Liability that is to be subject to the Write Down or Conversion Power under subsection ‎(1).
+Part 6.Chapter 2.53.(3)	Where an Eligible Liability under a Derivative Contract has been excluded from the application of the Bail-in Tool pursuant to section ‎49‎(8), the Regulator shall not be under any obligation to terminate or close out the Derivative Contract.
+Part 6.Chapter 2.53.(4)	Where a Derivative Contract is subject to a netting agreement, the value of the Eligible Liability for the purposes of the Pre-Resolution Valuation (or Provisional Valuation, if applicable) shall be determined on a net basis in accordance with the terms of the agreement.
+Part 6.Chapter 2.53.(5)	The Regulator shall determine the value of Eligible Liabilities arising from Derivative Contracts in accordance with the following—
+(a)	appropriate methodologies for determining the value of classes of Derivative Contracts, including Derivative Contracts that are subject to netting agreements;
+(b)	principles for establishing the relevant point in time at which the value of a derivative position shall be established; and
+(c)	appropriate methodologies for comparing the destruction of value that would arise from the close out and bail-in of Derivative Contracts with the amount of losses that would be borne by Derivative Contracts in a bail-in.
+Part 6.Chapter 2.54.	Rate of conversion of debt to equity
+Part 6.Chapter 2.54.(1)	When the Write Down or Conversion Power is exercised, the Regulator may apply a different Conversion Rate to different classes of Tier 1 and Tier 2 Capital instruments and Eligible Liabilities in accordance with one or both of the following principles—
+(a)	the Conversion Rate shall represent appropriate compensation to the Affected Creditor for any loss incurred by virtue of the exercise of the Write Down or Conversion Power; and
+(b)	when different Conversion Rates are applied, the Conversion Rate applicable to liabilities that are considered to be senior under the ADGM Insolvency Regulations shall be higher than the Conversion Rate applicable to subordinated liabilities.
+Part 6.Chapter 2.55.	Business Reorganisation Plan
+Part 6.Chapter 2.55.(1)	Where the Bail-in Tool has been used to recapitalise an Institution, the Regulator shall ensure that a Business Reorganisation Plan for the Institution is drawn up and implemented in accordance with this section.
+Part 6.Chapter 2.55.(2)	The implementation of a Business Reorganisation Plan may include the appointment by the Regulator of persons (pursuant to its general power to exercise control over an Institution in Resolution under section ‎58‎(1)‎(b)) for the purpose of drawing up and implementing the Business Reorganisation Plan.
+Part 6.Chapter 2.55.(3)	Within one month after the application of the Bail-in Tool to an Institution, the Management of the Institution shall draw up and submit to the Regulator a Business Reorganisation Plan that satisfies the requirements in subsection ‎(6).
+Part 6.Chapter 2.55.(4)	Where the Bail-in Tool is applied to two or more Group Entities, including where a Foreign Resolution Order has been made, a Group level Business Reorganisation Plan may be accepted by the Regulator for the purpose of this section.
+Part 6.Chapter 2.55.(5)	In exceptional circumstances, and if it is necessary for achieving the Resolution Objectives, the Regulator may extend the period in subsection ‎(3) up to a maximum of two months from the date of the application of the Bail-in Tool. 
+Part 6.Chapter 2.55.(6)	A Business Reorganisation Plan shall contain at least the following—
+(a)	a detailed diagnosis of the factors and problems that caused the Institution to fail or to be likely to fail and the circumstances that led to its difficulties;
+(b)	a description of the measures aiming to restore the long-term viability of the Institution or parts of its business that are to be adopted, on the basis of realistic assumptions as to the economic and financial market conditions under which the Institution will operate; and
+(c)	a timescale for the implementation of those measures.
+Part 6.Chapter 2.55.(7)	Measures aiming to restore the long-term viability of the Institution under subsection ‎(6) may include—
+(a)	the reorganisation of the activities of the Institution;
+(b)	changes to the operational systems and infrastructure within the Institution;
+(c)	the withdrawal from loss-making activities;
+(d)	the restructuring of existing activities that can be made competitive; and
+(e)	the sale of assets or business lines.
+Part 6.Chapter 2.55.(8)	The Business Reorganisation Plan shall take account of, amongst other items, the current state and future prospects of the financial markets, reflecting best-case and worst-case assumptions, including a combination of events allowing the identification of the Institution's main vulnerabilities. Assumptions shall be compared with appropriate sector-wide benchmarks.
+Part 6.Chapter 2.55.(9)	Within one month of the submission of the Business Reorganisation Plan, the Regulator shall assess the likelihood that the Business Reorganisation Plan, if implemented, would be likely to restore the long-term viability of the Institution.
+Part 6.Chapter 2.55.(10)	Pursuant to an assessment under subsection ‎(8), if the Regulator is satisfied that the Business Reorganisation Plan would be likely to restore the long-term viability of the Institution, the Regulator shall approve the plan.
+Part 6.Chapter 2.55.(11)	Pursuant to an assessment, if the Regulator is not satisfied that the Business Reorganisation Plan would be likely to restore the long term viability of the Institution, the Regulator shall notify the Management of the Institution or persons appointed under subsection ‎(2) of its concerns and require the amendment of the Business Reorganisation Plan in a way that will address those concerns.
+Part 6.Chapter 2.55.(12)	Within two weeks of receiving a notification by the Regulator under subsection ‎(11), the Management of the Institution or persons appointed under subsection ‎(2) shall submit an amended Business Reorganisation Plan to the Regulator for approval.
+Part 6.Chapter 2.55.(13)	The Regulator shall assess the amended Business Reorganisation Plan submitted under subsection ‎(12) and shall notify the Management of the Institution or persons appointed under subsection ‎(2) within one week as to whether the Regulator is satisfied that the amended Business Reorganisation Plan addresses the concerns notified or whether further amendment is required.
+Part 6.Chapter 2.55.(14)	The Management of the Institution or persons appointed under subsection ‎(2) shall implement the Business Reorganisation Plan as approved by the Regulator, and shall submit a report to the Regulator at least every six months on the progress of the implementation of the Business Reorganisation Plan until such time as the Regulator may determine.
+Part 6.Chapter 2.55.(15)	A Business Reorganisation Plan may be further amended following its initial implementation if the Regulator is of the view that changes to the plan are required to achieve the long-term viability of the Institution.
+Part 6.Chapter 2.56.	Ancillary provisions relating to bail-in
+Part 6.Chapter 2.56.(1)	Where the Regulator exercises the Write Down or Conversion Power, such write down or conversion shall take effect and be immediately binding on the Institution in Resolution and Affected Creditors and Shareholders of the Institution in Resolution.
+Part 6.Chapter 2.56.(2)	The Regulator may complete or cause the completion of all administrative and procedural tasks necessary to give effect to the Write Down or Conversion Power including—
+(a)	the amendment of all relevant registers;
+(b)	the delisting or removal from trading of Shares or Debt Instruments;
+(c)	the listing or admission to trading of new Shares; and
+(d)	the relisting or readmission of any Debt Instruments which have been written down, without the requirement for a Prospectus if a Prospectus would in normal circumstances be required.
+Part 6.Chapter 2.56.(3)	Where the Regulator reduces to zero the principal amount of, or outstanding amount payable in respect of, a liability by means of the Write Down or Conversion Power, that liability and any obligations, rights or claims arising in relation to it that are not accrued at the time when the power is exercised shall be discharged for all purposes, and shall not be provable in any subsequent proceedings in relation to the Institution in Resolution or any successor entity in any subsequent Winding Up.
+Part 6.Chapter 2.56.(4)	Where the Regulator reduces in part, but not in full, the principal amount of, or outstanding amount payable in respect of, a liability by means of the Write Down or Conversion Power—
+(a)	such liability, and the counterparty's corresponding claim, shall be discharged to the extent of the amount reduced; and
+(b)	the relevant instrument or agreement that created the original liability shall continue to apply in relation to the residual principal amount of, or outstanding amount payable in respect of the liability, subject to any modification of the amount of interest payable to reflect the reduction of the principal amount, and any further modification of the terms that the Regulator might make by means of the Write Down or Conversion Power or the power under section ‎58(1)(p).
+Part 6.Chapter 2.56.(5)	Procedural impediments to the conversion of Eligible Liabilities to Shares by virtue of their instruments of incorporation or of any other law of the ADGM, including pre-emption rights for Shareholders or requirements for the consent of Shareholders to an increase in capital, shall not prevent the application of a Resolution Tool or exercise of a Resolution Power.
+Part 6.Chapter 2.57.	Contractual recognition of bail-in
+Part 6.Chapter 2.57.(1)	Subject to subsection ‎(2), the Regulator may require an Institution to include in its contractual documents a contractual term by which the creditor or party to an agreement creating an Eligible Liability recognises that that liability may be subject to the Write Down or Conversion Power and agrees to be bound by any reduction of the principal or outstanding amount due, conversion or cancellation that is effected by the exercise of that power by the Regulator, provided that such liability is—
+(a)	not excluded under section ‎49‎(7);
+(b)	governed by the law of another jurisdiction; and
+(c)	issued or entered into after the date on which these Regulations comes into force.
+Part 6.Chapter 2.57.(2)	Subsection ‎(1)‎(a) shall not apply where the Regulator determines that the liability referred to in subsection ‎(1) can be subject to Write Down or Conversion Powers by the resolution authority of another jurisdiction or pursuant to a binding agreement concluded with that other jurisdiction.
+Part 6.Chapter 2.57.(3)	A failure to include the terms as are referred to under subsection ‎(1) shall not prevent the Regulator from exercising the Write Down or Conversion Power in relation to that liability.
+
+
+Part 6.Chapter 3	Resolution Powers
+Part 6.Chapter 3.58.	General Resolution Powers
+Part 6.Chapter 3.58.(1)	The Regulator shall have all the powers necessary to apply the Resolution Tools to an Institution which meets the Resolution Conditions and, in particular, shall have the following general Resolution Powers which may be exercised individually or in any combination for the purpose of enabling the Regulator to achieve the Resolution Objectives—
+(a)	the power to require any person to provide any information required for the Regulator to decide upon and prepare a Resolution Action, including updates and supplements of information provided in the Resolution Plan and including requiring information to be provided through on-site inspections;
+(b)	the power to take control of an Institution in Resolution and exercise all the rights and powers conferred upon the Shareholders, other owners and Management of the Institution in Resolution, including control over the Institution in Resolution so as to—
+(i)	operate and conduct the activities and services of the Institution in Resolution with all the powers of its Shareholders and Management; and
+(ii)	manage and dispose of the assets and property of the Institution in Resolution,
+whether directly by the Regulator or indirectly by a person or persons appointed by the Regulator;
+(c)	the power to take Resolution Action without taking control over the Institution in Resolution, if preferred, having regard to the Resolution Objectives and the General Resolution Principles and the specific circumstances of the Institution in Resolution;
+(d)	the power to transfer to another entity, with the consent of that entity, Shares issued by an Institution in Resolution;
+(e)	the power to transfer to another entity, with the consent of that entity, rights, assets or liabilities of an Institution in Resolution;
+(f)	the Write Down or Conversion Power;
+(g)	the power to amend or alter the maturity of Debt Instruments and other Eligible Liabilities issued by an Institution in Resolution or amend the amount of interest payable under such Debt Instruments and other Eligible Liabilities, or the date on which the interest becomes payable, including by suspending payment for a temporary period;
+(h)	the power to close out and terminate Financial Contracts or Derivative Contracts for the purposes of applying section ‎53‎(4);
+(i)	the power to remove or replace the Management of an Institution in Resolution;
+(j)	the power to require the Regulator to assess the buyer of a qualifying holding in a timely manner by way of derogation from any applicable time limits;
+(k)	subject to section ‎73, the power to provide for a transfer to take effect free from any liability or encumbrance affecting the financial instruments, rights, assets or liabilities transferred (and for these purposes any right of compensation in accordance with the Resolution Safeguards shall not be considered to be a liability or encumbrance);
+(l)	the power to remove rights to acquire further Shares;
+(m)	the power to request that a relevant authority discontinue or suspend the admission to trading on a Recognised Investment Exchange or non-ADGM exchange of financial instruments relating to an Institution in Resolution;
+(n)	the power to provide for the Recipient under the Sale of Business Tool to be treated as if it were the Institution in Resolution for the purposes of any rights or obligations of, or actions taken by, the Institution in Resolution, including, subject to the provisions relating to the application of the Sale of Business Tool, any rights or obligations relating to participation in market infrastructure;
+(o)	the power to require the Institution in Resolution or the Recipient to provide the other with information and assistance;
+(p)	the power to cancel or modify the terms of a contract to which the Institution in Resolution is a party or substitute a Recipient as a party;
+(q)	the power to provide for continuity arrangements necessary to ensure that the Resolution Action is effective and that, where relevant, the business transferred may be operated by the Recipient, including, in particular—
+(i)	the continuity of contracts entered into by the Institution in Resolution so that the Recipient assumes the rights, assets and liabilities of the Institution in Resolution relating to any financial instrument, right, asset or liability that has been transferred and is substituted for the Institution in Resolution, expressly or implicitly in all relevant contractual documents; and
+(ii)	the substitution of the Recipient for the Institution in Resolution in any legal proceedings relating to any financial instrument, right, asset or liability that has been transferred.
+Part 6.Chapter 3.58.(2)	The exercise of the powers set out in subsections ‎(n) and ‎(q)‎(ii) shall be without prejudice to—
+(a)	the right of an employee of the Institution in Resolution to terminate a contract of employment; or
+(b)	subject to subsection ‎(1) and sections ‎61 and ‎63‎(1), any right of a party to a contract to exercise rights under the contract, including the right to terminate, where entitled to do so in accordance with the terms of the contract by virtue of an act or omission by the Institution in Resolution or circumstances occurring, including prior to the relevant transfer, or by or with respect to the Recipient after the relevant transfer.
+Part 6.Chapter 3.58.(3)	Except as otherwise provided in these Regulations, the following requirements shall not apply to the application of a Resolution Tool or exercise of a Resolution Power—
+(a)	subject to any requirements set out in these Regulations to seek judicial approval of the Court or approval of any other public authority in the ADGM, the requirement to obtain approval or consent from any person either public or private, including the Shareholders or creditors of the Institution in Resolution; and
+(b)	prior to the application of a Resolution Tool and exercise of a Resolution Power, procedural requirements to notify any person including any requirement to publish any notice or Prospectus or to file or register any document with any other authority.
+Part 6.Chapter 3.58.(4)	Except as otherwise provided in these Regulations, the Regulator may exercise the Resolution Powers irrespective of any restriction on, or requirement to obtain consent for, the transfer of the financial instruments, rights, assets or liabilities in question that might otherwise apply.
+Part 6.Chapter 3.59.	Power to require the provision of services and facilities
+Part 6.Chapter 3.59.(1)	The Regulator shall have the power to require an Institution in Resolution, or any of its Group Entities, to provide any services or facilities (excluding any financial support) that are necessary to enable the Recipient to operate the transferred business effectively, including where the Institution under Resolution or relevant Group Entity has entered into Insolvency Proceedings.
+Part 6.Chapter 3.59.(2)	The services and facilities provided under this section shall be on the following terms—
+(a)	where the services and facilities were provided under an agreement to the Institution in Resolution immediately before the Resolution Action was taken and for the duration of that agreement, on the same terms; and
+(b)	where there is no agreement for provision of the services and facilities or where the agreement has expired, on reasonable terms.
+Part 6.Chapter 3.60.	Power to suspend certain obligations
+Part 6.Chapter 3.60.(1)	The Regulator shall have the power to suspend any payment or delivery obligations pursuant to any contract to which an Institution in Resolution is party from the time notice is given, under section ‎24‎(3), of that suspension (as an action the Regulator intends to take) until midnight in the ADGM at the end of the second business day following the giving of the notice, except that—
+(a)	where a payment or delivery obligation would have been due during the suspension period the payment or delivery obligation shall be due immediately upon expiry of the suspension period; and
+(b)	where a payment or delivery obligation has been suspended the payment and delivery obligations of the counterparty under the contract shall also be suspended for the same period. 
+Part 6.Chapter 3.60.(2)	Any suspension under this provision shall not apply to—
+(a)	Deposits (including Eligible Deposits); or
+(b)	payment and delivery obligations owed to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks.
+Part 6.Chapter 3.60.(3)	When exercising this power, the Regulator shall have regard to the impact the exercise of the power might have on the orderly functioning of financial markets.
+Part 6.Chapter 3.61.	Power to restrict enforcement of security interests
+Part 6.Chapter 3.61.(1)	The Regulator shall have the power to restrict secured creditors of an Institution in Resolution from enforcing security interests in relation to any assets of that Institution from the time notice is given, under section ‎24‎(3), of that restriction (as an action the Regulator intends to take) until midnight in the ADGM at the end of the second business day following that notice.
+Part 6.Chapter 3.61.(2)	The Regulator shall not exercise the power under this section in relation to any security interest of payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks over assets pledged or otherwise provided by way of margin or collateral by the Institution in Resolution.
+Part 6.Chapter 3.61.(3)	Where section ‎75 applies, the Regulator shall ensure that any restrictions imposed under this section are consistent for all Group Entities in relation to which a Resolution Action is taken.
+Part 6.Chapter 3.61.(4)	When exercising the power under this section, the Regulator shall have regard to the impact the exercise of that power might have on the orderly functioning of financial markets.
+Part 6.Chapter 3.62.	Power to temporarily suspend termination rights
+Part 6.Chapter 3.62.(1)	The Regulator shall have the power to suspend the termination rights of any party to a contract with an Institution in Resolution from the time notice is given, under section ‎24‎(3), until midnight in the ADGM at the end of the second business day following that notice, provided that the payment and delivery obligations and the provision of collateral continue to be performed by the Institution in Resolution.  
+Part 6.Chapter 3.62.(2)	Any suspension under subsection ‎(1) shall not apply to payment and delivery obligations owed to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses or central banks.
+Part 6.Chapter 3.62.(3)	A person may exercise a termination right under a contract before the end of the period referred to in subsection ‎(1) if that person receives notice from the Regulator that the rights, assets or liabilities covered by the contract shall not be—
+(a)	transferred to another entity; or 
+(b)	subject to write down or conversion on the application of the bail-in tool in accordance with section ‎49‎(1)‎(a). 
+Part 6.Chapter 3.62.(4)	Where a Regulator exercises the power specified in subsection ‎(1) to suspend termination rights, and where no notice has been given pursuant to subsection (4), those rights may be exercised on the expiry of the period of suspension, subject to section ‎62, as follows—
+(a)	if the rights, assets or liabilities covered by the contract have been transferred to another entity, a counterparty may exercise termination rights in accordance with the terms of that contract only on the occurrence of any continuing or subsequent enforcement event by the Recipient; 
+(b)	if the rights, assets or liabilities covered by the contract remain with the Institution in Resolution and the Regulator has not applied the bail-in tool in accordance with section ‎49‎(1)‎(a) to Eligible Liabilities under that contract, a counterparty may exercise termination rights in accordance with the terms of that contract on the expiry of a suspension under subsection (1).
+Part 6.Chapter 3.62.(5)	When exercising a power under this section, the Regulator shall have regard to the impact that the exercise of the power might have on the orderly functioning of financial markets.
+Part 6.Chapter 3.63.	Default Event Provisions
+Part 6.Chapter 3.63.(1)	The following shall be disregarded in determining whether a Default Event Provision applies—
+(a)	a Crisis Prevention Measure, Crisis Management Measure or Recognised Foreign Resolution Action taken in relation to an Institution in Resolution (or any member of the Institution's Group); and
+(b)	the occurrence of any event directly linked to the application of such measure or action.
+Part 6.Chapter 3.63.(2)	Subsection ‎(1) applies where a contract or other agreement—
+(a)	is entered into by an Institution or Foreign Institution;
+(b)	is entered into by a Subsidiary of an Institution or Foreign Institution, whose obligations are guaranteed by another Group Entity in the Institution's Group or Non-ADGM Institution's Group; or
+(c)	includes cross-default provisions, and is entered into by another Group Entity in the Institution's Group or Foreign Institution's Group,
+and the substantive obligations provided for in the contract or agreement (including payment and delivery obligations and provision of collateral) continue to be performed.
+Part 6.Chapter 3.63.(3)	A Resolution Order or Share Transfer Order may make provision for subsection ‎(4) or ‎(5) to apply in circumstances where subsection ‎(1) would not apply.
+Part 6.Chapter 3.63.(4)	If this subsection applies, the Resolution Order or Share Transfer Order shall be disregarded in determining whether a Default Event Provision applies.
+Part 6.Chapter 3.63.(5)	If this subsection applies, the Resolution Order or Share Transfer Order shall be disregarded in determining whether a Default Event Provision applies except so far as the Resolution Order or Share Transfer Order provides otherwise.
+Part 6.Chapter 3.63.(6)	A reference in subsection ‎(3), ‎(4) or ‎(5) to a Resolution Order or Share Transfer Order is a reference to—
+(a)	the making of the Resolution Order or Share Transfer Order;
+(b)	anything to be done by the Resolution Order or Share Transfer Order or is to be, or may be, done under the Resolution Order or Share Transfer Order; and
+(c)	any action or decision taken or made under these Regulations in so far as it resulted in, or was connected to, the making of the Resolution Order or Share Transfer Order.
+Part 6.Chapter 3.63.(7)	A provision in a Resolution Order or Share Transfer Order under subsection ‎(6) may apply subsection ‎(4) or ‎(5)—
+(a)	generally or only for specified purposes, cases or circumstances, or
+(b)	differently for different purposes, cases or circumstances.
+Part 6.Chapter 3.63.(8)	A thing is not done by virtue of a Resolution Order or a Share Transfer Order for the purposes of subsection ‎(6)‎(b) merely by virtue of being done under a contract or other agreement rights or obligations which have been affected by the Resolution Order or Share Transfer Order.
+Part 6.Chapter 3.63.(9)	This section shall not affect the right of a person to take an action where that right arises by virtue of an event other than the Crisis Prevention Measure, Crisis Management Measure or Recognised Foreign Resolution Action or the occurrence of any event directly linked to the application of such a measure.
+Part 6.Chapter 3.63.(10)	A suspension, restriction or termination under sections ‎60‎(1), ‎61‎(1) or 62(1) shall not constitute non-performance of a contractual obligation for the purposes of this section.
+Part 6.Chapter 3.63.(11)	In this section, "specified" in relation to a contract or agreement means specified in the contract or other agreement.
+
+
+Part 6.Chapter 4	Write Down or Conversion Power
+Part 6.Chapter 4.64.	Write Down or Conversion Power in relation to Non-CET1 Capital Instruments
+Part 6.Chapter 4.64.(1)	The Regulator shall have the power to write down or convert Non-CET1 Capital Instruments into Shares of Investment Firms, ADGM Parent Undertakings or ADGM Subsidiaries.
+Part 6.Chapter 4.64.(2)	The Regulator may exercise the Write Down or Conversion Power under this section—
+(a)	independently of a Resolution Action; or
+(b)	in combination with a Resolution Action, where the Resolution Conditions are met,
+in either case, subject to subsection ‎(3).
+Part 6.Chapter 4.64.(3)	The Regulator may exercise the Write Down or Conversion Power under this section in relation to Non-CET1 Capital Instruments issued by an Investment Firm, the ADGM Parent Undertaking or ADGM Subsidiary when one or more of the following circumstances apply—
+(a)	the determination has been made that the Resolution Conditions have been met, before any Resolution Action has been taken;
+(b)	in the case of Non-CET1 Capital Instruments issued by an Investment Firm, the Regulator determines that unless the Write Down or Conversion Power is exercised in relation to Non-CET1 Capital Instruments, the Investment Firm will no longer be viable;
+(c)	in the case of Non-CET1 Capital Instruments issued by an ADGM Parent Undertaking or ADGM Subsidiary of an Institution, and where those capital instruments are recognised for the purposes of meeting Capital Resources requirements on an individual and on a consolidated basis, the Regulator determines that unless the Write Down or Conversion Power is exercised the Group would no longer be viable; or
+(d)	in the case of Non-CET1 Capital Instruments issued by an ADGM Parent Undertaking or ADGM Subsidiary of a Non-ADGM Financial Institution, and where those capital instruments are recognised for the purposes of meeting own funds or Capital Resource requirements on an individual and on a consolidated basis, the resolution authority of the Non-ADGM Financial Institution or, in the absence of a determination by the resolution authority of the Non-ADGM Financial Institution, the Regulator determines that unless the Write Down or Conversion Power is exercised in relation to those instruments, the Group would no longer be viable.
+Part 6.Chapter 4.64.(4)	For the purposes of subsection ‎(3), an Investment Firm is viable unless—
+(a)	the Regulator is satisfied that the Investment Firm is failing or likely to fail (within the meaning of section ‎22); and
+(b)	having regard to timing and other relevant circumstances, it is not reasonably likely that any action, apart from the write down or conversion of Non-CET1 Capital Instruments or the application of a Resolution Tool, will be taken by or in respect of the Investment Firm that will prevent the failure or likely failure of the Investment Firm.
+Part 6.Chapter 4.64.(5)	For the purposes of subsection ‎(3), a Group is not viable if—
+(a)	the Group infringes or in the near future will infringe its consolidated prudential requirements in a way that would justify action by the Regulator; and
+(b)	having regard to timing and other relevant circumstances, it is not reasonably likely that any action, apart from the write down or conversion of Non-CET1 Capital Instruments or the application of a Resolution Tool, will be taken by or in respect of the Investment Firm that will prevent the requirement being infringed.
+Part 6.Chapter 4.64.(6)	The Regulator may only exercise the Write Down or Conversion Power under this section after the carrying out a Pre-Resolution Valuation (or a Provisional Valuation if applicable). This Pre-Resolution Valuation (or a Provisional Valuation) shall form the basis of the calculation of the write down to be applied to the Non-CET1 Capital Instruments in order to absorb losses and the level of conversion to be applied to the Non-CET1 Capital Instruments in order to recapitalise the Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary.
+Part 6.Chapter 4.64.(7)	If a Recognised Clearing House issues an instrument which would be a Non-CET1 Capital Instrument had the Recognised Clearing House been an Investment Firm, this section and section ‎65 would apply equally to the Recognised Clearing House as it would to an Investment Firm.
+Part 6.Chapter 4.65.	Provisions governing the write down or conversion of Non-CET1 Capital Instruments
+Part 6.Chapter 4.65.(1)	In complying with the requirements under section 68, the Regulator shall exercise the Write Down or Conversion Power under section ‎64 in accordance with the priority of claims under Insolvency Proceedings, in a way that produces the following results—
+(a)	Common Equity Tier 1 Capital items are reduced first in proportion to the losses and to the extent of their capacity and the Regulator takes one or both of the actions specified in section ‎51‎(1) in respect of the holders of Common Equity Tier 1 Capital instruments;
+(b)	the principal amount of Additional Tier 1 Capital instruments is written down or converted into Common Equity Tier 1 Capital instruments or both, to the extent required to achieve the Resolution Objectives or to the extent of the capacity of the Non-CET1 Capital Instruments, whichever is lower; and
+(c)	the principal amount of Tier 2 Capital instruments is written down or converted into Common Equity Tier 1 Capital instruments or both, to the extent required to achieve the Resolution Objectives or to the extent of the capacity of the Non-CET1 Capital Instruments, whichever is lower.
+Part 6.Chapter 4.65.(2)	Where the principal amount of a Non-CET1 Capital Instrument is written down—
+(a)	the reduction of that principal amount shall be permanent, subject to any write up in accordance with section ‎50‎(3);
+(b)	no liability to the holder of the Non-CET1 Capital Instrument, or right on the part of such holder, shall remain under or in connection with that amount of the instrument which has been written down, except in respect of any liability already accrued, and any liability calculated following a Difference in Treatment calculation in accordance with section 69 (but this shall not prevent the provision of Common Equity Tier 1 Capital instruments to a holder of Non-CET1 Capital Instruments in accordance with subsection ‎(3); and
+(c)	no compensation is paid to any holder of the Non-CET1 Capital Instruments other than in accordance with subsection ‎(3).
+Part 6.Chapter 4.65.(3)	In order to effect a conversion of Non-CET1 Capital Instruments under subsection ‎(1)‎(b), the Regulator may require Investment Firms to issue Common Equity Tier 1 Capital instruments to the holders of the Non-CET1 Capital Instruments. The Non-CET1 Capital Instruments may only be converted where the following conditions are met—
+(a)	those Common Equity Tier 1 Capital instruments are issued by the Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary or by a Parent Undertaking of the Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary with the agreement of the Regulator or, where relevant, the resolution authority of the Parent Undertaking;
+(b)	those Common Equity Tier 1 Capital instruments are issued prior to any issuance of Shares by that Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary for the purposes of provision of Capital Resources by a public authority;
+(c)	those Common Equity Tier 1 Capital instruments are awarded and transferred without delay following the exercise of the conversion power; and
+(d)	the Conversion Rate that determines the number of Common Equity Tier 1 Capital instruments that are provided in respect of each Non-CET1 Capital Instrument complies with the principles set out in section ‎54.
+Part 6.Chapter 4.65.(4)	For the purposes of the provision of Common Equity Tier 1 Capital instruments that are provided in accordance with subsection ‎(3), the Regulator may require Investment Firms, ADGM Parent Undertakings or ADGM Subsidiaries to maintain at all times the necessary prior authorisation to issue the relevant number of Common Equity Tier 1 Capital instruments.
+Part 6.Chapter 4.65.(5)	Where an Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary meets the Resolution Conditions and the Regulator decides to apply a Resolution Tool to that Investment Firm, ADGM Parent Undertaking or ADGM Subsidiary, the Regulator shall comply with the requirement laid down in section ‎64(3) before applying the Resolution Tool.
+Part 6.Chapter 4.66.	Write Down or Conversion Power in relation to Eligible Liabilities
+Part 6.Chapter 4.66.(1)	The Regulator shall have the power to write down or convert Eligible Liabilities of an Institution in Resolution into Shares of the Institution, which includes the power to—
+(a)	reduce (including to zero) the principal amount of, or outstanding amount due, in respect of Eligible Liabilities of an Institution in Resolution;
+(b)	cancel the Debt Instruments issued by an Institution in Resolution except those which represent secured liabilities;
+(c)	reduce, including reducing to zero, the nominal amount of Shares of an Institution in Resolution and to cancel such Shares; and
+(d)	require an Institution in Resolution to issue new Shares or other capital instruments, including Additional Tier 1 Capital instruments.
+Part 6.Chapter 4.66.(2)	The Regulator may only exercise the write down or conversion power under this section after the carrying out a Pre-Resolution Valuation (or a Provisional Valuation if applicable).
+
+
+Part 6.Chapter 5	Resolution Safeguards
+Part 6.Chapter 5.67.	Treatment of Shareholders in the case of partial transfers and application of the bail in tool
+Where one or more of the Resolution Tools have been applied, the Regulator shall be guided by the following principles—
+(a)	except where subsection ‎(b) applies, where the Regulator transfers only part of the rights, assets and liabilities of the Institution in Resolution, the Shareholders and creditors whose claims have not been transferred should, to the extent reasonably practicable, receive in satisfaction of their claims at least as much as they would have received if the Institution in Resolution had been Wound Up under Insolvency Proceedings at the time (when the Regulator delivered notice in accordance with section 24(3)); and
+(b)	where the Regulator applies the Bail-in Tool, the Shareholders and creditors whose claims have been written down or converted to Shares should, to the extent reasonably practicable, not incur greater losses than they would have incurred if the Institution in Resolution had been Wound Up under Insolvency Proceedings immediately at the time (when the Regulator delivered notice in accordance with section 24(3)).
+Part 6.Chapter 5.68.	Difference of Treatment Valuation
+Part 6.Chapter 5.68.(1)	For the purpose of assessing whether Shareholders and creditors would have received better treatment if an Institution in Resolution had been Wound Up under Insolvency Proceedings, the Regulator shall, in accordance with any eligibility criteria prescribed under section ‎40, appoint an independent valuer to carry out a valuation as soon as practicable after the application of a Resolution Action.
+Part 6.Chapter 5.68.(2)	A Difference of Treatment Valuation shall be distinct from any Pre-Resolution Valuation, Provisional Valuation or Definitive Valuation.
+Part 6.Chapter 5.68.(3)	A Difference of Treatment Valuation shall determine—
+(a)	the treatment that Shareholders, creditors and Depositors would have received if Insolvency Proceedings in respect of the Institution in Resolution had commenced at the time when the decision was made to take Resolution Action;
+(b)	the actual treatment that Shareholders, creditors and Depositors have received; and
+(c)	if there is any difference between the treatment referred to in subsections ‎(a) and ‎(b).
+Part 6.Chapter 5.68.(4)	A Difference of Treatment Valuation shall—
+(a)	assume that Insolvency Proceedings in respect of the Institution in Resolution would have commenced on the date on which the Regulator delivered notice in accordance with section 24(3);
+(b)	assume that the Institution in Resolution would, if it had entered Insolvency Proceedings in accordance with subsection ‎(a), been Wound Up in full on the date on which Insolvency Proceedings in respect of the Institution in Resolution would have commenced; and
+(c)	assume that the Resolution Action has not been effected.
+Part 6.Chapter 5.68.(5)	The Regulator may set or adopt standards or guidelines for the purpose of a Difference of Treatment Valuation if such a valuation is required or proposed.
+Part 6.Chapter 5.68.(6)	A Difference of Treatment Valuation shall be carried out in accordance with any such standards set or adopted by the Regulator under subsection ‎(5) and otherwise in accordance with applicable accountancy standards.
+Part 6.Chapter 5.69.	Safeguard for Shareholders and creditors
+If the Difference of Treatment Valuation determines that any Shareholder or creditor or Depositor would incur greater losses than it would incur in a Winding Up under Insolvency Proceedings contrary to the General Resolution Principles under section ‎25‎(g), the Shareholder or creditor shall be entitled to the payment of the difference as compensation from the Institution in Resolution or Residual Institution.
+Part 6.Chapter 5.70.	Procedural requirements after creation of a Resolution Order or Share Transfer Order
+As soon as is reasonably practicable after the creation of a Resolution Order or a Share Transfer Order by which a Resolution Action is taken (including pursuant to a Foreign Resolution Order), the Regulator shall publish or procure the publication of a copy of the Resolution Order or Share Transfer Order or a notice summarising the key terms of the Resolution Order or Share Transfer Order by the following means—
+(a)	by publishing it on the websites of both the Regulator and the Institution in Resolution;
+(b)	by publishing it on any national or international newspaper available for general sale in the UAE or other publication which in the opinion of the Regulator would maximise the likelihood of the Resolution Order coming to the attention of affected persons; and
+(c)	if securities issued by the Institution in Resolution have been admitted to trading on a Recognised Investment Exchange or foreign exchange, by means of a relevant regulatory information service used on that exchange.
+Part 6.Chapter 5.71.	Safeguard for counterparties in partial transfers
+Part 6.Chapter 5.71.(1)	Where the Regulator—
+(a)	transfers some but not all of the rights, assets or liabilities of an Institution in Resolution to another entity; or
+(b)	exercises the power in section ‎58‎(1)‎(p) to cancel or modify the terms of a contract to which the Institution in Resolution is a party or substitute a Recipient as a party,
+the arrangements specified in subsection ‎(2) and the counterparties of such arrangements shall, subject to subsection ‎(4), be protected.
+Part 6.Chapter 5.71.(2)	The arrangements protected under subsection ‎(1) are as follows—
+(a)	Collateral Arrangements, including Title Transfer Collateral Arrangements; 
+(b)	set-off arrangements under which two or more claims or obligations owed between the Institution in Resolution and a counterparty can be set off against each other;
+(c)	netting arrangements;
+(d)	Covered Bonds;
+(e)	collateral and default fund contributions provided to payment and securities settlement systems, Central Securities Depositories, clearing houses and Recognised Clearing Houses; 
+(f)	any transfer or obligation that is subject to irrevocable settlement finality protections under the Financial Services and Markets Regulations 2015; and
+(g)	structured finance arrangements, including, but not limited to, securitisations and instruments used for hedging purposes which form an integral part of the cover pool and which, according to the ADGM law, are secured in a way similar to Covered Bonds which involve the granting and holding of security by a party to the arrangement or a trustee, agent or nominee.
+Part 6.Chapter 5.71.(3)	Subsection ‎(2) shall apply irrespective of the number of parties involved in the arrangements or whether the arrangements—
+(a)	are created by contract, deed, trusts or other means, or arise automatically by operation of law; or
+(b)	arise under or are governed in whole or in part by the law of another jurisdiction.
+Part 6.Chapter 5.71.(4)	The form of protection that is appropriate for the classes of arrangements specified in subsection ‎(2) shall be as provided in sections ‎72, ‎73, ‎74 or ‎75, as the case may be.
+Part 6.Chapter 5.72.	Protection for Title Transfer Collateral Arrangements and set-off and netting arrangements
+To protect the transfer of some, but not all, of the rights, assets and liabilities that are protected under Title Transfer Collateral Arrangements referred to under section ‎71‎(2)(a), set-off arrangements referred to in section ‎71‎(2)(b), netting arrangements referred to in section ‎71‎(2)‎(c)(c), obligations to payment and securities settlement systems and clearing houses referred to in section ‎71‎(2)(e)‎(c) and settlement finality referred to in section ‎71‎(2)(f), the following shall not be permitted—
+(a)	the transfer of some, but not all, of the rights, assets and liabilities that are protected under any such arrangement between the Institution in Resolution and another person; and 
+(b)	the modification or termination of rights, assets and liabilities that are protected under any such arrangement through the exercise of Resolution Powers.
+Part 6.Chapter 5.73.	Protection for security arrangements
+To protect liabilities secured under Collateral Arrangements referred to in section ‎71‎(2)‎(a) that are not Title Transfer Collateral Arrangements, the following shall not be permitted—
+(a)	the transfer of assets against which a liability is secured under any such arrangement, unless that liability and the benefit of the security are also transferred;
+(b)	the transfer of a Secured Liability, unless the benefit of the security is also transferred;
+(c)	the transfer of the benefit of the security under any such arrangement, unless the Secured Liability is also transferred; or
+(d)	the modification or termination of such an arrangement through the exercise of ancillary powers, if the effect of that modification or termination is that the liability ceases to be secured.
+Part 6.Chapter 5.74.	Protection for structured finance arrangements and Covered Bonds
+To protect structured finance arrangements and Covered Bonds referred to in section ‎71‎(2)‎(d) and ‎(g), the following shall not be permitted—
+(a)	the transfer of some, but not all, of the rights, assets and liabilities which constitute or form part of a structured finance arrangement or Covered Bond to which the Institution in Resolution is a party; or
+(b)	the termination or modification, through the exercise of Resolution powers, of the rights, assets and liabilities which constitute or form part of a structured finance arrangement or Covered Bond, to which the Institution in Resolution is party.
+Part 6.Chapter 5.75.	Protection of trading, clearing and settlement systems
+The Regulator shall ensure that the application of a Resolution Tool does not affect the operation of exchanges, Recognised Investment Exchanges, clearing houses, Recognised Clearing Houses, payment and securities settlement systems and Central Securities Depositories where the Regulator—
+(a)	transfers some but not all of the rights, assets or liabilities of an Institution in Resolution to another entity; or
+(b)	exercises its Resolution Power under section ‎58‎(1)‎(p) to cancel or modify the terms of a contract to which the Institution in Resolution is a party or to substitute a Recipient as a party.
+
+
+Part 6.Chapter 6	Miscellaneous
+Part 6.Chapter 6.76.	Public statement
+The Regulator may issue a public statement concerning an Institution if it appears to the Regulator to be desirable to issue the statement in the best interests of the public.
+Part 6.Chapter 6.77.	International and governmental obligations
+The Regulator shall not exercise a Resolution Power in respect of an Institution if the exercise of that Resolution Power would be likely to contravene an international obligation of the UAE or a governmental obligation of the Emirate of Abu Dhabi or the ADGM.
+Part 6.Chapter 6.78.	Recognition of Foreign Resolution Actions
+Part 6.Chapter 6.78.(1)	Subject to subsection ‎(2), where the Regulator is notified of a Foreign Resolution Action in respect of a Foreign Institution, the Regulator shall make an instrument—
+(a)	recognising the Foreign Resolution Action;
+(b)	refusing to recognise the Foreign Resolution Action; or
+(c)	recognising part of the Foreign Resolution Action and refusing to recognise the remainder of the Foreign Resolution Action.
+Part 6.Chapter 6.78.(2)	The Regulator may refuse to recognise a Foreign Resolution Action in whole or in part if it is satisfied that one or more of the following conditions are met—
+(a)	recognition would have an adverse effect on financial stability in the ADGM;
+(b)	the Resolution Conditions have not been met in relation to the entity listed in section 2 with respect to which the Regulator proposes to take Resolution Action pursuant to section 78(5);
+(c)	the taking of Resolution Action by the Regulator in relation to an ADGM Branch pursuant to section 78(5) is not necessary to achieve one or more of the Resolution Objectives;
+(d)	under the Foreign Resolution Action, creditors located or payable in the ADGM would not, by reason of being located in the ADGM, receive the same treatment, and have similar legal rights, as creditors (including depositors) who are located or payable in the non-ADGM jurisdiction concerned; or
+(e)	recognition of, and taking action in support of, the Foreign Resolution Action (or the relevant part) would have material fiscal implications for the UAE or the ADGM.
+Part 6.Chapter 6.78.(3)	The recognition of a Foreign Resolution Action (or any part of it) shall not prejudice any Insolvency Proceedings unless the Insolvency Proceedings conflict with the Recognised Foreign Resolution Action, in which case the Recognised Foreign Resolution Action shall take precedence.
+Part 6.Chapter 6.78.(4)	Subject to section 27, where a Foreign Resolution Order has been made by the Regulator under this section which recognises a Foreign Resolution Action (or part of it), such Foreign Resolution Action (or part of it) shall produce the same legal effects in the ADGM as it would have produced had it been made under the law of the ADGM.
+Part 6.Chapter 6.78.(5)	For the purposes of supporting, or giving full effect to, a Recognised Foreign Resolution Action, the Regulator may exercise one or more Resolution Tools, or one or more Resolution Powers, subject to any requirement for ex-ante judicial approval in compliance with section 27.
+Part 6.Chapter 6.78.(6)	The Regulator may make a Foreign Resolution Order which has effect in respect of an Institution which is a Subsidiary of a Foreign Institution which both recognises a Group Resolution Action and carries out certain Resolution Actions under these Regulations on the entity in the ADGM.
+Part 6.Chapter 6.78.(7)	A Foreign Resolution Order may include incidental, consequential or transitional provisions which may be general or for specified purposes, cases or circumstances and may make different provision for different purposes, cases or circumstances.
+Part 6.Chapter 6.78.(8)	As soon as reasonably practicable after the making of a Foreign Resolution Order under this section the requirements of the Foreign Resolution Order shall be complied with by the Regulator.
+Part 6.Chapter 6.78.(9)	Any decision (including appropriate rationale for such decision) to refuse to recognise a Foreign Resolution Action, to recognise a Foreign Resolution Action only in part or to take independent actions to resolve an Institution which is a Subsidiary of a Foreign Institution, shall be clearly communicated by the Regulator to the Group concerned and to any relevant resolution authorities of Group Entities.
+
+
+Part 6.Part 7	Miscellaneous
+Part 6.Part 7.79.	Investigations
+Part 6.Part 7.79.(1)	The Regulator may commence an Investigation in relation to an In-Scope Entity, whether or not it is in Resolution or being Wound Up under Insolvency Proceedings.
+Part 6.Part 7.79.(2)	For the purposes of subsection (1), sections 205 to 214 of the Financial Services and Markets Regulations 2015 shall apply to In-Scope Entities equally as they would to Authorised Persons and Recognised Bodies under the Financial Services and Markets Regulations 2015 as if they were set out here and applied to these Regulations.
+Part 6.Part 7.80.	Restrictions on disclosure of Confidential Information
+In relation to disclosures of Confidential Information, sections 198 and 199 of the Financial Services and Markets Regulations 2015 shall apply equally as if they were set out here and applied to these Regulations.
+Part 6.Part 7.81.	Co-operation with resolution authorities of another jurisdiction
+Part 6.Part 7.81.(1)	The Regulator may take such steps as it considers appropriate to co-operate with other regulators or resolution authorities who have functions similar to those of the Regulator or in relation to matters relating to resolution.
+Part 6.Part 7.81.(2)	For the purposes of subsection (1), sections 216 to 217 of the Financial Services and Markets Regulations 2015 shall apply to the Regulator equally as if they were set out here and applied to these Regulations.
+Part 6.Part 7.82.	General contravention provision
+Sections 218, 231 and 232 of the Financial Services and Markets Regulations 2015 shall apply with respect to contraventions of these Regulations equally as if they were set out here and applied to these Regulations.  
+Part 6.Part 7.83.	False or misleading information
+Part 6.Part 7.83.(1)	A person commits a contravention of these Regulations if the person makes a statement in any Document, material, evidence or information which is required to be provided to the Regulator or to any person entitled to the information under these Regulations that, at the time and in the light of the circumstances under which it is made, is false or misleading with respect to any material fact, or that omits to state any material fact the omission of which makes the statement false or misleading.
+Part 6.Part 7.83.(2)	A person shall not contravene subsection ‎(1) if the person did not know that the statement was false or misleading and with the exercise of all due diligence could not have known that the statement was false or misleading.
+Part 6.Part 7.84.	Amendments and subordinate legislation
+Part 6.Part 7.84.(1)	The Regulator may make Rules for carrying out the purposes of these Regulations or furthering one or more of the Resolution Objectives.  
+Part 6.Part 7.84.(2)	Rules made under these Regulations, without limitation, may—
+(a)	make different provision for different cases or circumstances; 
+(b)	include supplementary, incidental and consequential provisions; 
+(c)	specify financial penalties;
+(d)	make transitional provision and savings; and 
+(e)	revoke or amend any rules or other subordinate legislation.
+Part 6.Part 7.85.	Power to make consequential amendments etc.
+Part 6.Part 7.85.(1)	The Board may amend, repeal or revoke any provision of these Regulations or of any subordinate legislation made under these Regulations as it considers necessary or expedient as a consequence of any provision made by or under these Regulations.
+Part 6.Part 7.85.(2)	Without prejudice to the generality of the power conferred by subsection (1), Regulations made under this section may—
+(a)	make provision extending to other forms of organisation any provision made by or under these Regulations in relation to Institutions; or
+(b)	make provision corresponding to that made by or under these Regulations in relation to Institutions, 
+in either case with such adaptations or other modifications as may be necessary or expedient.
+Part 6.Part 7.85.(3)	The references in subsection (2) to provision made by these Regulations include provision conferring power to make provision by Rules or other subordinate legislation.
+Part 6.Part 7.85.(4)	Amendments and repeals made under this section are additional, and without prejudice, to those made by or under any other provision of these Regulations.
+Part 6.Part 7.86.	Short title, extent and commencement
+Part 6.Part 7.86.(1)	These Regulations may be cited as the Bank Recovery and Resolution Regulations 2018.
+Part 6.Part 7.86.(2)	These Regulations shall apply in the ADGM.
+Part 6.Part 7.86.(3)	These Regulations shall come into force on the date of their publication.  
+
+Schedule	
+Schedule.Part 1	Information to be Included in Recovery Plans
+The Recovery Plan shall contain the following—
+(a)	a summary of the key elements of the Recovery Plan and a summary of overall recovery capacity;
+(b)	a summary of the material changes to the Institution since the most recently filed Recovery Plan; 
+(c)	a communication and disclosure plan outlining how the Institution intends to manage any potentially negative market reactions; 
+(d)	a range of capital, liquidity, and in respect of a Recognised Clearing House loss allocation (covering both default and non-default losses), actions required to maintain or restore the viability and financial position of the Institution; 
+(e)	appropriate conditions and procedures to ensure the timely implementation of recovery actions, as well as a wide range of recovery options;
+(f)	possible measures which could be taken by the Institution where the conditions for early intervention under section ‎18 are met;
+(g)	an estimate of the timeframe for executing each material aspect of the Recovery Plan; 
+(h)	a detailed description of any material impediment to the effective and timely execution of the Recovery Plan, including consideration of impact on the rest of the Group, customers, counterparties, clients and clearing members, where applicable; 
+(i)	identification of Critical Functions; 
+(j)	a detailed description of the processes for determining the value and marketability of the Core Business Lines, operations and assets of the Institution; 
+(k)	a detailed description of how recovery planning is integrated into the corporate governance structure of the Institution as well as the policies and procedures governing the approval of the Recovery Plan and identification of the persons in the organisation responsible for preparing and implementing the Recovery Plan; 
+(l)	in respect of a Recognised Clearing House, a detailed description of how recovery planning forms part of the operating rules and procedures agreed to by clearing members, including arrangements and measures incentivising non-defaulting clearing members to bid competitively in auctions of a defaulted members' positions;
+(m)	arrangements and measures to conserve or restore the Institution's Capital Resources; 
+(n)	arrangements and measures to ensure that the Institution has adequate access to contingency funding sources, including potential liquidity sources, an assessment of available collateral and an assessment of the possibility to transfer liquidity across Group Entities and business lines, to ensure that it can continue to carry out its operations and meet its obligations as they fall due; 
+(o)	arrangements and measures to reduce risk and leverage; 
+(p)	arrangements and measures to restructure contracts, rights, assets and liabilities; 
+(q)	arrangements and measures to restructure business lines; 
+(r)	arrangements and measures necessary to maintain continuous access to financial markets infrastructures; 
+(s)	arrangements and measures necessary to maintain the continuous functioning of the Institution's operational processes, including infrastructure and IT services;
+(t)	preparatory arrangements to facilitate the sale of assets or business lines in a timeframe appropriate for the restoration of financial soundness;
+(u)	other management actions or strategies to restore financial soundness and the anticipated financial effect of those actions or strategies;
+(v)	preparatory measures that the Institution has taken or plans to take in order to facilitate the implementation of the Recovery Plan, including those necessary to enable the timely recapitalisation of the Institution; and
+(w)	a framework of indicators which identifies the points at which appropriate actions referred to in the Recovery Plan may be taken.
+
+Schedule.Part 2	Information to be Supplied by an Institution for Resolution Planning
+In connection with its assessment of the Institution's Resolution Plan, the Regulator may request the following information from the Institution—
+(a)	a detailed description of the Institution's organisational structure, including a list of all entities incorporated in the ADGM or which are Subsidiaries of entities incorporated in the ADGM;
+(b)	identification of the direct holders and the percentage of voting and non-voting rights of each entity referred to in subsection ‎(a);
+(c)	the location, jurisdiction of incorporation, licensing and key management associated with each entity referred to in subsection ‎(a);
+(d)	a mapping of the Institution's critical operations and Core Business Lines, including material asset holdings and liabilities relating to such operations and business lines, by reference to Group Entities in the Institution's Group;
+(e)	a detailed description of the components of the liabilities of the Institution and all its legal entities, separated, at a minimum, by either—
+(i)	types and amounts of short-term and long-term debt, secured, unsecured and subordinated liabilities; or
+(ii)	in respect of a Recognised Clearing House, types of services and respective amounts of cleared volumes, open interest, initial margin, variation margin flows, default funds and any associated assessment rights or other recovery actions pertaining to such business lines;
+(f)	details of those liabilities of the Institution that are Eligible Liabilities;
+(g)	details of capital instruments and Debt Instruments issued by the Institution and its legal entities;
+(h)	an identification of the processes needed to determine to whom the Institution has pledged or received collateral and in what form, the person that holds the collateral and the jurisdiction in which the collateral is located;
+(i)	a description of the off balance sheet exposures of the Institution and its legal entities, including a mapping to its critical operations and Core Business Lines;
+(j)	the material hedges of the Institution, including a mapping to legal entities;
+(k)	identification of the major or most critical counterparties, or in respect of a Recognised Clearing House clearing members, of the Institution, as well as an analysis of the impact of the failure of major counterparties or clearing members, as applicable, in the Institution's financial situation;
+(l)	each system on which the Institution conducts a material number or value amount of trades, including a mapping to the Institution's legal entities, critical operations and Core Business Lines;
+(m)	each payment and securities settlement system, Central Securities Depository, clearing house, Recognised Clearing House, exchange and Recognised Investment Exchange of which the Institution is directly or indirectly a member, including a mapping to the Institution's legal entities, critical operations and Core Business Lines;
+(n)	a detailed inventory and description of the key management information systems, including those for risk management, accounting and financial and regulatory reporting used by the Institution including a mapping to the Institution's legal entities, critical operations and Core Business Lines;
+(o)	an identification of the owners of the systems identified in subsections (l), (m) and ‎(n), service level agreements related to the systems, and any software and systems or licenses, including a mapping to their legal entities, critical operations and Core Business Lines;
+(p)	an identification and mapping of the legal entities and the interconnections and interdependencies among the different legal entities such as—
+(i)	common or shared personnel, facilities and systems;
+(ii)	capital, funding or liquidity arrangements;
+(iii)	existing or contingent credit exposures;
+(iv)	cross guarantee agreements, cross-collateral arrangements, cross-default provisions and cross-affiliate netting arrangements;
+(v)	risks transfers and back-to-back trading arrangements; and
+(vi)	service level agreements;
+(q)	identification of the regulator and resolution authority applicable to each entity;
+(r)	the member of the Management responsible for providing the information necessary to prepare the Resolution Plan of the Institution as well as those responsible, if different, for the different legal entities, critical operations and Core Business Lines;
+(s)	a description of the arrangements that the Institution has in place to ensure that, in the event of Resolution, the Regulator will be provided with all the necessary information, as determined by the Regulator, for applying a Resolution Tool and exercising a Resolution Power;
+(t)	all the agreements entered into by the Institution and their legal entities with third parties the termination of which may be triggered by a decision of the Regulator to apply a Resolution Tool and whether the consequences of termination may affect the application of the Resolution Tool;
+(u)	a description of possible liquidity sources for supporting Resolution; and
+(v)	information on asset encumbrance, liquid assets, off-balance sheet activities, hedging strategies and booking practices.
+
+Schedule.Part 3	Contents of a Resolution Plan
+The Resolution Plan shall contain the following—
+(a)	a summary of the key elements of the Resolution Plan;
+(b)	a summary of the material changes to the Institution that have occurred after the latest Resolution information was filed;
+(c)	a demonstration of how Critical Functions and Core Business Lines could be legally and economically separated, to the extent necessary, from other functions so as to ensure continuity upon the failure of the Institution;
+(d)	an estimate of the timeframe for executing each material aspect of the Resolution Plan;
+(e)	where applicable, a detailed description of the assessment of resolvability carried out in accordance with ‎Chapter 3 of Part 3;
+(f)	where applicable, a description of any measures required to address or remove impediments to resolvability identified as a result of the assessment of resolvability;
+(g)	a description of the processes for determining the value and marketability of the Critical Functions, Core Business Lines and assets of the Institution;
+(h)	a detailed description of the different Resolution strategies that could be applied according to the different possible scenarios and the applicable timescales;
+(i)	a description of critical interdependencies;
+(j)	a description of options for preserving access to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses, exchanges and Recognised Investment Exchanges, and an assessment of the portability of client positions;
+(k)	an analysis of the impact of the Resolution Plan on the employees of the Institution, including an assessment of any associated costs, and a description of envisaged procedures to consult staff during the Resolution process, taking into account national systems for dialogue with social partners where applicable;
+(l)	a plan for communicating with the media and the public;
+(m)	the minimum requirement for Capital Resources and Eligible Liabilities required by the Regulator under ‎Chapter 4 and a deadline to reach that level, where applicable;
+(n)	where applicable, the minimum requirement for Capital Resources and contractual bail-in instruments required by the Regulator, and a deadline to reach that level, where applicable;
+(o)	a description of essential operations and systems for maintaining the continuous functioning of the Institution's operational processes; and 
+(p)	where applicable, any opinion expressed by the Regulator in relation to the Resolution Plan.
+
+Schedule.Part 4	Matters for Consideration to Assess Resolvability of Institutions
+Matters which may be considered by the Regulator in assessing the resolvability of an Institution are as follows—
+(a)	the extent to which the Institution is able to map Core Business Lines and critical operations to legal persons;
+(b)	the extent to which legal and corporate structures are aligned with Core Business Lines and critical operations;
+(c)	the extent to which there are arrangements in place to provide for essential staff, infrastructure, funding, liquidity and capital to support and maintain the Core Business Lines and the critical operations;
+(d)	the extent to which the service agreements that the Institution maintains are fully enforceable in the event of the Resolution of the Institution;
+(e)	the extent to which the governance structure of the Institution is adequate for managing and ensuring compliance with the Institution's internal policies with respect to its service level agreements;
+(f)	the extent to which the Institution has a process for transitioning the services provided under service level agreements to third parties in the event of the separation of Critical Functions or of Core Business Lines;
+(g)	the extent to which there are contingency plans and measures in place to ensure continuity in access to payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses, exchanges and Recognised Investment Exchanges;
+(h)	the adequacy of the management information systems in ensuring that the Regulator is able to gather accurate and complete information regarding the Core Business Lines and critical operations so as to facilitate rapid decision making;
+(i)	the capacity of the management information systems to provide the information essential for the effective Resolution of the Institution at all times even under rapidly changing conditions;
+(j)	the extent to which the Institution has tested its management information systems under stress scenarios as defined by the Regulator;
+(k)	the extent to which the Institution can ensure the continuity of its management information systems both for the affected Institution and the new Institution in the case that the critical operations and Core Business Lines are separated from the rest of the operations and business lines;
+(l)	the extent to which the Institution has established adequate processes to ensure that it provides the Regulator with the information necessary to identify Depositors;
+(m)	where the Institution's Group uses Intragroup Financial Support, the extent to which those guarantees are provided at market conditions and to which the risk management systems concerning those guarantees are robust;
+(n)	where the Institution or the Institution's Group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and to which the risk management systems concerning those transactions practices are robust;
+(o)	the extent to which the use of Intragroup Financial Support or back-to-back booking transactions increases contagion across the Institution's Group;
+(p)	the extent to which the legal structure of the Institution or its Group inhibits the application of a Resolution Tool as a result of the number of legal persons, the complexity of the Group structure or the difficulty in aligning business lines to the Group Entities;
+(q)	the existence and robustness of service level agreements;
+(r)	the amount and type of Eligible Liabilities of the Institution;
+(s)	the extent to which the Resolution of the Institution could have a negative impact on its Group, where applicable;
+(t)	whether resolution authorities in the other jurisdictions in which the Institution's Group operates have the power to apply a Resolution Tool necessary to support Resolution Actions by the Regulator and the extent to which there is scope for cooperation between such resolution authorities and the Regulator;
+(u)	the feasibility of applying a Resolution Tool in such a way which meets the Resolution Objectives, given the tools available and the Institution's structure;
+(v)	the extent to which the structure of the Institution's Group allows the resolution authorities of the Group Entities to resolve the whole Group or one or more of its Group Entities without causing a significant direct or indirect adverse effect on the financial system, market confidence or the economy in the ADGM and with a view to maximising the value of the Group as a whole including the ADGM Branches and ADGM Subsidiaries;
+(w)	the arrangements and means through which Resolution could be facilitated in the cases of Groups that have subsidiaries established in different jurisdictions;
+(x)	the arrangements and means through which Resolution could be hampered in the cases of Recognised Clearing Houses that have clearing members or collateral arrangements established in different jurisdictions;
+(y)	the credibility of applying a Resolution Tool in such a way which meets the Resolution Objectives, given possible impacts on creditors, counterparties, customers, clearing participants and employees and possible actions that third-country authorities may take;
+(z)	the extent to which the impact of the Institution's Resolution on the financial system in the ADGM and on financial market's confidence can be adequately evaluated;
+(aa)	the extent to which the Resolution of the Institution could have a significant direct or indirect adverse effect on the financial system, market confidence or the economy in the ADGM;
+(bb)	the extent to which contagion to other Institutions or to the financial markets could be contained through the application of a Resolution Tool and exercise of a Resolution Power; and
+(cc)	the extent to which the Resolution of the Institution could have a significant effect on the operation of payment and securities settlement systems, Central Securities Depositories, clearing houses, Recognised Clearing Houses, exchanges and Recognised Investment Exchanges. 

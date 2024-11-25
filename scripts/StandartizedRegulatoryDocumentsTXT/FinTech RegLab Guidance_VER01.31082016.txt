@@ -1,0 +1,156 @@
+1.	INTRODUCTION
+1.1	This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with the FSMR and the relevant FSRA Rulebooks where applicable.
+1.2	The Guidance is applicable to the following Persons:
+(a)	an applicant for a Financial Services Permission to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab in or from ADGM; and/or
+(b)	a FinTech Participant. 
+1.3	This Guidance sets out the Financial Services Regulatory Authority’s (“FSRA’s” or the “Regulator’s”) approach to the Regulatory Laboratory (“RegLab”) framework.  In particular, this Guidance includes the eligibility and authorisation criteria applicants must satisfy to be authorised as FinTech Participants, the authorisation process, the types of restrictions that the Regulator may impose on the FinTech Participants’ conduct, as well as the information that FinTech Participants may be required to produce to the Regulator.  
+1.4	This Guidance is not an exhaustive source of the Regulator’s policy on the exercise of its statutory powers and discretions.  In the discharge of its regulatory mandate, the Regulator may impose other parameters to address any specific risks posed by the proposed activities of the applicant to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.
+1.5	The Regulator is not bound by the requirements set out in this Guidance and may waive or modify these requirements at its discretion where appropriate.
+1.6	Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the GLO Rulebook.
+2.	OBJECTIVES OF THE REGLAB FRAMEWORK 
+2.1	FinTech allows the use of new technologies in the financial services industry to improve operational and customer engagement capabilities by leveraging analytics, data management and digital functions.  
+2.2 	The fast evolving FinTech landscape where new and emerging FinTech solutions are becoming more diverse and sophisticated requires a responsive and progressive regulatory framework to facilitate the development, testing and adoption of promising FinTech innovations.  In particular, the FinTech regulatory framework should encourage, rather than front-run innovation, should be tailored and proportionate to the materiality of the risks posed, and should be responsive to support time-to-market of new FinTech solutions in a cost-efficient environment.
+2.3	In light of these considerations, FSRA has created the RegLab, which is a specially tailored regulatory framework that provides a controlled environment for FinTech Participants to develop and test innovative FinTech solutions without immediately being subject to all the regulatory requirements that would otherwise apply to Authorised Persons.
+3.	THE REGLAB’S INTENDED PARTICIPANTS 
+3.1	FSRA’s RegLab framework may apply to two categories of FinTech Participants:- 
+(a)	those who have a FinTech product that is untested in the UAE market, to enable the FinTech Participants to live-test the product in a clearly demarcated environment in ADGM with controlled scope and scale, without attracting the full suite of regulatory requirements; and
+(b)	those who may already be offering their FinTech product in the market, but wish to continue researching and developing it, and to live-test and offer any product enhancements, variations or new features on a limited rollout basis within the confines of the RegLab.
+3.2	The RegLab is not intended to be a platform for firms to launch an established FinTech product which complies with all relevant regulatory requirements to a wider market.  Financial institutions wishing to pilot and launch their complying technological innovations can do so in the ADGM under the existing authorisation and supervisory regime under the FSMR, without the need for the RegLab authorisation.  
+4.	FEATURES OF THE REGLAB
+
+4.1	Developing Financial Technology Services within the RegLab . FinTech Participants that qualify for authorisation under the RegLab framework will be granted an FSRA Financial Services Permission (“FSP”) in accordance with section 30 of the FSMR to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.  
+4.2	Developing Financial Technology Services within the RegLab . Developing Financial Technology Services within the RegLab means the Regulated Activity specified in paragraph 73A of Schedule 1 to the FSMR.
+4.3	Developing Financial Technology Services within the RegLab . The FinTech Participant authorised under the RegLab will be required to establish a commercial presence in ADGM.
+
+4.4	Blank-Sheet Approach . The legislative requirements applicable to FinTech Participants under the RegLab framework will be tailored according to the specific characteristics and risks associated with the FinTech Proposal. This approach is consistent with the Regulator’s objective to offer a responsive and risk-appropriate regulatory framework. 
+4.5	Blank-Sheet Approach . The requirements that will apply to FinTech participants under the RegLab framework may be adapted from existing regulations (including but not limited to the FSMR) and the FSRA Rules, as applicable. 
+4.6	Blank-Sheet Approach . As such, generally, the regulatory requirements applicable to all Persons to whom the FSMR applies would initially apply to each applicant for an FSP to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.  
+4.7	Blank-Sheet Approach . On receipt of the RegLab application, the Regulator will work with the applicant to identify those Rules (or Rulebooks, as the case may be) that are not relevant to the applicant’s FinTech Proposal.  The Regulator may then waive or modify any of these Rules or Rulebooks (in part or entirely, as appropriate) by way of a waiver or a modification notice.  
+4.8	Blank-Sheet Approach . As certain Rules will be waived or modified for the FinTech Participant under the RegLab, the Regulator will, among other things:-
+(a)	set client and exposure limits to limit the scope and scale of the FinTech Participant’s test activities; and
+(b)	impose boundaries/geographical restrictions to ensure that client impact is controlled and the clients’ interests are protected.  
+Please refer to section 5.2 below titled Authorisation Requirements for further details of the requirements that the Regulator may impose. 
+4.9	Blank-Sheet Approach . The Regulator may vary the applicable waivers and modifications as the FinTech Participants progress through different stages of testing of their FinTech solution. Variations will be subject to the changing risks that the FinTech Proposal may pose at any point.
+4.10	Blank-Sheet Approach . The RegLab is not intended to create a risk-free FinTech environment – an acceptable degree of risk is unavoidable in all innovation and entrepreneurial endeavours.  What the RegLab aims to achieve is a controlled environment that promotes FinTech innovation, yet minimises the risks of poor client outcomes posed by these innovative solutions. 
+ 
+
+4.11	Two-year validity period. The FSP granted under the RegLab will have a validity period of up to two years for the FinTech Participant to test its FinTech solution.  
+4.12	Two-year validity period. At the end of the two-year validity period (or earlier if the size, scale or progress of the FinTech Proposal warrants), the FinTech Participant will exit the RegLab and, if eligible, migrate to the full authorisation and supervisory regime under the FSMR.  
+4.13	Two-year validity period. To be eligible to migrate to the full authorisation and supervisory regime, the FinTech Participant will be required to demonstrate to the Regulator that it:- 
+(a)	has achieved its intended test outcomes under the RegLab so as to deploy the FinTech product on a broader scale, and 
+(b)	continues to be fit and proper to be an Authorised Person in the ADGM.  
+4.14	Two-year validity period. If the FinTech Participant is unable to satisfy the above criteria, it will be required to cease carrying on the Regulated Activity of Developing Financial Technology Services within the RegLab.  The deadline for ceasing the Regulated Activity will be upon the expiry of its RegLab FSP, or at such time as the Regulator varies or cancels the FSP in accordance with section 33 of the FSMR.  Please refer to section 8 below for more details.
+4.15	Two-year validity period. During the two-year validity period, the Regulator will engage with and support the FinTech Participant and ensure the FinTech Participant operates within the parameters as set and agreed to prior to the grant of the FSP.
+4.16	Two-year validity period. The two-year validity period of the authorisation granted under the RegLab may be extended in exceptional circumstances only, determined at the Regulator’s discretion on a case-by-case basis.  
+
+
+4.17	Dedicated FinTech supervisory team. The Regulator’s dedicated FinTech supervisory team will provide tailored guidance and support to applicants interested in applying to the RegLab and guide them in, among other things:-
+(a)	understanding the RegLab regulatory framework; 
+(b)	preparing their RegLab application; 
+(c)	drawing up a risk-appropriate testing parameters; and
+(d)	meeting their ongoing regulatory requirements.
+
+5.	REGLAB AUTHORISATION CRITERIA
+
+5.1 	Evaluation Criteria. To qualify for authorisation under the RegLab framework, the applicant must demonstrate how it satisfies the following evaluation criteria:
+(a)	the FinTech Proposal promotes FinTech innovation, in terms of the business application and deployment model of the technology.
+(b)	the FinTech Proposal has the potential to:
+i.	promote significant growth, efficiency or competition in the financial sector;
+ii.	promote better risk management solutions and regulatory outcomes for the financial industry; or
+iii.	improve the choices and welfare of clients.
+(c)	the FinTech Proposal is at a sufficiently advanced stage of development to mount a live test.
+(d)	the FinTech Proposal can be deployed in the ADGM and the UAE on a broader scale or contribute to the development of ADGM as a financial centre, and, if so, how the applicant intends to do so on completion of the validity period.
+
+
+5.2 	Authorisation Requirements  In order to become authorised under the RegLab framework, the applicant must also demonstrate to the satisfaction of the Regulator that it:
+(a)	satisfies, and will continue to satisfy, any Threshold Conditions made under section 7(2) of the FSMR, including but not limited to the following:
+i.	the applicant has adequate and appropriate resources, including financial resources, to develop and test its FinTech Proposal;
+ii.	the applicant is fit and proper; and
+iii.	the applicant has relevant technical and business knowledge and experience to develop and test the FinTech Proposal;
+(b)	is able to clearly define the FinTech Proposal’s test parameters, control boundaries, key milestones and intended outcomes;
+(c)	is able to propose an acceptable reporting schedule to report to the Regulator on the status and progress of development and testing of its FinTech Proposal;
+(d)	is able to satisfactorily detail the safeguards that have been put in place, and demonstrate how they are appropriate to the FinTech Proposal being tested, the risks that are posed and the type of clients that are likely to be affected by the proposed innovation;  
+(e)	is able to set out a fair and proper exit strategy for clients should the FinTech Proposal be discontinued, completed or deployed on a broader scale outside the RegLab; and
+(f)	is able to satisfy all applicable ADGM Regulations, Rules, conditions and/or limitations that the Regulator may prescribe.
+
+
+6. 	APPLICATION PROCESS FOR AUTHORISATION
+6.1	If the applicant is suitable participant for the FSRA’s RegLab framework (refer to section 3) and meets the authorisation criteria (set out in section 5 above), it can proceed to complete and submit the RegLab Application Form.  A copy of the RegLab Application Form is attached at Appendix A to this Guidance and can be submitted to the Regulator by email at FinTech@adgm.com.
+6.2	Once the applicant has submitted its RegLab application form, the Regulator will review the application and inform the applicant whether the FinTech Proposal potentially qualifies for the RegLab.
+6.3	The Regulator will work with the applicant to determine the specific regulatory requirements and conditions (including test parameters and control boundaries) to be applied to the FinTech solution in question. The applicant will then assess if it is able to meet these requirements.
+6.4	If the applicant is able and willing to meet the proposed regulatory requirements and conditions, the applicant will be granted an FSP in accordance with section 30 of the FSMR to carry on the Regulated Activity of “Developing Financial Technology Services within the RegLab”.
+6.5	Once the Regulator grants the FSP, the FinTech Participant will be able to develop and test its FinTech product within the parameters and control boundaries agreed upon with the Regulator.
+6.6	Figure 1 overleaf depicts the RegLab application process.
+Figure 1: RegLab Application Process 
+/Figure Start
+This figure is a flowchart that represents the application process for a FinTech proposal within a Regulatory Laboratory (RegLab) environment as overseen by the Financial Services Regulatory Authority (FSRA). The process flows as follows:
+
+The process begins with "RegLab application submitted to FSRA."
+
+FSRA then "reviews application to determine applicant’s preliminary eligibility."
+
+A decision diamond follows, asking, "Does the applicant potentially qualify?"
+
+If "No," the flowchart leads to a process end where "RegLab application is rejected and applicant is informed."
+
+If "Yes," the process continues to the next step.
+
+FSRA "informs applicant that its FinTech Proposal will potentially qualify for the RegLab."
+
+FSRA "works with the applicant to determine specific regulatory requirements and conditions that will be applied*". An asterisk indicates a footnote that reads: "*The time required for this stage depends on various factors such as the nature of the product."
+
+Another decision diamond follows, "Can applicant meet the regulatory requirements and conditions?"
+
+If "No," the flow leads to an exit point stating, "Exit from RegLab within 2 years."
+
+If "Yes," the process progresses to the next step.
+
+"RegLab application is approved."
+
+This leads to "FSRA issues applicant with FSP for 'Developing Financial Technology Services within the RegLab'."
+
+The final step in the flowchart is that "FinTech Participant may develop and test its FinTech solution."
+
+The flowchart has a logical progression from application submission to approval or rejection, with clear decision points and outcomes based on the applicant’s ability to meet FSRA’s requirements. The decision points are represented by diamond shapes, indicating where a choice must be made, while rectangles represent steps in the process. Arrows indicate the direction of the workflow, with blue arrows specifically indicating a negative outcome leading to either a rejection notification or an exit from the process. The green rectangular shapes represent the positive progression through the application process.
+/Figure End
+
+
+7. 	CONDITIONS / LIMITATIONS ON THE FINTECH PARTICIPANTS 
+7.1	On being granted the FSP to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab, the Regulator may impose limitations or conditions on the FinTech Participant in accordance with sections 30(4) and 35 of the FSMR.  These may include, but are not limited to, any of the following:
+(a)	the number and type of Clients with or for whom the FinTech Participant carries on, or intends to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab;
+(b)	the type and size of Client transactions that the FinTech Participant is permitted to enter into;
+(c)	the suitability assessment and Clients’ written consent required prior to carrying on the Regulated Activity of Developing Financial Technology Services within the RegLab;
+(d)	the FinTech Participant’s ability (if any) to hold or control Client Money and Client Investments;
+(e)	the requirements surrounding the FinTech Participant’s handling and protection of Client information;
+(f)	the manner and type of financial promotion that the FinTech Participant may undertake and the associated disclosures that the FinTech Participant is required to make to Clients ;
+(g)	the key information required to be contained in a Client Agreement;
+(h)	the prevention of money laundering and countering the financing of terrorism measures that the FinTech Participant is required to implement ;
+(i)	the FinTech Participant’s capital requirements (if any) ; 
+(j)	the FinTech Participant’s financial and other reporting requirements;
+(k)	any other safeguards to protect the interests of Clients or maintain the safety and soundness of the financial system as the Regulator may prescribe.
+7.2	FSRA may, at any time through the life-cycle of the FinTech Proposal, by notice in writing to the FinTech Participant, cancel or vary any condition or restriction imposed on the FinTech Participant or impose such further condition or restriction as it may think fit in accordance with sections 33, 35 and 36 of the FSMR.
+8.	EXITING THE REGLAB
+8.1	At the end of the two-year validity period, the FSP for the RegLab will expire.  
+8.2	Unless an application to extend the two-year validity period is made at least three months before its expiry, or at such time as is otherwise agreed by the Regulator , the FinTech Participant will have to exit the RegLab and choose to either:
+(a)	migrate to the full authorisation and supervisory regime under the FSMR and deploy its FinTech solution on a broader scale; or 
+(b)	employ an exit strategy.
+8.3	The exit strategy of a FinTech Participant may vary according to its commercial needs.  For example, the FinTech Participant may choose to cease its business at the end of the validity period, or it may transfer its FinTech product and any clients to other authorised financial institutions.  
+8.4	The two-year validity period of the authorisation granted under the RegLab may only be extended in exceptional circumstances. 
+8.5	In applying for an extension of the validity period, the FinTech Participant shall provide the justifications for extension to the Regulator in such form and manner as FSRA may prescribe.
+8.6	All applications for an extension of the validity period are to be determined at the Regulator’s discretion on a case-by-case basis.   The Regulator reserves the right to refuse an application for an extension of the validity period if it is of the view that it is desirable to do so in order to further one or more of its regulatory objectives.
+
+
+8.7	Cancellation of the FSP. FSRA may cancel the FSP on the application of the FinTech Participant, in accordance with section 32 of the FSMR, or on the initiative of the Regulator, in accordance with section 33 of the FSMR, if it appears to the Regulator that:
+(a)	the FinTech Participant is failing, or is likely to fail, to satisfy the Threshold Conditions made under section 7(2) of the FSMR and set out in paragraph 5.2(a) of this Guidance; 
+(b)	it is desirable to exercise this power to further one or more of the Regulator’s objectives, including, for example, if:
+i.	the FinTech Participant is failing, or is likely to fail, to satisfy the authorisation requirements set out in section 5.2(b) – (f) of this Guidance; or
+ii.	the FinTech Participant is failing, or is likely to fail, to satisfy the limitations or conditions set out in section 7.1 of this Guidance; or
+(c)	the FinTech Participant has committed a contravention of the FSMR or any Rules made under the FSMR.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,495 @@
+
+1)	INTRODUCTION. This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with FSMR, the Market Rules (“MKT) of the Financial Services Regulatory Authority (“FSRA”) and the FSRA’s Guidance & Policies Manual.  
+
+2)	INTRODUCTION. This Guidance is published to assist Issuers, Listed Companies, Reporting Entities (and their advisors) to comply with the disclosure requirements contained in Chapter 12 of MKT, which relate to Petroleum activities.  Chapter 12 of MKT is intended to align ADGM’s listing framework for the disclosure of Petroleum activities with recognised global industry standards, as well as promote consistency in, and the quality of, disclosures made in relation to Petroleum activities.   
+
+3)	INTRODUCTION. The disclosure framework for Petroleum Reporting Entities in Chapter 12 of MKT is substantially driven by the Petroleum Resources Management System (“PRMS”).   The PRMS is an industry sponsored set of guidelines that provided standardised definitions and a comprehensive classification system for Petroleum Resources.  The FSRA intends for Chapter 12 of MKT to work closely, and be consistent, with the PRMS.  If there are any inconsistencies, however, between FSMR or MKT and the PRMS, FSMR or MKT will prevail. 
+
+4)	INTRODUCTION. In the context of the obligations and disclosures by Petroleum Reporting Entities, the FSRA operates as the Listing Authority within ADGM and is therefore charged with supervising Petroleum Reporting Entity disclosures under FSMR, MKT and by incorporation in Chapter 12 of MKT, the PRMS. 
+
+5)	INTRODUCTION. Nothing in this Guidance binds the FSRA in relation to the application of MKT to a particular Issuer, Listed Company or Petroleum Reporting Entity, or to particular circumstances.  This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers.  The FSRA is not bound by the requirements set out in this Guidance and may – 
+
+a)	impose additional requirements to address any specific risks posed by Petroleum Reporting Entities; 
+
+b)	waive or modify any of the Rules relevant to Petroleum Reporting Entities, at its discretion, where appropriate.
+
+6)	Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the FSRA Glossary Rulebook (“GLO”). 
+
+7)	For the purposes of this Guidance:
+
+a)	 Issuers, Listed Companies or Petroleum Reporting Entities, or any entity required to make a disclosure in relation to Petroleum activities, are collectively referred to as “Petroleum Reporting Entities”;
+
+b)	the terms “PRMS” and “Reporting Standard” can be used interchangeably; and
+
+c)	any reference to a Rule is a reference to a Rule in MKT, unless otherwise set out.
+
+8)	For more details on the process for the offering, listing and ongoing disclosures relating to Petroleum activity, please contact the FSRA via email at: LA@adgm.com.  
+
+
+9)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . The FSRA considers that Rules 12.2.1 and 12.2.2 are the most important Rules in relation to the requirement for Petroleum activity disclosures within ADGM.  Rule 12.2.1 requires that any disclosure by a Petroleum Reporting Entity that includes a statement about Petroleum Resources, including estimates of Prospective Resources, Contingent Resources or Petroleum Reserves, must be prepared in accordance with both the PRMS and Chapter 12 of MKT.
+
+10)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . It is important to note that when considering the requirements set out in the PRMS, the terms “shall” or “must” indicate that provision within the PRMS is mandatory, while “should” indicates a recommended practice and “may” indicates a course of action that is permissible.  It is important to note that Rule 12.2.2 states that where a disclosure does not meet a non-mandatory requirement contained in the PRMS, then a Petroleum Reporting Entity must provide in its disclosure a statement as to how and why its disclosure differs from the non-mandatory requirement contained in the PRMS.
+
+11)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . As a result of these two Rules, the FSRA has established a clear obligation for Petroleum Reporting Entities to comply in full with all mandatory requirements set out in the PRMS, as well as setting the expectation for Petroleum Reporting Entities to comply with all non-mandatory requirements in the PRMS.
+
+12)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . Examples of non-mandatory requirements that exist in the PRMS include:
+
+a)	Section 1.2.0.7, which recommends that an individual project has assigned to it a specific maturity level sub-class at which a decision is made whether or not to proceed, and that there should be an associated range or estimated recoverable quantities for the project;
+
+b)	Section 3.2.2, which states that CiO (lease fuel) quantities may be included as Petroleum Reserves, Contingent Resources or Prospective Resources, but that when included must be stated and recorded separately from the sales portion;
+
+c)	Section 4.2.5.4, which states that when utilising a method of aggregation for disclosure purposes, statistical aggregation should not be used beyond the field, property or project level. 
+
+13)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . Rules 12.1 to 12.12 set out the general requirements that apply to all disclosures of Petroleum Resources.  These Rules apply to all Listed Companies/Reporting Entities disclosing Petroleum Resources, not just Petroleum Reporting Entities.  While Petroleum Reporting Entities are specifically captured by the disclosure obligations within Chapter 12 of MKT, the wider universe of Reporting Entities are required to consider whether Petroleum Resources (or related activities) are material in the context of their own entire set of activities.
+
+14)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . Pursuant to Rule 12.2.3, a Petroleum Reporting Entity must disclose Petroleum Resources in the most specific resource class in accordance with the scheme for classification in the PRMS (that is, as Prospective Resources, Contingent Resources or Petroleum Reserves).  Rule 12.2.3 is one of the limited examples where the Rules adopt a non-mandatory requirement  contained in the PRMS as a mandatory requirement. 
+
+15)	DISCLOSURES TO BE PREPARED IN ACCORDANCE WITH THE PRMS . Section 1.1 of the PRMS identifies the specific classes for Petroleum Resources as Unrecoverable Petroleum, Prospective Resources, Contingent Resources, Petroleum Reserves and Production.  To assist Petroleum Reporting Entities with their compliance with Chapter 12 of MKT, the FSRA encourages them to refer to the PRMS Guidelines , which contains additional guidance on how to classify Petroleum Resources in accordance with the PRMS. 
+
+
+16)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a ‘Petroleum Reporting Entity’?
+There are two types of Petroleum Reporting Entities under the Rules, being:
+
+a)	a Petroleum Exploration Reporting Entity; or 
+
+b)	a Petroleum Production Reporting Entity. 
+
+17)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a ‘Petroleum Reporting Entity’?
+A Petroleum Exploration Reporting Entity is a Reporting Entity whose main undertaking consists of Exploration for Petroleum, or a Reporting Entity that has been advised by the FSRA that it is a Petroleum Exploration Reporting Entity for the purposes of the Rules.  
+
+18)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a ‘Petroleum Reporting Entity’?
+A Petroleum Production Reporting Entity is a Reporting Entity whose main undertaking consists of the Extraction of Petroleum, or a Reporting Entity that has been advised by the FSRA that it is a Petroleum Production Reporting Entity for the purposes of the Rules.
+
+19)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a ‘Petroleum Reporting Entity’?
+The FSRA may exercise its power to advise a Reporting Entity that it is a Petroleum Exploration Reporting Entity or a Petroleum Production Reporting Entity for the purposes of the Rules if, in its opinion, the Reporting Entity undertakes Petroleum activity that comprises, or is over time likely to comprise, such a material part of the overall activity of the Reporting Entity that it is appropriate for the Reporting Entity to be subject to the quarterly activity, and other periodic disclosure obligations set out in Chapter 12 of the Rules. 
+
+
+20)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+A Petroleum Project or ‘project’ is defined in the PRMS, establishing it as the link between Petroleum accumulation and a Petroleum Reporting Entity’s decision-making process, including budget allocation. 
+
+21)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+The considerations that define a Petroleum Project will often be commercial in nature, and may include development decisions, budget allocations and how particular Petroleum activities are presented in a disclosure made by a Petroleum Reporting Entity, including in its annual financial statements and on its website.  A Petroleum Project may therefore include the development of a single reservoir or field, an incremental development in a producing field, or an integrated development of a group of several fields and associated facilities with common ownership (as defined within the PRMS). 
+
+22)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+For the purposes of the Rules, the requirements for disclosing estimates of:
+
+a)	Prospective Resources in Rule 12.8.1;
+
+b)	Contingent Resources in Rule 12.10.1; and
+
+c)	Petroleum Reserves in Rule 12.12.1,
+
+only apply to estimates that are material. 
+
+23)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+The definition of Petroleum Project and the concept of ‘material’ estimates are intended by the FSRA to be interpreted and applied in a sensible and commercial manner.  In many circumstances, it will be readily apparent that a particular Petroleum activity is material for the purposes of these Rules, and therefore the disclosure requirements of Rules 12.8.1, 12.10.1 and 12.12.1 will apply to any related disclosure of Petroleum Resources. 
+
+24)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+The factors that a Petroleum Reporting Entity (and for that matter, any Reporting Entity) should consider when determining whether the disclosure of particular estimates are material include:
+
+a)	its market capitalisation;
+
+b)	whether it would expect the disclosure of information relating to the Petroleum Project to have a material effect on the price of its Financial Instruments;
+
+c)	whether its actual and projected expenditure on the Petroleum Project is, or is likely to be, material in the context of its expenditure on other Petroleum Projects and other (non-Petroleum) business activities;
+
+d)	whether its actual and projected revenue from the Petroleum Project is, or is likely to be, material in the context of its revenue from other Petroleum Projects and other (non-Petroleum) business activities;
+
+e)	whether it considers the Petroleum Project will be a material asset in the medium to long term;
+
+f)	whether it has previously made a disclosure in relation to the Petroleum Project which suggests that the Petroleum Project is material;
+
+g)	the prominence given to the Petroleum Project on its website, its Annual Financial Statement or in other promotional material it has distributed; and
+
+h)	the materiality guidelines in the International Financial Reporting Standards.
+
+25)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+An assessment of the materiality of a Petroleum Project, or the estimates of Petroleum Resources relating to it, has to be made at a point in time, having regard to a Petroleum Reporting Entity’s business activities and financial position at that time.  Such assessment may change over time.  Certain estimates of Petroleum Resources that are not considered material today may become material in the future, due to the discovery of new Petroleum Resources or other information.  Similarly, estimates that are considered material today may not be material in the future, due to a Petroleum Project becoming exhausted or abandoned, or because a Petroleum Reporting Entity embarking on other more important Petroleum Projects.
+
+26)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+Petroleum Projects and materiality 
+If a Petroleum Reporting Entity discloses estimates that it viewed as material at the time of disclosure, but subsequently forms a view that they are no longer material, the FSRA expects the Petroleum Reporting Entity to make a further disclosure providing the clear rationale for the change view on materiality.  Such reasoning would generally follow the considerations outlined in paragraph 24 above. 
+
+
+27)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a material change in estimates? 
+As the focus of the Rules is on ‘materiality’, the FSRA does not expect to see a Petroleum Reporting Entity disclose a change in estimates that are not material.  The exception to this is when a Petroleum Reporting Entity discloses its Summary of Reserves and Resources.  The emphasis, therefore, is on the ‘materiality’ to a Petroleum Reporting Entity, rather than whether a Petroleum Project is significant or not.   
+
+28)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a material change in estimates? 
+Rules 12.8, 12.10 and 12.12 require certain information to be included in a disclosure made by a Petroleum Reporting Entity, where there has been a material change (up or down) in estimates of Prospective Resources, Contingent Resources or Petroleum Reserves as compared to when they were previously disclosed.
+
+29)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a material change in estimates? 
+A material change could be in the form of material improvement or regression in terms of the:
+
+a)	estimated recoverable quantities of Petroleum Reserves;
+
+b)	estimated potentially recoverable quantities, or the chance of commercial development, for Prospective Resources or Contingent Resources; or
+
+c)	chance of discovery of Prospective Resources.
+
+30)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a material change in estimates? 
+Whether there has been a material change in estimates of Prospective Resources, Contingent Resources or Petroleum Reserves must be tested by reference to the last disclosed estimates of Prospective Resources, Contingent Resources or Petroleum Reserves, as applicable.  The last disclosed estimates may have been either the initial estimates disclosed by a Petroleum Reporting Entity or a subsequent disclosure of materially changed estimates.
+
+31)	CONCEPTS RELATING TO THE DISCLOSURE OF PETROLEUM ACTIVITIES 
+What is a material change in estimates? 
+A Petroleum Reporting Entity must determine whether a change in estimates of its Prospective Resources, Contingent Resources or Petroleum Reserves is material or not, taking into account all relevant factors, including whether the change in estimates is likely to have a significant effect on the price of its Financial Instruments.  
+
+
+32)	PROSPECTUS DISCLOSURE . Importantly, Rule 12.3.1 requires that in addition to complying with Chapter 4 of the Rules, a Prospectus that includes a statement about Petroleum Resources must comply with Rule 12.2 such that the Prospectus must also (in terms of the disclosures made within such Prospectus) comply with the PRMS and Chapter 12 of the Rules.
+
+
+33)	Valuation Reports. Rule 12.3.2 additionally requires that a Prospectus relating to a Petroleum company (and its related reporting of Petroleum Resources) must also include a valuation report prepared by an independent expert in accordance with the PRMS.  Rule 12.3.3 sets out further requirements to be disclosed within the valuation report.
+
+
+34)	Operating in a sustainable manner. Rule 12.3.1(2) requires a Petroleum company’s Prospectus to include details of its policies and practices in relation to operating in a sustainable manner.  Petroleum Reporting Entities will be required to provide an annual update on these policies and practices, pursuant to Rule 12.11.2.
+
+
+
+35)	DISCLOSURE REQUIREMENTS . Rule 12.2.4(1) requires any disclosure made in relation to Prospective Resources, Contingent Resources or Petroleum Reserves to clearly identify whether the estimates have used a Deterministic Method or Probabilistic Method in their preparation.  The PRMS Guidelines provide additional guidance on Deterministic Methods (in sections 4.1 and 5.2) and Probabilistic Methods (in sections 5.3 and 7.1).  
+
+36)	DISCLOSURE REQUIREMENTS . Estimates of Petroleum Resources must be made at a particular Evaluation Date, which, pursuant to Rule 12.2.4(2), needs to be identified in any disclosure of those estimates.   
+
+37)	DISCLOSURE REQUIREMENTS . As required by Rule 12.2.5, the disclosure of Total Petroleum Initially-In-Place, Estimated Ultimate Recovery or Discovered Petroleum Initially-In-Place is not permitted unless all of the following applicable information is included, prominently and proximately, within the disclosure:
+
+a)	an estimate of Prospective Resources;
+
+b)	an estimate of Contingent Resources;
+
+c)	an estimate of Petroleum Reserves; and
+
+d)	whether, and how, each of the Petroleum Resource classes in the disclosure were adjusted for risk.
+
+38)	DISCLOSURE REQUIREMENTS . Rule 12.2.5 does not specifically provide guidance in relation to Remaining Recoverable Resources as this is appropriately covered by the PRMS. 
+
+39)	DISCLOSURE REQUIREMENTS . Similarly, various other requirements relating to the disclosure of Petroleum Resources that a Petroleum Reporting Entity must comply with are suitably covered by the PRMS, and therefore equivalent requirements have not been replicated within the Rules.  These include, amongst others, the following:
+
+a)	the disclosure of a Petroleum Reporting Entity’s economic interest in Petroleum Resources (including entitlements under production-sharing contracts or risked-service contracts) (section 3.3 of the PRMS); 
+
+b)	the treatment of pure service contracts (section 3.3 of the PRMS);
+
+c)	that if units of equivalency between oil and gas are disclosed by a Petroleum Reporting Entity, then the conversion factors used (converting gas to oil, or oil to gas) are to relate to BOEs or McFGEs, as applicable (section 3.2.9 of the PRMS); and
+
+d)	having Petroleum Resources be disclosed net of royalties (section 3.3.1 of the PRMS).
+
+40)	DISCLOSURE REQUIREMENTS . For the purposes of these Rules, “proximate” to a disclosure means on the same page, and in the same paragraph or in the immediately preceding or following paragraph, as the disclosure of the estimates in question.  Placing the cautionary statement in a footnote or endnote, or a general disclaimer elsewhere in a disclosure, does not meet the requirement for the statement to be proximate (as required by Rule 12.2.5).
+
+
+41)	DISCLOSURE REQUIREMENTS .
+Geophysical survey information 
+A disclosure by a Petroleum Reporting Entity on any geographical survey in relation to Petroleum must, pursuant to Rule 12.4.1, include the name of the survey, its nature and its status, and the permit under which the survey is being conducted.  Contrary to some of the other disclosure obligations in Chapter 12 of the Rules, this Rule applies to any disclosure regardless of whether the Petroleum Project which is the subject of the disclosure is material or not. 
+
+
+42)	DISCLOSURE REQUIREMENTS .
+Material Exploration and drilling results
+Rule 12.5.1 sets out the reporting requirements relevant to disclosures of material Exploration and drilling results in relation to Petroleum Resources.  Such disclosures should be presented in a factual and balanced manner, and contain sufficient information to allow investors and their advisers to make an informed judgement of its materiality.  Care needs to be taken to ensure that a disclosure does not suggest, without reasonable grounds, that commercially recoverable or potentially recoverable quantities of Petroleum have been discovered, in the absence of determining and disclosing estimates of Petroleum Resources in accordance with Chapter 12 and the PRMS. 
+
+43)	DISCLOSURE REQUIREMENTS .
+Material Exploration and drilling results
+Rule 12.5.12 requires the disclosure of any material volumes of non-Petroleum gases.  While the FSRA generally considers that for the purposes of this Rule it is for the Competent Person to determine what is a non-Petroleum gas, non-Petroleum gases can be deemed to include, but not be limited to, carbon dioxide, nitrogen, hydrogen sulphide and sulphur.
+
+
+44)	DISCLOSURE REQUIREMENTS .
+Unconventional resources
+The FSRA expects that estimated quantities of Petroleum sourced from Unconventional Petroleum Resources (e.g., coal seam gas, coal bed methane, shale gas, oil shale, tight gas formations or bitumen) be disclosed in accordance with the PRMS, and not be disclosed as unconventional resources under a Mining Reporting Standard.  
+
+45)	DISCLOSURE REQUIREMENTS .
+Unconventional resources
+Additionally, Rules 12.10.1(5) and 12.12.1 (6) require additional information (including the specialised extraction technology proposed) to be disclosed in relation to Unconventional Petroleum Resources being reported as part of estimates of Contingent Resources or Petroleum Reserves respectively.  The PRMS Guidelines provide additional guidance on Unconventional Petroleum Resources in sections 1 and 8.  
+
+
+46)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. Rule 12.6.1 operates as an over-arching Rule obligation, in that it requires a Petroleum Reporting Entity to immediately disclose any new material estimates of Petroleum Resources (being Prospective Resources, Contingent Resources or Petroleum Reserves) that have not previously been disclosed.  This Rule operates closely with a number of other Rules, namely Rules 7.2.1, 12.8.1, 12.10.1 and 12.12.1.
+
+47)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. As the threshold for disclosure in relation to estimates of Petroleum Resources is one of ‘materiality’, rather than a determination of whether estimates need to be disclosed in relation to a ‘material’ or ‘significant’ Petroleum Project (as can be the practice in other markets) , Rule 12.6.1 is very important.  A Petroleum Reporting Entity is not required to (and should not) disclose revised estimates of Petroleum Resources in circumstances where the revision of estimates is not material (subject to the Petroleum Reporting Entity continuing to comply with its other Rule obligations, including among others Rule 7.2.1 and 7.2.2).
+
+48)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. When making a disclosure pursuant to Rule 12.6.1, a Petroleum Reporting Entity must ensure the disclosure contains the types of permits or licences held by the Petroleum Reporting Entity in relation to the material estimates.
+
+
+49)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Resources 
+Rules 12.8.1, 12.10.1 and 12.12.1 require a Petroleum Reporting Entity that is disclosing material estimates of Prospective Resources, Contingent Resources or Petroleum Reserves, either for the first time or for the first time after they have materially changed from when they were last disclosed, to include certain information within its disclosure.  
+
+50)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Resources 
+It is important to note that section 2.2.1 of the PRMS and section 2.4 of the PRMS Guidelines states that the sub-division of Petroleum Resources should be by way of low estimate, best estimate and high estimate.  For example, the sub-division of Prospective Resources into 1U, 2U or 3U is to be based solely on considerations of uncertainty in the recovery of a specific Petroleum Project.  
+
+51)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Resources 
+Therefore, provided that a Petroleum Project satisfies the requirements to have Prospective Resources, there should always be a low estimate (1U), a best estimate (2U) and a high estimate (3U), unless very specific circumstances exist which means, for example, the 1U estimates may be disclosed as zero.  The same requirements apply to the use of the equivalent terms for estimates of Contingent Resources (being C1, C2 and C3) and Prospective Resources (being 1P, 2P and 3P).
+
+
+52)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Prospective Resources 
+Pursuant to Rule 12.8, the first time a Petroleum Reporting Entity discloses an estimate of material Prospective Resources, it is required to include in its disclosure a brief description of the basis on which the Prospective Resources are estimated.  The FSRA expects that the type of information to be disclosed in order to comply with this requirement includes the method of estimation, supporting data (including analogous information and any analysis of seismic surveys and non-seismic surveys), analytical processes and any assumptions (such as recovery efficiency) that have been used to determine the estimate of Prospective Resources.
+
+53)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Prospective Resources 
+The FSRA also expects a Petroleum Reporting Entity’s disclosure of estimates of Prospective Reserves to include details on the further Exploration activities to be undertaken, and an explanation of the risk factors.
+
+
+54)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+Pursuant to Rule 12.7.1(3), when a Petroleum Reporting Entity is disclosing estimates of Prospective Resources it is required to include a cautionary statement that is of at least equal prominence, and proximate to the reported estimate of Prospective Resources.
+
+55)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+“At least equal prominence” as the disclosure, for the purposes of the Rules, means the cautionary statement should have, at the very least, the same font type, size and colour as the disclosed estimates of Prospective Resources.  This means that if the estimates of Prospective Resources are disclosed in a heading, the cautionary statement is to be in at least the same font type, size and colour as the heading.  The FSRA expects that, at the very least, where the disclosed estimate of Prospective Resources is highlighted and emphasised in any way (e.g., by being printed in bold, italics or a different colour to the surrounding text), the prominent cautionary statement must, at the very least, be equally highlighted and emphasised.
+
+56)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+The FSRA considers that “proximate” to the disclosure, for the purposes of the Rules, means on the same page, and in the same paragraph or in the immediately preceding or following paragraph, as the reported estimates of Prospective Resources.  Except as set out below, placing a cautionary statement in a footnote or endnote, or in a general disclaimer elsewhere in a disclosure, does not meet the requirement for the statement to be proximate.
+
+57)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+Where a disclosure includes multiple references to an estimate of Prospective Resources, the required cautionary statement need only appear with the required prominence and proximity once, being where the estimates of Prospective Resources first appear in the disclosure.
+
+58)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+If a Petroleum Reporting Entity uses a smaller or less legible font when it first refers to an estimate of Prospective Resources than in subsequent references, such that its cautionary statement is therefore smaller or less legible compared to the subsequent references, the Petroleum Reporting Entity will be regarded by the FSRA as not promoting the purpose or intent of Rule 12.7.1(3).  Similarly, if a Petroleum Reporting Entity first refers to an estimate of Prospective Resources in plain font so that its cautionary statement is also in plain font, but then uses highlighted or emphasised text for subsequent references to the estimates of Prospective Resources, the Petroleum Reporting Entity will be regarded by the FSRA a not promoting the purpose or intent of Rule 12.7.1(3).
+
+59)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Prospective Resources - prominent, and proximate, cautionary statements 
+After the first use of a cautionary statement within a disclosure, it is sufficient for any subsequent reference to the estimate of Prospective Resources to include a footnote or endnote that cross-refers to the cautionary statement (which includes the page number where the prominent cautionary statement appears).   
+
+
+60)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Pursuant to Rule 12.10.1(2), the first time a Petroleum Reporting Entity discloses a material estimate of Contingent Resources, it is required to include in its disclosure a brief description of the basis for confirming the existence of a significant quantity of potentially moveable petroleum as well as the basis for the determination of a discovery. 
+
+61)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Rule 12.10.1(3)(b) requires a Petroleum Reporting Entity to provide a description of the key contingencies that resulted in the estimates being classified as Contingent Resources.  The PRMS extensively covers the determination and treatment of contingencies.  The PRMS Guidelines provide additional guidance on key contingencies for the classification of Contingent Resources in sections 2.6 and 4.2.3.  Note that the PRMS and PRMS Guidelines use the terms ‘contingencies’ and ‘conditions’ interchangeably.
+
+62)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Examples of key contingencies requiring estimates of Petroleum Resources to be classified as Contingent Resources include where:
+
+a)	there is no viable market at the time of the disclosure;
+
+b)	commercial recovery is dependent on technology under development;
+
+c)	evaluation of the accumulation is insufficient to clearly assess commerciality;
+
+d)	current and reasonable forecast economic conditions do not support a commercially viable Petroleum Project; or
+
+e)	there are legal, environmental, social or governmental factors existing or forecasted to impact the relevant Petroleum Project.
+
+63)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Section 2.3 of the PRMS Guidelines states that Contingent Resources may be assigned for Petroleum Projects that are dependent on ‘technology under development’, and further recommended that a number of guidelines are followed in order to distinguish these estimates from those that should be classified as Unrecoverable Petroleum.  By way of Rule 12.10.1(3), the FSRA fully supports and requires compliance with what is set out in the PRMS Guidelines.   
+
+64)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Pursuant to Rule 12.9.1(3), and similar to the treatment of Petroleum Reserves,  in circumstances where disclosed estimates of Contingent Resources represent aggregated estimates of Petroleum Resources, a Petroleum Reporting Entity is required to disclose the aggregation method used.  Section 4.2.1 of the PRMS allows for the use of two aggregation methods, being arithmetic summation of estimates by category or statistical aggregation of probability distributions.    
+
+65)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Contingent Resources 
+Section 4.2.5.4 recommends that statistical aggregation should not be used beyond the field, property or Petroleum Project level.  It further provides, and the FSRA interprets it such, that in circumstances where statistical aggregation is used beyond these levels, arithmetic summation should be used, and the Petroleum Reporting Entity should include a statement in its disclosure to the effect that aggregate C1 may be very conservative and aggregate C3 may be very optimistic (depending on the number of items in the aggregate).  The PRMS Guidelines provide additional guidance on aggregation in chapters 1, 2, 4, 5, 6 and 8.  
+
+
+66)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Pursuant to Rule 12.12.1(1), the first time a Petroleum Reporting Entity discloses a material estimate of Petroleum Reserves  it is also required to ensure the disclosure includes all of the material economic assumptions used to calculate those estimates.  These assumptions could include assumed commodity prices and operating / capital cost assumptions.  If the commodity prices that are used differ from current commodity prices, an explanation should be given, including the effect on the economics of a Petroleum project if the current prices were used.
+
+67)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Importantly, Rule 12.12.1(1)(b) provides that a Petroleum Reporting Entity is not expected to have to disclose commercially sensitive information (e.g., pricing or volumes under long term contractual commitments).  A Petroleum Reporting Entity (and other relevant entities) may, however, have to carefully consider whether this information needs to be disclosed to meet other disclosure requirements, including in reference to:
+
+a)	where an Issuer is issuing a Prospectus within ADGM, and the requirement in section 62(1) of FSMR to include all information that investors would reasonably require and expect to find in a Prospectus for the purposes of making an informed investment decision; and/or 
+
+b)	the requirements in sections 95(2) of FSMR and Rule 7.2.1 to disclose information that ‘would, if generally available, be likely to have a significant effect on the price…’ of Financial Instruments. 
+
+68)	In such cases, however, where a Petroleum Reporting Entity relies on Rule 12.12.1(1)(b), it:
+
+a)	must make a statement to the effect that the material economic assumptions are commercially sensitive;
+
+b)	should explain why the information is considered a trade secret or commercially sensitive; and
+
+c)	must disclose sufficient information (possibly in narrative rather than numerical form, where the numbers are commercially sensitive) in order for investors to understand the methodology it has used to determine these factors and assumptions, and the basis on which it is reporting the estimates of Petroleum Reserves. 
+
+69)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Petroleum Reporting Entities need to be careful not to claim that information is commercially sensitive when this is not the case.  If a Petroleum Reporting Entity, for example, has not yet entered into any commercially sensitive contracts that underpin its commodity price, capital expenditure or operational expenditure assumptions, it would be difficult to form a view that the information on which those assumptions are based would be commercially sensitive.
+
+70)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+It is important to note that to the extent an estimate of Petroleum Reserves involves a representation about future matters, it must be based on reasonable grounds.  This means that any economic assumptions used to calculate the estimate must be objectively reasonable, or the representation could otherwise be deemed as misleading and the Petroleum Reporting Entity could face serious legal consequences as a result.  In this regard, Petroleum Reporting Entities should take note of section 69 of FSMR (Statements about future matters) which provides that a person is taken to make a misleading or deceptive statement about a future matter if, at the time of making the statement, that person did not have reasonable grounds for making the statement.
+
+71)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Pursuant to Rule 12.12.1(3)(a), the first time a Petroleum Reporting Entity discloses a material estimate of Petroleum Reserves, it is required to include a brief description of the basis for confirming commercial producibility of the Petroleum Reserves.  The PRMS (including section 2.1.2) provides that a Petroleum Reporting Entity is to disclose a summary of the types of tests performed, such as production and/or formation testing, and any other analysis undertaken to determine commerciality.  In the absence of production and/or formation testing, this disclosure could be made on the basis of well logs and/or core analysis indicating that the subject reservoir is Petroleum-bearing, and that it is analogous to other Petroleum reservoirs in the immediate area that have demonstrated commerciality (by way of their production and/or formation testing).
+
+72)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Pursuant to Rule 12.11.1(5), in circumstances where disclosed estimates of Petroleum Reserves represent aggregated estimates of Petroleum Reserves, a Petroleum Reporting Entity is required to disclose the aggregation method used.  Section 4.2.1 of the PRMS allows for the use of two aggregation methods, being arithmetic summation of estimates by category or statistical aggregation of probability distributions.    
+
+73)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+Section 4.2.5.4 recommends that statistical aggregation should not be used beyond the field, property or Petroleum Project level.  It further provides, and the FSRA interprets it as such, that in circumstances where statistical aggregation is used beyond these levels, arithmetic summation should be used, and the Petroleum Reporting Entity should include a statement in its disclosure to the effect that aggregate P1 may be very conservative and aggregate P3 may be very optimistic (depending on the number of items in the aggregate). 
+
+74)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Disclosure of material estimates of Petroleum Reserves  
+The PRMS Guidelines provide additional guidance on aggregation in chapters 1, 2, 4, 5, 6 and 8, and on Developed Reserves and Undeveloped Reserves in chapters 3, 6 and 8.  For the purposes of Rule 12.11.1(3), additional guidance on measurement and Reference Points is located in sections 3.2 and 3.2.1 of the PRMS, and chapter 9 of the PRMS Guidelines.   
+
+
+75)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Competent Persons
+Rule 12.15.1 requires that the first time a Petroleum Reporting Entity discloses estimates of Prospective Resources, Contingent Resources or Petroleum Reserves, it must ensure the estimates are prepared by a Competent Person.  The disclosure, pursuant to Rule 12.15.2, must state:
+
+a)	that it is based on, and fairly represents, information and supporting documentation prepared by a named Competent Person(s);
+
+b)	whether the Competent Person is an employee of the Petroleum Reporting Entity, or a Related Party, and if not, the name of the Competent Person’s employer; and
+
+c)	the name of the professional organisation of which the Competent Person is a member.
+
+76)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Competent Persons
+As required by Rule 12.15.3(1), the statement referred to in Rule 12.15.2 must only be disclosed with the prior written consent of the Competent Person(s) as to the form and context in which the estimates of Prospective Resources, Contingent Resources or Petroleum Reserves (and the supporting information) are set out and presented within the specific disclosure.
+
+77)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Competent Persons
+The requirements of Rule 12.15.3(1) apply to (but is not solely limited to) disclosures containing estimates (or materially changed estimates) of Prospective Resources (Rules 12.7 and 12.8), Contingent Resources (Rules 12.9 and 12.10) and Petroleum Reserves (Rules 12.11 and 12.12).  It also applies to the disclosure of a Petroleum Reporting Entity’s Summary of Reserves and Resources (Rule 12.14), as well as the disclosure of a MKT Form 12-1.  
+
+78)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Competent Persons
+As provided for in Rule 12.15.3(2), subsequent inclusion of the Competent Person’s statement is not required upon a re-disclosure of the same Prospective Resources, Contingent Resources or Petroleum Reserves in relation to:
+
+a)	any subsequent disclosure that refers to the estimates of Prospective Resources, Contingent Resources or Petroleum Reserves and references the earlier disclosure containing the statements and consent referred to in Rules 12.15.2 and 12.15.3(1); and
+
+b)	circumstances where the Petroleum Reporting Entity confirms in the subsequent disclosure that it is not aware of any new information or data that materially affects the information included in the earlier disclosure, and that all material assumptions and technical parameters underpinning the estimates in the earlier disclosure continue to apply and have not materially changed.
+
+79)	INITIAL DISCLOSURE OF MATERIAL ESTIMATES. 
+Competent Persons
+If neither of the above scenarios apply then a subsequent disclosure is to include the statements and consent required by Rule 12.15.2.
+
+80)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+The FSRA requires Petroleum Exploration Reporting Entities and Petroleum Production Reporting Entities to disclose, on a quarterly basis, an update of their activities. 
+
+81)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+Petroleum Exploration Reporting Entities are required, pursuant to Rule 12.13.1, to disclose a quarterly report which provides, on a consolidated basis:
+
+a)	details of its activities relating to Petroleum Exploration, or a statement that there have been no activities relating to Petroleum Exploration (if this is the case);
+
+b)	a summary of its activities relating to Petroleum production and development, or a statement that there have been no activities relating to Petroleum production and development (if this is the case);
+
+c)	a summary of the expenditure it has incurred in relation to Petroleum Exploration or Petroleum Production activities; and
+
+d)	details of the Petroleum Tenements, and the beneficial interests in farm-in and farm-out agreements, held by the Petroleum Exploration Reporting Entity as at the end of the relevant quarter, and any changes over the quarter. 
+
+82)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+Pursuant to Rule 12.13.3, Petroleum Production Reporting Entities are required to disclose a quarterly report which provides, on a consolidated basis:
+
+a)	details of its activities relating to Petroleum production and development, or a statement that there have been no activities relating to Petroleum production and development;
+
+b)	a summary of its activities relating to Petroleum Exploration, or a statement that there have been no activities relating to Petroleum Exploration (if this is the case); and
+
+c)	a summary of the expenditure it has incurrent in relation to Petroleum production and Petroleum Exploration.
+
+83)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Activity Reports
+As required by Rules 12.13.2 and 12.13.4, the quarterly reports for both Petroleum Exploration Reporting Entities and Petroleum Production Reporting Entities are to be disclosed no later than one month after the end of the relevant quarter.
+
+
+84)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Petroleum Exploration Reporting Entities
+Petroleum Exploration Reporting Entities are required, pursuant to Rule 10.1.3B(1), to disclose a quarterly cash report in the form set out in Form 10-1.  Rule 10.1.3B2 requires a quarterly cash report to be disclosed no later than one month after the end of the relevant quarter.
+
+85)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Petroleum Exploration Reporting Entities
+Petroleum Exploration Reporting Entities, pursuant to Rules 10.1.7(2)(i) and (iii), and Rule 12.13.1, are not required to disclose:
+
+a)	within their semi-annual financial report, events that have happened in the first six months of a financial year; 
+
+b)	within their semi-annual financial report, a description of the principal risks/uncertainties for the remaining six months of the financial year; or 
+
+c)	a semi-annual financial report.   
+
+86)	QUARTERLY DISCLOSURE OBLIGATIONS
+Quarterly Cash Reports - Petroleum Exploration Reporting Entities
+This is because a Petroleum Exploration Reporting Entity’s main expenditure of funds should be expenditure incurred in relation to Petroleum Exploration, without other material revenues outside of this activity.  As a result, the disclosure of a Petroleum Exploration Entity’s quarterly activity reports and quarterly cash reports (as set out above), along with any other disclosures required to be made under Chapters 7 and 12 of the Rules, allow for sufficient information (financial and otherwise) to be available to allow investors to make an informed decision as to the value of a Petroleum Exploration Reporting Entity’s Securities. 
+
+
+87)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+As required by Rule 12.14.1, a Petroleum Reporting Entity that has any Petroleum Reserves (Prospective Resources, Contingent Resources or Petroleum Reserves) is required to disclose, on an annual basis, a Summary of Reserves and Resources.
+
+88)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+Flexibility is provided to a Petroleum Reporting Entity as to when the Summary of Reserves and Resources is to be disclosed.  Rather than requiring the Summary of Reserves and Resources to always be disclosed by a Petroleum Reporting Entity in its annual financial report, a Petroleum Reporting Entity has the flexibility (provided by Rules 12.13.1(5) and 12.13.3(4)) to disclose the Summary of Reserves and Resources within either its annual financial report or as part of its quarterly activities report.
+
+89)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+A Petroleum Reporting Entity should disclose its Summary of Reserves and Resources within the same report each year (whether that be its annual financial report, or a particular quarterly activities report) so as to allow for suitable year-on-year comparison, and Rules 12.13.1(6) and 12.13.3(5) require each quarterly activity report to state when the previous and next disclosure of a Summary of Reserves and Resources was, and will next be, disclosed.  Together, these Rules allow a Petroleum Reporting Entity to fully align the preparation and disclosure of its Summary of Reserves and Resources with its review process and corporate planning/reporting cycle.
+
+90)	ANNUAL DISCLOSURES
+Summary of Reserves and Resources
+The US Securities Exchange Act of 1934 requires certain companies to file Forms 10-K and 20-F with the SEC.  A Petroleum Reporting Entity that is required to file such forms with the SEC annually is not required, pursuant to Rule 12.14.2, to disclose a Summary of Reserves and Resources as otherwise set out in Rule 12.14.1.  The FSRA may require a Petroleum Reporting Entity to disclose the filed SEC Forms 10-K and 20-F, if these relevant forms have otherwise not been disclosed to the market. 
+
+91)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS. As set out in earlier parts of this Guidance, the disclosure obligations relating to Petroleum Activities and to Petroleum Reporting Entities (as set out in Chapter 12 of the Rules) operate closely with the disclosure obligations set out in separately within the Rules, including Chapter 7 (Market Disclosure), Chapter 10 (Accounting Periods, Financial Reports and Auditing), Chapter 2 (The Listing Rules) and Chapter 4 (Offers of Securities).  This means that where a Petroleum Reporting Entity is required to make a disclosure in relation to Petroleum activities under Rule 7.2.1, the information contained in the disclosure must not only comply with Rule 7.2.1 but also with any applicable Rules within Chapter 12.  The same principle applies in the context of an Issuer making an Offer of Securities within ADGM, such that the Prospectus requirements of Chapter 4 of the Rules, Appendix 1 of the Rules (Content of a Prospectus) and Chapter 12 will all apply.
+
+92)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS. The FSRA considers that the obligation for a Petroleum Reporting Entity to disclose material information about Petroleum activities under Rule 7.2.1 and Chapter 12 will generally only be triggered when the Petroleum Reporting Entity is in possession of all the information that it is required to include in a disclosure about that Petroleum activity (being the information required to be disclosed under Chapter 12 of the Rules).
+
+93)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS. Prior to a Petroleum Reporting Entity having all of the relevant information available to it, the FSRA considers that any material information a Petroleum Reporting Entity may have about the Petroleum activity will generally be insufficiently definite to warrant disclosure under the Rules.  Therefore, provided that any material information held by the Petroleum Reporting Entity is and remains confidential, the FSRA may form the view that the material information is not immediately required to be disclosed under Rule 7.2.2.  For more information, please refer to Chapter 7 of the Rules, and any relevant Guidance that the FSRA may publish from time in relation to the FSRA’s expectations as to how Reporting Entities are to comply with Chapter 7.   
+
+
+94)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS.
+Offers, and Admission to FSRA Official List of Securities
+As set out in the Rules, and reinforced by this Guidance, the disclosure obligations imposed by the FSRA establish a high bar for the purposes of compliance by Petroleum Reporting Entities.  The intention behind these Rules is to provide a clear, rational set of regulatory requirements, in order to provide:
+
+a)	Petroleum Reporting Entities with clear requirements as to what they need to understand to enable them to properly comply with the requirements of being a Petroleum Reporting Entity; and
+
+b)	the market (that invests and trades in the Securities of the Petroleum Reporting Entity) a clear, and suitably regulated, framework to allow it fully understand the information required to be disclosed by Petroleum Reporting Entities. 
+
+95)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS.
+Offers, and Admission to FSRA Official List of Securities
+For these reasons, the FSRA considers these Rules (particularly in the way that they inter-relate between Issuers/entities making an Offer of Securities and Reporting Entities) establish a standard of disclosure of, and expectations of related conduct by Petroleum Reporting Entities, of a market leading calibre.  The FSRA therefore intends that these Rules be applied only to those entities that will undertake and comply with the full set of requirements within the Rules, meaning that a Petroleum Reporting Entity should be:
+
+a)	conducting an Offer of Securities and complying with Rule 11.3; 
+
+b)	seeking admission to the Official List of Securities (under section 51 of FSMR); and
+
+c)	seeking admission to trading on a Recognised Investment Exchange (RIE);  and 
+
+d)	complying with the ongoing disclosure Rules in their entirety, including Chapter 11.
+
+96)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS.
+Offers, and Admission to FSRA Official List of Securities
+In effect, the FSRA sees the ability of a Petroleum Reporting Entity to raise capital within ADGM and ensure ongoing compliance with the Rules as part of an over-arching set of regulatory requirements.  The following circumstances, therefore, are important to note:
+
+a)	If an Issuer was seeking to make a Prospectus Offer within ADGM, but was not seeking to be listed and traded within ADGM, then depending on where the listing and trading is to occur, the FSRA may not view the entity as having the required ‘investor protection’ and ‘disclosure’ protections in place, and therefore may not be in a position to form a view that it can approve the Prospectus under Rule 4.6.2.  In such circumstance, it may be the FSRA’s general view that the Issuer (or relevant entity) should also seek admission to the Official List of Securities and admission to trading on an RIE;
+
+b)	If an issuer was seeking to make a prospectus offer outside ADGM, and then seeking to be listed and traded within ADGM, then depending on where the listing and trading was to occur the FSRA may not view the issuer as having made an offer of securities that is equivalent to those made under and in compliance with the requirements of the Rules.  The FSRA may, therefore, also form a view that it is not in a position to approve an admission to the Official List of Securities (under section 50(2) of FSMR) due to the offer having adequate ‘investor protection’ and ‘disclosure’ protections in place.  In such circumstance, it may be the FSRA’s general view that the Issuer (or relevant entity) should also make a Prospectus Offer within ADGM as well;
+
+c)	If an Issuer was seeking to make a Prospectus Offer within ADGM and in another ‘equivalent’ jurisdiction,  but not seeking to be listed and traded within ADGM, the FSRA may be in a position to consider that the required ‘investor protection’ and ‘disclosure’ protections are in place, and form a view that it can approve the Prospectus under Rule 4.6.2;
+
+d)	If an Issuer was seeking to make a Prospectus Offer within ADGM and outside ADGM (into an ‘equivalent jurisdiction’ ), as well as seeking admission to the Official List of Securities and admission to trading on an RIE (on a primary listing, dual-listing, or secondary listing basis), the FSRA may be in a position to consider that the required ‘investor protection’ and ‘disclosure’ protections are in place, and form a view that it can approve the Prospectus under Rule 4.6.2 and approve an admission to the Official List of Securities (under section 50(2) of FSMR).
+
+97)	INTERACTION OF CHAPTER 12 WITH OTHER RULE DISCLOSURE OBLIGATIONS.
+Offers, and Admission to FSRA Official List of Securities
+Considering the circumstances above, and the positioning of the FSRA in relation to these matters, the FSRA suggests that Issuers/Petroleum Reporting Entities (and their advisors) contact the FSRA as early as possible to discuss.
+
+
+98)	MKT FORM 12-1 – Summary of Reserves and Resources. Rule 12.14.1 requires a Petroleum Reporting Entity to include, in its Summary of Reserves and Resources (see paragraphs 85–88 above), a table set out in the form of MKT Form 12-1.  The information contained in MKT Form 12-1 must be current as of the date no earlier than one month prior to the disclosure of MKT Form 12-1.
+
+99)	MKT FORM 12-1 – Summary of Reserves and Resources. The use of the table format within MKT Form 12-1 is intended to provide Petroleum Reporting Entities with flexibility in the way it discloses the Summary of Reserves and Resources, as well as ensuring consistency of reporting under the Rules.  In Guidance set out in Rule 12.2.1, the FSRA sets out its expectation that to ensure consistency of its disclosures, Petroleum Reporting Entities should be mindful of the table format for the disclosure of Petroleum Resources as set out in MKT Form 12-1.  
+
+100)	MKT FORM 12-1 – Summary of Reserves and Resources. The geographical areas by which a Petroleum Reporting Entity chooses to disclose its aggregated Petroleum Reserves within MKT Form 12-1 is a matter for the Petroleum Reporting Entity to determine, having regard to its individual circumstances and the materiality of the Petroleum Reserves in question.  Petroleum Reporting Entities can choose to report by continent, by country, by state or by other distinct geographical area.  Petroleum Reporting Entities may also choose to disclose estimates of Petroleum Reserves for a particular basin (if material), with a mix of other geographical areas.
+
+101)	MKT FORM 12-1 – Summary of Reserves and Resources. MKT Form 12-1 requires a Petroleum Reporting Entity to disclose, amongst other things, a summary of its governance arrangements and internal controls, as well as a summary of its policies and practices relating to operating in a sustainable manner.
+
+

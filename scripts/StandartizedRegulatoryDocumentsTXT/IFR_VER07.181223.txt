@@ -1,0 +1,663 @@
+1.	INTRODUCTION
+1.1	Application
+1.1.1	These Islamic Finance Rules apply to:
+(a)	every Authorised Person who carries on, or holds itself out as carrying on, an Islamic Financial Business in the ADGM whether as an Islamic Financial Institution or through an Islamic Window;
+(b)	a Fund Manager of a Domestic Fund which is operated or held out as being operated as an Islamic Fund; 
+(c)	a Person making an Offer in the ADGM relating to a Security which is, or is held out as being, a Shari'a-compliant Security; and
+(d)	a Recognised Body that carries on, or holds itself out as carrying on, an Islamic Financial Business in the ADGM.
+1.1.1.Guidance
+1.1.1.Guidance.(i)	A subset certain of the requirements that apply to Authorised Persons Conducting Islamic Financial Business or distributing Shari’a-compliant Securities are included in these Islamic Finance Rules. An Authorised Person that has a Financial Services Permission to operate as an Islamic Financial Institution or that has a Financial Services Permission to operate an Islamic Window will also be subject to the requirements relating to such Regulated Activity or specified category of Regulated Activity that are included in other Rulebooks issued by the Regulator as required by the terms of that Authorised Person’s Financial Services Permission.
+1.1.1.Guidance(ii)	A subset of the requirements that apply to Recognised Bodies Conducting Islamic Financial Business are included in these Islamic Finance Rules.  A Recognised Body that has a Recognition Order to operate an Islamic Financial Business will also be subject to those Rules in the FSRA’s Rulebooks that are applicable to Recognised Bodies.
+1.2	Overview of the IFR Rulebook
+References in these Islamic Finance Rules to numbered IFRs are references to specific numbered chapters of these Islamic Finance Rules.
+1.2.Guidance	
+1.2.Guidance.(i)	The rules in these Islamic Finance Rules are made under, or for the purposes of, FSMR.  Guidance may indicate any additional rulebook to which these Islamic Finance Rules relate.
+1.2.Guidance.(ii)	IFR ‎2 and IFR ‎3 contain the general requirements and obligations that apply to an Authorised Person who conducts any Islamic Financial Business. IFR ‎4 contains the accounting and audit requirements that apply to such Authorised Persons.
+1.2.Guidance.(iii)	IFR ‎5 contains additional requirements that apply to an Authorised Person that carries on the Regulated Activity of Managing Profit Sharing Investment Accounts (PSIAs).
+1.2.Guidance.(iv)	IFR ‎6 contains the additional requirements that apply to a Fund Manager of an Islamic Fund.
+1.2.Guidance.(v)	IFR ‎7 contains specific requirements that apply to Reporting Entities that Offer Securities that are expressed to be Shari'a-compliant. Reporting Entities that Offer Securities that are expressed to be Shari’a-compliant will also be subject to the general requirements that apply to Offers of Securities and reporting entities must comply with such requirements as set out in the Markets Rules (MKT Rulebook).
+1.2.Guidance.(vi)	IFR ‎8 contains the additional requirements applying to Persons who carry on insurance business or insurance intermediation as Takaful.
+2.	ISLAMIC FINANCE
+2.1	Application
+2.1.1	This Chapter applies to every Authorised Person and Recognised Body to whom these Islamic Finance Rules apply in accordance with IFR ‎1.1.
+2.2	Activities that constitute Conducting Islamic Financial Business
+Conducting Islamic Financial Business means:
+(a)	in relation to an Authorised Person, carrying on one or more Regulated Activities or specified category of Regulated Activity in accordance with Shari'a; and
+(b)	in relation to a Recognised Body, carrying on all or part of its business in accordance with Shari’a,
+and Islamic Financial Business shall be construed accordingly.
+2.2.Guidance	FSMR sets out the activities that constitute Regulated Activities.
+2.3	Conducting Islamic Financial Business
+
+2.3.1	Authorised Persons. An Authorised Person shall not hold itself out as Conducting Islamic Financial Business unless it has a Financial Services Permission authorising it to Conduct Islamic Financial Business either:
+(a)	as an Islamic Financial Institution; or
+(b)	by operating an Islamic Window.
+2.3.2	Authorised Persons.An Authorised Person that has a Financial Services Permission to operate as an Islamic Financial Institution is an Authorised Person whose entire business operations are conducted in accordance with Shari'a.
+2.3.3	Authorised Persons.An Authorised Person, other than an Islamic Financial Institution, that has a Financial Services Permission to operate an Islamic Window is an Authorised Person that conducts Islamic Financial Business as a segregated part of its overall business operations.
+2.3.3.Guidance	
+2.3.3.Guidance.(i)	Part 4 of FSMR governs the making of an application for a Financial Services Permission to conduct Islamic Financial Business.
+2.3.3.Guidance.(ii)	An Authorised Person must obtain the relevant Financial Services Permission before carrying on Islamic Financial Business as an Islamic Financial Institution or through an Islamic Window.
+2.3.3.Guidance.(iii)	An Authorised Person with a Financial Services Permission to operate an Islamic Window may conduct those of its activities that are held out as being conventional Regulated Activities without regard for these Islamic Finance Rules but shall conduct those of its activities that are expressed to be Islamic Financial Business through its Islamic Window in accordance with these Islamic Finance Rules.
+2.3.3.Guidance.(iv)	An Authorised Person may, subject to meeting any requirements and restrictions in the Rulebooks issued by the Regulator, carry on more than one Regulated Activity (including, without limitation, more than one Islamic Financial Business), provided that such activities fall within the scope of the Authorised Person’s Financial Services Permissions required.
+
+2.3.4	Recognised Bodies. A Recognised Body shall not hold itself out as Conducting Islamic Financial Business unless it has a Recognition Order with a stipulation permitting it to do so. 
+Guidance
+(i)	Part 12 of FSMR governs the making of an application for a Recognition Order, including to conduct Islamic Financial Business.
+(ii)	A Recognised Body must obtain a Recognition Order with a stipulation permitting it to do so before carrying on Islamic Financial Business.
+(iii)	A Recognised Body with a Recognition Order permitting it to conduct Islamic Financial Business may conduct any part of its business that is held out as being conventional business without regard for these Islamic Finance Rules, but shall conduct any of its business expressed to be Islamic Financial Business in accordance with these Islamic Finance Rules, as applicable.
+
+2.4	Islamic financial instruments and products
+
+2.4.1	Authorised Persons. Unless otherwise stated in these Islamic Finance Rules, an Authorised Person (whether acting as an Islamic Financial Institution or through an Islamic Window) will be entitled to carry on any Regulated Activity or specified category of Regulated Activity as Islamic Financial Business provided that: 
+(a)	it has complied with all other applicable provisions of the Rulebooks issued by the Regulator in relation to the Regulated Activity or specified category of Regulated Activity to be carried on as Islamic Financial Business; and
+(b)	the carrying on of such Regulated Activity or specified category of Regulated Activity as an Islamic Financial Business has been approved by its Shari'a Supervisory Board.
+2.4.1.Guidance	
+2.4.1.Guidance.(i)	Whether or not a Regulated Activity or specified category of Regulated Activity is to be carried on as Islamic Financial Business that Regulated Activity or specified category of Regulated Activity must be carried out in compliance with (or in reliance on an exemption from) all other relevant parts of the Rulebooks issued by the Regulator.
+2.4.1.Guidance.(ii)	These Islamic Finance Rules set out the specific instances where additional rules are required in order to ensure that certain Regulated Activities or certain specified categories of Regulated Activity qualify as Islamic Financial Business and to ensure that such Regulated Activities or specified categories of Regulated Activity remain Shari'a-compliant.
+2.4.1.Guidance.(iii)	For Regulated Activities or specified categories of Regulated Activity carried on as Islamic Financial Business that are not specifically referred to in these Islamic Finance Rules, the requirement under IFR 2.4.1(b) will be sufficient to qualify that Regulated Activity or specified category of Regulated Activity as Islamic Financial Business without the need for additional steps to be taken unless the Regulator believes that any such additional steps may be necessary. 
+2.4.1.Guidance.(iv)	The Regulator shall have the power to designate a Regulated Activity or specified category of Regulated Activity as not being in compliance with Shari'a in the event that the Regulator believes that such Regulated Activity or specified category of Regulated Activity involves matters that are contrary to the aims of Shari'a.
+2.4.1.Guidance.(v)	The ADGM regulatory regime applies to any Authorised Person carrying on any Islamic Financial Business in the ADGM if the activity:
+(A)	relates to a financial instrument or product of the kind described in Guidance Notes (viii) and (ix) (Profit Sharing Investment Accounts), (x) and (xi) (Investments), and (xii) to (xv) (Takaful) below; and/or
+(B)	is conducted by way of business and not expressly excluded from regulation as a Regulated Activity. Note there are a number of such exclusions in FSMR.
+2.4.1.Guidance.(vi)	The Regulator will, when considering the treatment of Islamic Financial Business arrangements, take a "substance over form" approach giving particular weight to the economic substance of a particular activity over the legal and/or Shari'a form taken by it.
+2.4.1.Guidance.(vii)	The issue of financial products which are securities such as shares, bonds (falling under paragraphs 88 or 90 of Schedule 1 to FSMR), Sukuk or units in a Collective Investment Fund (in each case as defined in FSMR) attracts product-specific disclosure requirements such as the publication of a Prospectus or an Exempt Disclosure Statement. Where such securities are included on an Official List of securities or made available to the public in the ADGM, there are initial and ongoing disclosure and other obligations that apply to the Reporting Entity (generally the issuer) under the MKT Rulebook. These MKT obligations are distinct from the obligations that apply to Persons carrying on Regulated Activities in respect of such Securities.
+2.4.1.Guidance.(viii)	Profit Sharing Investment Accounts (PSIAs). PSIAs do not fall within the definitions of Dealing in Investments, Arranging Deals in Investments or Advising on Investments or Credit in Schedule 1 to FSMR or the definition of Investments in the Glossary (“GLO”). They are contractual arrangements under which Islamic banks invest clients' funds, often (though not always) on a pooled basis, and are generally treated by the bank as off balance sheet. They are generally structured under the Shari'a principle of Mudaraba, the guiding principle of which is that the investor bears the full investment risk. Although PSIAs have the characteristics of a Collective Investment Fund, under an express exclusion provided under paragraph 63 of Schedule 1 to FSMR, they are not treated as such. Instead, Managing a PSIA is a distinct Regulated Activity as defined in paragraph 64 of Schedule 1 to FSMR.
+2.4.1.Guidance.(ix)	Because Managing a PSIA is a Regulated Activity, the ADGM regulatory regime that applies to Authorised Persons carrying on Regulated Activities in the ADGM applies to Islamic Financial Institutions and Islamic Windows that Manage PSIAs. As PSIAs are not financial products, the issue of PSIAs, or any advising or arranging activities conducted in relation to PSIAs, especially by a third party, do not attract prospectus–like disclosure or any advising or dealing–related COBS requirements (such as a suitability assessment). Instead, they attract a tailored regulatory regime under these Islamic Finance Rules that applies to the Authorised Person that Manages the PSIA (see IFR 5).
+2.4.1.Guidance.(x)	Specified Investments. Specified Investments are defined paragraphs 84 to 99 of FSMR.  Any of the conventional specified investments defined paragraphs 85 to 99 of Schedule 1 to FSMR can be offered in Shari’a-compliant form, provided that the directions of the Shari'a Supervisory Board engaged in connection with such offer are complied with. Shari’a-compliant Specified Investment include, without limitation:
+(A)	Instruments given entitlements to investments that are structured in a Shari'a-compliant manner including, without limitation, under a Wa'ad structure;
+(B)	Certificates representing certain Financial Instruments that are structured in a Shari'a-compliant manner;
+(C)	Units in a Collective Investment Fund that are units in an Islamic Fund;
+(D)	Options that are structured in a Shari'a-compliant manner including, without limitation, options using a Wa'ad, Arboun and/or Musawama structure;
+(E)	Futures that are structured in a Shari'a-compliant manner including, without limitation, futures using a Wa'ad, Arboun and/or Salam structure; and
+(F)	rights under a Credit Facility where such Credit Facility is structured in the form of a Shari'a-compliant Credit Facility including, without limitation, Shari'a-compliant Credit Facilities using a Murabaha, Ijara, Istisna'a/Ijara, Wakala, Mudaraba and/or Musharaka structure.
+2.4.1.Guidance.(xi)	Specified Investments.. The Regulator will, when considering whether or not a Shari'a-compliant investment is a Specified Investment, take a "substance over form" approach giving particular weight to the economic substance of a particular investment over the legal and/or Shari'a form taken by that investment.
+2.4.1.Guidance.(xii)	Specified Investments.. The ADGM regulatory regime applies to Authorised Persons who carry on in the ADGM any regulatory activity in relation to any Shari’a-compliant products that fall within the definition of Specified Investments. However, particular products or instruments including, without limitation, Profit Sharing Investment Accounts (PSIAs), Takaful and Islamic Funds attract product/instrument specific additional conduct and other requirements, which are included in these Islamic Finance Rules.
+2.4.1.Guidance.(xiii)	Takaful . Takaful is the Shari'a-compliant equivalent of conventional insurance, and exists in both the form of Family (or Life) Takaful and General Takaful. Takaful is derived from an Arabic word that means joint guarantee, whereby a group of participants agree among themselves to support one another jointly for the losses arising from specified risks. In a Takaful arrangement the participants contribute a sum of money as a Tabarru’ commitment into a common fund that will be used mutually to assist the members against a specified type of loss or damage. The underwriting in Takaful is thus undertaken on a mutual basis, similar in some respects to conventional mutual insurance. A typical Takaful Provider consists of a two-tier structure that is a hybrid of a mutual and a commercial form of company although in principle it could be a pure mutual structure.  The Takaful Operator’s role is generally confined to managing the Takaful activities and investing the fund assets in accordance with Shari'a.
+2.4.1.Guidance.(xiv)	Takaful . Any Authorised Persons conducting Takaful activities shall, for the purposes of the Rulebooks issued by the Regulator, be deemed to be conducting insurance business. There are two types of Regulated Activities that comprise insurance business: Effecting Contracts of Insurance as principal or Carrying Out Contracts of Insurance as Principal. Accordingly, any Authorised Person carrying on these Regulated Activities is subject to the ADGM regime for regulating Regulated Activities. Where an Authorised Person carries out the activities described under Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal in connection with Takaful such Authorised Person will be subject to the ADGM regime for regulating Regulated Activities and, in addition, will be subject to the Takaful-specific requirements set out in this Rulebook (see IFR ‎8).  In addition, there are certain activities relating to insurance, such as advising and arranging, which are regulated as Insurance Intermediation as defined in Chapter 4 of Schedule 1 to FSMR. Authorised Persons conducting those activities in relation to Takaful are regulated in the same way as Authorised Persons conducting such activities in relation to conventional insurance.
+2.4.1.Guidance.(xv)	Family Takaful
+2.4.1.Guidance.(xv).(A)	Family Takaful deals with the provision of financial relief to the participants and/or their family in the event of misfortunes that relate to the death or disability of the participants. This category of Takaful normally requires the Takaful Operator to engage in a longer-term relationship over a defined number of years with the Takaful participants, throughout which the participant is required to make regular instalment payments in consideration for his or her participation in the Takaful scheme.
+2.4.1.Guidance.(xv).(B)	In Family Takaful, the paid Takaful contribution of a participant will usually be segregated into two accounts which feed two different funds. The first is the Participants' Investment Fund (PIF), and the aggregate PIFs constitute an investment fund for the purposes of capital formation. The second is the Participants' Risk Fund (PRF), which is a risk fund; that is, an element of the business that is inherent in the underwriting activities, and the contributions to which are made on the basis of Tabarru' commitment.
+2.4.1.Guidance.(xv).(C)	The segregation of the amounts credited to the PIF and the PRF, respectively, is commonly made based on certain percentages of the Takaful contributions paid, and this is normally part of the Family Takaful product pricing and design. The Takaful Operator will indicate in the Family Takaful contract the distinction between the two accounts and their relative proportions within the overall contribution, which cannot be unilaterally altered throughout the term of the Takaful contract.
+2.4.1.Guidance.(xv).(D)	Nevertheless, there are some Family Takaful products, such as group Takaful or term Takaful, that do not necessarily involve a long-term relationship between the Takaful undertakings and the Takaful participants. These products offer a shorter period of coverage and, as such, they have no investment element in favour of the participants. Normally, these types of products would work on a similar mechanism to General Takaful, whereby all Takaful contributions are considered as Tabarru' and credited directly into the PRF.
+2.4.1.Guidance.(xvi)	General Takaful
+2.4.1.Guidance.(xvi).(A)	General Takaful schemes are basically contracts of joint guarantee on a short-term basis (normally one year), providing mutual compensation in the event of a specified type of loss. The schemes are designed to meet the needs for protection of individuals and corporate bodies in relation to material loss or damage resulting from a catastrophe or disaster inflicted upon real estate, assets or belongings of participants. The Takaful contribution paid is pooled into the PRF under the principle of Tabarru' to match the risk elements of the business that are inherent in its underwriting activities.
+2.4.1.Guidance.(xvi).(B)	Although investment activities in the General Takaful pool or fund are secondary to the underwriting activities, they may be important for the solvency of the fund, especially in the case of longer-tailed risks.
+
+2.4.2	Recognised Bodies. Unless otherwise stated in these Islamic Finance Rules, a Recognised Body will be entitled to carry on all, or any part, of its business as Islamic Financial Business provided that: 
+(a)	it has complied with all other applicable provisions of the Rulebooks issued by the Regulator in relation to the part of its business to be carried on as Islamic Financial Business; and
+(b)	the carrying on of such part of its business as an Islamic Financial Business has been approved by its Shari'a Supervisory Board.
+2.4.2.Guidance	
+2.4.2.Guidance.(i)	Whether or not all, or any part, of a Recognised Body’s business is to be carried on as Islamic Financial Business, that business must be carried out in compliance with all other relevant parts of the Rulebooks issued by the Regulator.
+2.4.2.Guidance.(ii)	These Islamic Finance Rules set out the specific instances where additional Rules are required in order to ensure that certain aspects of a Recognised Body’s business activities qualify as Islamic Financial Business and to ensure that such business remains Shari'a-compliant.
+2.4.2.Guidance.(iii)	For any part of a Recognised Body’s business carried on as Islamic Financial Business that is not specifically referred to in these Islamic Finance Rules, the requirement under IFR 2.4.2(b) will be sufficient to qualify that business as Islamic Financial Business without the need for additional steps to be taken unless the Regulator believes that any such additional steps may be necessary. 
+2.4.2.Guidance.(iv)	The Regulator shall have the power to designate any part of a Recognised Body’s business as not being in compliance with Shari'a in the event that the Regulator believes that such activity or specified category of activities involves matters that are contrary to the aims of Shari'a.
+2.4.2.Guidance.(v)	The Regulator will, when considering the treatment of Islamic Financial Business arrangements, take a "substance over form" approach giving particular weight to the economic substance of a particular activity over the legal and/or Shari'a form taken by it.
+2.4.2.Guidance.(vi)	The issue of Financial Instruments that are Securities, such as Shares, Debentures (falling under paragraphs 88 or 90 of Schedule 1 of FSMR), Sukuk or Units attracts product-specific disclosure requirements such as the publication of a Prospectus or an Exempt Disclosure Statement. Where such Securities are included on the Official List of Securities or made via an Offer of Securities within ADGM, there are initial and ongoing disclosure and other obligations that apply to the Issuer/Reporting Entity under the MKT Rulebook. These MKT obligations are distinct from the obligations that apply to Recognised Bodies in respect of such Securities.
+2.5	Shari’a-compliant Regulated Activity
+2.5.1	For the purposes of paragraph 64 of Schedule 1 to FSMR, carrying on a Regulated Activity in manner that complies with Shari'a is a specified kind of activity. Such Shari'a-compliant Regulated Activities shall include without limitation:
+(a)	Dealing in Investments as Principal where the Investments are Shari'a-compliant investments;
+(b)	Dealing in Investments as Agent where the Investments are Shari'a-compliant investments;
+(c)	Arranging Deals in Investments where the investments are Shari'a-compliant investments;
+(d)	Advising on Investments or Credit where the investments are Shari'a-compliant investments or the Credit is to be provided in a Shari'a-compliant manner; 
+(e)	activities relating to insurance in the form of Takaful and/or Retakaful; 
+(f)	subject to IFR 2.5.2 below, Accepting Deposits that are Shari'a-compliant deposits; 
+(g)	providing Shari'a-compliant Credit under Credit Facilities; 
+(h)	Operating a Multilateral Trading Facility or Organised Trading Facility in relation to Shari'a-compliant instruments; 
+(i)	Managing Assets where the assets are Shari'a-compliant assets; and
+(j)	Managing a Collective Investment Fund that is an Islamic Fund or Acting as Trustee of an Investment Trust that is a Shari'a-compliant Investment Trust.
+2.5.2	Managing a Profit Sharing Investment Account is not a Regulated Activity for the purposes of Accepting Deposits or collective investment but rather is a distinct Regulated Activity. 
+2.5.3	The Shari'a-compliant Regulated Activities listed in IFR 2.5.1(c) and IFR 2.5.1(d) above shall not constitute the Conducting of Islamic Financial Business and shall not require an Authorised Person that engages in the Regulated Activities listed in IFR 2.5.1(c) and IFR 2.5.1(d) to have a Financial Services Permission under IFR 2.3 in the limited circumstances in which the parties to that Investment or the provision of Credit are each separately advised as to matters of Shari'a and the Authorised Person undertaking such Regulated Activity:
+(a)	has a Financial Services Permission authorising it carry out such Regulated Activity under FSMR; 
+(b)	has informed the parties to that Investment or provision of Credit that it does not hold a Financial Services Permission authorising it to advise on Islamic Financial Business as an Islamic Financial Institution or through an Islamic Window;
+(c)	does not provide any advice in connection with, or related to, matters of Shari'a in respect of such Investments or the provision of Credit; and
+(d)	has satisfied itself that each party to that Investment or provision of Credit is separately advised as to matters of Shari'a. 
+2.5.4	The Regulator will, when considering whether or not a Shari'a-compliant activity is a Regulated Activity, take a "substance over form" approach giving particular weight to the economic substance of a particular activity over the legal and/or Shari'a form taken by it.
+3.	GENERAL OBLIGATIONS
+3.1	Application
+3.1.1	This chapter applies to an Authorised Person or Recognised Body that carries on Islamic Financial Business in the ADGM.
+3.2	Constitution of an Islamic Financial Institution
+3.2.1	An Authorised Person which is an Islamic Financial Institution must ensure that its constitutional documents state that its entire business will be conducted in accordance with Shari'a.
+3.3	Systems and controls
+3.3.1	An Authorised Person or Recognised Body Conducting Islamic Financial Business must establish and maintain systems and controls which enable it to comply with the applicable Shari'a requirements.
+3.3.1.Guidance	
+3.3.1.Guidance.(a)	This chapter should be read in conjunction with GEN 3.
+3.3.1.Guidance.(b)	Responsibility for ensuring that an Islamic Financial Institution, Islamic Window or the part of a Recognised Body’s business Conducting Islamic Financial Business, complies with Shari'a ultimately rests with the senior management of that Authorised Person or Recognised Body, as relevant. The systems and controls required by IFR ‎3.3.1 will assist senior management to ensure that there is such compliance.
+3.3.1.Guidance.(c)	The Governing Body should, when setting the business objectives and strategies of an Islamic Financial Institution, an Islamic Window or for a Recognised Body Conducting Islamic Financial Business and on an on-going basis, make use of the expertise of the Shari’a Supervisory Board of the Islamic Financial Institution, Islamic Window or Recognised Body, as appropriate.
+3.3.1.Guidance.(d)	Similarly, Approved Person(s) performing Controlled Function(s) within the Islamic Financial Institution, Islamic Window or Recognised Body, particularly compliance and internal audit, should have easy access to the Shari'a Supervisory Board in relation to matters involving Shari'a compliance.
+3.3.1.Guidance.(e)	The members of the Shari’a Supervisory Board of an Islamic Financial Institution, Islamic Window or Recognised Body should also have adequate access to the Governing Body, senior management and the Persons performing Control Functions as appropriate to ensure that their roles can be effectively discharged.
+3.4	Policy and procedures manual
+3.4.1	An Authorised Person or Recognised Body Conducting Islamic Financial Business must implement and maintain an Islamic Financial Business policy and procedures manual in relation to its Islamic Financial Business which addresses the following matters:
+(a)	the manner in which the compliance function will be undertaken, in respect of Shari'a compliance;
+(b)	the manner in which the Shari'a Supervisory Board will oversee and advise in regard to the Islamic Financial Business conducted by the Authorised Person or Recognised Body;
+(c)	the manner in which Shari'a Supervisory Board fatwa, rulings and guidelines will be recorded, disseminated and implemented and the internal Shari'a review undertaken;
+(d)	the manner in which disputes between the Shari'a Supervisory Board and the Authorised Person or the Recognised Body, as relevant, in respect of Shari'a compliance will be addressed;
+(e)	the process for approving those internal systems and controls which are in place to ensure not only that the Islamic Financial Business is carried out in compliance with Shari'a, but that information is disseminated, using an appropriate method and manner, to investors and Persons to whom access to its facilities are provided;
+(f)	the manner in which conflicts of interest will be identified and managed including where prescribed; and
+(g)	in respect of an Authorised Person operating an Islamic Window, or a Recognised Body carrying on all or part of its business as Islamic Financial Business, the systems and controls in place to ensure the appropriate separation of the Islamic Financial Business of the Authorised Person from its conventional business.
+3.5	Shari'a Supervisory Board
+3.5.1	Where an Authorised Person has been granted a Financial Services Permission or a Recognised Body holds a Recognition Order with a stipulation permitting it to conduct Islamic Financial Business, it shall comply at all times with the following, as relevant to it.
+(a)	An Authorised Person that has a Financial Services Permission authorising it to conduct Islamic Financial Business as an Islamic Financial Institution shall appoint a Shari'a Supervisory Board.
+(b)	An Authorised Person that has a Financial Services Permission authorising it to conduct Islamic Financial Business through an Islamic Window shall appoint a Shari'a Supervisory Board.
+(c)	A Recognised Body that has a Recognition Order with a stipulation permitting it to conduct Islamic Financial Business shall appoint a Shari'a Supervisory Board.
+3.5.2	When an Authorised Person or Recognised Body appoints a Shari'a Supervisory Board, it must ensure that:
+(a)	the Shari'a Supervisory Board has at least three members;
+(b)	the members appointed to the Shari'a Supervisory Board are competent to perform their functions as Shari'a Supervisory Board members;
+(c)	any appointments, dismissals or changes in respect of members of the Shari'a Supervisory Board are approved by the Governing Body of the Authorised Person or Recognised Body, as relevant; and
+(d)	no member of the Shari'a Supervisory Board is a director or Controller of the Authorised Person or Recognised Body, as relevant.
+3.5.2.Guidance	For the purposes of IFR ‎3.5.2, an Authorised Person or Recognised Body should consider the previous experience and qualifications of the proposed Shari'a Supervisory Board members to assess whether the proposed Shari'a Supervisory Board member is competent to advise on the Islamic Financial Business to be undertaken by the Authorised Person or Recognised Body, as relevant.
+3.5.3	An Authorised Person or Recognised Body must document its policy in relation to:
+(a)	how appointments, dismissals or changes will be made to the Shari'a Supervisory Board;
+(b)	the process through which the suitability of Shari'a Supervisory Board members will be considered; and
+(c)	the remuneration of the members of the Shari'a Supervisory Board.
+3.5.4	An Authorised Person or Recognised Body must establish and maintain, for six years, records of:
+(a)	its assessment of the competency of the Shari'a Supervisory Board members;
+(b)	the agreed terms of engagement of each member of the Shari'a Supervisory Board; and
+(c)	the matters in Rules ‎3.5.2(c) and ‎3.5.3.
+3.5.4.Guidance	The records of the assessment of competency of Shari'a Supervisory Board members should clearly indicate; at least:
+(i)	the factors that have been taken into account when making the assessment of competency;
+(ii)	the qualifications and experience of the Shari'a Supervisory Board members;
+(iii)	the basis upon which the Authorised Person or Recognised Body has deemed that the proposed Shari'a Supervisory Board member is suitable; and
+(iv)	details of any other Shari'a Supervisory Boards of which the proposed Shari'a Supervisory Board member is, or has been, a member.
+3.5.5	
+3.5.5.(a)	The Authorised Person or Recognised Body must ensure that the Islamic Financial Business policy and procedures manual it is required to maintain under IFR ‎3.4.1 provides that:
+(i)	a member of the Shari'a Supervisory Board is obliged to notify the Authorised Person or Recognised Body of any conflict of interest that such member may have with respect to the Authorised Person, Recognised Body or, in the case of an Investment Trust, the Trustee; and
+(ii)	the Authorised Person or Recognised Body will take appropriate steps to manage any such conflict of interest so that the Islamic Financial Business is carried out appropriately and in compliance with Shari'a, the interest of a client is not adversely affected and all clients are fairly treated and not prejudiced by any such interests.
+3.5.5.(b)	If an Authorised Person or Recognised Body is unable to manage a conflict of interest as provided above, it must dismiss or replace the member as appropriate.
+3.5.6	If requested by the Regulator, an Authorised Person or Recognised Body must provide the Regulator with information on its appointed or proposed Shari'a Supervisory Board members with regard to the qualifications, skills, experience and independence of the Shari'a Supervisory Board members.
+3.5.7	An Authorised Person or Recognised Body must take reasonable steps to ensure that it and its Employees:
+(a)	provide such assistance as the Shari'a Supervisory Board reasonably requires to discharge its duties;
+(b)	give the Shari'a Supervisory Board right of access at all reasonable times to relevant records and information;
+(c)	do not interfere with the Shari'a Supervisory Board's ability to discharge its duties; and
+(d)	do not provide false or misleading information to the Shari'a Supervisory Board.
+3.6	Shari'a reviews
+3.6.1	An Authorised Person or Recognised Body must ensure that all Shari'a reviews are undertaken by the Shari'a Supervisory Board in accordance with AAOIFI GSIFI No. (2).
+3.6.2	
+3.6.2.(a)	An Authorised Person or Recognised Body must commission an annual report from the Shari'a Supervisory Board which complies with AAOIFI GSIFI No. (1).
+3.6.2.(b)	An Authorised Person or Recognised Body must deliver a copy of the annual report of the Shari'a Supervisory Board to the Regulator within 14 days of having received it.
+3.7	Internal Shari'a review
+3.7.1	An Authorised Person or Recognised Body must perform an internal Shari'a review to assess the extent to which the Authorised Person or Recognised Body complies with fatwa, rulings and guidelines issued by its Shari'a Supervisory Board.
+3.7.2	An Islamic Financial Institution must perform the internal Shari'a review in accordance with AAOIFI GSIFI No. (3).
+3.7.3	An Authorised Person which operates an Islamic Window must, to the extent possible, perform the internal Shari'a review in accordance with AAOIFI GSIFI No. (3) and must document the manner in which it will conduct that part of the internal Shari'a review that is not conducted in accordance with AAOIFI GSIFI No. (3). 
+3.7.4	A Recognised Body that carries on all, or part, of its business as an Islamic Financial Business must, to the fullest extent possible, perform the internal Shari'a review in accordance with AAOIFI GSIFI No. (3) and must document the manner in which it will conduct all, or that part, as applicable, of the internal Shari'a review that is not conducted in accordance with AAOIFI GSIFI No. (3). 
+3.7.4.Guidance	GSIFI No. (3) (Internal Shari'a Review) establishes standards and provides guidance on the internal Shari'a review in institutions that conduct business in accordance with Shari'a. The standard covers the following:
+(i)	objectives;
+(ii)	internal Shari'a review;
+(iii)	independence and objectivity;
+(iv)	professional proficiency;
+(v)	scope of work;
+(vi)	performance of the internal Shari'a review work;
+(vii)	management of the internal Shari'a review;
+(viii)	quality assurance; and
+(ix)	elements of an effective internal Shari'a review control system.
+3.7.5	An Authorised Person or Recognised Body must ensure that the internal Shari'a review is performed by the internal audit function or the compliance function of the Authorised Person or Recognised Body and that the individuals or departments involved in performing the review are competent and sufficiently independent to assess compliance with Shari'a.
+3.7.5.Guidance	For the purposes of assessing competency of personnel or departments which perform the internal Shari'a review, an Authorised Person or Recognised Body should consult AAOIFI GSIFI No. (3) paragraphs 9 to 16 inclusive.
+3.8	Additional conduct requirements
+3.8.Guidance	The COBS Rulebook contains conduct of business requirements that apply to Authorised Persons conducting Regulated Activities. Set out below are additional conduct requirements that apply to an Authorised Person carrying out any Regulated Activity in accordance with Shari'a. Certain conduct requirements detailed below also apply to a Recognised Body Conducting Islamic Financial Business.
+
+3.8.1	Disclosure relating to Shari'a Supervisory Board
+3.8.1.(a)	An Authorised Person or Recognised Body, must, subject to IFR ‎3.8.1(b) below, disclose to each client: 
+(i)	at the outset of the relationship and thereafter at any time on request, details of the members of the Shari’a Supervisory Board of the Authorised Person or Recognised Body, as relevant; and
+(ii)	at any time on request, details of the manner and frequency of Shari'a reviews.
+3.8.1.(b)	An Authorised Person does not have to make the disclosure required under IFR ‎3.8.1(a) if it is a Fund Manager of an Islamic Fund and is making an Offer of Units of that Islamic Fund in accordance with the disclosure requirements of these Islamic Finance Rules.
+3.8.1.(c)	An Authorised Person or Recognised Body must disclose the following information to each Person granted access to its facilities at the outset of the relationship, and thereafter whenever the information changes:
+(i)	the members of the Shari’a Supervisory Board of the Authorised Person or Recognised Body; and
+(ii)	if the Person granted access to its facilities requests, the manner and frequency of Shari'a reviews.
+3.8.1.(c).Guidance	
+3.8.1.(c).Guidance.(i)	An Authorised Person may make the initial disclosures required under IFR ‎3.8.1(a) by including such information in the Client Agreement provided under COBS 3.
+3.8.1.(c).Guidance.(ii)	An Authorised Person Managing a PSIA may make additional disclosure required to be made relating to that PSIA by including such information in the Client Agreement. See IFR ‎5 for additional disclosure for PSIAs.
+3.8.1.(c).Guidance.(iii)	A Fund Manager making an Offer of a Unit of an Islamic Fund it manages is required to include information specified in IFR ‎3.8.1(a) in the Prospectus which it must prepare and make available to clients, hence the exemption in IFR ‎3.8.1.  A similar exemption is available to Fund Managers with regard to key information that must be provided to a client under COBS 3.3.1(e).
+3.8.1.(c).Guidance.(iv)	A Recognised Body may make the initial disclosures required under (a) by including such information on its website.
+
+3.8.2	Marketing Material. In addition to information required by COBS 3.2, any Marketing Material communicated by an Authorised Person to a Person must state which Shari'a Supervisory Board has reviewed the products or services to which the material relates.
+3.8.2.Guidance	COBS 3.2.4 sets out the meaning of "Marketing Material".
+
+3.8.3	Islamic window
+3.8.3.(a)	An Authorised Person that operates an Islamic Window must, subject to (b) disclose to its clients and any Person granted access to its facilities whether or not it commingles funds attributable to its Islamic Financial Business with funds attributable to conventional financial business.
+3.8.3.(b)	An Authorised Person does not have to make the disclosure required under (a) if it is a Fund Manager of an Islamic Fund and is making an Offer of Units of that Islamic Fund in accordance with the disclosure requirements in these Islamic Finance Rules.
+3.8.3.(b).Guidance	See Guidance under IFR 6.5.1 for the type of information required to be included in a Prospectus. The disclosures required under IFR ‎3.8.3(a) should initially be made in writing at the beginning of the relationship with a client or with a Person granted access to an Authorised Person's facilities. Additional disclosure should also be made if the Authorised Person changes its policy relating to commingling of funds attributable to its Islamic Financial Business with funds attributable to its conventional financial business.
+
+3.8.4	Disclosure relating to client Money provisions. An Authorised Person must disclose to its clients details about how any Client Money arising out of its Islamic Financial Business is or will be held.
+3.9	Prudential requirements
+3.9.1	An Authorised Person in prudential Category 1, 2, 3 or 5, as specified in the PRU Rulebook, which invests in or holds Islamic Contracts for purposes other than Managing PSIAs must calculate its Credit Risk or Market Risk in respect of those contracts in the same way as an Authorised Person holding or investing in Islamic Contracts for the purposes of Managing PSIAs as set out in IFR 5.4.
+3.9.1.Guidance	Prudential requirements in PRU apply in the same way to Authorised Persons conducting Islamic Financial Business, except to the extent added to or otherwise provided in these Islamic Finance Rules.
+4.	ACCOUNTING AND AUDITING
+4.1	Application
+4.1.1	This chapter applies to every Authorised Person or Recognised Body carrying on Islamic Financial Business.
+4.1.1.Guidance	GEN 6 contains the general accounting and audit requirements applying to Authorised Persons and Recognised Bodies.
+4.2	Financial statements – specific disclosures
+4.2.1	An Authorised Person or Recognised Body carrying on Islamic Financial Business must ensure that the financial statements required to be produced by it under GEN 6 contain the following additional disclosures:
+(a)	the role and authority of the Shari'a Supervisory Board in overseeing the Authorised Person's or Recognised Body’s Islamic Financial Business;
+(b)	the method used in the calculation of the Zakat base;
+(c)	whether Zakat has been paid by the Authorised Person or Recognised Body;
+(d)	where Zakat has been paid by the Authorised Person or Recognised Body, the amount which has been paid; and
+(e)	where Zakat has not been paid by the Authorised Person or Recognised Body, sufficient information to allow a shareholder or other investor to compute the amount of his own liability to Zakat.
+4.2.2	An Authorised Person who operates an Islamic Window must ensure that the financial statements required to be produced by it under GEN 6 and IFR 4.2.1 contain the following additional disclosures:
+(a)	a detailed statement of the funds mobilised according to Shari'a rules and principles and the assets financed by those funds;
+(b)	a detailed statement of the income and expenditure attributable to its Islamic Financial Business; and
+(c)	whether funds attributable to its Islamic Financial Business are commingled with funds attributable to its conventional business.
+4.2.3	An Authorised Person which is a Takaful Operator must ensure that the financial statements required to be produced by it under GEN 6 for each Takaful Fund contains the following disclosures:
+(a)	income from contributions to the Takaful Fund;
+(b)	revenues and gains from the Takaful Fund's investments;
+(c)	amounts paid to the Takaful Operator;
+(d)	amounts paid for Retakaful cover, net of any commissions;
+(e)	amounts paid to Takaful contributors as a distribution of surplus;
+(f)	amounts of any financing received from, or repaid to the Takaful operator;
+(g)	changes in the actuarial reserves of the Takaful Fund; and
+(h)	the position of the Takaful Fund at the end of the period, including actuarial reserves, policyholders' surplus and any loans outstanding.
+ 
+4.2.4	An Authorised Person which Manages a PSIA must ensure that the financial statements required to be produced by it under GEN 6 contain the following additional disclosures:
+(a)	an analysis of income according to types of investments and their financing by customers;
+(b)	the basis for the allocation of profits between Owners' Equity and PSIA holders;
+(c)	the equity of PSIA holders at the end of the reporting period;
+(d)	the bases used to determine any Profit Equalisation Reserve or Investment Risk Reserve;
+(e)	the changes which have occurred in the Profit Equalisation Reserve and the Investment Risk Reserve during the reporting period;
+(f)	any deductions made by the Authorised Person from its share of income, and any expenses borne by the Authorised Person on behalf of PSIA holders, as a contribution to increase the income of PSIA holders, if such contribution was material; and
+(g)	the identity of any person to whom any remaining balances of any Profit Equalisation Reserve or Investment Risk Reserve is attributable in the event of liquidation.
+5.	MANAGING PROFIT SHARING INVESTMENT ACCOUNTS
+5.1	Application
+5.1.1	This chapter applies to an Authorised Person which conducts the Regulated Activity of Managing a Profit Sharing Investment Account (PSIA).
+5.1.1.Guidance	
+5.1.1.Guidance.(i)	A PSIA does not constitute a Deposit, owing to the fact that a PSIA is managed in relation to property of any kind, and the risk of loss of capital remains with the client and is limited to the amount contributed to the PSIA by that client. Accordingly, an Authorised Person should take great care to ensure that a PSIA is not represented as a deposit, either directly or indirectly. The Regulator may conclude that the Authorised Person is accepting a deposit instead of Managing a PSIA in certain circumstances, for example, where the Authorised Person attaches to the investment account characteristics or facilities that are generally regarded to be those of a Deposit or current account such as providing:
+(A)	an explicit or implicit guarantee to the client against the risk of loss of capital; or
+(B)	a cheque book, an ATM card or a debit card.
+5.1.1.Guidance.(ii)	The prudential Category for Islamic Financial Institutions and other Authorised Persons (acting through an Islamic Window) undertaking the Regulated Activity of Managing PSIAs (which may be either a Restricted PSIA or an Unrestricted PSIA) is determined in accordance with PRU Rule 1.3.  An Authorised Person which Manages PSIAs (whether as an Islamic Financial Institution or through an Islamic Window) must comply with the requirements in PRU in relation to specific prudential requirements relating to Trading Book and Non-Trading Book activities, including Credit Risk, Market Risk, Liquidity Risk and Group Risk.
+5.2	Additional disclosure requirements for PSIAs
+5.2.1	An Authorised Person must, prior to Managing a PSIA, provide written notice to the client that the client alone will bear any losses arising from the PSIA, which are limited to the amount of that client's contribution to the PSIA, unless there is negligence, misconduct or breach of contract on the part of the Authorised Person in Managing the PSIA in which case the losses caused by such negligence, misconduct or breach of contract shall be borne by the Authorised Person.
+
+5.2.2	Client Agreement. In addition to matters referred to in COBS 3.3, an Authorised Person must ensure that the following information is included in the Client Agreement relating to a PSIA:
+(a)	how and by whom the funds of the client will be managed and invested including details of its policy on diversification of the portfolio;
+(b)	the basis for the allocation of profit between the Authorised Person and the client;
+(c)	confirmation of the client's investment objectives including details of any restrictions requested by the client, as agreed between the client and the Authorised Person;
+(d)	a summary of the policies and procedures for valuation of assets or portfolio;
+(e)	a summary of policies and procedures for the transfer of funds to and from the Profit Equalisation Reserve or Investment Risk Reserve accounts, if applicable;
+(f)	particulars of the management of the PSIA and of any third party to whom the Authorised Person has or will delegate or outsource the management of the PSIA, including:
+(i)	the name of the third party;
+(ii)	the regulatory status of the third party; and
+(iii)	details of the arrangement.
+(g)	details of early withdrawal, redemption or other exit arrangement and any costs to a client as a result thereof;
+(h)	details of segregation of the funds of the client from the funds of the Authorised Person and from any claims by the creditors of the Authorised Person;
+(i)	details of whether funds from one PSIA will be commingled with the funds of another PSIA; and
+(j)	details of any applicable charges and the basis upon which such charges will be calculated including, any deductions of fees that may be made by the Authorised Person from the profits of the PSIA.
+
+5.2.3	Periodic Statements
+5.2.3.(a)	COBS 5.11 applies to an Authorised Person as if the Authorised Person is an Investment Manager in respect of those clients who are PSIA holders.
+5.2.3.(b)	In addition to the requirements of COBS 5.11, an Authorised Person must ensure that a periodic statement provided to a client contains the following information:
+(i)	details of the performance of the client's investment;
+(ii)	the allocation of profit between the Authorised Person and the client; and 
+(iii)	where applicable, details of changes to the investment strategies that may affect the client's account or portfolio.
+
+5.2.4	Additional matters to be included in the policy and procedures manual. Where an Authorised Person Manages a PSIA, its Islamic Financial Business policy and procedures manual must address the following additional matters:
+(a)	the basis upon which a PSIA will be deemed restricted (a Restricted PSIA) or unrestricted (an Unrestricted PSIA);
+(b)	the basis for allocation of profit or loss to the PSIA; 
+(c)	the basis for allocation of expenses to the PSIA;
+(d)	the manner in which an Authorised Person's own funds, funds of Restricted PSIAs and funds from Unrestricted PSIAs are to be controlled;
+(e)	the manner in which the funds of each PSIA holder (whether a Restricted PSIA or Unrestricted PSIA) will be managed;
+(f)	the manner in which it will determine priority for investment of the Authorised Person's own funds and the funds of holders of Unrestricted PSIAs;
+(g)	how provisions and reserves against equity and assets are to be applied; and
+(h)	the manner in which losses incurred as a result of the misconduct, negligence or breach of contract for which the Authorised Person is responsible will be dealt with.
+5.2.4.Guidance	For the purposes of IFR ‎5.2.4, the policy and procedures manual should include procedures to ensure that the Authorised Person manages the accounts of PSIA holders in accordance with their instructions.
+5.3	Funds of PSIA holders
+5.3.1	Unless clearly expressed in the contract between an Authorised Person and a PSIA holder, the Authorised Person may not use funds provided by a PSIA holder to fund its own corporate activities.
+5.4	Prudential requirements
+
+5.4.1	Application and Interpretation
+5.4.1.(a)	This chapter applies when calculating Credit Risk or Market Risk in respect of Islamic Contracts invested in or held by an Authorised Person Managing a PSIA, which is an Unrestricted PSIA.
+5.4.1.(b)	In Rule ‎5.4.1(a), the Islamic Contracts referred to are contracts which are funded by amounts invested in the relevant Unrestricted PSIA.
+5.4.1.(c)	In this chapter, the term "investing in or holding Islamic Contracts" means investing in or holding as principal.
+
+5.4.1.Guidance	Initial and ongoing capital requirements
+5.4.1.Guidance.(i)	An Authorised Person undertaking Islamic Financial Business is required to meet initial and ongoing Capital Requirements in accordance with the Rules in Part 3 of Chapter 3 of PRU.
+5.4.1.Guidance.(ii)	In accordance with the Rules in Part 4 of chapter 3 of PRU, an Authorised Person undertaking Islamic Financial Business is required to ensure that only the eligible components of capital are included in the calculation of capital.
+5.4.1.Guidance.(iii)	In accordance with PRU Rule 3.12.9, an Authorised Person undertaking Islamic Financial Business is required to exclude from T2 Capital any amount by which the total of the Profit Equalisation Reserve and the Investment Risk Reserve exceeds the Displaced Commercial Risk Capital Requirement.
+5.4.1.Guidance.(iv)	For the purpose of calculating Capital Requirements, an Authorised Person undertaking Islamic Financial Business or otherwise investing in or holding Islamic Contracts should give due importance to the economic substance of the transaction contemplated by an Islamic Contract, in addition to the legal and Shari'a form of the Islamic Contract.
+
+5.4.1.Guidance.(v)	Systems and controls in relation to PSIAs.The requirements in IFR ‎5.4.2 and ‎5.4.3 below are in addition to and not in replacement of the requirements in GEN 3.
+5.4.2	An Authorised Person Managing a PSIA must ensure that its senior management establishes and maintains systems and controls that ensure that the Authorised Person is financially sound and able at all times to satisfy the specific prudential requirements arising out of Managing PSIAs, as detailed in the PRU Rulebook.
+5.4.3	
+5.4.3.(a)	In addition to IFR ‎5.2.4, an Authorised Person Managing a PSIA must set out in a written policy how it proposes to organise and control the activities that arise from Managing a PSIA and ensure that the activities undertaken by it in Managing a PSIA are conducted in accordance with Shari'a.
+5.4.3.(b)	The policy must as a minimum address, where appropriate, the following matters:
+(i)	how the interests of that Authorised Person’s shareholders and its PSIA holders are safeguarded;
+(ii)	how the Authorised Person will limit the exposure of PSIA holders to the Authorised Person;
+(iii)	a description of the controls to ensure that the funds of the PSIA are invested in accordance with the investment guidelines agreed in the PSIA Investment Contract;
+(iv)	the basis for allocating profits and losses to the PSIA holders;
+(v)	the policy for making provisions and reserves and, in respect of PSIAs, to whom these provisions and reserves revert in the event of a write-off or recovery;
+(vi)	the Authorised Person's policy on the prioritisation of investment of own funds and those of Unrestricted PSIA holders;
+(vii)	how liquidity mismatch will be monitored;
+(viii)	the basis for allocating expenses to PSIA holders; and
+(ix)	how the Authorised Person will monitor the value of its own assets and the assets of PSIA holders.
+
+5.4.4	Displaced commercial risk. An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must calculate a Displaced Commercial Risk Capital Requirement in respect of its PSIA business.
+5.4.4.Guidance	
+5.4.4.Guidance.(i)	An Authorised Person Managing a PSIA, on an unrestricted basis is subject to a unique type of risk referred to as Displaced Commercial Risk. This risk reflects the fact that an Authorised Person may find itself under commercial pressure to pay a rate of return to its PSIA holders which is sufficient to induce those investors to maintain the investment of their funds in an Unrestricted PSIA managed by the Authorised Person, rather than withdrawing those funds from the Unrestricted PSIA and investing them elsewhere. If this "required" rate of return is higher than that which would be payable under the normal terms of the PSIA Investment Contract, the Authorised Person may be under pressure to forgo some of the share of profit which would normally have been attributed to an Authorised Person and, by extension, be available for distribution to its shareholders (e.g. part of the Mudarib's share of the profits of a Mudaraba). Failure to do this might result in a volume of withdrawals of funds by investors large enough to jeopardise the Authorised Person's commercial position (or, in an extreme case, its solvency). Thus, part of the commercial risk attached to the returns attributable to the PSIA is, in effect, transferred to the shareholders of the Authorised Person or the Authorised Person's own capital. It also reflects situations whereby an investor may be permitted to exit an investment in a particular asset pool at par where the fair value of such assets is lower than their carrying amounts resulting in the Authorised Person absorbing the loss arising as a result of such shortfall.
+5.4.4.Guidance.(ii)	In an Unrestricted PSIA, the PSIA holder authorises the Authorised Person to invest the PSIA holder's funds in a manner which the Authorised Person deems appropriate without specifying any restrictions as to where, how or for what purpose the funds should be invested, provided that they are invested in a manner that complies with Shari'a. Under this arrangement, the Authorised Person can commingle the PSIA holder's funds with its own funds or with other funds which the Authorised Person has the right to invest on an unrestricted basis (i.e. funds from other Unrestricted PSIAs). The PSIA holders and the Authorised Person generally participate in the returns on the invested funds.
+5.4.4.Guidance.(iii)	In a Restricted PSIA, the PSIA holder imposes certain restrictions as to where, how and for what purpose the funds are to be invested. Further, the Authorised Person may be restricted from commingling its own funds with the restricted PSIA funds for the purposes of investment. In addition, there may be other restrictions that the PSIA holders may impose. In other words, the funds provided by holders of Restricted PSIAs are managed by the Authorised Person which does not have the right to use or dispose of the investments in which those funds are made except within the conditions of the relevant PSIA Investment Contract.
+5.4.4.Guidance.(iv)	An Authorised Person undertaking Islamic Financial Business is also exposed to fiduciary risk which arises where the terms of the relevant PSIA Investment Contract between the Authorised Person and the PSIA holder are breached and where the Authorised Person does not act in compliance with Shari'a.
+5.4.4.Guidance.(v)	An Authorised Person (whether acting as an Islamic Financial Institution or through an Islamic Window) is required to apply the Capital Requirements specified in PRU Chapter 3 to any Islamic Financial Business it carries on.
+5.4.5.	
+5.4.5.(a)	An Authorised Person's Displaced Commercial Risk Capital Requirement is based on 35% of the sum of CRCOM and the Market Risk capital requirement of assets funded by Unrestricted PSIA holders and is calculated using the following formula:
+PSIACOM = PSIACOMcredit + PSIACOMmarket x 35%.
+5.4.5.(b)	PSIACOM is the Displaced Commercial Risk Capital Requirement;
+5.4.5.(c)	PSIACOMcredit is the Credit Risk capital requirement for assets funded by Unrestricted PSIA holders and is calculated in accordance with PRU Section 4.8; and
+5.4.5.(d)	PSIACOMmarket is the Market Risk capital requirement for assets funded by Unrestricted PSIA holders and is calculated in accordance with PRU Chapter 5.
+
+5.4.6	Credit risk and counterparty risk for Islamic contracts
+5.4.6.(a)	An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must calculate its PSIACOMcredit in relation to all Islamic Contracts financed by Unrestricted PSIAs in the manner prescribed in this IFR 5.
+5.4.6.(b)	An Authorised Person must, when undertaking the calculation in IFR ‎5.4.6(a), apply an appropriate risk weighting for the relevant Islamic Contract.
+5.4.7	
+5.4.7.(a)	In this IFR 5:
+(i)	"E" represents the Exposure determined by an Authorised Person as applicable to an Islamic Contract; and
+(ii)	"CRW" represents the risk weighting or capital charge assessed by an Authorised Person as appropriate to that Islamic Contract.
+5.4.7.(b)	Where an Islamic Contract is in the Non-Trading Book, an Authorised Person must determine the PSIACOMcredit for that contract by applying the following formula:
+PSIACOMcredit  =  E x CRW x 10%.
+5.4.7.(c)	Where an Islamic Contract is in the Trading Book, an Authorised Person must determine the PSIACOMcredit for that contract in accordance with the methodology in PRU Rules A4.7 and A4.8 as appropriate. 
+5.4.7.(d)	An Authorised Person must calculate its PSIACOMcredit of all contracts by: 
+(i)	identifying all Islamic Contracts to which this section applies;
+(ii)	valuing the underlying investment or asset of each Islamic Contract and reducing the value of any such investment or asset in the manner stipulated in Rule 4.9 of PRU, the result of which constitutes "E" for that Islamic Contract;
+(iii)	determining the risk weighting or capital charge appropriate to each contract, which will constitute the CRW for that contract in accordance with PRU Rules 4.10, 4.11 and 4.12;
+(iv)	applying the respective formula in IFR ‎5.4.7(b) or (c) to determine of PSIACOMcredit in respect of each contract; and
+(v)	summing the PSIACOMcredit of each contract to determine the PSIACOMcredit applicable to the Authorised Person.
+5.4.7.(d).Guidance	
+5.4.7.(d).Guidance.(i)	The Regulator considers that this Guidance will assist an Authorised Person in applying the appropriate risk weighting or capital charge to each Islamic Contract for the purpose of IFR ‎5.4.7. Accordingly, the Regulator expects an Authorised Person managing PSIAs, which are Unrestricted PSIAs to pay due regard to this Guidance.
+5.4.7.(d).Guidance.(ii)	The rules in this IFR 5 and this Guidance are also relevant to an Authorised Person which invests in or holds Islamic Contracts, when calculating CRCOM for Islamic Contracts under PRU Rule 4.
+5.4.7.(d).Guidance.(iii)	Table 2 contains Guidance on how an Authorised Person (whether acting as an Islamic Financial Institution or through an Islamic Window) Managing a PSIA, which is an Unrestricted PSIA should apply risk weightings for Islamic Contracts in respect of calculating relevant E and CRW for its PSIACOMcredit component of the PSIACOM.
+/Table Start
+Table 2
+1. 
+Islamic Contract type	2. 
+Underlying investment or asset	3. 
+CRW
+Binding Murabaha for the Purchase Orderer (MPO)	Asset with an Authorised Person before purchase by the Counterparty	Apply the appropriate percentage from the second column in the table in PRU Rule A4.6.5 
+	Accounts receivable for the contract, i.e. amounts due from the Counterparty less any provision for doubtful debts	CRW in accordance with PRU Chapter 4 
+Murabaha and Non-binding Murabaha for the Purchase Orderer (MPO)	Accounts receivable for the contract, i.e. amounts due from the Counterparty less any provision for doubtful debts	CRW in accordance with PRU Chapter 4 
+Mudaraba and Musharaka	Where the underlying investment meets the requirements for inclusion in the Trading Book	Market Risk Capital Requirement for the exposure associated with the underlying investment determined in accordance with PRU Chapter 5 
+	Investment in commercial enterprise to undertake business ventures other than trading activities (or other than those which meet the requirements for inclusion in the Trading Book)	CRW of 400% on the exposure 
+	Investment in real estate assets and other movable assets, using underlying Ijarah and Murabaha contracts	CRW of the lessee for the underlying Ijarah contracts or the CRW of the counterparty of the underlying Murabaha contract, in accordance with PRU App4
+Ijarah/Ijarah Muntahia Bittamleek	Asset with an Authorised Person available for lease before purchase by the Counterparty – for both contracts with both binding or non-binding promise to lease	Apply the appropriate percentage from the second column in the table in PRU Rule A4.6.5 
+	Residential real estate where the lessee has the right to purchase property at the end of the lease and the lessor has a legally enforceable first charge over the property	Apply the appropriate percentage in accordance with PRU Rule 4.12.17 
+	Total estimated value of lease receivables for the whole duration of the Ijarah, less any recovery value of the leased asset	CRW of Ijarah lessee, in accordance with PRU Rule 4.12 
+Full recourse Istisna'a – with or without parallel Istisna'a and limited / non-recourse Istisna'a with/without parallel Istisna'a	Net balance of the work-in-progress	CRW of the Istisna'a buyer, in accordance with PRU Rule 4.12 
+	Total amount receivable from the counterparty, pursuant to contract billings	CRW of Istisna'a buyer, in accordance with PRU Rule 4.12
+Salam and parallel Salam	Value of the underlying asset receivable for the Salam contract	CRW in accordance with PRU Rule 4.12 
+	Assets acquired	100%
+	Balance in relevant accounts receivable	CRW in accordance with PRU Rule 4.12 
+Kefala	The amount of the guarantee	CRW in accordance with PRU Rule 4.12 
+Sukuk held in the Non-Trading Book	Receivables from the Sukuk structure, including the principal and any returns associated with it, arising from any of the following as underlying contracts: 
+•	Salam 
+•	Istisna'a 
+•	Ijarah 
+•	Murabaha 
+•	Mudaraba 
+•	Musharaka	CRW applicable to underlying Ijarah, Salam or Murabaha contracts, in accordance with PRU Rule 4.12
+If the Sukuk provides recourse to the issuer, CRW applicable to the issuer or CRW applicable to underlying contracts of the Sukuk is in accordance with PRU Rule 4.12 whichever is higher
+	Usufructs/services	CRW applicable to underlying service provider or usufruct owner, in accordance with PRU Rule 4.12. If the Sukuk provides recourse to the issuer, CRW applicable to the issuer or CRW applicable to underlying service provider or usufruct owner in accordance with PRU App4, whichever is higher 
+	Leased assets	The higher of CRW of the underlying leased assets and that of the issuer 
+	Investment agency (Wakala)	The higher of CRW of the underlying assets and that of the issuer 
+	Muzara'a (share of produce of the land) Musaqa (share of produce of the trees) Mugarasa (share in the land and the trees)	100%
+	Mixture of tangible and intangible assets	The higher of CRW of the underlying assets and that of the issuer 
+	Where the underlying investment meets the requirements for inclusion in the Trading Book	Market Risk Capital Requirement for the exposure associated with the underlying investment determined in accordance with Chapter 5 of PRU
+Bai' Bithaman Ajil	Residential and commercial properties Plant and equipment Motor vehicles Shares Land	CRW in accordance with PRU Chapter 4
+Arboun	Where an Authorised Person has made the purchase deposit	CRW in accordance with PRU Chapter 4 
+	Where an Authorised Person has received the purchase deposit	No CRW is applicable 
+	Where the contract would meet the requirements for inclusion in the Trading Book	Market Risk Capital Requirement for the exposure associated with the underlying investment determined in accordance with PRU Chapter 5 
+	/Table End
+5.4.7.(d).Guidance.(iv)	Where an Islamic Contract is not listed in Table 2, an Authorised Person should consult with the Regulator, on a case-by-case basis, to determine the:
+(A)	contract type and the underlying investments or assets to calculate the E; and
+(B)	appropriate risk weighting or the capital charge for such contract to calculate the CRW.
+5.4.7.(d).Guidance.(v)	In some cases, as stipulated in the relevant parts of column 3 of Table 2, the calculation of capital requirement should be carried out as prescribed in PRU Rule A4.6.5 and in accordance with PRU Chapter 5.
+5.4.7.(d).Guidance.(vi)	In determining the E of a Binding Murabaha for the Purchase Orderer (MPO), as per PRU Rule A4.6.5, E should equal the total acquisition cost of the asset (purchase price and other direct costs) less market value of the asset (net of any haircut) less any security deposit provided.
+5.4.7.(d).Guidance.(vii)	In determining the E of Ijarah / Ijarah Munthia Bittamleek contract, as per PRU Rule A4.6.5, E should equal the total acquisition cost of the asset (purchase price and other direct costs) less the market value of the asset (net of any haircut), less any Arboun (earnest money deposit received from the potential lessee).
+5.4.7.(d).Guidance.(viii)	In addition to paragraph 7 above, in the case of an Ijarah Muntahia Bittamleek contract, the exposure may be reduced by the recovery value of the leased asset, only in cases where there is a reasonable basis to conclude that the leased asset can be repossessed and effectively redeployed as a leased asset to another Counterparty. This is important because the asset leased under the Ijarah Muntahia Bittamleek contract is usually customised equipment or large pieces of equipment which are integrated with other assets of the lessee and hence are unsuitable for repossession and releasing to another lessee.
+5.4.7.(d).Guidance.(ix)	In determining the E of an Istisna'a contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Istisna'a contract entered into by an Authorised Person for procuring the underlying investment for the Istisna'a contract.
+5.4.7.(d).Guidance.(x)	In determining the E of a Salam contract, the exposures arising from such a contract should not be netted off against exposures arising from a Parallel Salam contract entered into by an Authorised Person for procuring the underlying asset for the Salam contract.
+5.4.7.(d).Guidance.(xi)	Off-balance sheet exposures for import or export financing contracts based on Murabaha, where the underlying goods or shipment are collateralised and insured, should attract a 20% CCF to an Authorised Person that issues or confirms the letter of credit.
+5.4.7.(d).Guidance.(xii)	Where Mudaraba and Musharaka contracts are used to invest in commercial enterprise to undertake business ventures other than trading activities (or other than those which meet the requirements for inclusion in the Trading Book), the E is measured as the amount invested in the commercial enterprise less any specific provisions. If there is a guarantee and such guarantor is not connected to the commercial enterprise, then the CRW for the guarantor will be applied for risk weighting for the amount of any such guarantee.
+5.4.7.(d).Guidance.(xiii)	In addition to the relevant Rules prescribed in PRU Chapter 4 and PRU App4, an Authorised Person may consider the following types of collateral as eligible collateral for Credit Risk management:
+(A)	Hamish Jiddiyyah (security deposit) only for agreements to purchase or lease preceded by a binding promise;
+(B)	Arboun where earnest money deposit held after a contract is established as collateral to guarantee contract performance; and
+(C)	in Mudaraba investment in project finance, an Authorised Person may use the collateralisation of the progress payments made by the ultimate customers to mitigate the exposures of unsatisfactory performance by the Mudarib.
+5.4.7.(d).Guidance.(xiv)	Where an Authorised Person places funds under a Mudaraba contract, subject to a Shari`a compliant guarantee from a third party and such a guarantee relates only to the Mudaraba capital, the capital amount should be risk-weighted at CRW of the guarantor provided that the CRW of that guarantor is lower than the CRW of the Mudarib (as a Counterparty). Otherwise, the CRW of the Mudarib will apply.
+5.4.7.(d).Guidance.(xv)	An Authorised Person placing liquid funds with a central bank or another financial institution on a short-term Mudaraba basis in order to obtain a return on those funds, may apply the CRW applicable to the Mudarib (as a Counterparty), provided the Mudarib effectively treats the liquid funds placement as its liability, although normally such placements are not treated as liabilities of the Mudarib.
+
+5.4.8	Market risk. An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must calculate its PSIACOMmarket in relation to all underlying Islamic Contracts in the manner prescribed in PRU Chapter 5, except as may be provided in IFR ‎5.4.9 to ‎5.4.17.
+5.4.9	Market risk. An Authorised Person must treat Sukuk held in its Trading Book as equity for the purpose of calculating its Equity Risk Capital Requirement and determine the same in accordance with PRU Rule 5.5.1.
+5.4.10	Market risk. Where investments are made using Musharaka or Mudaraba contracts with commodities as the underlying assets, an Authorised Person must calculate its Commodities Risk Capital Requirement in accordance with PRU Rule 5.7.1.
+5.4.11	Market risk. An Authorised Person which is exposed to the risk of foreign currencies and gold under any Islamic Contract, must calculate its Foreign Exchange Risk Capital Requirement in accordance with PRU Rule 5.6.2.
+5.4.12	Market risk. An Authorised Person which is exposed to commodities including precious metals but excluding gold under any Islamic Contract, must calculate its Commodities Risk Capital Requirement in accordance with PRU Rule 5.7.
+5.4.13	Market risk.
+5.4.13.(a)	Commodities held by an Authorised Person for selling or leasing when executing a Murabaha, non-binding MPO, Salam or parallel Salam contract must be included in the calculation of its Commodities Risk Capital Requirement.
+5.4.13.(b)	Where an Authorised Person executes Salam and parallel Salam contracts, the resultant long and short positions may be set off for calculating the net open position, provided that the positions are in the same commodity, regardless of how its Commodities Risk Capital Requirement is calculated.
+5.4.14	Where an Authorised Person executes Musharaka or Mudaraba contracts for investing in entities or investment vehicles that trade in foreign exchange, equities or commodities, it must include the relevant underlying assets in the calculation of its Market Risk Capital Requirement in accordance with PRU Chapter 5.
+
+5.4.14.Guidance	Concentration risk
+5.4.14.Guidance.(i)	This IFR 5 sets specific Large Exposure limits for assets financed by PSIAs, which are Unrestricted PSIAs. The Regulator uses these limits to provide constraints on the amount of Concentration Risk to which an Authorised Person is subject in respect of its PSIA holdings. In assessing PSIA Large Exposures, an Authorised Person may take advantage of the exemptions and partial exemptions set out in Rule A4.11 of PRU.
+5.4.14.Guidance.(ii)	An Authorised Person has a Large Exposure where its PSIA holders' credit Exposure to a single Counterparty or issuer, or group of Closely Related or Connected Counterparties, is large in relation to the Authorised Person's Capital Resources. Where Exposure to a Counterparty or issuer is large, PSIA holders risk a large loss should the Counterparty default.
+5.4.14.Guidance.(iii)	Exposures arising from assets that are financed by an Authorised Person's own funds are dealt with in PRU Rule 4.15.
+
+5.4.15	Exposure limits. An Authorised Person Managing a PSIA, which is an Unrestricted PSIA, must not have an Exposure to a Counterparty, Connected Counterparty, group of Closely Related Counterparties or to a group of Connected Counterparties that exceeds any one of the following percentages of its Capital Resources:
+(a)	25% if financed by its Capital Resources or Unrestricted PSIAs; or
+(b)	40% if financed by an aggregate of its own Capital Resources and Unrestricted PSIAs.
+5.4.15.Guidance	In accordance with PRU Rule 4.15.5, the aggregate of an Authorised Person's Exposure to a Counterparty or to a group of Closely Related Counterparties may not exceed 25% of the Authorised Person's Capital Resources.
+5.4.16	The sum of an Authorised Person's non-exempt Large Exposures must not exceed 800% of its Capital Resources for Exposures funded by the Authorised Person's Capital Resources and Unrestricted PSIAs.
+5.4.17	An Authorised Person must:
+(a)	monitor and control its Exposures funded by PSIAs, which are Unrestricted PSIAs, on a daily basis to ensure they remain within the concentration risk limits specified in IFR ‎5.4.15; and
+(b)	if a breach occurs, notify the Regulator immediately and confirm it in writing.
+6.	ISLAMIC COLLECTIVE INVESTMENT FUNDS
+6.Guidance	This chapter contains additional requirements that apply to a Collective Investment Fund operated or held out as being operated as an Islamic Fund. A Collective Investment Fund is defined in Part 11 of FSMR. The definition in Part 11 of FSMR is very wide and can capture some Islamic Financial Business. However, under Part 1 of FSMR and the Fund Rules, the Regulator can make Rules excluding certain arrangements or types of arrangements from constituting a Fund. Certain types of Islamic Financial Business are not regulated as Collective Investment Funds due to express exclusions provided. Key Islamic Financial Business-related exclusions under the collective investment regime are managing insurance (in the form of Takaful), participation rights evidenced by Sukuk certificates and Managing PSIAs.
+6.1	Application
+6.1.1	
+6.1.1.(a)	This chapter applies in the case of a Domestic Fund:
+(i)	which is an Islamic Fund, to its Fund Manager and where appointed, its Trustee; or
+(ii)	which is an Umbrella Fund with one or more Islamic Sub-Funds, to its Fund Manager and where appointed, its Trustee in respect of those Sub-Funds.
+6.1.1.(b)	The requirements that apply to a conventional Fund apply equally to an Islamic Fund, except as otherwise provided in this IFR 6.
+6.1.1.(c)	In this IFR ‎6, except where otherwise provided, any reference to a Fund is to an Islamic Fund or to an Islamic Sub-Fund of an Umbrella Fund as the case may be and any reference to a Fund Manager is a reference to a Fund Manager of an Islamic Fund or a Fund Manager of an Islamic Sub-Fund of an Umbrella Fund.
+6.1.1.(c).Guidance	
+6.1.1.(c).Guidance.(i)	The Fund Rules contains the key requirements relating to the management and operation of conventional Collective Investment Funds.  These Islamic Finance Rules set out the additional requirements that apply where such a Fund is managed or held out as being managed as an Islamic Fund. There are other requirements that apply to Authorised Persons managing Islamic Funds which are found in the Rulebooks issued by the Regulator, such as the GEN Rulebook, COBS Rulebook and PRU Rulebook.
+6.1.1.(c).Guidance.(ii)	While IFR ‎3 contains the requirements that apply to Authorised Persons which are Fund Managers of Collective Investment Funds, the requirements in this IFR 6 mainly focus on Shari'a compliance related requirements that apply at the Fund level. For example, while the systems and controls required under IFR ‎3.3 relate to the systems and controls that a firm must have in order to comply with its Shari'a obligations, IFR ‎6.1.3 sets out systems and controls that must be established and maintained at the Fund level.
+
+6.1.2	Systems and controls
+6.1.2.(a)	The Fund Manager of a Fund must establish and maintain systems and controls which ensure that its management of the Fund and the Fund Property is Shari'a compliant.
+6.1.2.(b)	A Fund Manager may, where it is practicable to do so, include the systems and controls required under IFR 6.1.2 (a) within those it is required to establish and maintain pursuant to IFR ‎3.3.1.
+6.1.2.(b).Guidance	
+6.1.2.(b).Guidance.(i)	Part 5 of the Fund Rules requires the Fund Manager to establish and maintain systems and controls, including, but not limited to, financial and risk controls to ensure sound management of the Fund in accordance with the Fund's Constitution and its most recent Prospectus, taking due account of the nature, scale and complexity of the Fund's investments and operations.
+6.1.2.(b).Guidance.(ii)	IFR ‎3.3.1 requires a Fund Manager of an Islamic Fund to establish and maintain systems and controls to ensure the Shari'a compliance of that Islamic Fund.
+
+6.1.3	Fund's constitutional documents
+6.1.3.(a)	The Fund Manager of a Domestic Fund that is a Public Fund must ensure that its Fund's Constitution and Prospectus are, and remain, approved by the Fund's Shari'a Supervisory Board.
+6.1.3.(b)	The Fund Manager of an Exempt Fund must ensure that the Fund's Constitution and Prospectus are, and remain, approved by the Fund Manager's Shari'a Supervisory Board.
+6.1.3.(b).Guidance	Although the Fund Managers of Exempt Funds and Qualified Investor Funds are not subject to the requirement for the appointment of a Shari'a Supervisory Board for such a Fund, they would need to ensure that the Exempt Funds or Qualified Investor Funds they manage continue to meet the Shari'a requirements applicable to the relevant Fund. They may use a member of the Shari'a Supervisory Board appointed at the firm level for the purposes of ascertaining compliance with the Shari'a requirements. The manner in which they demonstrate to the Unitholder of the Exempt Fund or Qualified Investor Fund as to how they achieve such compliance is a matter left to negotiation (i.e. subject to contractual terms) between the Unitholders and the Fund Manager.
+
+6.1.3.(b).Guidance.Islamic Financial Business policy and procedures manual	A Fund Manager may, instead of having a separate Islamic Financial Business policy and procedures manual both at the firm level and at the Fund level, maintain a single Islamic Financial Business policy and procedures manual for the Fund Manager and the Funds it manages.
+6.1.4	The Fund Manager of an Islamic Fund must implement and maintain an Islamic Financial Business policy and procedures manual for the Fund which addresses the following matters:
+(a)	the manner in which the compliance function will be undertaken, in respect of Shari'a compliance;
+(b)	the manner in which the Shari'a Supervisory Board will oversee and advise in regard to the Islamic Financial Business conducted by the Fund Manager;
+(c)	the manner in which Shari'a Supervisory Board fatwa, rulings and guidelines will be recorded, disseminated and implemented and the internal Shari'a review undertaken;
+(d)	the manner in which disputes between the Shari'a Supervisory Board and the Fund Manager in respect of Shari'a compliance will be addressed;
+(e)	the process for approving those internal systems and controls which are in place to ensure not only that the Islamic Financial Business is carried out in compliance with Shari'a, but that information is disseminated to Unitholders in an appropriate manner; and
+(f)	the manner in which conflicts of interest will be identified and managed, including as prescribed in IFR ‎6.2.4.
+6.2	Shari'a Supervisory Board for an Islamic Fund
+6.2.1	
+6.2.1.(a)	A Fund Manager of a Domestic Fund that is a Public Fund must, subject to (c), appoint a Shari'a Supervisory Board to its Fund that meets the following requirements:
+(i)	the Shari'a Supervisory Board has at least three members; 
+(ii)	the members appointed to the Shari'a Supervisory Board are competent to perform their functions as Shari'a Supervisory Board members of the Fund;
+(iii)	any appointments, dismissals or changes in respect of members of the Shari'a Supervisory Board are approved by the Governing Body of the Fund Manager; and
+(iv)	no member of the Shari'a Supervisory Board is a director or Controller of the Fund or its Fund Manager.
+6.2.1.(b)	A Fund Manager may comply with the requirement in IFR ‎6.2.1(a) by appointing to the Fund the same Shari'a Supervisory Board as it has appointed to itself as an Authorised Person (and whether acting as an Islamic Financial Institution or through an Islamic Window) in accordance with IFR ‎3.5.2, provided the requirements in IFR (a) are also met.
+6.2.1.(c)	A Fund Manager is not required to comply with the requirement in IFR ‎6.2.1(a) where it relies, for the purposes of making investments for the Fund, on a widely accepted Shari'a screening process such as investing in securities included in, or recognised by reference to, an Islamic index, sukuk, or treasury instruments issued by a Shari'a-compliant financial services provider regulated by an international recognised and reputable financial services regulator.
+6.2.1.(c).Guidance	
+6.2.1.(c).Guidance.(i)	In appointing a Shari'a Supervisory Board for the purposes of ‎6.2.1(a), the Fund Manager should consider the previous experience and qualifications of the proposed Shari'a Supervisory Board members to assess whether the proposed Shari'a Supervisory Board member is competent to advise on the activities undertaken by the Islamic Fund. If the Fund Manager is appointing the same Shari'a Supervisory Board as it has appointed to the firm pursuant to (b), the Fund Manager should still consider whether the requirements in both (a) and IFR ‎3.5.2(a) are met in respect of that board.
+6.2.1.(c).Guidance.(ii)	If the Fund Manager is relying on Shari'a screening methodologies such as the Dow Jones Shari'a index, such screening is generally regarded as widely accepted and accessible. However, if less widely known methodologies are used, the Fund Manager should be able, upon request by the Regulator, to demonstrate to the satisfaction of the Regulator the grounds on which it considers the particular methodology used to be acceptable and reliable.
+6.2.1.(c).Guidance.(iii)	Although the Fund Managers of Exempt Funds and Qualified Investor Funds are not subject to the requirement for the appointment of a Shari'a Supervisory Board for such a Fund, they would need to ensure that the Exempt Funds or Qualified Investor Funds they manage continue to meet the Shari'a requirements applicable to the relevant Fund. They may use a member of the Shari'a Supervisory Board appointed at the firm level for the purposes of ascertaining compliance with the Shari'a requirements. The manner in which they demonstrate to the Unitholder of the Exempt Fund or Qualified Investor Fund as to how they achieve such compliance is a matter left to negotiation (i.e. subject to contractual terms) between the Unitholders and the Fund Manager.
+6.2.1.(c).Guidance.(iv)	A Foreign Fund Manager may not be able to take advantage of (b), unless it has a Shari'a Supervisory Board appointed at the firm level. In contrast the Authorised Fund Manager of a Foreign Fund will be able to use its Shari'a Supervisory Board to meet the Shari'a Supervisory Board requirement relating to the Fund as set out in (b).
+6.2.2	
+6.2.2.(a)	Subject to ‎6.2.2(b), the Fund Manager of a Fund must document the Fund's policy in relation to:
+(i)	how appointments, dismissals or changes will be made to the Shari'a Supervisory Board;
+(ii)	the process through which the suitability of Shari'a Supervisory Board members will be considered; and
+(iii)	the remuneration of the members of the Shari'a Supervisory Board.
+6.2.2.(b)	If the Fund Manager, pursuant to IFR ‎6.2.1(b), appoints to the Fund the same Shari'a Supervisory Board it has appointed to the firm, the documents required under (a) must be included in or otherwise form part of the records required under IFR ‎3.5.3.
+6.2.3	
+6.2.3.(a)	Subject to (b), the Fund Manager of a Fund must establish and retain, for six years, records of:
+(i)	its assessment of the competency of the Shari'a Supervisory Board members;
+(ii)	the agreed terms of engagement of each member of the Shari'a Supervisory Board; and 
+(iii)	the matters in IFR ‎6.2.1(a)‎(iii) and IFR ‎6.2.2.
+6.2.3.(b)	If the Fund Manager, pursuant to IFR ‎6.2.1(b), appoints to the Fund the same Shari'a Supervisory Board it has appointed to itself as an Authorised Person (and whether acting as an Islamic Financial Institution or through an Islamic Window), the records required under (a) must be included in or otherwise form part of the records required under IFR ‎3.5.4.
+6.2.3.(b).Guidance	
+6.2.3.(b).Guidance.(i)	The records of the assessment of competency of Shari'a Supervisory Board members should clearly indicate, at least:
+(A)	the factors that have been taken into account when making the assessment of competency;
+(B)	the qualifications and experience of the Shari'a Supervisory Board members;
+(C)	the basis upon which the Fund Manager has deemed that the proposed Shari'a Supervisory Board member is suitable; and
+(D)	details of any other Shari'a Supervisory Boards of which the proposed Shari'a Supervisory Board member is, or has been, a member.
+6.2.3.(b).Guidance.(ii)	If the Fund Manager is relying on IFR ‎6.2.1(b), then the due diligence process, and the records maintained under IFR ‎3.5.3 and IFR ‎3.5.4, should be augmented with the matters specified under IFR ‎6.2.1(a).
+6.2.4	
+6.2.4.(a)	The Islamic Financial Business policy and procedures manual must provide that: 
+(i)	a member of the Shari'a Supervisory Board is obliged to notify the Fund Manager of any conflict of interest that such member may have with respect to the Fund or the Fund Manager, and if appointed, or in the case of an Investment Trust, the Trustee; and
+(ii)	the Fund Manager will take appropriate steps to manage any such conflict of interest so that the Islamic Financial Business is carried out appropriately and in compliance with Shari'a, the interest of a Unitholder is not adversely affected and all Unitholders are fairly treated and not prejudiced by any such interests.
+6.2.4.(b)	If a Fund Manager is unable to manage a conflict of interest as provided above, it must dismiss or replace the member as appropriate.
+6.2.5	The Fund Manager of a Fund must provide the Regulator at its request with information on the qualifications, skills, experience and independence of the individuals who are appointed or proposed to be approved as members of the Shari'a Supervisory Board.
+6.2.6	
+6.2.6.(a)	The Fund Manager of a Fund must take reasonable steps to ensure that the Fund Manager and the Fund's Employees:
+(i)	provide such assistance as the Shari'a Supervisory Board reasonably requires to discharge its duties;
+(ii)	give the Shari'a Supervisory Board right of access at all reasonable times to relevant records and information;
+(iii)	do not interfere with the Shari'a Supervisory Board's ability to discharge its duties; and
+(iv)	do not provide false or misleading information to the Shari'a Supervisory Board.
+6.2.6.(b)	If appointed, the Trustee must also take reasonable steps to ensure that its Employees comply with IFR ‎6.2.6(a)‎(i)-‎(iv).
+6.3	External Shari'a reviews and periodic reports
+6.3.1	A Fund Manager of a Domestic Fund that is a Public Fund, other than a Fund relying on the exemption in IFR ‎6.2.1(c), must ensure that all Shari'a reviews of the Fund are undertaken by the Shari'a Supervisory Board in accordance with AAOIFI GSIFI No 2.
+6.3.2	
+6.3.2.(a)	In the case of a Domestic Fund that is a Public Fund other than a Fund relying on the exemptions in IFR ‎6.2.1(c), the Fund Manager must commission an interim and an annual report relating to the Fund operations from the Shari'a Supervisory Board which complies with AAOIFI GSIFI No 1.
+6.3.2.(b)	The Fund Manager must deliver a copy of the annual interim report referred to in (a) to the Unitholders in accordance with Chapter 16 of the Fund Rules and must include the report of the Shari'a Supervisory Board in the annual report required under Chapter 16 of the Fund Rules.
+6.3.2.(b).Guidance	Although the Fund Managers of Exempt Funds and Qualified Investor Funds are not subject to the Shari'a review process required under IFR ‎6.3, they would need to ensure that the Exempt Fund or Qualified Investor Fund continues to meet the Shari'a requirements, particularly for the purposes of their annual and interim reports, which are required to be prepared under Chapter 16 of the Fund Rules. However, the manner in which they demonstrate to the Unitholders of the Fund how they achieve such compliance is a matter left to negotiation (i.e. subject to contractual terms) between the Unitholders and the Fund Manager.
+6.4	Internal Shari'a review
+6.4.1	
+6.4.1.(a)	The Fund Manager of a Domestic Fund that is a Public Fund must perform an internal Shari'a review to assess the extent to which the Fund complies with fatwa, rulings and guidelines issued by the Fund's Shari'a Supervisory Board.
+6.4.1.(b)	The Fund Manager must perform the internal Shari'a review in accordance with AAOIFI GSIFI No. 3.
+6.4.1.(c)	The Fund Manager of an Umbrella Fund which has an Islamic Sub-Fund must, to the extent possible, perform the internal Shari'a review in accordance with AAOIFI GSIFI No. 3 and must document the manner in which it will conduct that part of the internal Shari'a review that is not conducted in accordance with AAOIFI GSIFI No. 3.
+6.4.1.(c).Guidance	
+6.4.1.(c).Guidance.(i)	Although the Fund Managers of Exempt Funds and Qualified Investor Funds are not subject to the specific internal Shari'a requirements under IFR ‎6.4, they would need to ensure that the Exempt Fund or Qualified Investor Fund continues to meet the applicable Shari'a requirements. However, the manner in which they demonstrate to the Unitholders of the Fund how they achieve such compliance is a matter left to negotiation (i.e. subject to contractual terms) between the Unitholders and the Fund Manager.
+6.4.1.(c).Guidance.(ii)	AAOIFI GSIFI No. (3) (Internal Shari'a Review) establishes standards and provides guidance on the internal Shari'a review in institutions that conduct business in conformity with Shari'a. The standard covers the following:
+(A)	objectives;
+(B)	internal Shari'a review;
+(C)	independence and objectivity;
+(D)	professional proficiency;
+(E)	scope of work;
+(F)	performance of the internal Shari'a review work;
+(G)	management of the internal Shari'a review;
+(H)	quality assurance; and
+(I)	elements of an effective internal Shari'a review control system.
+6.4.2	The Fund Manager must ensure that the internal Shari'a review referred to in this IFR 6 is performed by the internal audit function of the Fund or the compliance function of the Fund and that the individuals or departments involved in performing the review are competent and sufficiently independent to assess compliance with Shari'a.
+6.4.2.Guidance	For the purposes of assessing competency of personnel or departments which perform the internal Shari'a review, Fund Manager should consult AAOIFI GSIFI No. 3 paragraphs 9 to 16 inclusive.
+6.5	Additional disclosure in a Prospectus of an Islamic Fund which is a Public Fund
+6.5.Guidance	Chapter 9 of the Fund Rules set out the Prospectus requirements. In addition to complying with those requirements as applicable to the particular Fund, the Fund Manager of an Islamic Fund that is a Public Fund must comply with the additional requirements set out in this IFR 6.
+6.5.1	A Fund Manager of an Islamic Fund which is a Public Fund must state in the Fund's Prospectus:
+(a)	that all the operations in relation to the Fund will be conducted in accordance with Shari'a;
+(b)	if the Fund has a Shari'a Supervisory Board appointed to it, the names of the members of the Shari'a Supervisory Board and their qualifications and experience and, whether or not the Fund Manager's Shari'a Supervisory Board is appointed to the Fund pursuant to IFR ‎6.2.1(b);
+(c)	if the Fund does not have a Shari'a Supervisory Board appointed to it pursuant to IFR ‎6.2.1(c), what widely acceptable screening methodologies are used by the Fund to ensure Shari'a compliance with respect to investments made for the Fund, and the board that has approved them;
+(d)	if applicable, the manner and frequency of Shari'a reviews; 
+(e)	how earnings prohibited by Shari'a will be disposed of; and
+(f)	whether Zakat is the responsibility of the Fund or the responsibility of the Unitholders.
+6.5.1.Guidance	
+6.5.1.Guidance.(i)	A Fund Manager should consider providing additional information to support the statement under IFR ‎6.5.1‎(a) as indicated in 2 and 3 below.
+6.5.1.Guidance.(ii)	The Fund Manager should provide sufficient details setting out the basis upon which the Fund has been approved and certified as Shari'a compliant by its Shari'a Supervisory Board. Such details should include the basis of the underlying principles, i.e. the Fatwa or rulings, including reference to any relevant Ijtihad, Ijma, Qiyas or other. Where applicable, reference should be made to any Islamic indices to be used. In addition, where applicable, the screening process and any filters used should be identified.
+6.5.1.Guidance.(iii)	The Fund Manager should set out each of the key features of the Fund and explain the rationale for determining why each of these features are considered Shari'a compliant by the Fund's Shari'a Supervisory Board.
+6.6	Investments in other Funds
+6.6.1	
+6.6.1.(a)	An Islamic Fund which is a Public Fund may invest in Units of another Fund, except where otherwise provided in the Fund Rules, only where the Fund Manager has taken reasonable care to determine, before investing in that other Fund, it:
+(i)	is the subject of an independent annual audit conducted in accordance with IFRS or US GAAP;
+(ii)	has mechanisms in place to enable Unitholders to redeem their Units within a reasonable time if it is an open-ended Fund; 
+(iii)	is prohibited from having more than 20% of its gross asset value in the Units of other Funds; and 
+(iv)	has a proper and disclosed basis for asset valuation and the pricing of Units in that Fund.
+6.7	Periodic Reports of an Islamic Fund
+6.7.Guidance	Chapter 16 of the Fund Rules sets out the periodic reports and related requirements. These are additional requirements that apply to Islamic Funds.
+6.7.1	In addition to the matters specified in Chapter 16.5 of the Fund Rules, an annual report of an Islamic Fund, other than a Fund which is an Umbrella Fund, must contain the report specified in IFR ‎6.3.2(b).
+6.8	Islamic Real Estate Investment Trusts (Islamic REITs)
+6.8.1	
+6.8.1.(a)	A Fund Manager, or any other Authorised Person making an Offer of a Unit of an Islamic Fund or otherwise marketing an Islamic Fund, must not include the term "Islamic Real Estate Investment Trust" or "Islamic REIT" or refer to an Islamic Fund or otherwise hold out an Islamic Fund as being an Islamic Real Estate Investment Trust or an Islamic REIT, unless it is a Property Fund which complies with IFR ‎6.8.1(b) and (c) below.
+6.8.1.(b)	An Islamic REIT is a Property Fund which:
+(i)	is primarily aimed at investments in income-generating Real Property which complies with Shari'a principles; 
+(ii)	distributes to the Unitholders at least 80% of its audited annual net income; and
+(iii)	if at any time during the operation of the Islamic Fund the requirements in Rule 6.8.1(b)(i) or (ii) are not met, the Fund Manager, and, if appointed the Trustee, must immediately notify the Regulator of the failure to meet the requirements in these Islamic Finance Rules and what measures have been or will be taken to remedy the breach.
+6.8.2	
+6.8.2.(a)	A Fund Manager of an Islamic REIT must ensure that it distributes to the Unitholders as dividends each year an amount not less than 80% of its audited annual net income.
+6.8.2.(b)	In the case of an Islamic REIT which is a Public Fund, the Persons providing oversight functions in respect of the Fund must determine if any;
+(i)	revaluation surplus credited to income, or
+(ii)	gains on disposal of Real Property,
+shall form part of net income for distribution to Unitholders.
+6.8.2.(c)	In the case of an Islamic REIT which is an Exempt Fund or a Qualified Investor Fund, the Fund Manager must make the determination in (b).
+6.8.2.(d)	An Islamic REIT which is a Public Fund must be either listed on an exchange or open-ended.
+6.8.3	Where an Islamic REIT holds any Real Property via one or more Special Purpose Vehicles, the Fund Manager must ensure that each Special Purpose Vehicle distributes to the Fund all of its net income as permitted by the laws and regulations of the jurisdiction where the Special Purpose Vehicle is established.
+6.8.4	
+6.8.4.(a)	A Fund Manager of an Islamic REIT must ensure, subject to IFR ‎6.8.4(b), that any investment made in respect of property under development whether on its own or in a joint venture is undertaken only where the Islamic REIT intends to hold the developed property upon completion.
+6.8.4.(b)	The total purchase price and development cost of the property under development in IFR ‎6.8.4(a) must not exceed 30% of the net asset value of the Fund Property of the Islamic REIT.
+6.8.4.(c)	For the purposes of this Rule, the Regulator would not consider property development activities to include refurbishment, retrofitting and renovation.
+6.8.5	
+(a)	A Fund Manager of an Islamic REIT may obtain financing either directly or through its Special Purpose Vehicle up to 65% of the total gross asset value of the Fund provided that such financing is provided in a Shari'a-compliant manner.
+(b)	Upon becoming aware that the borrowing limit set out in 6.8.5(a) has been exceeded, the Fund Manager shall: 
+(c)	immediately inform Unitholders and the Regulator of the details of the breach and the proposed remedial action;
+(d)	use its best endeavours to reduce the excess borrowings; 
+(e)	not permit the Fund to engage in additional borrowing; and
+(f)	inform Unitholders and the Regulator on a regular basis as to the progress of the remedial action.
+6.8.5.Guidance	
+6.8.5.Guidance.1.	Remedial action may not require the disposal of Fund assets to pays off part of the borrowings where such disposal would be prejudicial to the interest of Unitholders. 
+6.8.5.Guidance.2.	As there are no specific risks that arise by virtue of a Fund being an Islamic Fund, the prudential requirements that apply to a Category 3 firm as set out in the PRU Rulebook apply to such Fund Managers. However, if the underlying assets of the Fund are invested in financial products or instruments that are Islamic and have certain features which would raise any prudential risks, it is the responsibility of the Fund Manager to address such risks. The Regulator would provide any additional clarifications regarding such matters upon request.
+7.	OFFERS OF ISLAMIC SECURITIES
+7.1	Application
+7.1.1	
+7.1.1.(a)	Subject to (b), this chapter applies to any Person who Offers Islamic Securities in the ADGM, unless the Offer is an Exempt Offer.
+7.1.1.(b)	A Person making an Offer of Islamic Securities in the ADGM must comply with the requirements in FSMR and the MKT Rulebook except to the extent otherwise provided in this chapter.
+7.1.1.(c)	Islamic Securities, for the purposes of this chapter, do not include Units of an Islamic Fund.
+7.1.1.(c).Guidance	
+7.1.1.(c).Guidance.(i)	IFR 7 applies to any Person that makes a Prospectus Offer of Islamic Securities in ADGM.
+7.1.1.(c).Guidance.(ii)	When an Authorised Person Offers Islamic Securities in ADGM, IFR 7 applies irrespective of whether such Authorised Person is an Islamic Financial Institution, acts through an Islamic Window or is a conventional institution.  A conventional institution may be held to offer Islamic Securities where it acts as the underwriter of an issuance of Sukuk or where it elects to act as the obligor under a Sukuk issuance.
+7.1.1.(c).Guidance.(iii)	The issue of Securities is not an activity that constitutes a Regulated Activity. Therefore, activities such as the issue of Shares, Debentures (Sukuk) or Warrants do not attract the Regulated Activity prohibitions in FSMR. The Offer of Securities, however, is an activity to which FSMR and the MKT Rulebook apply. Under FSMR, a Person making an Offer of Securities in the ADGM is subject to numerous disclosure requirements, unless exempt.
+7.1.1.(c).Guidance.(iv)	Offers of Islamic Securities which are Units of a Fund are not subject to the requirements in this IFR 7 because FSMR and Fund Rules provide for such activities to be regulated. IFR ‎6 sets out additional requirements that apply to the Fund Manager when Offering Units of an Islamic Fund.
+7.1.1.(c).Guidance.(v)	The definition of the term Islamic Securities is in GLO.
+7.2	Contents of a Prospectus for Islamic Securities
+7.2.1	Where the relevant Securities are held out as being in accordance with Shari'a, the Prospectus relating to those Securities must include:
+(a)	details of the members of the Shari'a Supervisory Board appointed by the Issuer who have undertaken the review of the relevant Securities;
+(b)	details of the qualifications and experience of each of those Shari'a Supervisory Board members;
+(c)	the opinion of the Shari’a Supervisory Board in respect of whether the Securities are Shari’a compliant;
+(d)	in the case of issuance of Sukuk:
+(i)	a description of the structure of the underlying transaction (including a structure diagram) and an explanation of the flow of funds; and
+(ii)	where applicable, the disclosures required by the Shari'a Standards published from time to time by AAOIFI in respect of investment Sukuk; and
+(e)	instead of the statement required under MKT Rule 4.5.1(3)(d), a prominent disclaimer in bold, on the front page of this Prospectus as follows:
+"The Regulator does not accept any responsibility for the content of the information included in the Prospectus, including the accuracy or completeness of such information. The liability for the content of the Prospectus lies with the issuer of the Prospectus and other Persons, such as Experts, whose opinions are included in the Prospectus with their consent. The Regulator has also not assessed the suitability of the Securities to which the Prospectus relates to any particular investor or type of investor and has not determined whether they are Shari'a compliant. If you do not understand the contents of this Prospectus or are unsure whether the Securities to which the Prospectus relates are suitable for your individual investment objectives and circumstances, you should consult an authorised financial advisor or other appropriately qualified Expert."
+7.3	Continuous Disclosure relating to Islamic Securities
+7.3.1	The Reporting Entity responsible for Islamic Securities must, without delay, Disclose details of any changes to the membership of its Shari'a Supervisory Board, the identity, qualifications and experience of any new Shari'a Supervisory Board members and the identity of any Shari'a Supervisory Board members who resign or are dismissed.
+7.3.2	A Listed Entity with Islamic Securities admitted to the Official List of Securities must make the required Disclosures in accordance with the requirements under section ‎A1.1 of App 1 and comply with the other continuing obligations under section ‎A1.2 of App 1.
+7.4	Admission of Islamic Securities to an Official List of Securities
+7.4.1	If Securities are held out as being in accordance with Shari'a, copies of all material transaction documents pertaining to the Shari’a nature of the Securities must be submitted by the Applicant, in final form, to the Regulator by midday two Business Days before the Regulator is to consider the application.
+8.	TAKAFUL 
+8.1	Application
+8.1.1	
+8.1.1.(a)	This IFR 8 applies to an Authorised Person who carries on or holds itself out as carrying on (either as an Islamic Financial Institution or through an Islamic Window) insurance business or insurance intermediation in the form of Takaful.
+8.1.1.(b)	In addition to the requirements in this IFR 8, the requirements that apply to conventional insurance business or Insurance Intermediation shall apply to an Authorised Person that carries on or holds itself out as carrying on insurance business or Insurance Intermediation in the form of Takaful.
+8.2	Specific disclosure for Takaful 
+8.2.1	Where an insurer or an insurance intermediary conducts Takaful with a Retail Client, the disclosure for the purposes of COBS 6.7 must include:
+(a)	the nature of the contracts between the Takaful Fund and the Takaful Operator;
+(b)	the method of calculation of any fees or share of profits paid from the Takaful Fund to the Takaful Operator;
+(c)	the basis on which any surpluses in the Takaful Fund will be shared; and
+(d)	any circumstances in which additional contributions to the Takaful Fund may be required.
+8.2.1.Guidance	
+8.2.1.Guidance.(i)	Authorised Persons conducting insurance business comprising Takaful must comply with the requirements in PIN. Takaful-related prudential requirements are not included in these Islamic Finance Rules because of the closely integrated nature of such requirements with the requirements that apply to conventional insurance.
+8.2.1.Guidance.(ii)	Note that structures of Takaful Operators (including Retakaful Providers) vary, as do the Islamic contracts governing their business.  As the Regulator has not as yet thought it appropriate to limit the permissible structures and contracts, the Regulator is willing to consider modifications to the Rulebooks issued by the Regulator to apply the most appropriate prudential regime to a Takaful Operator. For many Takaful Operators, this is likely to involve capital tests at the level of the Takaful participants' fund or funds, and for the firm as a whole. 
+APP 1 	CONTINUING OBLIGATIONS
+A1.1	Continuing obligations – Market disclosures for listed entities
+A1.1.1	This table forms part of IFR ‎7.3.2.
+A1.1.2	A Listed Entity must, on the occurrence of an event specified in column 1, make the required disclosure detailed in column 2, within the time specified in column 3, in respect of the Securities identified with a "" in column 4, of this Table.
+
+A.2.1.1	/Table Start
+	EVENT GIVING RISE TO DISCLOSURE OBLIGATION	DISCLOSURE REQUIRED	TIME OF DISCLOSURE	Structured Products 	Shares	Warrants over Shares	Warrants over Debentures	Debentures	Certificates	Units
+									Shares	Debentures	
+ISLAMIC SECURITIES
+1.	Any material change in the Shari'a nature of its Listed Securities as determined by the Shari'a Supervisory Board	Market disclosure of the material change	As soon as possible								
+2.	Where there are any material changes to the structure of the Listed Securities, or the use of proceeds, then the Listed Entity must obtain and disclose a new Shari'a opinion	Market disclosure of the new Shari'a opinion	As soon as possible								 /Table End
+
+A1.2	Other continuing obligations for listed entities
+A1.2.1	This table forms part of IFR ‎7.3.2.
+A1.2.2	A Listed Entity must, on the occurrence of an event specified in column 1, undertake the requirements detailed in column 2, within the time specified in column 3, in respect of the Securities identified with a "" in column 4, of this Table.
+
+A.2.2.1	/Table Start
+	EVENT 	REQUIREMENTS	TIME	Structured Products 	Shares	Warrants over Shares	Warrants over Debentures	Debentures	Certificates	Units
+									Shares	Debentures	
+REGISTRATION
+1.	Appointment of an independent Shari'a Supervisory Board to evaluate the Shari'a compliance of the Islamic equity Securities on an annual basis	Notify the Regulator	Annually								
+2.	Any proposed decision with regard to any change in its board of directors or Shari'a Supervisory Board	Consult with the Regulator	In advance								
+/Table End

@@ -1,0 +1,1264 @@
+ 
+
+1.	INTRODUCTION
+1.1	Application
+1.1.1	This Rulebook ("GLO") applies to every Person to whom any of the Rulebooks apply.
+1.2	Defined Terms
+1.2.1	In the Rulebooks:
+(1)	a word or phrase which is defined in GLO is a defined term and has the meaning given in GLO; and
+(2)	a word or phrase which relates to a defined term must be interpreted accordingly. 
+1.2.1.Guidance	
+1.2.1.Guidance.1.	Defined terms are identified throughout the Rulebook by the capitalisation of the initial letter of a word or of each word in a phrase. Unless the context otherwise requires, where capitalisation of the initial letter or letters of a word of phrase is not used, the word or phrase has its natural meaning.
+1.2.1.Guidance.2.	Many of the defined terms in GLO are used or defined in the relevant ADGM Regulations or Rules made under such Regulations. In these cases, GLO may refer to the provision in the Regulations and Rules which are the source of such a definition.  
+1.2.1.Guidance.3.	Each Rulebook has a reference code of three or four letters, usually a contraction or abbreviation of its title (for example, COBS stands for the Conduct of Business Rulebook). The meaning of each of these codes is given in GLO.
+1.2.1.Guidance.4.	GEN 4.2 provides further important guidance on interpreting words and phrases.
+ 
+
+/Table Start
+Defined Terms	Definitions
+1P	Means the low estimate scenario of Petroleum Reserves. It is equivalent to Proved Reserves.
+1U	has the meaning of the term or equivalent term in the PRMS.
+2P	Means the best estimate scenario of Petroleum Reserves. It is equivalent to the sum of Proved Reserves plus Probable Reserves.  
+2U	Means the best estimate of the quantity that will actually be recovered from an accumulation by a Petroleum Project.  It is the most realistic assessment of recoverable quantities if only a single result were reported. When Probabilistic Methods are used, there should be at least a 50% probability (P50) that the quantities actually recovered will equal or exceed 2P.
+3P	Means the high estimate scenario of Petroleum Reserves. It is equivalent to the sum of Proved Reserves plus Probable Reserves plus Possible Reserves.  
+3U	Means an optimistic estimate of the quantity that will actually be recovered from an accumulation by a Petroleum Project.  When Probabilistic Methods are used, there should be at least a 10% probability (P10) that the quantities actually recovered will equal or exceed 3U.
+AAOIFI	Means the Accounting and Auditing Organisation of Islamic Financial Institutions.
+AAOIFI GSIFI	Means the AAOIFI Global Standards for Islamic Finance Institutions.
+Abu Dhabi Global Market Financial System or ADGM Financial System	Has the meaning given in section 258 of FSMR.
+Acceptable Climate Transition Taxonomy	Means a classification system established to clarify those economic activities that:
+a)	are not currently zero or near-zero emitters of greenhouse gases, but
+b)	assist the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable; and
+uses credible and independent accreditation standards, is published by a governmental body or a reputable industry association and freely available.
+Acceptable Green Taxonomy	Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.
+Accepted Market Practices	Means customary practices in the financial market or markets in question which are accepted by the Regulator.
+Accepted Spot Commodity	Has the meaning given in section 258 of FSMR.
+Accepted Virtual Asset	Has the meaning given in section 258 of FSMR.
+Accepting Deposits	In relation to:
+(a)	FUNDS, means:
+(i)	money received by way of Deposit is lent to others; or
+(ii)	any other activity of the Person accepting the Deposit is financed, wholly or to a material extent, out of the capital of or returns on any money received by way of Deposit; and
+(b)	GEN and FEES, has the meaning given in paragraph 38 of Schedule 1 of FSMR.
+Accounting Records	Means records and underlying documents comprising initial and other accounting entries and associated supporting documents such as:
+(a)	cheques;
+(b)	records of electronic fund transfers;
+(c)	invoices;
+(d)	contracts;
+(e)	the general and subsidiary ledgers, journal entries and other adjustments to the financial statements that are not reflected in journal entries; and
+(f)	work sheets and spread sheets supporting cost allocations, computations, reconciliations and disclosures.
+Acting as a Central Securities Depository	Has the meaning given in section 258 of FSMR.
+Acting as the Administrator of a Collective Investment Fund	Has the meaning given in paragraph 60 of Schedule 1 of FSMR.
+Acting as the Trustee of an Investment Trust	Has the meaning given in paragraph 61 of Schedule 1 of FSMR 
+Activities	In relation to GEN 2.1.2 and 2.1.3, means:
+(a)	a Regulated Activity;
+(b)	activities carried on in connection with a Regulated Activity;
+(c)	activities held out as being for the purpose of a Regulated Activity; and
+(d)	in relation to any particular Principle, any activity specified in GEN ‎2.1.3(2), (3) and ‎(4).
+Actuary	Means an individual who is a 'Fellow', or the holder of an equivalent qualification or rank, of a professional actuarial body that is a full member of the International Actuarial Association.
+ADGM	Means the Abu Dhabi Global Market.
+ADGM Climate Transition Fund	Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.
+ADGM Climate Transition Fund Designation	Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.
+ADGM Climate Transition Fund Rules	Means FUNDS 20.3.
+ADGM Climate Transition Portfolio	Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.
+ADGM Climate Transition Portfolio Designation	Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.
+ADGM Climate Transition Portfolio Rules	Means COBS 3.8.10 to 3.8.18
+ADGM Entity	Means a Legal Person which is incorporated or registered in the ADGM (excluding a registered Branch).
+ADGM Founding Law	Means Abu Dhabi Law No. 4 of 2013 concerning the ADGM issued by His Highness the Ruler of the Emirate of Abu Dhabi. 
+ADGM Green Debenture	Means a Debenture that meets the requirements of MKT 4.15.2.
+ADGM Green Bond Designation 	Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.
+ADGM Green Fund	Means a Fund that has received an ADGM Green Fund Designation from the Regulator.
+ADGM Green Fund Designation	Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.
+ADGM Green Fund Rules	Means FUNDS 20.2.
+ADGM Green Portfolio	Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.
+ADGM Green Portfolio Designation	Means the designation provided by the Regulator to an ADGM Green Portfolio pursuant to COBS 3.8.19 to 3.8.22.
+ADGM Green Portfolio Rules	Means COBS 3.8.2 to 3.8.9
+ADGM Green Sukuk	Means a Sukuk that meets the requirements of MKT 4.15.2 when read together with MKT 4.16.
+ADGM Green Sukuk Designation	Means the designation provided by the Regulator to an ADGM Green Sukuk pursuant to MKT 4.15.7 to 4.15.11 when read together with MKT 4.16.
+ADGM Incorporated Insurer	Means an Insurer that is incorporated in the ADGM. 
+ADGM Sustainability-Linked Debenture	Means a Debenture that meets the requirements of MKT 4.15.3.
+ADGM Sustainability-Linked Bond Designation	Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.
+ADGM Sustainability-linked Sukuk	Means a Sukuk that meets the requirements of MKT 4.15.3 when read together with MKT 4.16.
+ADGM Sustainability-Linked Sukuk Designation	Means the designation provided by the Regulator to an ADGM Sustainability-Linked Sukuk pursuant to MKT 4.15.7 to 4.15.11 when read together with MKT 4.16.
+Adjusted Capital Resources	Means capital resources calculated in accordance with PIN A3.2.1.
+Adjusted Cellular Capital Resources	Means cellular capital resources calculated in accordance with PIN A5.6.1.
+Administering a Specified Benchmark	Has the meaning given in paragraph 68(1)(b) of Schedule 1 of FSMR.
+Administrator	Has the meaning given in section 1(1) of the Insolvency Regulations 2015.
+ADT	Means average daily turnover.
+Advertisements	Means announcements:
+(a)	relating to a specific Offer of Securities to the Public or to an admission to trading on a Recognised Investment Exchange; and
+(b)	aiming to specifically promote the potential subscription or acquisition of Securities.
+Advice	Means advice of the type specified in paragraph 28 of Schedule 1 of FSMR. 
+Advising on Investments or Credit	Has the meaning given in paragraph 28 of Schedule 1 of FSMR.
+Advisor	In relation to a Fund, means a Person who is retained by the Fund, its Eligible Custodian, a Person providing oversight or its Fund Manager under a commercial arrangement which is not a contract of service:
+(a)	to supply any of them with the advice in relation to the Fund as to the merits of investment opportunities or information relevant to the making of judgments about the merits of investment opportunities; or
+(b)	to exercise for any of the functions concerning the management of the Fund Property.
+Affected Person	In relation to a Fund, means:
+(a)	its Fund Manager;
+(b)	its Governing Body;
+(c)	its Eligible Custodian;
+(d)	its Trustee or other Persons providing oversight;
+(e)	any Advisor;
+(f)	a holder of 5% or more of the Units of the Fund; or
+(g)	any Associate of any Person listed in paragraphs (a) to (f) of this definition.
+Agent	Means any Person who has been appointed by the Fund Manager of a Passported Fund to Promote the Units of that Passported Fund.
+Agreeing to Carry On Specified Kinds of Activity	Has the meaning given in paragraph 70 of Schedule 1 of FSMR.
+Allotment	In relation to MKT Chapter 6, means the process or processes by which the number of Relevant Securities to be received by investors who have previously subscribed or applied for them is determined.
+AML or AML Rulebook	Means the Anti-Money Laundering and Sanctions Rules and Guidance.
+AML Return	Means the return which is required to be completed by Relevant Persons in accordance with AML 4.6. 
+Ancillary Stabilisation	In relation to MKT Chapter 6, means the exercise of an Overallotment Facility or of a Greenshoe Option by Authorised Persons, in the context of a Significant Distribution of Relevant Securities, exclusively for facilitation Stabilisation activity.
+Appeals Panel	Means the panel appointed by the Board in accordance with section 225 of FSMR.
+Applicant	Has the meaning given in section 258 of FSMR.
+Appointed Fund Administrator	Has the meaning given in FUNDS 7.1.2(1)(a).  
+Appointed Trustee	Has the meaning given in FUNDS 7.1.2(1)(a).
+Approval	Means the approval granted in accordance with section 43 of FSMR.
+Approved Assets	Means
+(1)	A certificate of deposit with a maximum term to maturity of six months issued by and held with an Eligible Bank;
+(2)	A term deposit with an Eligible Bank with a remaining term to maturity of one year or less;
+(3)	A negotiable debt instrument, with a remaining term to maturity of five years or less, where the instrument, or issuer thereof, is Rated at least AA by Standard & Poor’s, or the equivalent by another rating agency;
+(4)	A repurchase agreement which is fully collateralised with negotiable debt instruments meeting the rating criterion in (3), and where the credit rating of the counterparty also meets the criteria; or a bond fund meeting the rating criterion in (3) and where the designated bank account for redeemed investment is an Insurance Bank Account held by the Authorised firm in accordance with the requirement of COBS Rule 7.11.6.
+Approved Person	Means an individual who has been authorised by the Regulator to perform one or more Controlled Functions for an Authorised Person.
+Approved Stock Exchange	A stock exchange designated as approved by a written notice from the Regulator, subject to any conditions that the Regulator may specify in that notice.
+Approved Prospectus	In relation to Securities to which section ‎61 of FSMR applies, means a prospectus approved by the Regulator.
+Arboun	Means a down payment in the form of a non refundable deposit paid by a buyer and which gives the buyer the right to confirm or cancel a sale at a future date.
+Arranging Credit 	Has the meaning given in paragraph 50 of Schedule 1 of FSMR.
+Arranging Deals in Investments	Has the meaning given in paragraph 16 of Schedule 1 of FSMR.
+Arranging Custody	In relation to:
+(a)	COBS, means arranging for one or more Persons to Provide Custody; and
+(b)	GEN and FEES, has the meaning given in paragraph 46 of Schedule 1 of FSMR.
+Arranging Deals in Investments	Has the meaning given in paragraph 16 of Schedule 1 of FSMR. 
+Assets	Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.
+Assets Requirement	Has the meaning given in FSMR.
+Associate	In relation to:
+(a)	MIR and Chapter 8 of GEN, means, in respect of a Person ‘A’ holding Shares or entitled to control the exercise of voting power in an Authorised Person or a Holding Company of an Authorised Person:
+(i)	the spouse of A;
+(ii)	a child or stepchild of A;
+(iii)	the trustee of any settlement, including any disposition or arrangement under which property is held on trust or subject to a comparable obligation, under which A has a life interest in possession;
+(iv)	an Undertaking of which A is a director;
+(v)	a Person who is an Employee or partner of A;
+(vi)	where A is an Undertaking:
+(A)	a director of A;
+(B)	a subsidiary or wholly owned subsidiary of A; 
+(C)	a director or Employee of such a subsidiary or wholly owned subsidiary; or
+(vii)	a Person who has an agreement or arrangement with A with respect to the acquisition, holding or disposal of Shares or other interests in the Authorised Person or the Holding Company of an Authorised Person or under which they undertake to act together in exercising their voting power in relation to an Authorised Person or the Holding Company of an Authorised Person or that other Person.
+(b) 	MKT, a Person (the second person) is an associate of another Person (Person ‘A’) where one or more of the following applies:
+(i) 	 in the case A is a Natural Person, the second person is an Undertaking controlled by A;
+(ii) 	 in the case A is an Undertaking, the second person is an Undertaking:
+(A) 	A controls; or
+(B) 	that controls A; or
+(C) 	that is controlled by any Person that controls A;
+(iii) 	 the second person is a Person who is a Listed Entity with whom A has, or proposes to enter into, a relevant agreement for the purpose of controlling or influencing the composition of the second person’s board or the conduct of the second person’s affairs; or
+(iv) 	 the second person is a Person who is a Listed Entity with whom A has is acting, or is proposing to act, in concert in relation to the second person’s affairs:
+(c)	references other than in MIR, MKT and GEN Chapter 8, means, in respect of a Person ‘A’, any Person, including an affiliated company which is:
+(i) 	an Undertaking in the same Group as A; or
+(ii) 	any other Person whose business or domestic relationship with A or his Associate might reasonably be expected to give rise to a community of interest between them which may involve a conflict of interest in dealings with third parties.
+In all Rulebooks, where Person ‘A’ is a Natural Person, a Close Relative of A is taken to be an Associate unless the contrary is established.
+Associated Instruments	In relation to MKT Chapter 6, means the following Securities (including those which are not admitted to trading on a Recognised Investment Exchange, or for which a request for admission to trading on such a Recognised Investment Exchange has not been made, provided that the Regulator has agreed to standards of transparency for transactions in such Securities):
+(a)	contracts or rights to subscribe for, acquire or dispose of Relevant Securities;
+(b)	financial derivatives on Relevant Securities;
+(c)	where the Relevant Securities are convertible or exchangeable debt Instruments, the Securities into which such convertible or exchangeable debt Instruments may be converted or exchanged;
+(d)	Instruments which are issued or guaranteed by the Issuer or guarantor of the Relevant Securities and whose market price is likely to materially influence the price of the Relevant Securities, or vice versa; and
+(e)	where the Relevant Securities are Securities equivalent to Shares, the Shares represented by those Securities (and any other Securities equivalent to those Shares).
+Auditor	Means a person appointed in accordance with section 189 of FSMR, who satisfies such requirements as to qualifications, experience and other matters (if any) as may be specified.
+Authorised Fund Manager	Means a Fund Manager that holds a Financial Services Permission to carry on the management of a Fund.
+Authorised ISPV	Means an Insurance Special Purpose Vehicle which holds a Financial Services Permission to carry on either or both of the following Regulated Activities:
+(a)	Effect Contracts of Insurance; or
+(b)	Carry Out Contracts of Insurance as Principal.
+Authorised Person	Means a Person, other than a Recognised Body, who is authorised under the FSMR.
+Authority	Means the Securities and Commodities Authority, the Financial Services Regulatory Authority or the Dubai Financial Services Authority.
+Bai' Bithaman Ajil	Means a sale and purchase transaction for the financing of an asset on a deferred payment basis with a pre agreed payment period in relation to assets comprising land, building, machinery and equipment.
+Bank	Means an Authorised Person which holds a Financial Services Permission authorising it to carry on the Regulated Activity of Accepting Deposits.
+Behaviour	Means action or inaction.
+Benchmark	Has the meaning given in section 258 of FSMR.
+Beneficial Owner	In relation to AML means, in relation to a customer, a natural person who ultimately owns or controls the customer or a natural person on whose behalf a transaction is conducted or a business relationship is established and includes:
+(a)	in relation to a body corporate, a person referred to in Rule 8.3.3(2); 
+(b)	in relation to a Partnership, a person referred to in Rule 8.3.4(2);
+(c)	in relation to a trust or other similar Legal Arrangement, a person referred to in Rule 8.3.5 (2); and
+(d)	in relation to a foundation, a person referred to in Rule 8.3.6(2).
+Binding Murabaha for the Purchase Orderer	Means a Murabaha for the Purchase Orderer which is expressed to be binding on the purchaser.
+Board	Means in reference to a corporation, the board of Directors of the corporation.
+Body Corporate	Means any body corporate, including limited liability partnership and a body corporate constituted under the law of a country or territory outside of the ADGM.
+Branch	Means a place of business within the ADGM which:
+(a)	has no separate legal personality;
+(b)	forms a legally dependant part of an Authorised Person whose principal place of business and head office is in a jurisdiction other than the ADGM; and
+(c)	through which the Authorised Person carries on Regulated Activities in or from the ADGM.
+Business Day	Means any day which is not a Saturday, Sunday or an official public holiday in ADGM.
+Business Rules	Means the written rules of a Recognised Investment Exchange which govern the membership and the operations of a financial market operated by it.
+Buy back Programmes	In relation to MKT Chapter 6, means trading in own Shares in accordance with the Companies Regulations 2015, or other comparable legislation relevant to non-ADGM incorporated Listed Entities.
+C1	Means the Low Estimate scenario of Contingent Resources.
+C2	Means the Best Estimate scenario of Contingent Resources.
+C3	Means the High Estimate scenario of Contingent Resources.
+Capital	Means Tier 1 Capital, as defined in PRU.
+Capital Requirement	Means the minimum amount of Capital Resources an Authorised Person must hold, calculated in accordance with the applicable provisions of PRU Chapter 3.
+Capital Resources	Means the total capital resources of an Authorised Person calculated in accordance with PRU 3.15.
+Captive Cell	Means a:
+(a)		Class 1 Captive Cell;
+(b)		Class 2 Captive Cell;
+(c)		Class 3 Captive Cell; or
+(d)		Class 4 Captive Cell.
+Captive Insurance	Has the meaning given in CIB 1.2.1.
+Captive Insurance Business Rules (CIB)	The Captive Insurance Business Rules of the Rulebook.
+Captive Insurance Management	Has the meaning given in CIB 1.8. 
+Captive Insurance Manager	Has the meaning given in CIB 1.8.1.
+Captive Insurer	Means an Authorised Person permitted under the conditions of its Financial Services Permission to carry on Captive Insurance Business as a Class 1, Class 2, Class 3 or Class 4 Captive Insurer 
+Carrying Out Contracts of Insurance as Principal	Has the meaning given in paragraph 32 of Schedule 1 of FSMR.
+Category	Means a prudential grouping of Authorised Persons which determines the application of the Rules in PRU, as outlined in PRU 1.3.
+Category 3B	Has the meaning given in PRU 1.3.
+Category 3C	Has the meaning given in PRU 1.3.
+Category 4	Has the meaning given in PRU 1.3.
+Cedant	Means an ADGM Captive Insurer which arranges to transfer all or part of the risk undertaken under a Contract of Insurance to another Insurer, in order to reduce its exposure.
+Cell	Means a cell created by a Protected Cell Company or an Incorporated Cell Company for the purpose of segregating and protecting Cellular Assets in the manner provided by the Companies Regulations 2015.
+Cell Company	Means a Protected Cell Company or an Incorporated Cell Company.
+Cell Return	The return described in CIB 2.3.5(4).
+Cell Share Capital	Means capital comprising of the proceeds of the issue of Cell Shares.
+Cell Shares	Means shares created and issued by a Protected Cell Company or an Incorporated Cell Company in respect of one of its Cells.
+Cellular Asset	Means an asset of a Protected Cell Company or an Incorporated Cell Company attributable to a Cell of that Protected Cell Company or Incorporated Cell Company.
+Central Bank	Means the Central Bank of the U.A.E. or its equivalent in another country, territory or jurisdiction.
+Central Counterparty Services	Means the services provided by a Recognised Clearing House where it legally interposes itself between counterparties to contracts traded within a Recognised Investment Exchange or Remote Investment Exchange, becoming the buyer to every seller and the seller to every buyer.  
+Certificate	In relation to:
+(a)	MKT, means an instrument:
+(i)	which confers on the bidder contractual or property rights to or in respect of a Share, Debenture, Unit or Warrant held by a Person; and
+(ii)	the transfer of which may be effected by the holder without the consent of that other Person; but excludes rights under an Option; and
+(b)	FEES, has the meaning given in paragraph 92 of Schedule 1 of FSMR.
+Charge	Means any form of security, including a mortgage.  
+Chief Executive (CEO)	In relation to:
+(a)	the CMC, means:
+(i)	in relation to a Body Corporate whose principal place of business is within the ADGM, an employee of that body who, alone or jointly with one or more others, is responsible under the immediate authority of the Directors, for the conduct of the whole of the business of that body; or
+(ii)	in relation to a Body Corporate whose principal place of business is outside the ADGM, means the person who, alone or jointly with one or more other Persons, is responsible for the conduct of its business within the ADGM; 
+(b)	elsewhere, means the individual appointed to the office of Chief Executive of the Regulator by the Board of the ADGM.
+CIMVAL Code	Means the Canadian Code for the Valuation of Mineral Properties (the “CIMVAL Code”), 2019, adopted by the Canadian Institute of Mining, Metallurgy & Petroleum (the “CIM”) Council, and available as specified at: www.mrmr.com.org, or as amended or updated.
+Class 1 Captive Cell	Means a Cell to which are attributable assets and liabilities arising out of Insurance Business only in respect of risks related to arising out of the business or operations of members of a Group which together hold a majority of Cell Shares, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+Class 2 Captive Cell	Means a Cell in which no more than 20% if its Gross Written Premium is attributable to third party risks arising from business or operations that are closely linked to the business or operations of members of a Group which together hold a majority of the Cell Shares, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+Class 3 Captive Cell	Means a Cell established by a Protected Cell Company or an Incorporated Cell Company:
+(a)	comprising attributable assets and liabilities arising out of Insurance Business only in respect to risks related to or arising out of the business or operations of Persons who engage in similar, related or common:
+(1)	businesses; 
+(2)	activities;
+(3)	trade;
+(4)	services; or
+(5)	operations;
+including for this purpose only contracts of reinsurance in respect to such risks insured by the Cedant; and
+(b)	owned by such Persons or by a Body Corporate of which all such Persons are members.
+	Class 4 Captive Cell	Means a Cell which the Regulator decides does not meet the Requirements for a Class 1 Captive Cell, a Class 2 Captive Cell or a Class 3 Captive Cell but which should be classified as a Class 4 Captive Cell.
+Class 1 Captive Insurer	Means an ADGM Incorporated Insurer permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of the Group, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+Class 2 Captive Insurer	Means an ADGM Incorporated Insurer that is permitted under the conditions of its Financial Services Permission to obtain no more than 20% of its Gross Written Premium in any year from third party risks arising from business or operations that are Closely Linked to the business or operations of the Group to which the Insurer belongs, including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant.
+Class 3 Captive Insurer	Means an ADGM Incorporated Insurer which is:
+(a)	permitted under the conditions of its Financial Services Permission to effect or carry out Contracts of Insurance only for risks related to or arising out of the business or operations of persons who engage in similar, related or common:
+(1)	businesses; 
+(2)	activities;
+(3)	trade;
+(4)	services; or
+(5)	operations;
+including for this purpose only contracts of reinsurance in respect of such risks insured by the Cedant, and
+(b)	owned by such Persons or by a Body Corporate of which all such Persons are members.
+Class 4 Captive Insurer	Means an ADGM Incorporated Insurer that does not meet the requirements for a Class 1 Captive Insurer, Class 2 Captive Insurer or Class 3 Captive Insurer. 
+Class of Business 	A classification of insurance contracts having similar characteristics, specified Part 4 of Schedule 1 of FSMR.
+Clearing	Means, in relation to a Recognised Clearing House or Remote Clearing House, the process of establishing positions, including the calculation of net obligations and ensuring that Securities, cash, or both, are available to secure the exposures arising from those positions.
+Clearing Member	Means, in relation to a Recognised Clearing House or Remote Clearing House, an undertaking which participates in a Recognised Clearing House or Remote Clearing House and which is responsible for discharging the financial obligations arising from that participation.
+Clearing Member Client Contract	Means a contract between a Recognised Clearing House or Remote Clearing House, and one or more of the parties mentioned in section 151‎(6) of FSMR which is recorded in the accounts of the Recognised Clearing House or Remote Clearing House as a position held for the account of a Client, an Indirect Client or a group of Clients or Indirect Clients.
+Clearing Rules	Means the written rules governing the provision of Clearing and Clearing Services by a Recognised Clearing House.
+Clearing Services	Means:
+(a)	the services provided by a Recognised Body or Remote Body in connection with contracts between each of the parties or the Recognised Body or Remote Body (in place of, or as an alternative to, a contract directly between the parties);
+(b)	the services provided by a Recognised Body or Remote Body to another Recognised Body or Remote Body in connection with contracts between them; or
+(c)	the services provided by a Recognised Investment Exchange to a Recognised Clearing House or to another Recognised Investment Exchange in connection with contracts between them, 
+for the purpose of enabling the rights and liabilities of that Member, Recognised Investment Exchange, Remote Body or other Recognised Clearing House under a transaction to be settled.  
+
+Client	Means a Retail Client or Professional Client as defined in COBS 2.
+Client Account	In relation to:
+(a)	Client Money and Relevant Money, means an account as described in COBS 14.6.1; and
+(b)	a Safe Custody Asset, means an account specified in COBS 15.4.2.
+Client Agreement	Means an agreement between an Authorised Person and a Client which is made or entered into in accordance with COBS 3.3.
+Client Assets	Means Client Money and Client Investments.
+Client Equity Balance 	Means the amount which a firm would be liable (ignoring any non cash collateral held) to pay to a Client (or the Client to the firm) in respect of its margined transactions if each of its open positions was liquidated at the closing or settlement prices published by the relevant exchange or other appropriate pricing source and the Client’s account closed. This refers to cash values and does not include non cash collateral or other designated investments held in respect of a margined transaction.
+
+Client Investments 	Means all Investments held or controlled on behalf of Client in the course of, or in connection with, the carrying on of the Investment Business.
+Client Money	Means money of any currency which an Authorised Person holds on behalf of a Client (including any receivables of the Authorised Person in respect of bank accounts or clearing or brokerage accounts) or which an Authorised Person treats as Client Money, subject to the exclusions in COBS 14.3.1. 
+Client Money Auditor's Report 	Means a report referred to in GEN 6.6.1(c) and containing the content specified in GEN 6.6.6.
+Client Money Distribution Rules	Has the meaning given in COBS 14.13.
+Client Money Rules	Means the Rules in COBS 14.2 relating to the holding of Client Money. 
+Climate Transition Fund Attestation Requirement	Has the meaning given to it in FUNDS 20.3.5.
+Climate Transition Fund Investment Requirement	Has the meaning given to it in FUNDS 20.3.2.
+Climate Transition Portfolio Attestation Requirement	Has the meaning given to it in COBS 3.8.14.
+Climate Transition Portfolio Investment Requirement	Has the meaning given to it in COBS 3.8.11.
+Close Links or Closely Linked	A Person ("Person A") has Close Links or is Closely Linked with another Person ("Person B") if:
+(a)	Person B:
+(i)	is a Holding Company of Person A;
+(ii)	is a Subsidiary of Person A;
+(iii)	is a Holding Company of the Subsidiary of Person A; 
+(iv)	is a Subsidiary of a Holding Company of Person A; or
+(v)	owns and controls 20% or more of the voting rights or shares of Person A; or
+(b)	Person A owns and controls 20% or more of the voting rights or shares of Person B.
+Close Period	Means, in relation to MKT 9.4.2:
+(a)	the period from the relevant financial year end up to and including the time of the announcement or publication of the annual financial reports; and
+(b)	if the Authorised Person reports:
+(i)	on a semi annual basis, the period from the end of the relevant semi annual financial period up to and including the time of the announcement or publication; or
+(ii)	on a quarterly basis, the period from the end of the relevant quarter up to and including the time of the announcement.
+Close Relative	Means in relation to a person:
+(a)	his spouse;
+(b)	his children and step children, his parents and step parents, his brothers and sisters and his step brothers and step sisters; and
+(c)	the spouse of any person within paragraph (b) of this definition.  
+CMC	Means the Code of Market Conduct.
+COBS	Means the Conduct of Business module of the Rulebook.
+Collateral	Means a Client Investment which has been paid for in full by a Client and which is held or controlled by the Authorised Person under the terms of a deposit, pledge, charge or other security arrangement.
+Collective Investment Fund	Means an arrangement falling within section 106 of FSMR and which is not excluded under FUNDS Chapter 2.
+Commission	Means any form of commission, including a benefit of any kind, offered or given in connection with Investment Business.
+Committed Capital	Means the total value of all capital committed by subscribers for Units in a Fund, consisting of both drawn contributions and undrawn capital contributions which subscribers are contractually obligated to make upon demand by the Fund Manager.
+Commodity Derivative	Means a Derivative in respect of a commodity.
+Companies Regulations	Means the ADGM Companies Regulations 2020.
+Company	Includes:
+(a)	any Body Corporate (wherever incorporated); and
+(b)	any unincorporated body constituted under the law of a country, territory or jurisdiction outside the ADGM.
+Company Service Provider	Means a Person that, carries out the following services for a Customer:
+(a)	acting as a formation agent of Legal Persons;
+(b)	acting as (or arranging for another Person to act as) a director or secretary of a company, a partner of a partnership or a similar position in relation to other Legal Persons or Legal Arrangements;
+(c)	providing a registered office, business address or accommodation, correspondence or administrative address for a company, a partnership or any other Legal Person or Legal Arrangement; 
+(d)	acting as (or arranging for another Person to act as) a trustee of an express trust or performing the equivalent function for another form of Legal Arrangement; or 
+(e)	acting as (or arranging for another Person to act as) a nominee shareholder for another Person.
+Competent Person	Means:
+(a) 	in relation to a Mining Reporting Entity, the meaning of the term, or that given to a Qualified Person as applicable, in a Mining Reporting Standard; and
+(b) 	in relation to a Petroleum Reporting Entity, a person who:
+(i) 	has obtained a bachelors or advanced degree in Petroleum engineering, geology, geophysics or other discipline of engineering or physical science;
+(ii) 	has a minimum of five years practical experience in Petroleum engineering, Petroleum production geology or Petroleum geology, with at least three years of such experience being in the evaluation and estimation of Petroleum Reserves, Contingent Resources and Prospective Resources; and
+(iii) 	is a member of good standing of a professional organisation of engineers, geologists or other geoscientists whose professional practice includes Petroleum Reserves, Contingent Resources and Prospective Resources evaluations and/or audits. The professional organisation must:
+(A) 	require members to comply with the professional standards of competence and ethics prescribed by the organisation that are relevant to the estimation, evaluation, review or audit of Petroleum Reserves, Contingent Resources and Prospective Resources data; and 
+(B) 	have disciplinary powers, including the power to suspend or expel a member.
+Complaint	Means any oral or written expression of dissatisfaction from a Client to an Authorised Person or Recognised Body in connection with the provision of, or failure to provide, a Regulated Activity to the Client.
+Compliance Officer	Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.6. 
+Conducting Islamic Financial Business	Means in relation to:
+(a) 	an Authorised Person, carrying on one or more Regulated Activities or specified category of Regulated Activity in accordance with Shari'a; and
+(b) 	a Recognised Body, carrying on any part of its business in accordance with Shari’a.
+Connected	Means in relation to GEN and in relation to a Person ("A"), a Person which has or has at any relevant time had the following relationship to A:
+(a)	a member of A's Group; 
+(b)	a Controller of A; 
+(c)	a Member of a Partnership of which A is a Member; 
+(d)	an Employee or former Employee of A; 
+(e)	if A is a company:
+(i)	an officer or manager of A or of a parent of A;
+(ii)	an agent of A or of a parent of A;
+(f)	if A is a Partnership is or has been a member, manager or agent of A; or
+(g)	if A is an unincorporated association of persons which is not a Partnership, is or has been an officer, manager or agent of A.
+Connected Person	Has the meaning given in MKT in accordance with section 76(2)(a) of FSMR.
+Constitution	Means in relation to a Fund:
+(a)	which is in the form of a Body Corporate, the instrument of incorporation;
+(b)	which is in the form of an Investment Trust, the trust deed;
+(c)	which is in the form of a Partnership, the partnership deed; or
+(d)	adopting a form other than one specified in  paragraphs (a) to (c) of this definition, an instrument creating the legal form of the Fund to which the Fund Manager is a party setting out provisions relating to any aspect of the operation or management of the Fund.
+Consumed in Operations (CiO)	Means that portion of produced Petroleum consumed as fuel in production or lease plant operations before delivery to the market at the Reference Point.
+Contingent Liability Investments	Means a Derivative under the terms of which the Client will or may be liable to make further payments (other than Charges, and whether or not secured by margin) at closing or expiry of the Derivative or upon the earlier closing out of the Client’s position.
+Contingent Resources	Means those quantities of Petroleum estimated, as of a given date, to be potentially recoverable from known accumulations by application of development Petroleum Projects, but which are not currently considered to be commercially recoverable due to one or more contingencies.
+Contract of Insurance 	Has the meaning given in Part 4 of Schedule 1 of FSMR.
+Contravention	Means a contravention of any Regulations or Rules made by the Board and the Regulator, as the case may be.   
+Controlled Function	Means the Senior Executive Officer, Licensed Director, Licensed Partner, Finance Officer, Compliance Officer, Senior Manager, Money Laundering Reporting Officer and Responsible Officer functions described in GEN 5.3. 
+Controller	In relation to:
+(a)	GEN, MIR, PRU, COBS and FEES, means in relation to an Authorised Person or Recognised Body, a Person who, either alone or with any Associate fulfils the criteria specified in GEN 8.8.2; 
+(b)	MKT, means a Person who meets the criteria specified in MKT 3.6.2 or MKT 7.3.2(2).
+Convertible	Means, in relation to a Financial Instrument, the contractual feature that gives an investor the right to convert into a Security at an agreed price or on an agreed basis.
+Corporate Finance Business	Means, in relation to COBS, carrying on of the following Regulated Activities: 
+(a)	Dealing in Investments as Principal or Agent;
+(b)	Arranging Deals in Investments;
+(c)	Arranging and Providing Credit
+(d)	Advising on Investments or Credit
+(e)	Managing a Collective Investment Fund; or
+(f)	Acting as the Trustee of an Investment Trust;
+in relation to Specified Investments listed in Schedule 1 of FSMR except for the following:
+(g)	Deposits (paragraph 85); or
+(h)	Contracts of Insurance (paragraph 86).
+Corporate Governance	In relation to:
+(a)	a Reporting Entity, means the:
+(i)	nature, constitution or functions of the organs of the Reporting Entity;
+(ii)	manner in which organs of the Reporting Entity conduct themselves;
+(iii)	requirements imposed on organs of the Reporting Entity;
+(iv)	relationship between the different organs of the Reporting Entity; and
+(v)	relationship between the organs of the Reporting Entity and the members of the Reporting Entity or holders of the Issuer's Securities; and
+(b)	all other cases, means the principles prescribed in MKT 9.2.3 to 9.2.9.
+Corporate Structuring and Financing	Means providing advice or arranging credit relating to an acquisition, disposal, structuring, restructuring, financing or refinancing of a corporation or other legal entity, but excludes any advice on financial products or arranging of credit or deals in Investments given to an individual for the purposes of, or in connection with, the management of that individual's investments. 
+
+Correspondent Account	Means an account opened on behalf of a Correspondent Banking Client to receive deposits from, to make payments on behalf of or to otherwise handle financial transactions for or on behalf of the Correspondent Banking Client. 
+Correspondent Bank	Means a bank in a jurisdiction other than the ADGM where an Authorised Person opens a Correspondent Account.
+Correspondent Banking Client	Means a Client of an Authorised Person which uses the firm's correspondent banking services account to clear transactions for its own customer base.
+Counterparty	Means any Person with or for whom an Authorised Person carries on, or intends to carry on, any regulated business or associated business.  In this context, a Counterparty includes an individual, unincorporated association, Company, government, local authority or other public body.
+Court	Means the ADGM Court.
+CRCOM	Means a Credit Risk Capital Requirement method in PRU 4.8.
+Credit	Includes any cash loan or other financial accommodation.
+Credit Facility	Means any facility which includes any arrangement or agreement which extends monetary credit whether funded or unfunded to a Person including but not limited to any loan or syndicated loan, mortgage, overdraft, financial lease, letter of credit, financial guarantee, trade finance, transaction finance, project finance or asset finance.
+Credit Institution	Means:
+(a)	an undertaking whose business is to receive Deposits or other repayable funds from the public and to grant Credits for its own account; or
+(b)	an Electronic Money Institution.  
+Credit Rating	Has the meaning given in COBS Rule 9.1.2(b).
+Credit Rating Agency	Means a Person carrying on in or from the ADGM the Regulated Activity of Operating a Credit Rating Agency for which it has an authorisation under its Financial Services Permission.
+Credit Risk	Means, in relation to an Authorised Person, the risk of loss if another party fails to perform on its financial obligation to the Authorised Person.
+Credit Value Date	Means the date upon which Money placed in a Payment Account may be accessed by the holder of the Payment Account following a Payment Transaction.
+
+CSD Link	Means a link between two Central Securities Depositories, as described in COBS 10.4.1.
+Customer	In relation to:
+(a)	MKT, means:
+(i)	a Person where, in relation to a business relationship between a Person and a Relevant Person, there is a firm intention or commitment by each party to enter into a contractual relationship or where there is a firm commitment by each party to enter into a Transaction, in connection with a product or service provided by the Relevant Person;
+(ii)	a Client of an Authorised Person;
+(iii)	a Member or prospective Member of, or an applicant for admission of Financial Instruments to trading on, a Recognised Investment Exchange or Recognised Clearing House; or
+(iv)	a Person with whom a Relevant Person is otherwise establishing or has established a business relationship; and
+(b)	otherwise, means a person who is using, or who is or may be contemplating using, any of the services provided by an Authorised Person or Recognised Body.  
+Customer Due Diligence (CDD)	Has the meaning given in AML 8.3.
+Dealing in Investments as Agent	Means the Regulated Activity specified in paragraph 12 of Schedule 1 of FSMR.  
+Dealing in Investments as Principal	Has the meaning given in paragraph 4 of Schedule 1 of FSMR.
+Dealing in Securities	Means, in relation to MKT 9.4.2:
+(a)	any acquisition or disposal of, or agreement to acquire or dispose of, Securities of the Authorised Person;
+(b)	entering into a contract (such as a contract for difference) the purpose of which is to secure a profit or avoid a loss by reference to fluctuations in the price of the Securities of the Authorised Person;
+(c)	the grant, acceptance, acquisition, disposal, exercise or discharge of any option to acquire or dispose of any Securities of the Authorised Person;
+(d)	entering into, terminating, assigning or novating any stock lending agreement in respect of the Securities of the Authorised Person;
+(e)	using as security, or otherwise granting a Charge, lien or other encumbrance over the Securities of the Authorised Person; or
+(f)	any other transaction including a transfer for no consideration, or the exercise of any power or discretion effecting a change of ownership of a beneficial interest in, the Securities of the Authorised Person.
+Debenture	Means an instrument creating or acknowledging indebtedness, whether secured or not, but excludes:
+(a)	an instrument creating or acknowledging indebtedness for, or for money borrowed to defray, the consideration payable under a contract for the supply of goods or services;
+(b)	a cheque or other bill of exchange, a banker's draft or a letter of credit (but not a bill of exchange accepted by a banker);
+(c)	a banknote, a statement showing a balance on a bank account, or a lease or other disposition of property; and
+(d)	a Contract of Insurance.
+Debenture Warrants	Means any Warrants which relate to Debentures in the Authorised Person concerned issued by the Authorised Person.
+Debit Value Date	Means the date upon which Money is debited from the Payment Account of the Payer.
+Debt Financial Instrument	Means bonds or other forms of transferable securitised debts, with the exception of Securities which are equivalent to Shares in companies or which, if converted or if the rights conferred by them are exercised, give rise to a right to acquire Shares or Securities equivalent to Shares.
+Deemed Trust	Has the meaning given in COBS 14.12.1.
+Default Rules	Has the meaning given in section 258 of FSMR.
+Delegation Agreement	Means an agreement in writing entered into by a Fund Manager or Trustee with a Service Provider in relation to delegated activities, which fulfils the criteria in FUNDS App 1.
+Delivery Versus Payment Transaction	A transaction in which the transfer of Investments and the payment of Money between the buyer and seller are intended to occur around the same time.
+
+Deposit	In relation to:
+(a)	FEES, has the meaning given in paragraph 85 of Schedule 1 of FSMR; and 
+(b)	FUNDS and COBS,  means a sum of money paid on terms:
+(i)	under which it will be repaid, with or without interest or a premium, and either on demand or at a time or in circumstances agreed by or on behalf of the Person making the payment and the Person receiving it; and
+(ii)	which is not referable to the provision of property (other than currency) or services or the giving of security.
+(iii)	In (i) money is paid on terms which may be made by reference to the provision of property or services or the giving of security if:
+(A)	it is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, and is repayable only in the event that the property or services are not in fact sold, hired or otherwise provided;
+(B)	it is paid by way of security for the performance of a contract or by way of security in respect of loss which may result from the non performance of a contract; or
+(C)	without prejudice to (ii), it is paid by way of security for the delivery up of property, whether in a particular state of repair or otherwise.
+Derivative or Derivative Contract	Has the meaning given in section 258 of FSMR.
+Designated Non-Financial Business or Profession (DNFBP)	Means the following class of Persons who carries out the following businesses in ADGM:
+(a)	a real estate agency which carries out transactions with other persons that involve the acquiring or disposing of Real Property; 
+(b)	a dealer in precious metals or precious stones; 
+(c)	a dealer in any saleable item of a price equal to or greater than USD15,000;
+(d)	an accounting firm, audit firm, insolvency firm or taxation consulting firm;
+(e)	a law firm, notary firm or other independent legal business; or 
+(f)	a Company Service Provider.
+Designated Non-Member	Has the meaning given in section 258 of FSMR.
+Deterministic Method	means an assessment method based on discrete estimates(s) made based on available geoscience, engineering, and economic data and corresponds to a given level of certainty, or as otherwise set out in the Petroleum Reporting Standard.
+Direct Debit	Means a Payment Service for debiting the Payer’s Payment Account where a Payment Transaction is initiated by the payee on the basis of consent given by the Payer to the Payee, to the Payee’s Payment Service Provider or to the Payer’s own Payment Service Provider.
+
+Direct Electronic Access 	Means any arrangement, such as the use of the Member's trading code, through which a Member or the Clients of that Member are able to transmit orders relating to Financial Instruments directly to the facility provided by the Recognised Body.
+Direct Long-Term Insurance	Long-Term Insurance that is not reinsurance.
+Direction Notice	Means a written notice issued by the Regulator in certain circumstances directing an Authorised Person to disclose specified information to the market and to take any other steps as the Regulator considers appropriate.
+Director	In relation to:
+(a)	GEN, means:
+(i)	in relation to an undertaking established under the Companies Regulations 2015, a Person who appears on the register maintained by the ADGM Registration Bureau pursuant to section 153 of those Regulations; and
+(ii)	in relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the ADGM register of Directors or performs the function of acting in the capacity of a Director, by whatever name called; 
+(b)	MKT, includes, in relation to a Body Corporate:
+(i)	a person occupying in relation to it the position of a director (by whatever name called); and
+(ii)	a person in accordance with whose directions or instructions (not being advice given in a professional capacity) the directors of that body are accustomed to act; and
+(c)	AML, means:
+(i)	In relation to an undertaking established under the ADGM Companies Regulations 2015, a Person who appears on the Register of Directors maintained by the ADGM Registrar of Companies; and
+(ii)	In relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the Register of Directors or performs the function of acting in the capacity of a Director, by whatever name called;
+(iii)	who is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or
+(iv)	whose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.
+Disclosure	Means the disclosures required under sections 75, 76 and 77 of FSMR.
+Discretionary Portfolio Management Agreement	Means an agreement under which an Authorised Person agrees with a Client to manage an investment portfolio for that particular Client in accordance with pre agreed investment parameters in that agreement and where:
+(a)	the Client's approval of any specific Transaction is not required before undertaking the Transaction; and
+(b)	the assets of the Client are discretely held for that Client and no pooling of those assets occurs with the assets of any other Person, except purely for transactional purposes.
+Document 	Means any record of information recorded physically, electronically or in any other form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information in legible form, or in a form from which it can readily be produced in visible and legible form.
+Domestic Feeder Fund	Means a Domestic Fund that is a Feeder Fund.
+Domestic Firm	Means an Authorised Person which:
+(a)	has its registered and head office in the ADGM; or
+(b)	if it is a Subsidiary of an Undertaking whose principal place of business and head office is in a jurisdiction other than the ADGM, has its registered office in the ADGM.
+Domestic Fund	Means a Fund established or domiciled in the ADGM.
+Domestic Master Fund	Means a Domestic Fund that is a Master Fund.
+Effecting Contracts of Insurance	Has the meaning given in paragraph 31 of Schedule 1 of FSMR.
+eKYC	Means verification of customer identity by way of non-face-to-face, electronic means only.
+eKYC System	Means the technology and associated processes used to undertake eKYC.
+Electronic Money Institution	Means an undertaking or any other legal person that issues payment in the form of Electronic Money.  
+Electronic Remote Payment Transaction	Means a Payment Transaction initiated by a Payer to pay for goods or services using electronic means without the simultaneous physical presence of the Payer and the Payee to the Payment Transaction.
+
+Eligible Bank	Means:
+(a)	a Bank;
+(b)	a legal entity that is authorised to accept deposits and supervised by the Central Bank; or
+(c)	a legal entity that is authorised to accept deposits and supervised by a Non-ADGM Financial Services Regulator and rated at least A- by Standard & Poor’s, or the equivalent by another rating agency as given in PRU 4.11.1.
+Eligible Climate Transition Portfolio Asset	Means an asset that meets the criteria in COBS 3.8.12.
+Eligible Climate Transition Fund Property	Means an asset or assets that meet the criteria in FUNDS 20.3.3.
+Eligible Custodian	Has the meaning given in FSMR.	
+Eligible Green Fund Property	Means an asset or assets that meet the criteria in FUNDS 20.2.3.
+Eligible Green Portfolio Asset	Means an asset that meets the criteria in COBS 3.8.4.
+E-money	Has the meaning given in section 258 of FSMR.
+E-Money or Electronic Money	Has the meaning given in FSMR.
+Employee	Means an individual:
+(a)	who is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or
+(b)	whose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.
+Employee Incentive Scheme	Means a scheme:
+(a)	for the issue or acquisition of Equity Securities in a Listed Entity to be held by, or for the benefit of, participating employees or non-executive directors of the Listed Entity or a Related Entity or their Associates; or
+(b)	which, in the opinion of the Regulator, is an Employee Incentive Scheme.
+Enhanced Customer Due Diligence	Means undertaking Customer Due Diligence and the enhanced measures under AML 8.4.
+Environmental Instrument	Has the meaning given in section 258 of FSMR.
+EPRS	Means Electronic Prudential Reporting System.
+Equity Securities	Means Shares, Warrants over Shares, Certificates over Shares, Units in a Fund, Convertible Securities, and any Security that the Regulator decides to classify as an Equity Security.
+ETF	Means exchange traded fund.
+EU Climate Transition Benchmark	Has the meaning given to it in Regulation (EU) 2016/1011 as may be amended from time to time.
+EU Green Bond Standard	Means the proposed Regulation of the European Parliament and of the council on European Green Bond.
+EU Paris Aligned Benchmark	Hs the meaning given to it in Regulation (EU) 2016/1011 as may be amended from time to time.
+Evaluation Date	Means the date at which estimates of Petroleum Resources, including estimates of Petroleum Reserves, Contingent Resources, or Prospective Resources are reported by a Competent Person.
+Excluded Offers	Has the meaning given in FUNDS Chapter 5.
+Execute	Means, in relation to a transaction, to carry into effect or perform the transaction, whether as principal or as agent, including instructing another Person to execute the transaction.
+Execution Only Transaction 	Means a Transaction executed by an Authorised Person upon the specific instructions of a Client where the Authorised Person does not give advice of the kind prescribed under article 28 of Chapter 3 of Schedule 1 of FSMR in relation to the Transaction and where, in the case only of Units, the Authorised Person has not Offered those particular Units to that Person.
+Exempt Communications	Means communications referred to in MKT 4.2.1.
+Exempt Fund	Has the meaning given in FUNDS 3.3.3.
+Exempt Offer	Means Offers prescribed in MKT 4.3.1.
+Exempt Offeror	Means a recognised government or other person included in the list of Exempt Offerors maintained by the Regulator in accordance with the Rules and in accordance with section ‎60‎(2) of FSMR.  
+Exempt Person	Has the meaning given in section 258 of FSMR.
+Exempt Securities	Means Securities prescribed in MKT 4.4.
+Expenditure Based Capital Minimum	Means a capital requirement calculated in accordance with PRU 3.7.
+Expert	Has the meaning given in MKT 4.10.2.
+Exploration	Means the process by which geological information is collected and analysed to identify Mineralisation, as well as determining the economic feasibility of their Extraction (and includes geophysical surveys).
+Exploration Results	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Exploration Target	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Extraction	Means the crushing and separation of Mineralisation by a variety of techniques, and includes developing the infrastructure to extract Minerals or Petroleum (as the case may be).
+Failed or Failure	Means in relation to COBS Chapter 14, the appointment of a liquidator, receiver or administrator or trustee in bankruptcy or any equivalent procedure. 
+Family Takaful	Has the meaning given in IFR 2.4.1(xv).
+FATF Recommendations	Means the publication entitled the "International Standards on Combatting Money Laundering and the Financing of Terrorism and Proliferation" as published and amended from time to time by the Financial Action Task Force (FATF). 
+Federal AML Legislation 	Means the legislation described in Section 15A of FSMR
+Federal Decree by law No. 20 of 2018	Means U.A.E Federal Decree by Law No. 20 of 2018 On Anti Money Laundering, Combating the Financing of Terrorism and Financing of Illegal Organisations
+Federal Law No. 1 of 2004	Means U.A.E Federal Law No. 1 of 2004 regarding Combatting Terrorism Offences.
+Federal Law No. 4 of 2002	Means U.A.E Federal Law No. 4 of 2002 regarding the Criminalisation of Money Laundering.
+Federal Law No. 7 of 2014	Means Federal Law No. 7 of 2014 regarding Combatting Terrorist Crimes.
+Fee	Means any payment offered or made by a Client to an Authorised Person in connection with Investment Business or with any other business of the Authorised Person, including (where applicable) any Mark up or Mark down.
+Feeder Fund	Means a Fund which is dedicated to investing all, or substantially all, of its assets in the Units or Debentures of a single other Fund (Master Fund).
+FEES	Means the Fees module of the Rulebook. 
+Fiat Currency	Has the meaning given in section 258 of FSMR.    
+Finance Officer	Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.5. 
+Financial Crime	Includes:
+(a)	fraud or dishonesty;
+(b)	misconduct in, or misuse of information relating to, a financial market;
+(c)	handling the proceeds of crime; or
+(d)	the financing of terrorism.
+Financial Group	Means a group of entities which includes an Authorised Person and:
+(a)	any Parent of an Authorised Person incorporated in the Abu Dhabi Global Market;
+(b)	any subsidiaries (whether direct or indirect) of the Parent or Parents in (a) above or of the Authorised Person which are Financial Institutions;
+(c)	any Financial Institution in which the Parent or Parents in (a) above, the subsidiaries in (b) above or the Authorised Person (whether direct or indirect) hold 20% or more of the voting rights or capital; and
+(d)	any entity which the Regulator directs the Authorised Person to include in accordance with PRU 8.1.2 or PIN 8.1.2.
+Financial Group Capital Adequacy Report	Means the Report referred to in PIN 6.6.1.
+Financial Group Capital Requirement	Means the Capital Requirement of a Financial Group calculated in accordance with PRU 8.3.3 or PIN 8.3.4.
+Financial Group Capital Resources	Means the Capital Resources of a Financial Group calculated in accordance with PRU 8.3.4 or PIN 8.3.3.
+Financial Institution	Means:
+(a)	(i)	an Authorised Person; or
+(ii) 	any Person that carries out as its principal business an activity which would be a Regulated Activity if carried out in ADGM; and
+(b)	that is not one of the following:
+(i) 	a governmental organisation, including the Central Bank of the United Arab Emirates or its equivalent in any State; 
+(ii) 	a multilateral development bank. 
+Financial Instrument	Has the meaning given in section 258 of FSMR.
+Financial Intermediary	Means, for the purposes of MKT 4.6.5, an Authorised Person or a Person with a Financial Services Permission and supervised by the Regulator.
+Financial Services Permission	Means a permission given, or having effect as if so given, by the Regulator in accordance with ‎Part 4 of FSMR.
+Financial Services Regulator 	Means a regulator of financial services activities established in a jurisdiction other than the ADGM 
+Financial Statement Auditor's Report	Means a report referred to in GEN 6.6.1(a).
+FIU	Means the Financial Intelligence Unit of the U.A.E.
+Foreign Fund	Means a Fund that is not a Domestic Fund.
+Foreign Fund Manager	Means a Fund Manager that is neither established in, nor operates from a place of business in, the ADGM.
+Foreign Provision	Means, in relation to GEN 4.6.1(2)(c), any laws, regulations or administrative provisions of a country, territory or jurisdiction other than the ADGM.  
+Framework Contract	Means a contract for the performance of Payment Services that governs the future execution of individual and successive Payment Transactions and which may contain the obligation and conditions for setting up a Payment Account.
+
+FSMR	Means the Financial Services and Markets Regulations 2015.
+Fund	Means a Collective Investment Fund.
+Fund Administrator	Means an Authorised Person which is authorised under its Financial Services Permission to Act as the Administrator of a Collective Investment Fund or a Person who is authorised or licensed by a Non ADGM Financial Services Regulator to provide such administration.
+Fund Auditor's Report	Means a report referred to in GEN 6.6.1(e) and containing the content specified in GEN 6.6.8.
+Fund Manager	Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund.
+Fund Property	Means the property held for or within a Fund.
+	Fund Return 	The return described in CIB 2.3.5(5). 
+FUNDS	Means the Funds Rulebook. 
+Future	Has the meaning given in paragraph 95 of Schedule 1 of FSMR.
+GEN	Means the General module of the Rulebook. 
+General Insurance	Means insurance other than Long Term Insurance.
+General Insurance Business	Means the business of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance, where the Contracts of Insurance are contracts of General Insurance.
+General Insurance Liabilities	Means liabilities of an Insurer arising under or associated with contracts of General Insurance entered into by it, as insurer or Cedant, including liabilities in respect of claims (whether or not incurred), acquisition costs and claims settlement costs.
+General Partner	Means the general partner of a Partnership (including an Investment Partnership).
+General Prohibition	Has the meaning given in section 258 of FSMR.
+General Takaful	Has the meaning given in IFR 2.4.1(xvi).
+GLO	Means the Glossary module of the Rulebook.
+Global Return	Means the return described in CIB 2.3.5(3).
+Governing Body	In relation to:
+(a)	FUNDS, and in relation to a Fund, means a Person or a body of Persons who together form the directing mind of the Fund including but not limited to:
+(i)	its Fund Manager, a member of its main or supervisory board, a General Partner; or
+(ii)	any other Person or body of Persons exercising equivalent powers and functions in relation to directing the operation of the Fund; and
+(b)	except in the Fund Rules, means the board of directors, partners, committee of management or other governing body of an Undertaking.
+Governing Contract	Means a contract between a Customer and a Third Party Provider for the provision of Third Party Services.
+GPM	Means the Guidance and Policies Manual, once published by the Regulator. 
+Green Fund Attestation Requirement 	Has the meaning given to it in FUNDS 20.2.5.
+Green Fund Investment Requirement 	Has the meaning given to it in FUNDS 20.2.2.
+Green Portfolio Attestation Requirement	Has the meaning given to it in COBS 3.8.6.
+Green Portfolio Investment Requirement	Has the meaning given to it in COBS 3.8.3.
+Greenshoe Option	In relation to MKT Chapter 6, means an option granted by the Offeror in favour of the Stabilisation Manager and/or his Stabilisation Agents involved in the Offer for the purpose of covering over-allotments, under the terms of which such Stabilisation Manager or his Stabilisation Agents may purchase up to a certain amount of Relevant Securities at the Offer price during the Stabilisation Window.
+Gross Written Premium	Means:
+(a)	in relation to a Contract of Insurance, the amount of premium payable by the insured in respect of that contract, excluding any excise taxes levied on premiums and receivable by the Insurer but without any deduction for commissions or other acquisition expenses; and
+(b)	in relation to an Insurer during a period:
+(1)	in respect of General Insurance, the aggregate amount of Gross Written Premium in respect of insurance and reinsurance contracts entered into by the Insurer as insurer during that period, together with any adjustments arising in that period in respect of contracts effected in previous periods; and
+(2)	in respect of Long Term Insurance, the aggregate amount of Gross Written Premium becoming due for payment in that period.
+Group	Has the meaning given in section 258 of FSMR. 
+Group Risk	Means the risk of loss to the Authorised Person as a result of its membership of, or links within a Group.
+Guidance	Has the meaning given in section 15(2) of FSMR.
+Hamish Jiddiyyah	Means a Shari'a compliant collateral provided against a promise to purchase.
+Historical Estimate	Means an estimate of quantity and grade of authorisation that is based on information and supporting documentation that was prepared prior to the introduction of the first edition of the JORC Code in 1989, the SAMREC Code in 2000 and NI 43-101 in 2001, and which a Mining Reporting Entity has not verified as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.
+Holding	In relation to GEN 8.8, means, in respect of a Person, shares, voting rights or a right to acquire shares or voting rights in an Authorised Person or a Holding Company of that firm held by that Person either alone or with any Associate, and 'Holds', 'Hold', 'Held' and 'Holder' shall be interpreted accordingly.
+Holding Company	Has the meaning given in section 1015 of the Companies Regulations 2015.
+Home Jurisdiction	Means, in relation to a Fund, the Jurisdiction in which the Fund is established or domiciled.
+Home Regulator	Means:
+
+(a)	in relation to a Passported Fund, the Authority that is responsible for regulating the Passported Fund in the Home Jurisdiction where the Fund is established or domiciled; and 
+(b)	in relation to the Fund Manager of a Passported Fund, the Authority that is responsible for regulating the Fund Manager in the Home Jurisdiction where the Passported Fund is established or domiciled.
+Host Jurisdiction	Means, in relation to a Passported Fund, a Jurisdiction into which the Passported Fund may be Promoted under the Fund Passporting Rules.
+Host Regulator	Means in relation to a Passported Fund, the Authority in the Host Jurisdiction into which a Passported Fund may be Promoted in accordance with the Fund Passporting Rules.
+ICMA Green Bond Principles	Means the Green Bond Principles developed by the International Capital Market Association as may be amended from time to time.
+ICMA Guidelines for Green, Social and sustainability Debentures Reviews	Means the Guidelines for Green, Social and sustainability Debentures Reviews developed by the International Capital Market Association as may be amended from time to time.
+ICMA Sustainability-Linked Bond Principles	Means the Sustainability-Linked Bond Principles developed by the International Capital Market Association as may be amended from time to time.
+IFR	Means the Islamic Finance Rulebook.
+IFRS for Small and Medium Sized Enterprises	Means the International Financial Reporting Standards for small and medium sized enterprises as issued and amended from time to time by the International Accounting Standards Board.
+Ijara	Means a contract of lease/hire.
+Ijara Muntahia Bittamleek	Means a form of leasing contract which includes a promise by the lessor to transfer the ownership of the leased property to the lessee, either at the end of the term of the lease period or by stages during the term of the contract.
+Ijma	Means consensus of the Islamic community on a particular issue.
+Ijtihad	Means effort, exertion, industry or diligence; the endeavour of a qualified Islamic jurist to derive or formulate a rule of law on the basis of evidence found in the sources of Islam.
+Incorporated Cell Company	Means a company incorporated as, or converted into, an Incorporated Cell Company in accordance with the provisions of the regulations made under Companies Regulations 2015.
+Indicated Mineral Resources	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Individual Client Segregation	Means in relation to a Recognised Clearing House, keeping separate records and accounts enabling each Clearing Member to distinguish in accounts with the Recognised Clearing House the assets and positions held for the account of a Client from those held for the account of other Clients.
+Inferred Mineral Resources	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Inside Information	Has the meaning given in section 95 of FSMR.
+Insider	Has the meaning given in section 94 of FSMR.
+Insider Dealing	Means the behaviour specified in section 92(2) of FSMR.
+Insolvency Regulations	Means the Insolvency Regulations 2022.
+Instrument	Means, in relation to a Derivative, any Investment, asset or thing on which the value of the Derivative may be based.
+Instrument Identification	Means a unique code to be decided by the Regulator identifying the financial instrument which is the subject of the transaction; or, if the financial instrument in question does not have a unique identification code, the report must include the name of the financial instrument.
+Insurance Bank Account	Means a bank account with an Eligible Bank in the U.A.E. which has been opened by an Insurance Intermediary in accordance with COBS 7.11.6.
+Insurance Business	Means the business of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance as Principal, including effecting or carrying out contracts of reinsurance (as reinsurer) or Captive Insurance Management.
+Insurance Fund	Means in relation to a Takaful Insurer, the aggregate of the assets and liabilities of the Insurer that are attributed to the Takaful transactions of the Insurer and the amount of any assets designated by the Insurer as a capital transfer to the insurance fund; and includes the amount of any profit, surplus or return (however called or described), less attributable expenses, arising on the investment of such funds.
+Insurance Intermediary	Means an Authorised Person who is authorised to carry on the Regulated Activity of Insurance Intermediation.
+Insurance Intermediation	Has the meaning given in paragraph 33 of Schedule 1 of FSMR.
+Insurance Liabilities	Means General Insurance liabilities and Long Term Insurance liabilities.
+Insurance Management	In relation to:
+(a)	COBS, means providing management services or exercising managerial functions (including administration and underwriting) for an insurer i.e. a Person effecting or carrying out Contracts of Insurance; and
+(b)	FEES, has the meaning given in paragraph 36 of Schedule 1 of FSMR.
+Insurance Manager	Means an Authorised Person whose is authorised to carry on the Regulated Activity of Insurance Management.
+Insurance Monies	Means any monies arising from Insurance Intermediation or the Insurance Management business which are any of the following:
+(a)	premiums, additional premiums and return premiums of all kinds;
+(b)	claims and other payments due under Contracts of Insurance;
+(c)	refunds and salvages;
+(d)	fees, charges, taxes and similar fiscal levies relating to Contracts of Insurance payable to a Person other than the Insurance Intermediary or Insurance Manager;
+(e)	discounts, commissions and brokerage payable to a Person other than the Insurance Intermediary or Insurance Manager; or
+(f)	monies received from or on behalf of a Client of an Insurance Manager, in relation to his Insurance Management business.
+Insurance Special Purpose Vehicle (ISPV)	Means an insurer which:  
+(a)	assumes risks by way of reinsurance; and
+(b)	is required to fully fund its exposures to those risks through the proceeds of a debt issuance or some other financing arrangement where the repayment obligations under those arrangements are subordinated to the insurer's reinsurance obligations.
+Insurer	Means an Authorised Person carrying on in ADGM one or both of the following Regulated Activities for which it has authorisation under its Financial Services Permission:
+(a)	Effecting Contracts of Insurance;
+(b)	Carrying Out Contracts of Insurance as Principal.
+Intangible Assets	Has the meaning given in CIB 3.1.6(1).
+Interfacing Systems	Means the systems used by a Third Party Provider that connect to Customers and to Primary Financial Institutions.
+International Financial Reporting Standards (IFRS)	Means the International Financial Reporting Standards as issued and amended from time to time by the International Accounting Standards Board.
+International Organisation 	In relation to AML means an organisation established by formal political agreement between member countries, where the agreement has the status of an international treaty, and the organisation is recognised in the law of countries which are members.
+International Standards on Auditing	Means the international standards on auditing as issued and amended from time to time by the International Auditing and Assurance Standards Board (IAASB) of the International Federation of Accountants (IFAC).
+Invested Assets	Means any asset, right or interest of an Insurer that is held by the Insurer for the primary purpose of generating revenues or for directly providing funds to meet the Insurer's cash outflows in the future.
+Investment	Means in relation to:
+(a)	COBS, means either of the following:
+(i)	a Security; or
+
+(ii)	a Derivative, 
+unless otherwise specified
+(b)	GEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.
+Investment Analyst	An Employee of an Authorised Person who prepares Investment Research.
+Investment Business	Means the business of:
+(a)	Dealing in Investments as Principal;
+(b) 	Dealing in Investments as Agent;
+(c) 	Arranging Credit;
+(d) 	Managing Assets;
+(e) 	Advising on Investments or Credit;
+(f) 	Managing a Collective Investment Fund;
+(g) 	Providing Custody;
+(h) 	Arranging Custody;
+(i) 	Managing a Profit Sharing Investment Account; 
+(j) 	Operating an MTF or OTF;
+(k) 	Operating a Private Financing Platform; or
+(l) 	Acting as the Trustee of an Investment Trust.
+Investment Company	Means an open or closed ended company established for the sole purpose of collective investment (and any such Cell of such company) which is incorporated under the Companies Regulations 2015.
+Investment Manager	Means a Person who, acting only on behalf of a Client:
+(a)	manages Investments in an account or portfolio on a discretionary basis under the terms of a Discretionary Portfolio Management Agreement; or
+(b)	manages Investments in an account or portfolio on a non discretionary basis under the terms of a non discretionary management agreement.
+Investment Partnership	Means a limited partnership established for the sole purpose of collective investment which is formed and registered under the Limited Partnership Act 1907.
+Investment Research 	Means a publication which contains:
+(a)	the results of research into Investments;
+(b)	analysis of factors likely to influence the future performance of Investments; or
+(c)	advice or recommendations based on those results or analysis.
+Investment Trust	Means an express trust created solely for collective investment purposes under section 114 of FSMR.
+Investment Undertaking	Means an Investment Company, Investment Partnership, or Investment Trust which is used as the investment vehicle for a Fund.
+Investment Linked Insurance	Means Contracts of Insurance where the benefits are wholly or partly to be determined by reference to the value of, or the income from, property of any description (whether or not specified in the contracts) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified).
+IOSCO	Means the International Organisation of Securities Commissions.
+IOSCO Principles for Financial Market Infrastructures	Means a set of principles for Financial Markets Infrastructure issued by the International Organisation of Securities Commissions (IOSCO).
+Islamic Contract	Means any contract that an appropriate Shari'a Supervisory Board has designated to be in compliance with Shari'a.
+Islamic Financial Business	Means any part of the financial business of an Authorised Person or a Recognised Body which is carried out in accordance with Shari'a.
+Islamic Financial Institution	Means an Authorised Person which has a Financial Services Permission authorising it to conduct its entire financial business in accordance with Shari'a.
+Islamic Fund	Means a Fund which its entire operations are conducted or held out as being conducted, in accordance with Shari'a.
+Islamic Real Estate Investments Trusts (Islamic REITs)	Has the meaning given in IFR 6.8.
+Islamic Securities	Means any Security Offered, or held out expressly or implicitly, as Islamic or Shari'a compliant.
+Islamic Sub Fund 	Means a Shari'a compliant Sub Fund.
+Islamic Window	Means that part of an Authorised Person, other than an Islamic Financial Institution, which conducts Islamic Financial Business as a segregated part of its overall business operations.
+Issuer	In relation to:
+(a)	any Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;
+(b)	a Unit in a Collective Investment Fund, means the Fund Manager; and
+(c)	an interest in a Limited Liability Partnership, means the Partnership.
+Istisna'a	Means a contract for providing for the manufacture and purchase of a specified item; progressive financing.
+JORC	Means the Joint Ore Reserves Committee of the Australasian Institute of Mining and Metallurgy, Australian Institute of Geoscientists and Minerals Council of Australia.
+JORC Code	Means the 2012 Edition of the Australian Code for Reporting of Exploration Results, Mineral Resources and Ore Reserves promulgated by the Joint Ore Reserves Committee (JORC) of the Australasian Institute of Mining and Metallurgy, Australian Institute of Geoscientists and Minerals Council of Australia, and available as specified at: www.jorc.org, or as amended or updated.
+
+Jurisdiction	Means the UAE, the Dubai International Financial Centre and the ADGM.
+Kefala	Means a contract of guarantee/suretyship.
+Key Individual	Has the meaning given in section 258 of FSMR.
+Key Information	Means information prescribed in MKT 4.5.2(1)(b).
+Legal Arrangement 	Means express trusts or other similar legal arrangements.
+Legal Person	Means any entity other than a Natural Person that can establish a Customer relationship with a Relevant Person or otherwise own property.  This can include companies, Bodies Corporate or unincorporate, trusts, foundations, partnerships, associations, states and governments and other relevantly similar entities.
+Lender	Has the meaning given in section 258 of FSMR.
+Licensed Director	Means the Controlled Function described in GEN 5.3.3.
+Licensed Partner	Means the Controlled Function described in GEN 5.3.4.
+Licensed Person	Has the meaning given in the Commercial Licensing Regulations 2015.
+Licensed Promoter	Means a Person who is licensed or otherwise authorised by one of the Authorities to Promote Funds.
+Limited Liability Partnership	Means a partnership incorporated under the Limited Liability Partnership Regulations 2015 or under the law of a country, jurisdiction or territory outside the ADGM.
+Listed Body Corporate 	In relation to AML means, for the purposes of Rule 8.3.3(4), a Body Corporate listed on a stock exchange recognised by the Regulator.
+Listed Entity	Means the Issuer of Securities which are admitted to the Official List.
+Listed Fund	Means a Collective Investment Fund which has been admitted to the Official List.
+Listed Securities	Means in relation to MKT, the Securities of the Issuer or, where the context requires, the Securities for which the Listed Entity is a Reporting Entity but not the Issuer.
+Listing Principles	Means in the Rules in MKT Rule 2.2.
+Listing Rules	Means in the Rules in MKT chapter 2.
+LLP Regulations	Means the Limited Liability Partnership Regulations.
+Long-Term Insurance	A Contract of Insurance expressed to be in force for more than one year, where under the terms of the contract any of the following conditions exists: 
+(a)	the payment of the whole or part of the benefits is dependent upon the termination or continuation or human life; 
+(b)	the payment of any part of the premiums is dependent upon the termination or continuation of human life; 
+(c)	the benefits under the contract include payment of a sum on marriage or on the birth of a child; or 
+(d)	(4) the contract is a permanent health insurance contract. 
+Long Term Insurance Business	Means the business of Effecting Contracts of Insurance or Carrying Out Contracts of Insurance, where the Contracts of Insurance are contracts of Long Term Insurance.
+Long Term Insurance Fund	Means a fund in respect of Long Term Insurance Business established and maintained in accordance with PIN 3 or CIB 8, as applicable.
+Low-Value Payment Instrument	Means any Payment Instrument that:
+(a)	(i)	can be used only to execute individual payment transactions of US$25 (or its equivalent) or less; and
+(ii)	has a monthly spending limit of US$1000 (or its equivalent); or
+(b)	has Stored Value that does not exceed US$500 (or its equivalent) at any time.
+Maintains	Means in relation to GEN 3.3.25 to 3.3.30, includes taking reasonable steps to ensure that the arrangements remain effective and are adequately monitored, and must be interpreted accordingly.
+Major Risk Taking Employees	Means in relation to GEN 3.3.42 and 8.10.14, means those Employees whose actions have a material impact on the risk exposure of the Authorised Person or Recognised Body.
+Managing Assets	Has the meaning given in paragraph 56 of Schedule 1 of FSMR.
+Managing a Collective Investment Fund	Has the meaning given in paragraph 59 of Schedule 1 of FSMR.
+Managing a Profit Sharing Investment Account	Has the meaning given in paragraph 64(2) of Schedule 1 of FSMR.
+Market Abuse	Means conduct which contravenes a provision contained in Part 8 of FSMR. 
+Market Capitalisation	Means the value calculated by multiplying the number of Securities in the main class on issue by the price of such Securities, as determined by the Issuer and accepted by the Regulator to be a fair market value of those Securities. 
+Market Contract	Has the meaning given in section 258 of FSMR.
+Market Counterparty	Means a type of Professional Client specified under COBS 2.5.
+Market Maker	Means in relation to an Investment, a Person who holds himself out as able and willing to enter into transactions of sale and purchase in Investments of that description at prices determined by him generally and continuously rather than in respect of each particular transaction.
+Market Manipulation	Means the behaviour specified in section 92(4) of the FSMR.
+Marketing Material	Means in relation to COBS and GEN 9.12 and 9.13, any material communicated to a Person in the course of marketing Regulated Activities or Specified Investments or effecting introductions.
+Markets Rules or MKT	Means the Markets module of the Rulebook. 
+Mark up or Mark down	Means:
+(a)	when an Authorised Person receives instructions from a Client and takes a principal position in the relevant Investment in order to complete a transaction, that is, when the Authorised Person takes a principal position in the relevant Investment which it would not otherwise take, except to complete that transaction, the difference, if any, between:
+(i)	the price at which the Authorised Person takes a principal position in the relevant Investment; and
+(ii)	the price at which the Authorised Person Executes the transaction with its Client; or
+(b)	when an Authorised Person Executes a transaction with its Client against its own book and owes a duty of best execution, the difference between:
+(i)	the price at which best execution would be achieved; and
+(ii)	the price at which the Authorised Person Executes the transaction with its Client.
+Master Fund	Means a Fund that issues its Units or Debentures to one or more other Funds which are dedicated to investing in that Fund.
+Matched Principal Trading 	Means a transaction where the facilitator interposes itself between the buyer and the seller to the transaction in such a way that it is never exposed to market risk throughout the execution of the transaction, with both sides executed simultaneously, and where the transaction is concluded at a price where the facilitator makes no profit or loss, other than a previously disclosed commission, fee or charge for the transaction.
+Measured Mineral Resources	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Member	Means a Person admitted as a member of a Recognised Body in accordance with its Business Rules.
+Mineral Resources and Ore Reserves Holdings	Means the aggregate economic interests in Mineral Resources and Ore Reserves of a Mining Reporting Entity and its controlled entities.
+Mineral Resources	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Minerals	Means any substance extracted for value occurring naturally in or on the Earth, in or under water or in tailings, residues or stockpiles, having been formed by or subjected to a geological process but excludes Petroleum.
+Minimum Cellular Capital Requirement	Means the Minimum Segmental Capital Requirement in respect of a Cell.
+Minimum Non Cellular Capital Requirement	Means the Minimum Segmental Capital Requirement in respect of that part of a Protected Cell Company or an Incorporated Cell Company that is not a Cell.
+Minimum Segmental Capital Requirement	Means the requirement calculated in accordance with PIN A6.2.
+Mining Exploration Reporting Entity	Means a Mining Reporting Entity:
+(a) 	whose main undertaking consists of Exploration for Minerals; or
+(b) 	which has been advised by the Regulator that it is a Mining Exploration Reporting Entity for the purposes of MKT.
+Mining Production Reporting Entity	Means a Mining Reporting Entity:
+(a) 	whose main undertaking consists of the Extraction of Minerals; or
+(b) 	which has been advised by the Regulator that it is a Mining Production Reporting Entity for the purposes of MKT.
+Mining Project	Means a project to Explore for or Extract Minerals from a Mining Tenement(s).
+Mining Reporting Entity	Means a Mining Exploration Reporting Entity or a Mining Production Reporting Entity.
+Mining Reporting Standard
+	Means a standard of reporting under one of the following codes or guidelines:
+(a) 	the JORC Code;
+(b) 	NI 43-101; or
+(c)	the SAMREC Code.
+Mining Tenement	Means any right to explore for or extract Minerals in a given place.
+MIR	Means the Market Infrastructure Rules. 
+MKT	Means the Markets Rules.
+Model Portfolio	Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.
+Modification	Means, in relation to GEN 8.2, a Direction given under section 9 of FSMR that one or more Rules made by the Regulator are to apply to an Authorised Person, a Recognised Body, a Remote Body, a Remote Member, a Foreign Fund Manager, a Person making an Offer of Securities or a Reporting Entity with such modifications as specified in the Direction.
+Money	Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.
+Money Laundering Reporting Officer	Means, for the purposes of an Authorised Person other than a Credit Rating Agency, the Controlled Function described in GEN 5.3.8.
+Money Laundering Risk	Means, in relation to GEN 3.3.39(1), the risk that an Authorised Person may be used to further money laundering.
+Money Remitter	Has the meaning given in section 258 of FSMR.
+Mudaraba 	Means an investment partnership which is based on profit sharing under a contract between an investor and an entrepreneur/manager where risks and rewards are shared and where both parties receive an agreed share of any profits, and the investor bears the full amount of any loss of capital, whilst the entrepreneur/manager loses his/her time and effort.
+Mudarib	Means the managing partner in a Mudaraba.
+Mugasara	Means a contract in which the owner of the property shares the property with another person in return for that other person's services in relation to that property.
+Multilateral Trading Facility (MTF)	Means a multilateral system, operated by an Authorised Person or a Recognised Investment Exchange, which brings together multiple third party buying and selling interests in Financial Instruments, in the system and in accordance with non discretionary rules, in a way that results in a contract in accordance with its rules.
+Murabaha	Means a sale of commodities at a price equivalent to the original price at which such commodities were bought from a supplier plus an agreed mark up.
+Murabaha for the Purchase Orderer (MPO)	Means a sale of specified goods at the acquisition cost plus an agreed profit mark up based on a promise (wa'ad) to purchase given by the purchaser.  The promise to purchase maybe binding or non binding.
+Musaqa	Means a contract in which the owner of a property shares the produce of that property with another person in return for that other Person's services in relation to that property.
+Musharaka	Means an equity participation arrangement where partners contribute capital to a project and share its risks and rewards.  Profits can be divided between the partners in any agreed ratio.  Losses must always be borne in proportion to the capital of each partner.
+Muwakkil	The investor or depositor under a Wakala arrangement.
+Muzara'a	Means a contract in which one Person agrees to develop and maintain the property of the other Person in return for their services in relation to that property.
+Natural Person	Means an individual.
+Net Written Premium	Means, in respect of an Insurer during a period, Gross Written Premium of the Insurer during that period less the amount of premium on reinsurance contracts entered into by the Insurer as Cedant during the same period.
+NI 43-101	Means National Instrument 43-101 “CIM Definition Standards for Minerals Resources & Mineral Reserves” adopted by the Canadian Institute of Mining, Metallurgy and Petroleum Council, and available at www.mrmr.cim.org, or as amended or updated.
+
+Nominee Company	A company incorporated in the ADGM whose business consists solely of acting as a holder of Client Assets where such assets are held by the Nominee Company as agent of an Authorised Person.
+Non-ADGM Clearing House	Has the meaning given in section 258 of FSMR.
+Non ADGM Financial Services Regulator	Has the meaning given in FSMR.
+Non binding Murabaha for the Purchase Orderer	Means a Murabaha for the Purchase Orderer which is expressed to be non binding on the purchaser.
+Non-Cellular Assets	Means assets of a Protected Cell Company or an Incorporated Cell Company which are not Cellular Assets.
+Non-Equivalent Estimate	Means an estimate of quantity and grade of mineralisation that was prepared using a mineral resources classification and reporting standard that is not a Mining Reporting Standard, prior to a Mining Reporting Entity acquiring, or entering into an agreement to acquire, an interest in the Mining Tenement that contains the deposit, and which the Mining Reporting Entity has not verified as Mineral Resources or Ore Reserves in accordance with a Mining Reporting Standard.
+Non-Face-to-Face (NFTF)	Where a customer is not physically present for a business operation or transaction with a Relevant Person.
+Non-Profit Organisation (NPO)	Means a Legal Person or arrangement or organisation that primarily engages in raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal purposes or for other charitable purposes.
+Offer	Means:
+(a)	in relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and
+(b)	in relation to Units, an offer of Units falling outside Part 6 of FSMR.
+Offer of Securities 	Has the meaning given in section 258 of FSMR.
+Offer Period	Means the period during which a Prospectus Offer remains open to investors.
+Offeror	In relation to:
+(a)	MKT Chapter 6, means the prior holders of, or the entity issuing, the Relevant Securities; and
+(b)	all other cases, means a Person who makes an Offer of Securities.
+Officer	Means:
+(a)	in relation to a limited liability partnership, a member of the limited liability partnership; and
+(b)	in relation to a Body Corporate:
+(i)	a Director, member of the committee of management, Chief Executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; and
+(ii)	an individual who is a Controller of the body.
+Official List 	Means the list of Securities maintained by the Regulator pursuant to Part 6 of FSMR.
+Omnibus Client Account 	Means, as the context requires, either:
+(a)	a Client Account maintained by an Authorised Person at a Recognised Clearing House for more than one Client of the Authorised Person in respect of which the Recognised Clearing House has agreed with the Authorised Person to provide Omnibus Client Segregation; or
+(b)	an account maintained by a firm for more than one indirect Client at a Clearing Member in respect of which that clearing member has agreed with the firm to provide segregation arrangements.
+Omnibus Client Segregation	Means, in relation to a Recognised Clearing House, ensuring separate records and accounts are kept enabling each Clearing Member to distinguish in accounts with the Recognised Clearing House the proprietary assets and positions of that Clearing Member from those held for the accounts of its Clients.
+Operating a Credit Rating Agency 	Has the meaning given in paragraph 65 of Schedule 1 of FSMR.
+Operating a Multilateral Trading Facility or Organised Trading Facility	Has the meaning given in paragraph 54 of Schedule 1 of FSMR.  
+Operating a Representative Office	Has the meaning given in paragraph 67(2) of Schedule 1 of FSMR.
+Ordinary Securities	means ordinary Shares or ordinary Units in a Fund (if a Listed Entity does not have ordinary shares or ordinary Units in a Fund, any class of Securities designated by the Regulator).
+Ore Reserves	has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Organised Trading Facility (OTF)	Means a multilateral system which is not a Recognised Investment Exchange or a Multilateral Trading Facility and which multiple third party buying and selling interests in Financial Instruments are able to interact in the system in a way that results in a contract in accordance with the provisions of its rules.
+OTC Derivative or OTC Derivative Contract	Means a Derivative Contract the execution of which does not take place on a Recognised Investment Exchange.
+OTC Leveraged Product	Means an OTC Derivative that is:
+(a)	a leveraged contract for differences;
+(b)	a leveraged rolling spot forex contract;
+(c)	an Option over a contract referred to in (a) or (b); or
+(d)	any other leveraged Investment similar in nature to an instrument referred to in (a), (b) or (c) but which is not prohibited pursuant to COBS 23.12.1.
+Outsourcing Agreement	Means an agreement in writing entered into by a Fund Manager or Trustee with a Service Provider in relation to outsourced functions, which fulfils the criteria in FUNDS App 1.
+Overallotment Facility	Means, for the purposes of MKT Chapter 6, a clause in the underwriting agreement or lead management agreement which permits acceptance of subscriptions or Offers to purchase a greater number of Relevant Securities than originally offered.
+Overseas Competent Authority	Means a competent authority responsible for the authorisation or supervision of Recognised Clearing Houses in a country or territory other than the ADGM. 
+Oversight Committee	Means a committee of at least three individuals each of whom meets the suitability criteria prescribed in FUNDS 13.3.3.
+Owner's Equity	In relation to:  
+(a)	a Takaful Provider, means the amount of the assets, less the liabilities, of the Insurer that are not attributed to the Takaful Fund of the Takaful Provider; and
+(b)	an Authorised Person that manages a PSIA, means the amount of the assets, less the liabilities, of  that Authorised Person that are not attributed to any PSIA managed by that Authorised Person.
+Parent	Means a Holding Company as defined in section 1015 of the Companies Regulations 2015.
+Parent Undertaking	Has the meaning given to that term in the Companies Regulations 2015.
+Participants' Investment Fund (PIF)	Means an investment fund:  the fund into which a portion of contributions paid by Takaful participants is allocated for the purposes of savings/investment as well as for the purposes of capital formation.
+Participants' Risk Fund (PRF)	Means the risk fund used to pool the portion of contributions paid by participants on the basis of Tabarru' for the purpose of meeting claims on events/risk covered under the Takaful contracts.
+Partner	Means, in relation to an Undertaking which is a Partnership, a Person occupying the position of a partner, by whatever name called.
+Partnership	Means any partnership, including a partnership constituted under the law of a country, jurisdiction or territory outside the ADGM, but not including a Limited Liability Partnership.
+Passported Fund	Means a Fund that is registered on its Home Jurisdiction’s Register of Passported Funds.
+Payee 	Has the meaning given in section 258 of FSMR.
+Payer	Has the meaning given in section 258 of FSMR.
+Payment Account	Has the meaning given in section 258 of FSMR.
+Payment Account Provider	Has the meaning given in section 258 of FSMR.
+Payment Initiation Service Provider	Means a person that initiates a Payment Order at the request of a Payment Service User with respect to a Payment Account held at another Payment Service Provider.
+Payment Instrument	Has the meaning given in section 258 of FSMR.
+Payment Order	Means any instruction by a Payer or a Payee to their respective Payment Service Provider requesting the execution of a Payment Transaction.
+Payment Service Provider
+	Has the meaning given in section 258 of FSMR.
+Payment Service User	Means a Person who makes use of Payment Services in the capacity of Payer, Payee, or both.
+Payment Services	Has the meaning given in section 258 of FSMR.
+Payment Transaction	Means an act initiated by the Payer or Payee, or on behalf of the Payer, of placing, transferring or withdrawing Money, irrespective of any underlying obligations between the Payer and Payee.
+Person	Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.
+Personal Account Transaction	Means a transaction undertaken by an Employee of an Authorised Person in an Investment, other than:
+
+(a)	a transaction in a government or public Security;
+
+(b)	a transaction in a life policy; or
+
+(c)	a discretionary transaction if there is no prior communication with the Employee and the discretion is not exercised by the Authorised Person.
+
+Personalised Security Credentials	Means personalised features provided by:
+(a) 	a Payment Service Provider to a Payment Service User for the purposes of authentication of the identity of the Payment Service User; or
+(b) 	a Third Party Provider to a Customer for the purposes of authentication of the identity of the Customer.
+Persons Undertaking Key Control Functions	Means persons undertaking compliance, anti-money laundering, risk management, internal audit and similar control functions.
+Petroleum	Means a naturally occurring mixture consisting of hydrocarbons in the gaseous, liquid or solid phase. Petroleum may also contain non-hydrocarbon compounds. Common examples of non-hydrocarbon compounds included in petroleum are carbon dioxide, nitrogen, hydrogen sulphide and sulphur.
+Petroleum Exploration Reporting Entity	Means a Petroleum Reporting Entity:
+(a) 	whose main undertaking consists of Exploration for Petroleum; or
+(b) 	which has been advised by the Regulator that it is a Petroleum Exploration Reporting Entity for the purposes of MKT.
+Petroleum Production Reporting Entity	Means a Petroleum Reporting Entity:
+(a) 	whose main undertaking consists of the Extraction of Petroleum; or
+(b) 	which has been advised by the Regulator that it is a Petroleum Production Reporting Entity for the purposes of MKT.
+Petroleum Project	Has the meaning given to ‘project’ in the PRMS.
+Petroleum Reporting Entity	Means a Petroleum Exploration Reporting Entity or a Petroleum Production Reporting Entity.
+Petroleum Reporting Standard	Means a standard of reporting under the PRMS.
+Petroleum Reserves	Means those quantities of Petroleum anticipated to be commercially recoverable by application of development Petroleum Projects to known accumulations from a given date forward under defined conditions. Petroleum reserves must satisfy four criteria: they must be discovered, recoverable, commercial and remaining based on the development project(s) applied.
+Petroleum Resources	Means all quantities of Petroleum (recoverable and unrecoverable) naturally occurring on or within the Earth’s crust, discovered and undiscovered, plus those quantities already produced.  It includes all types of Petroleum whether currently considered ‘conventional’ or ‘unconventional’.
+Petroleum Resources Management System (PRMS)	Means the Petroleum Resources Management System (PRMS), sponsored by the Society of Petroleum Engineers (SPE), the American Association of Petroleum Geologists (AAPG), the World Petroleum Council (WPC), the Society of Petroleum Evaluation Engineers (SPEE), the Society of Exploration Geophysicists (SEG), the European Association of Geoscientists and Engineers (EAGE), and the Society of Petrophysicists and Well Log Analysts (SPWLA), and available at: 
+https://www.spe.org/en/industry/petroleum-resources-management-system-2018/
+
+Petroleum Tenement	Means any right to explore for or extract Petroleum in a given place.
+PFP Client	A user of a Private Financing Platform that is not a PFP Prospect.
+PFP Operator	An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.
+PFP Prospect	A Body Corporate seeking financing by publishing a financing proposal upon a Private Financing Platform.
+Policy Benefit	Means an amount payable under an insurance contract as a result of the occurrence of an event insured under the contract.
+Politically Exposed Person (PEP)	Means a Natural Person (and includes, where relevant, a family member or close associate) who is or has been entrusted with a prominent public function, including but not limited to, a head of state or of government, senior officials and functionaries of an international or supranational organisation, senior politician, senior government, judicial or military official, ambassador, senior executive of a state owned corporation, or an important political party official, but not middle ranking or more junior individuals in these categories.
+Pooling Event	Has the meaning given in COBS 14.13.3.
+Possible Reserves	Means those additional Petroleum Reserves which analysis of geoscience and engineering data indicate are less likely to be recoverable than Probable Reserves. The total quantities ultimately recovered from the project have a low probability to exceed the sum of Proved Reserves plus Probable Reserves plus Possible Reserves (P3). When Probabilistic Methods are used, there should be at least a 10% probability that the actual quantities recovered will equal or exceed the P3 estimate.
+Precise	Has the meaning given in section 95(5) of FSMR.
+Preference Security	Securities which are given preference, in terms of dividend or distribution, over Ordinary Securities.
+Premium Liability	Means the liability referred to in PIN 5.4.7.
+Prescribed Market	Means any Recognised Investment Exchange, MTF or OTF.
+Price Notation	Means the currency in which the price is expressed.
+Price Reporting Agency	An agency or an index provider which constructs, compiles, assesses or reports, on a regular and systematic basis, prices of Investments, rates, indices, commodities, Accepted Virtual Assets, Accepted Spot Commodities or figures, which are made available to users.
+Price Stabilisation	Means, in relation to MKT Chapter 6, any purchase or Offer to purchase Relevant Securities, or any transaction in Associated Instruments equivalent thereto, which is undertaken in the context of a Significant Distribution of such Relevant Securities exclusively for supporting the market price of these Relevant Securities for a predetermined period of time, due to a selling pressure in such Securities.
+Price Stabilisation Rules	Has the meaning given in section 258 of FSMR.
+Primary Financial Institution	Means the Financial Institution that holds Specified Information relating to the Customer of a Third Party Provider.
+Principal Representative	Means an individual designated by a Representative Office in accordance with GEN Chapter 9.
+Principle	In relation to:
+(a)	an Authorised Person or Approved Person, means a principle prescribed in GEN Chapter 2; and
+(b)	a Representative Office, means a principle prescribed in GEN Chapter 9.
+Private Credit Fund	Has the meaning given in FUNDS Rule 4.1.7.
+Private Financing Platform (PFP)	Has the meaning given in section 258 of FSMR.
+Private Fund	Means a Passported Fund where:
+(a)	the initial subscription paid by a Person to become a Unitholder of the Fund is not less than $50,000; and
+(b)	participation in the Passported Fund is restricted to Unitholders who are Professional Clients.
+PRMS Guidelines	The Guidelines for Application of the Petroleum Resources Management System (November 2011), as amended from time to time.
+Probabilistic Method	Means the method of estimation of Petroleum Resources when the known geoscience, engineering, and economic data are used to generate a continuous range of estimates and their associated probabilities.
+Probable Ore Reserves	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Probable Reserves	Means those additional Petroleum Reserves which analysis of geoscience and engineering data indicate are less likely to be recovered than Proved Reserves but more certain to be recovered than Possible Reserves. It is equally likely that actual remaining quantities recovered will be greater than or less than the sum of the estimated Proved Reserves plus Probable Reserves (P2).  When Probabilistic Methods are used, there should be at least a 50% probability that the actual quantities recovered will equal or exceed the P2 estimate.
+Production Target	Means a projection or forecast of the amount of Minerals to be extracted from a particular Mining Tenement(s) for a period that extends past the current year and the forthcoming year.
+Professional Client	Means a Client specified under COBS 2.4.
+Profit From Continuing Operations	Means operating profit:
+(a) 	before tax; and
+(b) 	disregarding items that are revenue or other credits to   profits which result from an activity that has been or is to be discontinued, unless the Regulator decides otherwise.
+Profit Sharing Investment Account (PSIA)	Means an account or portfolio managed:
+(a)	in relation to property of any kind, including the currency of any country or territory, held for or within the account or portfolio;
+(b)	in accordance with Shari'a and held out as such; and
+(c)	under the term of an agreement whereby:
+(i)	the investor agrees to share any profit with the manager of the account or portfolio in accordance with a predetermined specified percentage or ratio; and
+(ii)	the investor agrees that he alone will bear any losses in the absence of negligence or breach of contract on the part of the manager.
+Promote, Promoted, Promotion, Promoting	Means the marketing and sale of units of a Passported Fund to investors domiciled in a Jurisdiction by means of any form of communication including a direct or indirect public offering or private placement performed by:
+(a)	the Fund Manager;
+(b)	an Agent; or
+(c)	any other Licensed Person. 
+In this definition “sale” includes any arranging, dealing and advising activities in relation to the Units of the Passported Fund.
+Promoter	Means in relation to a Listed Entity or Applicant for admission of its Securities to the Official List:
+(a)	a person who, in the opinion of the Regulator, has had a material involvement in the formation or promotion of the entity;
+(b)	unless the Regulator decides otherwise, a person who:
+(c)	(i)	is; or
+(ii)	has been at any time in the months before the date of the entity’s application for admission of its Securities to the Official List; or
+(iii)	will be at the date of admission to the Official List,
+(A)	a Connected Person of the Listed Entity; or
+(B)	a person whose relationship with the Listed Entity or with a person referred to in (a) or (b) above is, in the opinion of the Regulator, such that the person should be subject to the same Restriction Period as a promoter of the Listed Entity. 
+Pro Rata Issue	Means an issue which has been offered to all holders of Securities in a class on a pro rata basis.
+Property Fund	Means a Fund dedicated to investment in Real Property and in Securities issued by Bodies Corporate whose main activities are investing in, dealing in, developing or redeveloping Real Property.
+Pro Rata Issue	Means an issue which has been offered to all holders of Securities in a class on a pro rata basis.
+Prospective Resources	means those quantities of Petroleum which are estimated, as of a given date, to be potentially recoverable from undiscovered accumulations.
+Prospectus	Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply): 
+(a)	an information memorandum;
+(b)	an offering memorandum;
+(c)	a private placement memorandum; or
+(d)	any other similar document.
+Prospectus Offer	In relation to Securities to which section 61 of FSMR applies, means an Offer of Securities or having Securities admitted to trading on a Recognised Investment Exchange. 
+Protected Cell Company	Means a company incorporated as, or converted into, a Protected Cell Company in accordance with the Companies Regulations 2015. 
+Proved Ore Reserves	Has the meaning of the term or equivalent term in a Mining Reporting Standard.
+Proved Reserves	Means those quantities of Petroleum, which by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be commercially recoverable, from a given date forward, from known reservoirs and under defined economic conditions, operating methods, and government regulations. If Deterministic Methods are used, the term reasonable certainty is intended to express a high degree of confidence that the quantities will be recovered. When Probabilistic Methods are used, there should be at least a 90% probability that the quantities actually recovered equal or exceed the estimate.
+Providing Credit	Has the meaning given in paragraph 48 of Schedule 1 of FSMR.
+Providing Custody	Means the Regulated Activity specified in paragraph 43 of Schedule 1 of FSMR.
+Providing Information in Relation to a Specified Benchmark	Has the meaning given in paragraph 68(1)(a) of Schedule 1 of FSMR.
+Providing Money Services	Has the meaning given in paragraph 52 of Schedule 1 of FSMR.
+Providing Third Party Services	Has the meaning given in paragraph 73F of Schedule 1 of FSMR.
+Providing Trust Services	Has the meaning given in paragraph 72 of Schedule 1 of FSMR.
+Prudential – Insurance (PIN)	Means the Prudential – Insurance Business module of the Rulebook.
+Prudential   Investment, Insurance Intermediation and Banking  (PRU)	Means the Prudential   Investment, Insurance Intermediation and Banking module of the Rulebook.
+Prudential Context	Means in relation to activities carried on by a Authorised Person, the context in which the activities might have, or might reasonably be regarded as likely to have, a negative effect on:
+(a)	confidence in the financial stability of the ADGM;
+(b)	the ability of the Authorised Person to meet the applicable Non ADGM Financial Services Regulator requirements and standards relating to the Authorised Person's financial resources; or
+(c)	the fitness and propriety of the Authorised Person to remain authorised.
+PSIA Investment Contract	Means a contract relating to the investment of amounts standing to the credit of a PSIA on a discretionary basis (in relation to an Unrestricted PSIA) or a non discretionary basis (in relation to a Restricted PSIA).
+PSIAr	Means a Restricted Profit Sharing Investment Account.
+PSIAu 	Means an Unrestricted Profit Sharing Investment Account.
+Public Fund	Means a Fund which falls within the meaning given under FUNDS 3.3.1. 
+Public Listed Company	Means a person incorporated or formed in the ADGM and who is admitted to the Official List in the ADGM or an equivalent list of securities in another jurisdiction. 
+Public Listed Company Auditor's Report	Means a report referred to in GEN 6.6.1(f) and containing the information specified in GEN 6.6.9.
+Public Property Fund	Means a Public Fund which is also a Property Fund.
+Qiyas	Means the application of accepted principles by analogy to new cases by scholars.
+Qualified Central Counterparty (QCCP)	Means an entity that is licensed to operate as a central counterparty (including a licence granted by way of confirming an exemption), and is permitted by the appropriate regulator/overseer to operate as such with respect to the products offered.  This is subject to the provision that the central counterparty is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the central counterparty on an ongoing basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures. 
+Qualified Investor Fund	Has the meaning given in FUNDS 3.3.4.
+Qualifying Green Debenture Principles	Has the meaning given to it in MKT 4.15.4.
+Qualifying Green Sukuk Principles	Has the meaning given to it in MKT 4.15.4. when read together with MKT 4.16.
+Qualifying Holding	Means any holding in the capital of a non financial Undertaking of which the Authorised Person is a controller.
+Qualifying Sustainability-Linked Debenture Principles	Has the meaning given to it in MKT 4.15.5.
+Qualifying Sustainability-Linked Sukuk Principles	Has the meaning given to it in MKT 4.15.5. when read together with MKT 4.16.
+Quantity	Means the number of units of the financial instruments.
+Quiet Period	In relation to an initial public offering of securities, the period beginning on the day of publication of listing particulars or a prospectus relating to the offering of that Investment and ending 30 days after the day on which the Investment is admitted to trading.
+Rating Subject	Has the meaning given in COBS 9.1.2(c).
+Real Estate Investment Trust	Has the meaning given in FUNDS 13.5.1.
+Real Property	Has the meaning given in section 258 of FSMR.
+Recognised Body 	Means a Recognised Investment Exchange or a Recognised Clearing House.
+Recognised Clearing House	Means a clearing house which provides Clearing Services in the ADGM in relation to which a recognition order is in force under Part 12 of FSMR.
+Recognised Investment Exchange	Means an investment exchange in relation to which a recognition order is in force under Part 12 of FSMR.
+Recognised Jurisdiction	Means a jurisdiction which has been recognised by the Regulator under Fund Rules.
+Recognition Order	Has the meaning given in section 258 of FSMR.
+Recognition Requirements	Means the requirements set out in MIR Chapters 2 to 4 in relation to the granting of a Recognition Order under section 120 of the FSMR to a Recognised Body.
+Reference Date	Means the date as at which an actuarial investigation is performed for the purposes of PIN 7.3.
+Reference Entity	Means the entity against which payments under a Derivative Contract are calculated.
+Reference Exchange Rate	Means the exchange rate that is used as the basis to calculate any currency exchange and that is made available by the Payment Service Provider or comes from a publicly available source.
+
+Reference Point	Means a defined location within a Petroleum Extraction and processing operation where quantities of produced product are measured under defined conditions prior to custody transfer.
+
+Register of Passported Funds	Means:
+
+(a)	in relation to ADGM, the register of Passported Funds maintained by the Regulator; and
+(b)	in relation to a Host Jurisdiction, the register of Passported Funds maintained by the applicable Host Regulator in that Jurisdiction.
+Registrar of Companies	Means the ADGM Registrar of Companies.
+Registration Bureau	Means the ADGM Registration Bureau established in accordance with Article 10 of the ADGM Founding Law and section 935 of the Companies Regulations 2015. 
+Registration Statement	Means, in relation to a Prospectus structured as multiple documents, the document referred to in MKT 2.5.1(3)(b).
+Regulated Activity	Has the meaning given in section 19 of FSMR.
+Regulated Exchange	Means an exchange regulated by a Non-ADGM Financial Services Regulator.
+Regulated Financial Institution 	A person who does not hold a FSP but who is authorised in a jurisdiction other than the ADGM to carry on any financial service by another Financial Services Regulator.
+Regulator 	Means the Financial Services Regulatory Authority.
+Regulators	Means in addition to the Regulator, regulators with recognised jurisdiction in relation to financial services, whether in the ADGM or outside of the ADGM.
+Regulatory Committee	Means the committee appointed by the Board in accordance with Chapter 1 of Part 19 of FSMR.
+Regulatory Filings	Means the return or report to be submitted to the Regulator, in relation to:
+(a)	AML, in accordance with Rule 4.6.1; 
+(b)	CIB, in accordance with Rules 2.3.5(3), (4) and (5), 2.3.7, 2.3.8, 7.2.3, 7.3.2, 7.3.3, and 7.3.5;	 
+(c)	GEN, in accordance with Rules 6.6.1, and 8.8.12; 
+(d)	PIN, in accordance with Rules 6.6.1, 6.6.7, 6.7.2(1), 7.2.3 and 7.3.5;
+(e)	PRU, in accordance with Rules 2.3.7, 3.21.1, 10.3.2(3) and 10.4.2(3).
+Regulatory Functions	Means the functions of the Recognised Body so far as relating to, or to matters arising out of, the obligations to which the Recognised Body is subject to under FSMR and MIR.
+Regulatory Provision	Has the meaning given to that term in section 138(1)(a) of FSMR.
+Regulatory Returns	Means all documents and information required to be filed with or delivered to the Regulator in accordance with the FSMR or the Rulebooks.
+Regulatory Returns Auditor's Report	Means a report referred to in GEN 6.6.1(b) and containing the information specified in GEN 6.6.4 and 6.6.5.
+Related	Means in respect of one entity, the first entity, being in the position relative to that entity of:
+(a)	a second entity that is a Subsidiary, Associate or Holding Company of the first entity;
+(b) 	a second entity that is a Subsidiary or Associate of the Holding Company of the first entity;
+(c)	a director or officer of the first entity or of an entity that is related to the first entity by reason of paragraphs (a) or (b) above;
+(d)	the spouse or minor child of a natural person referred to in paragraph (c) above; or
+(e)	a company that is a Subsidiary of or subject to significant influence by or from a natural person referred to in paragraphs (c) or (d) above.
+Related Investment	Means, in relation to a Financial Instrument, an Investment whose price or value depends on the price or value of the Financial Instruments.
+Related Party	Has the meaning given to that term in MKT 9.5.2(a).
+Related Party Associate	Means a spouse of a child of a Related Party. 
+Related Party Transaction	Has the meaning given to that term in MKT 9.5.2(b).
+Relevant Money 	Means sums received from or for the benefit of a Payment Service User in the course of the execution of a Payment Transaction, whether held on behalf of a Payment Service User in a Payment Account or exchanged for a Payment Instrument or Stored Value, or sums received from a Payment Service Provider for the execution of a Payment Transaction on behalf of a Payment Service User.
+
+Relevant Office Holder	Has the meaning given in section 258 of FSMR.
+Relevant Person	Has the meaning given in section 258 of FSMR.
+Relevant Provisions	Means, in relation to COBS, "relevant provisions" means any provisions of the default rules of a Non ADGM Recognised Clearing House which provide for the transfer of the positions or assets of a defaulting clearing member; are not necessary for the purposes of complying with the minimum requirements of Part 12 of FSMR; and may be relevant to a question falling to be determined in accordance with the laws of the ADGM.
+Relevant Requirements	Means the requirements specified in section 163 and 164 of FSMR.
+Relevant Securities	Means, in relation to MKT Chapter 6:
+(a)	Shares in Companies and other Securities equivalent to Shares in Companies;
+(b)	bonds and other forms of securitised debt, which are negotiable on the capital market; and
+(c)	any other Securities normally dealt in giving the right to acquire any such Securities by subscription or exchange or giving rise to a cash settlement,
+excluding Instruments of payment, provided that such Instruments in paragraphs (a), (b), or (c) are admitted to trading on a Recognised Investment Exchange or for which a request for admission to trading on such a Recognised Investment Exchange has been made, and which are the subject of a Significant Distribution.
+Remote Body	Means a Remote Investment Exchange or Remote Clearing House which has been granted a Recognition Order in accordance with section 127 of FSMR.
+Remote Clearing House	Means a clearing house operating outside the ADGM which has been granted a Recognition Order in accordance with section 127(2)(b) of FSMR.
+Remote Investment Exchange	Means an investment exchange or multilateral trading facility operating outside the ADGM which has been granted a Recognition Order in accordance with section 127(2)(a) of FSMR.
+Remote Member	Means a person located in a jurisdiction other than the ADGM which has been granted a Recognition Order under section 138A of FSMR.
+Remote Member Requirements	Means the requirements set out in MIR 8.2.2 in relation to the granting of a Recognition Order under section 138A of the FSMR to a Remote Member.
+Remote Recognition Requirements	Means the requirements set out in MIR 7.2.2 in relation to the granting of a Recognition Order under section 127 of the FSMR to a Remote Body.
+Remuneration	Means any form of remuneration, including benefits of any kind.
+Replacement Prospectus	Means a replacement Prospectus produced in accordance with FUNDS 9.3.1, as applicable.
+Reporting Entity	Has the meaning given in section 72 of FSMR.
+Representative Office	Means the business operations of Person authorised to carry on the Regulated Activity of Operating a Representative Office in the ADGM and which actually carries on the Regulated Activity of Operating a Representative Office.
+Resolution Pack	Means the documents and records specified in COBS 16.3.1 and 16.4.1.
+Responsible Officer	Means the Approved Function described in GEN 5.3.9.
+Restricted Party Associate	Means a spouse or a child of Restricted Person.  
+Restricted Person	Has the meaning given in MKT 9.4.1(2).
+Restricted Profit Sharing Investment Accounts (Restricted PSIA)	Means a PSIA in respect of the investment account holder imposes certain restrictions as to where, how and for what purpose his funds are to be invested.
+Restricted Securities	Means Securities:
+(a)	issued in the circumstances set out in APP 7 of MKT; or
+(b)	that, in the opinion of the Regulator, should be treated as Restricted Securities.
+Restricted Scope Company	Has the meaning given in section 3(4) of the Companies Regulations 2015.
+Restriction Agreement	Means an agreement in the form set out in MKT Form 9-1.
+Restriction Period	Means the specified time during which Restricted Securities are subject to a Restriction Agreement and cannot be disposed of by the Security Holder and/or Controller.
+Retail Client	Means a Client specified under COBS 2.3.
+Retail Debenture or Sukuk	Means any Debenture or Sukuk with an Offer allowing for a denomination of US$100,000 or less, not including when the Offer of such Securities is only made by way of an Exempt Offer.
+Retakaful	Means reinsurance cover provided in respect of Takaful cover in accordance with Shari'a.
+Reverse Takeover	Means a Takeover where a Listed Entity is proposing to acquire Securities over another body and the aggregate number of Equity Securities issued or to be issued by the Listed Entity:
+(a) 	under the Takeover; and/or
+(b) 	to fund the cash consideration payable under the Takeover,
+is equal to or greater than the number of fully paid Ordinary Securities on issue in the Listed Entity at the date of disclosure of the Takeover. Separate issues may be aggregated if, in the opinion of the Regulator, they form part of the same commercial transaction.
+Rule	Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.
+Rulebook	Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES.
+Safe Custody Asset	Means a designated Client Investment, which is not the property of the Authorised Person, which is held or to be held for safekeeping by an Authorised Person or Third Party Agent.
+Safe Custody Auditor's Report	Means a report referred to in GEN 6.6.1(d) and containing the information specified in GEN 6.6.7.
+Safe Custody Rules	Means the Rules in COBS 15.
+Salam	Means a contract where the payment for goods is made in advance with such goods to be delivered at a later date.
+SAMREC Code	Means the South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves (the SAMREC Code), 2016, and available as specified at: www.samcode.co.za, or as amended or updated.
+SAMVAL Code	Means the South African Code for Reporting of the Mineral Asset Valuation (the SAMVAL Code), 2016, and available as specified at: www.samcode.co.za, or as amended or updated.
+
+Sanctions	Means any law executing foreign policy, security, sanction, trade embargo, or anti terrorism objectives or similar restrictions imposed, administered or enforced from time to time by: (i) the U.A.E.; (ii) the United Nations Security Council; (iii) the European Union; (iv) H.M.  Treasury of the United Kingdom; (v) the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury; (vi) any other relevant governmental authority; or (vii) any of their successors. 
+Sanctions List	Means any official list of Persons or entities targeted by Sanctions from time to time.
+Scoping Study	Has the meaning of the term or equivalent terms in a Mining Reporting Standard.
+SEC	Means the Securities and Exchange Commission (SEC) of the United States of America.
+Securities Note	Means, in relation to a Prospectus structured as multiple documents, the document referred to in MKT 4.5.1(3)(c).
+Security	Has the meaning given in section 258 of FSMR.
+Security Holder	Means a holder of Securities in a Listed Entity.
+Security Purchase Plan	Means a program that enables individual investors to purchase a Listed Entity’s Equity Securities direct from the Listed Entity.
+Senior Executive Officer	Means, in relation to an Authorised Person, the Controlled Function described in GEN 5.3.2.
+Senior Management	Means, in relation to:
+(a)	other than for MIR and MKT, a Relevant Person every member of the Relevant Person's executive management and includes:
+(i)	for an ADGM Entity, every member of the Relevant Person's Governing Body, including its Board of Directors, Partners, Committee of Management or the other governing body of an Undertaking, as appropriate;
+(ii)	for a Branch, the Person or Persons who control the day to day operations of the Relevant Person in the ADGM; or
+(iii)	for an auditor, every member of the Relevant Person's executive management in the U.A.E.
+(b)	MIR and MKT, any individual who either alone or jointly has ultimate responsibility for the day-to-day management, supervision and control of one or more (or all) parts of a Reporting Entity’s business, which includes the first layer of management below the Governing Body.
+Senior Manager	Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.7.
+Service Provider	Means for the purpose of FUNDS, a Person who is delegated an activity or outsourced a function by a Fund Manager or Trustee under the terms of a Delegation Agreement, as described in FUNDS Chapter 12.
+Share	In relation to:
+(a)	GEN 8.8, means:
+(i)	in the case of an Authorised Person, or a Holding Company of an Authorised Person, which has a share capital, its allotted shares;
+(ii)	in the case of an Authorised Person, or a Holding Company of an Authorised Person, with capital but no share capital, rights to a share in its capital; and
+(iii)	in the case of an Authorised Person, or a Holding Company of an Authorised Person, without capital, any interest conferring a right to share in its profits or losses or any obligation to contribute to a share of its debt or expenses in the event of its winding up; 
+(b)	COBS, means:
+(i)	in relation to a Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body with share capital, allotted shares;
+(ii)	in relation to an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body with capital but no share capital, rights to a portion of the capital of an Authorised Person or a Recognised Body or a Holding Company of an Authorised Person or a Recognised Body; or
+(iii)	in relation to an Authorised Person or a Recognised Body or a Holding Company of an Authorised Person or Recognised Body without capital interests:
+(A)	conferring any right to share in the profits, or liability to contribute to the losses, of an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body; or
+(B)	giving rise to any obligation to contribute to the debt or expenses of an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body in the event of a winding up of the Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body; 
+(c)	FEES and MKT, has the meaning given in paragraph 87 of Schedule 1 of FSMR.  
+Share Warrants	Means any Warrants which relate to Shares in the Authorised Person concerned, issued by the Authorised Person.
+Shareholder	Means a Natural Person or legal entity governed by private or public law, who holds, directly or indirectly:
+(a)	Shares of the Issuer in its own name and on its own account;
+(b)	Shares of the Issuer in its own name, but on behalf of another natural person or legal entity; or
+(c)	depository receipts, in which case the holder of the depository receipt shall be considered as the shareholder of the underlying Shares represented by the depository receipts.
+Shari'a	Means the Shari'a principles and rulings as interpreted by a Shari'a Supervisory Board.
+Shari'a Supervisory Board	Means the board comprised of individuals appointed by:
+(a)	an Authorised Person pursuant to IFR 3.5 and entrusted with the duty of directing, reviewing and supervising the activities of the Authorised Person conducting Islamic Financial Business in order to ensure that the activities conducted by the Authorised Person are in compliance with Shari'a; or
+
+(b)	an Issuer, or Reporting Entity, as applicable, entrusted with the duty of making a Shari’a pronouncement as to the Issuer’s Securities’ Shari’a compliance.
+Shari'a compliant Regulated Activities	Means the Regulated Activities specified in paragraph ‎64 of Schedule 1 of FSMR. 
+Shell Bank	A bank that has no physical presence in the country in which it is incorporated or licensed and which is not affiliated with a regulated financial Group that is subject to effective consolidated supervision.
+Short Selling	Means the sale of a Security by a Person who does not own the Security at the point of entering into the contract to sell.
+
+Significant Distribution	Means, for the purposes of MKT Chapter 6, an initial or secondary Offer of Relevant Securities, publicly announced and distinct from ordinary trading both in terms of the amount in value of the Securities offered and the selling methods employed.
+Simplified Customer Due Diligence	Means Customer Due Diligence as modified under AML 8.5.
+Single Payment Service Contract	Means a contract for a single Payment Transaction not covered by a Framework Contract.
+
+Skilled Person	Has the meaning given in FSMR.  
+Soft Dollar Agreement	Means an agreement in any form under which an Authorised Person receives goods or services in return for Investment Business put through another Person. 
+Solvency Reference Date	Means the date at which an Insurer's compliance with capital adequacy requirements in PIN 4 or CIB 2, as applicable, are assessed.
+Source of Funds	Means the origin of Customer's funds which relate to a Transaction or service and includes how such funds are connected to a Customer's Source of Wealth.
+Source of Wealth	Means how the Customer's global wealth or net worth is or was acquired or accumulated.
+Special Purpose Vehicle	Means a Body Corporate whose sole purpose, either generally or when acting in a particular capacity, is to carry out one or more of the following functions:
+(a)	issuing Investments;
+(b)	redeeming or terminating or repurchasing, whether with a view to re issue or to cancellation, an issue, in whole or par, of Investments; or
+(c)	entering into transactions or terminating transactions involving Investments in connection with the issue, redemption, termination or re purchase of Investments; and
+and has been explicitly established for the purpose of:
+(d)	securitising assets; or
+(e)	investing in Real Property, 
+and, in the case of paragraph (d), has been assessed by a rating agency.
+Special Resolution	Means in relation to a Domestic Fund, a resolution passed by a majority of not less than 75 per cent. of the votes validly cast (whether on a show of hands or on a poll) for and against the resolution at a general meeting or class meeting of Unitholders, of which notice specifying the intention to propose the resolution as a special resolution has been duly given.
+Specific Risk	Means the risk that losses on an Authorised Person's net long or short position in an individual Security may arise from a negative or positive price movement of that Security relative to the relevant market generally.
+Specified Benchmark	Means a Benchmark specified by the Regulator as a Specified Benchmark pursuant to COBS 21.2.1.
+Specified Information	Has the meaning given in section 258 of FSMR.
+Specified Investment	Means an investment falling within paragraphs 85 to 99 of Schedule 1 of FSMR, without regard to any applicable exceptions or exemptions set out in that Schedule.
+Sponsor	Means a person approved by the Regulator to be a sponsor for the purposes of Rules made under section 83 of FSMR.
+Spot Commodity	Has the meaning given in section 258 of FSMR.
+Spot Commodity Auction Platform	A platform to carry out Accepted Spot Commodity auctions, operated by:
+(a) 	a Recognised Body whose Recognition Order includes a stipulation to carry out Accepted Spot Commodity auctions; or 
+(b) 	An Authorised Person that is permitted to carry on the Regulated Activity of Operating a Multilateral Trading Facility or Operating an Organised Trading Facility, and who has obtained permission from the Regulator to carry out Accepted Spot Commodity auctions.
+Spot Commodity Title	An instrument that confers on the holder a right entitling the holder to hold, acquire, or transfer, an Accepted Spot Commodity.
+Stabilisation Agent	A Person appointed by the Stabilisation Manager under MKT 6.2.14 to assist him in conducting Price Stabilisation.
+Stabilisation Manager	A Person appointed by an Issuer of Shares under MKT 6.2.13 to conduct Price Stabilisation.
+Stabilisation Window	The period of time specified in MKT 6.2.8 during which Price Stabilisation may occur.
+State	Means the U.A.E.
+Statement by Directors	Means the statement described under CIB 2.3.10.
+Statement of Recommended Practice (SORP)	Means the Statement of Recommended Practice as issued and amended from time to time by the Investment Management Association (IMA) in the United Kingdom.
+Stored Value	Has the meaning given in section 258 of FSMR.
+Stored Value Provider	Has the meaning given in section 258 of FSMR.
+Strong Customer Authentication	Means authentication based on the use of two or more elements that are independent, in that the breach of one element does not compromise the reliability of any other element, and designed in such a way as to protect the confidentiality of the authentication data, with the elements falling into two or more of the following categories:
+(a)	something known only by the Payment Service User or Customer (“knowledge”);
+(b)	something held only by the Payment Service User or Customer (“possession”);
+(c)	something inherent to the Payment Service User or Customer (“inherence”).
+Structured Product	Means an instrument comprising rights under a contract where:  
+(a)	the gain or loss of each party to the contract is ultimately determined by reference to the fluctuations in the value or price of property of any description, an index, interest rate, exchange rate or a combination of any of these as specified for that purpose in the contract ("the underlying factor") and is not leveraged upon such fluctuations;
+(b)	the gain or loss of each party is wholly settled by cash or set off between the parties;
+(c)	each party is not exposed to any contingent liabilities to any other counterparty; and
+(d)	there is readily available public information in relation to the underlying factor;
+but excludes any rights under an instrument: (i) where one or more of the parties takes delivery of any property to which the contract relates; (ii) which is a Debenture; or (iii) which is a Contract of Insurance.
+Sub Fund	Means a separate pool of Fund Property within an Umbrella Fund.
+Subsidiary Undertaking or Subsidiary	Has the meaning given in the Companies Regulations 2015.
+Sukuk	Has the meaning given in paragraph 89 of Schedule 1 of FSMR.
+Summary	Means the document referred to in MKT 4.5.1(3)(a).
+Summary of Reserves and Resources	Means for a: 
+(a) 	Mining Reporting Entity, the summary of Mineral Resources and Ore Reserves to be disclosed in accordance with MKT 11.11.1; and 
+(b) 	Petroleum Reporting Entity, the summary of Petroleum Resources to be disclosed in accordance with MKT 12.14.1.
+Supplementary Notes	Means a note which is supplementary to a Return.
+Supplementary Prospectus	Means an updated or replacement Prospectus produced in accordance with section 65 of FSMR or FUNDS Chapter 9, as applicable.
+Suspicious Activity Report (SAR)	Means a report in the prescribed format regarding suspicious activity (including a suspicious Transaction) made to the FIU. 
+Tabarru'	Means donation or gifts; any benefits given by a person to another without receiving anything in exchange.
+Takaful	Means A Shari'a compliant equivalent to conventional insurance which exists in the form of Family (or Life) Takaful and General Takaful. 
+Takaful Fund	Means the aggregate of the assets and liabilities of the Takaful Provider that are attributed to the Takaful transactions of the Takaful Provider and the amount of any assets designated by the Takaful Provider as a capital transfer to the Takaful Fund and includes the amount of any profit, surplus or return (however called or described), less attributable expenses, arising on the investment of such funds.
+Takaful Insurer	An Insurer, any part of whose Insurance Business consists of Takaful transactions.
+Takaful Operator 	Means the entity that manages the Takaful activities of the Takaful Fund and invests the fund’s assets in accordance with Shari'a.
+Takaful Provider	Means an Insurer that provides Takaful as all or any part of its business.
+Takeover	Means takeover and merger transactions however effected, including arrangements which have similar commercial effect to takeovers, partial bids, bid by a parent Company for Shares in its subsidiary and (where appropriate) Share repurchases by general bid.
+Technical Study	Means a Scoping Study, Preliminary Feasibility Study or Feasibility Study.
+Third-Party Agent	Means, in relation to a Client Account, a Financial Institution including a bank, custodian, an intermediate broker, a settlement agent, a clearing house, an exchange and “over-the-counter” counterparty acting in the capacity of a third party agent.
+Third Party Provider	Has the meaning given in section 258 of FSMR .
+Third Party Transaction	Has the meaning given in section 258 of FSMR.
+Time scheduled Buy back Programme	Means, in relation to MKT Chapter 6, a Buy back Programme where the dates and quantities of Securities to be purchased during the time period of the programme are set out at the time of the public disclosure of the Buy back Programme.
+Title Transfer Collateral Agreement	Means an agreement whereby a Client transfers ownership of a Safe Custody Asset or Client Money (or an asset that would be a Safe Custody Asset or Client Money but for the arrangement) to an Authorised Person or a Nominee Company for the purpose of securing or otherwise covering present or future, contingent or actual obligations.
+Total Variable Capital Requirement 	Means the sum of the Variable Capital Requirements calculated in accordance with Section 3.6A of PRU for the activities undertaken by a Money Remitter or a Payment Service Provider.
+
+Trade Repository	Means a legal person that centrally collects and maintains records of executed Derivative Contracts.
+Trading Day	Means the trading day on which the transaction was executed.
+Trading Halt	Has the meaning given to it in MKT 7.8.
+Trading Information	Means information of the following kinds relating to pending orders in relation to a Financial Instrument, Accepted Virtual Asset, Accepted Spot Commodity or Related Investment:
+(a)	that Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities of a particular kind have been or are to be acquired or disposed of, or that their acquisition or disposal is under consideration or the subject of negotiation;
+(b)	that Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities of a particular kind have not been or are not to be acquired or disposed of;
+(c)	the quantity of Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities acquired or disposed of or whose acquisition or disposal is under consideration or the subject of negotiation; 
+(d)	the price (or range of prices) at which Financial Instruments, Accepted Virtual Assets, Accepted Spot Commodities have been or are to be acquired or disposed of or the price (or range of prices) at which Financial Instruments whose acquisition or disposal is under consideration or the subject of negotiation may be acquired or disposed of; or 
+(e)	the identity of the Persons involved or likely to be involved in any capacity in an acquisition or disposal.
+Trading Time	Means the time at which the transaction was executed, reported in the local time of the competent authority to which the transaction will be reported, and the basis in which the transaction is reported expressed as Co ordinated Universal Time (UTC) +/  hours.
+Transaction	Means any transaction undertaken by a Relevant Person for or on behalf of a Customer in the course of carrying on a business in or from the ADGM.
+Trust Deed	Means a deed entered into by a Fund Manager and the Trustee to create an Investment Trust.
+Trust Service Provider	An Authorised Person which is authorised under its Permission it to carry on the activity of Providing Trust Services.
+Trustee	Means the Person, described under FUNDS 12.3.4 who is appointed under a Trust Deed as the trustee of an Investment Trust to hold the Investment Trust's Property on trust for the Unitholders and to oversee the operation of the Investment Trust and, in relation to a Domestic Fund, is authorised under its Financial Services Permission to Act as the Trustee of the Investment Trust.
+U.A.E.	Means the United Arab Emirates.
+Umbrella Fund	Has the meaning given in FUNDS 4.1.4.
+Undertaking	Means:
+(a)	a Body Corporate or Partnership; or
+(b)	an unincorporated association carrying on a trade or business, with or without a view to profit.
+Underwriting	Means an arrangement under which a party agrees to buy, before issue, a specified quantity of Securities in an issue of Securities on a given date at a given price, if no other party has purchased or acquired them.
+Unique Identifier	Means a combination of letters, numbers or symbols specified to the Payment Service User by the Payment Service Provider and to be provided by the Payment Service User in relation to a Payment Transaction in order to identify unambiguously one or both of:
+(a)	another Payment Service User who is a party to the Payment Transaction;
+(b)	the other Payment Service User’s Payment Account.
+Unit	Means a unit in or a share representing the rights or interests of a Unitholder in a Fund.
+Unit Price	Means the price per financial instrument excluding commission and (where relevant) accrued interest.
+Unitholder	Means any holder of a Unit in the Fund or of any right or interest in
+such a Unit, and whose name is entered on the Fund's register in relation to that Unit.
+Units	Means the rights or interests (however described) of the Unitholders in a Collective Investment Fund. 
+Unlawful Organisation	An organisation, the establishment or activities of which have been declared to be criminal under Federal AML Legislation.
+Unproven Asset	Means an interest in:
+(a) 	a Mining Tenement or Petroleum Tenement that is substantially explorative or unproven; 
+(b) 	intangible property that is substantially speculative or unproven, or has not been profitably exploited for at least 3 years, and which entitles the entity to develop, manufacture, market or distribute the intangible property;
+(c) 	an asset which, in the opinion of the Regulator, cannot be readily valued; or
+(d) 	an entity, of which a substantial proportion of its assets is property of the kind referred to in (a), (b) or (c). 
+Unrestricted Profit Sharing Investment Account or Unrestricted PSIA	Means a PSIA in respect of which the investment account holder authorises the Authorised Person to invest the account holder's funds in a manner which the Authorised Person deems appropriate without laying down any restrictions as to where, how and for what purpose the funds should be invested.
+US GAAP	Means Generally Accepted Accounting Principles as issued and amended from time to time by the Financial Accounting Standards Board in the United States.
+VALMIN Code	Means the Australasian Code for Public Reporting of Technical Assessment and Valuations of Mineral Assets (The VALMIN Code) 2015 Edition, prepared by the VALMIN Committee, a joint committee of the Australasian Institute of Mining and Metallurgy and the Australian Institute of Geoscientists effective 30 January 2016, available at www.valmin.org, or as amended or updated.
+
+Valuer	Means a person:
+(a)	who carries on the business of valuing Real Property;
+(b)	who is not Related to the Fund Manager; and
+(c)	whom the Fund Manager, and if appointed the Trustee, have reasonable grounds to believe would be capable of providing objective valuation of Real Property.
+Valuation Report	Means a report valuing an entity’s holding of Mineralisation or Petroleum, as applicable, and to be provided in a Prospectus subject to MKT11.3.2 and MKT 12.3.2.
+
+Valuation Standard	Means one of the following valuation standards used to provide a Valuation Report with regards to Minerals, being:
+(a) 	the VALMIN Code;
+(b) 	the SAMVAL Code; and
+(c) 	the CIMVAL Code.
+Variable Capital Requirement	Means a capital requirement calculated in accordance with Rules 3.6A.2, 3.6A.4 and 3.6A.6 of PRU as applicable for the activities undertaken by a Money Remitter or a Payment Service Provider.
+
+Venture Capital Fund	Has the meaning given in FUNDS 4.1.6.
+Venue identification	Means identification of the venue where the transaction was executed. That identification shall consist of the Recognised Investment Exchange's unique harmonised identification code.
+Virtual Asset	Has the meaning given in section 258 of FSMR.
+Waiver	Means, in relation to GEN 8.2, a Direction given under section 9 of FSMR that one or more Rules made by the Regulator are not to apply to an Authorised Person, a Recognised Body, a Remote Body, a Remote Member, a Foreign Fund Manager, a Person making an Offer of Securities or a Reporting Entity as specified in the Direction. 
+Wakala	Means agency. A contract of agency in which one party appoints another party to perform a certain task on its behalf (i.e. to invest amounts in Shari'a-compliant income generating assets), usually for payment a fee or commission. 
+Wakeel	The investment agent under a Wakala arrangement. 
+Warrant	In relation to:
+(a)	MKT, means an instrument that confers on the holder a right entitling the holder to acquire an unissued Share, Debenture or Unit; and 
+(b)	FEES, has the meaning given in paragraph 91(1) of Schedule 1 of FSMR.
+Weighted Voting Rights	Means the voting power attached to a particular class of Share that is greater or superior to the voting power attached to an Ordinary Share, or other governance right or arrangement disproportionate to the beneficiary’s economic interest in the Equity Securities.
+Winding Up	Means a voluntary winding up or winding up by the Court performed in accordance with Part 3 of the Insolvency Regulations 2015.
+Zakat	Means a Zakat tax, the third pillar of Islam; obligatory alms giving or charity.
+Zone 1	Means any of the following countries:
+Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Hong Kong, Iceland, Ireland, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Singapore, Spain, Sweden, Switzerland, United Kingdom and United States of America.
+
+/Table End

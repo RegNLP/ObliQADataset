@@ -1,0 +1,150 @@
+A.	INTRODUCTION
+
+A.1.	The UAE Sustainable Finance Working Group (SFWG) was established in 2019 to enable the UAE’s economic transition and encourage the adoption of sustainable finance at the national level. This is in line with the Paris Agreement ratified by the UAE in 2016 and domestic acts and initiatives, such as the UAE Green Agenda 2015-2030, the National Climate Change Plan of the UAE 2017-2050 and the UAE Net Zero by 2050 Strategic Initiative.
+
+A.2.	The members of the SFWG include ministries (Ministry of Finance, Ministry of Economy, Ministry of Climate Change and Environment, the Office of the UAE's Special Envoy for Climate Change), financial services regulators (the Central Bank of the UAE, the Securities and Commodities Authority, the Financial Services Regulatory Authority of Abu Dhabi Global Market and the Dubai Financial Services Authority), and UAE exchanges (Abu Dhabi Securities Exchange, Dubai Financial Market and Nasdaq Dubai).
+
+A.3.	In 2020, in its Guiding Principles on Sustainable Finance in the UAE , the SFWG committed to developing standards for the financial sector to integrate ESG factors into corporate governance, strategy and risk management. In its First Public Statement published in November 2021, the SFWG set out its roadmap and refined its focus setting out three interlinked work areas including on ESG reporting, corporate governance and risk management, and taxonomy. In November 2022, in its Second Public Statement, the SFWG reported on the progress of its three workstreams. In particular, the Workstream Two on Sustainability-focused Corporate Governance announced it would start working on developing enhanced standards to help embed and address climate-related risks in corporate governance and risk management in financial services entities in the UAE.  
+
+A.4.	This document is the result of the efforts of Workstream Two and contains Principles for the effective management of climate-related financial risks (the Principles) which are issued in accordance with the relevant laws in each jurisdiction. The Principles have been developed in consideration of a number of standards on this topic published by international standard-setters. The key standards used for the purpose of the Principles include the Principles for the effective management and supervision of climate-related financial risks from the Basel Committee on Banking Supervision (BCBS) and the Guide for Supervisors Integrating climate-related and environmental risks into prudential supervision by the Network for Greening the Financial System (NGFS).  A more complete list of international standards covering, for example, risk scenarios or details of the insurance sector is included in the Annex. 
+
+
+B.	APPLICATION 
+
+B.5.	The Principles constitute a declaration of common understanding among the SFWG members on the minimum standards that they expect to implement in their respective jurisdictions and in line with their legal frameworks in the area of climate risk management.
+
+B.6.	While the Principles are endorsed by the entire SFWG, it is understood that they are primarily relevant for those members who are financial services regulators. The ministries and exchanges may consider them in the context of their activities, where relevant.  
+
+B.7.	For the purposes of the Principles, financial sector entities are referred to collectively as ‘financial firms’ without drawing distinctions between the various financial service activities offered by these entities. While it is recognised that the BCBS and the NGFS standards are primarily designed for the banking and insurance sectors, the Principles are drafted to cater for a wider spectrum of financial firms and taking into account differences in business models. 
+
+B.8.	It remains in the discretion of each of the financial services regulators to determine the financial firms in scope of the Principles, how to apply each of them and the timeframe to do so in their jurisdictions. However, the relevant financial services regulators intend to commence application of these Principles in respect of their firms not later than from October 2023. The financial services regulators may also introduce additional details relevant for specific types of financial firms, in particular based on the standards cited in the Annex. 
+
+B.9.	It is recognised that several standards in this area are still evolving at international level. This fact has been reflected in the drafting of the Principles allowing for the necessary flexibility and adaptations to future developments. 
+
+C.	GENERAL CONSIDERATIONS
+
+C.10.	Transitioning to a low-carbon, and subsequently zero-carbon, economy entails both risks and opportunities for the financial sector. Strong corporate governance can drive and enable financial firms to identify and take the strategic steps necessary to develop and deploy new and more sustainable approaches and technologies, to strengthen business models and to improve both business and sustainability metrics. Importantly, enhanced risk management is critical for financial firms to identify and manage these risks better and to be able to demonstrate this to their clients and supervisors.
+
+C.11.	Climate-related financial risk refers to the financial risks arising from climate change, including physical, transition and liability risks. Such risks could impact the viability and soundness of individual financial firms and have broader implications for financial stability. 
+
+C.12.	Physical risk refers to potential economic and financial losses from climate and weather-related events and the long-term progressive impact of climate change. 
+
+C.13.	Transition risk refers to the financial risk related to the process of adjustment towards a lower-carbon economy, which can be prompted by, for example, changes in climate policy, technological changes or change in market and social sentiments. 
+
+C.14.	Liability risk refers to climate-related compensatory claims and/or direct legal actions against financial firms. Liability risk can be considered as a separate risk but can also be treated as a subset of physical and transition risks.
+
+C.15.	Climate-related financial risks are not bound by timelines and can emerge within the short, medium, and long-term. They can materialize through transmission channels in the balance sheets of financial firms and within the traditional categories of financial risks, including credit, market, operational, underwriting, reputational and liquidity risks. 
+
+C.16.	The reference to the board and senior management throughout the Principles is to be understood in accordance with their respective roles and responsibilities and is meant to include the members of the board of directors (or equivalent) and senior management. The Principles do not presume or endorse a specific board or senior management structure, nor do they advocate for a specific approach to assigning climate-related financial risk responsibilities within a financial firm.
+
+D.	THE PRINCIPLES
+
+D.1.	Principle 1 – Oversight and responsibility of climate-related financial risk exposures. The board and senior management of financial firms should have an appropriate understanding of the organization’s climate-related financial risk exposures and their potential impact to facilitate effective oversight.
+
+D.1.1.	Principle 1 – Oversight and responsibility of climate-related financial risk exposures. The financial firm should ensure that the board and senior management have an adequate understanding of climate-related financial risks and that senior management is equipped with the appropriate skills and experience to manage and oversee these risks. 
+
+D.1.2.	Principle 1 – Oversight and responsibility of climate-related financial risk exposures. Financial firms should have in place a sound climate-related financial risk management framework as part of their overall business strategy, including considering the risk appetite specific to climate-related financial risks. The risk appetite should be defined, approved and overseen by the board. The board should be able to provide evidence of its ongoing oversight of these risks, particularly when they are deemed to be material. 
+
+D.1.3.	Principle 1 – Oversight and responsibility of climate-related financial risk exposures.Certain functions related to the management of climate-related financial risks may be delegated, but, as with other risks, the board is ultimately responsible and accountable for monitoring, managing and overseeing climate-related risks for the financial firm.
+
+D.1.4.	Principle 1 – Oversight and responsibility of climate-related financial risk exposures. Where required, financial firms should ensure that the board and senior management actively keep up to date to develop and maintain sufficient knowledge and skills to understand and assess the impact of climate-related financial risks on the financial firm and the broader financial sector, including by providing training. In addition, financial firms should also provide capacity building and training to relevant personnel to enhance management of climate-related financial risks.
+
+D.2.	Principle 2 - Incorporation of climate-related financial risk exposures into overall business strategy. The board and senior management of a financial firm should consider material climate-related financial risk exposures when setting the organization’s overall business strategy.
+
+D.2.1.	Principle 2 - Incorporation of climate-related financial risk exposures into overall business strategy. In developing and executing the financial firm’s overall strategic plan, the board and senior management should ensure that all risks including material climate-related financial risks and the ensuing opportunities are considered. Please refer to Principle 4 for considerations on materiality. 
+
+D.2.2.	Principle 2 - Incorporation of climate-related financial risk exposures into overall business strategy. Any climate-related strategies or objectives should align with and support the financial firm’s broader strategy, risk appetite, and risk management framework.
+
+D.2.3.	Principle 2 - Incorporation of climate-related financial risk exposures into overall business strategy. It is recognised that the incorporation of material climate-related financial risks into various planning processes is evolving as measurement methodologies, models, and data for analysing these risks mature over time. The board and senior management should ensure that climate-related financial risks are documented and periodically reviewed. Any climate-related strategies or objectives should be continuously improved based on the lessons drawn from measuring, analysing and monitoring of these risks. 
+
+D.3.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . The financial firm’s board should assign climate-related financial risk management responsibilities throughout the organization.
+
+D.3.1.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . Responsibilities for identifying and managing climate-related financial risks should be clearly assigned to either board committees or appropriate senior management to ensure climate-related financial risks are appropriately considered as part of the financial firm’s business strategy and risk management framework. 
+
+D.3.2.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . As outlined in Principle 1, while the financial firm’s board remains ultimately responsible and accountable for the oversight of the management of climate-related financial risks, the assignment of responsibilities in line with Principle 3 should be formally documented.
+
+D.3.3.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . Such roles and responsibilities should be clearly defined to ensure there is clarity over functions, accountability, governance structure, escalation processes and reporting procedures across the financial firm in relation to climate-related financial risk management.
+
+D.3.4.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . Where dedicated climate-related roles or departments are established, their responsibilities and interaction with existing governance structures should be clearly defined and documented.
+
+D.3.5.	Principle 3 – Assigning climate-related financial risk management responsibilities within the organization . Roles and responsibilities for identifying and managing climate-related financial risks should be regularly reviewed to ensure it continues to be relevant to the nature and complexity of the business model and activities of the financial firm as well as the evolution of climate-related financial risks management approaches and methodologies.
+
+D.4.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. The financial firm’s board and senior management should oversee the incorporation of climate-related financial risks into the organization’s internal risk management framework and oversee the development and implementation of policies and procedures to identify, assess, measure, mitigate, monitor and report on climate-related financial risk exposures.
+
+D.4.1.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Climate-related financial risks affecting financial firms should be identified. Identification of these risks should involve a comprehensive assessment of how the risks posed by climate-related matters may affect the financial firm, which should include an assessment of climate-related financial risks across a range of plausible scenarios and under various time horizons.
+
+D.4.2.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. An appropriate framework for managing climate-related financial risks should be based on a comprehensive assessment of how and to what extent such risks would affect the financial firm’s business, operations and/or portfolios. The assessment of climate-related financial risks should take into account strategic, financial, operational and reputational risk implications.
+
+D.4.3.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Financial firms should conduct a materiality assessment with clear definitions and thresholds for climate-related financial risks, which will help them decide how to embed climate-related financial risks into their existing risk management frameworks. 
+
+D.4.4.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. A financial firm should, in a materiality assessment, consider its exposure to physical and transition risks.
+
+D.4.5.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Depending on the type of exposure and risk drivers, financial firms should deploy qualitative and/or quantitative approaches to assess the materiality of the risks. To form a final judgement on materiality, financial firms should develop a threshold, or a combination of thresholds, against which the outcome of the materiality assessment is determined. These thresholds can be quantitative or qualitative, depending on whether a quantitative assessment of materiality is feasible or whether a qualitative threshold is more suitable.
+
+D.4.6.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Based on the materiality and potential impacts identified, financial firms should update their existing risk management framework to embed climate-related financial risk considerations. 
+
+D.4.7.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Financial firms should also regularly review relevant policies and processes to assess their effectiveness, and adjust them based on the outcomes of ongoing risk monitoring. Any ensuing updates to these policies and procedures should be documented.
+
+D.4.8.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Where material climate-related financial risks are identified, financial firms should establish and implement plans to mitigate these risks and manage their exposures. Examples of such mitigation measures include establishing and enforcing sectoral or client-specific risk and relationship limits, including financial and durational; adjusting client engagement criteria; or applying haircuts to asset values, among others.
+
+D.4.9.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. Relevant financial firms should consider climate-related financial risk within established traditional risk categories (for example, credit, market, liquidity, operational, underwriting and reputational risk profiles) or, depending on the materiality of the perceived risk, as a stand-alone risk category. 
+
+D.4.10.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. In line with their usual risk governance arrangements, relevant financial firms should consider how best to allocate the responsibilities for managing climate-related financial risks, such as by allocating them across the “three lines of defence” (core business, risk function and internal audit) to ensure comprehensive and effective identification, measurement monitoring and mitigation of climate-related financial risk. 
+
+D.4.11.	Principle 4 – Incorporation of climate-related financial risks into risk management framework. A financial firm that has significant relationships with other entities in its group, including subsidiaries, affiliates or international branches, should develop and maintain methods and processes to coordinate the identification, assessment, measurement, mitigation, monitoring and reporting of material climate-related financial risks across the group. 
+
+D.5.	Principle 5 – Monitoring and reporting of climate-related financial risks .The financial firm should ensure that internal reporting systems are capable of monitoring material climate-related financial risks and producing relevant, accurate and timely information to inform effective board and senior management decision-making. Such information should be reported to the board, senior management and relevant stakeholders, where required to do so. The financial firm should address identified information and data gaps.
+
+D.5.1.	Principle 5 – Monitoring and reporting of climate-related financial risks . The board and senior management should ensure that the financial firm has systems and resources in place to collect, analyse and aggregate climate-related financial risk data. Senior management should incorporate climate-related financial risk information in internal reporting, monitoring, and escalation processes, where relevant. This will facilitate timely and sound decision-making across the firm.
+
+D.5.2.	Principle 5 – Monitoring and reporting of climate-related financial risks . The financial firm should establish procedures to provide the board and senior management with relevant information on its material climate-related financial risk exposures, including monitoring and mitigation actions. The extent, form and frequency of internal reporting should be based on the nature and scale of the risks to which the financial firm is exposed.
+
+D.5.3.	Principle 5 – Monitoring and reporting of climate-related financial risks . Financial firms should develop metrics to monitor and report climate-related financial risks appropriate to their size, complexity, risk profile and activities. Like all risks, climate-related financial risks should be closely monitored; the higher the impact, the higher the review frequency.
+
+D.5.4.	Principle 5 – Monitoring and reporting of climate-related financial risks . Financial firms should ensure that risk monitoring captures the potential impact of climate-related risk drivers on the financial firm’s third-party arrangements and business continuity planning.
+
+D.5.5.	Principle 5 – Monitoring and reporting of climate-related financial risks . Given the evolving nature of climate-related financial risks, financial firms should monitor developments and seek to understand and, where possible, manage the impact of climate-related financial risk drivers on other material risks where additional transmission channels are identified. This should feed into the risk identification, assessment, measurement, mitigation and monitoring processes of these material risks.
+
+D.5.6.	Principle 5 – Monitoring and reporting of climate-related financial risks . Where appropriate, financial firms should consider building capabilities to address any information and data gaps. For example, data collection processes may need to be enhanced, such as strengthening the engagement with clients to develop a better understanding of the impact of climate-related financial risks on clients’ businesses, obtaining more climate-related or environmental information from clients, and using appropriate data proxies where necessary. 
+
+D.5.7.	Principle 5 – Monitoring and reporting of climate-related financial risks . Financial firms should develop an adequate data governance framework that covers the nature and level of the risks to which they are or might be exposed and which allows them to use sufficiently forward-looking and granular climate-related risk information in their risk management and governance strategy.
+
+D.6.	Principle 6 – Incorporation of climate-related financial risks into capital and liquidity adequacy processes. Relevant financial firms should incorporate material climate-related financial risks in their internal capital and liquidity adequacy assessment processes.
+
+D.6.1.	Principle 6 – Incorporation of climate-related financial risks into capital and liquidity adequacy processes. Relevant financial firms should develop processes to evaluate the liquidity, capital and solvency impact of climate-related financial risks that may manifest within specified time horizons.
+
+D.6.2.	Principle 6 – Incorporation of climate-related financial risks into capital and liquidity adequacy processes. As part of their internal capital and liquidity adequacy assessment processes, relevant financial firms should consider climate-related financial risks that may impact their capital and liquidity positions over relevant time horizons (e.g., through their impact on traditional risk categories). 
+
+D.6.3.	Principle 6 – Incorporation of climate-related financial risks into capital and liquidity adequacy processes. For those financial firms required to complete an Internal Capital Adequacy Assessment Process (ICAAP), an Internal Liquidity Adequacy Assessment Process (ILAAP), an Own Risk and Solvency Assessment (ORSA), or a similar process, climate-related financial risks should be incorporated into these frameworks to consider and record any material impact on capital and liquidity adequacy. 
+
+
+D.7.	Principle 7 – Scenario analysis of climate-related financial risks. Where appropriate, relevant financial firms should develop and implement climate-related scenario analysis frameworks, including stress testing, in a manner commensurate with their size, complexity, risk profile and nature of activities.
+
+D.7.1.	Principle 7 – Scenario analysis of climate-related financial risks. Relevant financial firms should build sufficient capacity and expertise to develop and implement climate-related scenario analysis and stress testing programmes suited to their size, complexity, risk profile and nature of activities. These frameworks should include clearly defined objectives that reflect the firm’s overall climate-related financial risk management strategies and objectives. While working to build adequate internal capabilities in climate scenario development and analysis, financial firms may utilise relevant existing or emerging climate scenarios, whether global or regional, general or purpose-built.
+
+D.7.2.	Principle 7 – Scenario analysis of climate-related financial risks. The objectives of scenario analysis could include, for example, exploring the impacts of climate-related financial risks on the financial firm’s strategy and business model, identifying and measuring vulnerabilities to relevant climate-related financial risk factors including physical and transition risks, and estimating climate-related exposures and potential losses across a range of plausible scenarios. 
+
+D.7.3.	Principle 7 – Scenario analysis of climate-related financial risks. Financial firms should identify appropriate data inputs and suitable metrics to assess climate-related financial risks.
+
+D.7.4.	Principle 7 – Scenario analysis of climate-related financial risks. Scenarios should include a spectrum of plausible, relevant and severe climate pathways, and should cover the types of climate-related financial risks (physical, transition and/or liability risks) to which financial firms are exposed and that affect their businesses and risk profiles.
+
+D.7.5.	Principle 7 – Scenario analysis of climate-related financial risks. Financial firms should conduct scenario analysis over a range of time horizons and assumptions while considering the benefits and limitations of such assumptions and the models. Short-term analysis is typically used to assess the impact on the firm’s risk profile and business operations, while longer-term analysis facilitates assessment of business models in light of shifts in economic and financial system structures.
+
+D.7.6.	Principle 7 – Scenario analysis of climate-related financial risks. Financial firms should use the results of scenario analysis as an input to analysing the adequacy of their existing risk management framework, including designing and implementing actions that mitigate the impact of identified climate-related financial risks. Results of the stress tests should also be considered as part of the internal capital and liquidity adequacy assessment processes, as detailed under Principle 6.
+
+D.7.7.	Principle 7 – Scenario analysis of climate-related financial risks. Climate-related financial risk scenario analysis is a developing area and approaches are expected to evolve and mature over time. Nevertheless, a climate-related scenario analysis framework could, in the near term, assist financial firms in identifying data and methodological limitations and uncertainties in climate-related financial risk management, as well as helping inform the firm about the adequacy of its climate-related financial risk management framework.
+
+ANNEX	
+
+ANNEX.1.	BCBS – Principles for the effective management and supervision of climate-related financial risks (June 2022)
+ANNEX.2.	BCBS – Climate-related financial risks: a survey on current initiatives (April 2020)
+ANNEX.3.	BCBS – Climate-related financial risks – measurement methodologies (April 2021)
+ANNEX.4.	BCBS – Climate-related risk drivers and their transmission channels (April 2021)
+ANNEX.5.	BCBS – Frequently asked questions on climate-related financial risks (December 2022)
+ANNEX.6.	Financial Stability Board (FSB) – Supervisory and Regulatory Approaches to Climate-related risks (October 2022)
+ANNEX.7.	FSB and NGFS – Climate Scenario Analysis by Jurisdictions (November 2022)
+ANNEX.8.	International Association of Insurance Supervisors – Application Paper on the Supervision of Climate-related Risks in the Insurance Sector (May 2021)
+ANNEX.9.	NGFS – Climate Scenarios (2022)
+ANNEX.10.	NGFS – Guide for Supervisors: Integrating climate-related and environmental risks into prudential supervision (May 2020)
+
+

@@ -1,0 +1,126 @@
+Definitions	
+
+Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in the ADGM Companies Regulations 2020. 
+
+In this Guidance, these terms have the following meaning:
+/Table Start
+Defined Term	Meaning
+ADGM	Abu Dhabi Global Market.
+AUM	Assets under management. 
+CR	ADGM Companies Regulations 2020 as amended or updated from time to time.
+ESG	Environmental, social and governance.
+ESG Disclosures Framework	The ESG disclosures framework set out under Sections 399A to 399D of the CR.
+FSRA	The Financial Services Regulatory Authority of the ADGM.
+Guidance	This Environmental, Social and Governance Disclosures Guidance, unless the context requires otherwise.
+IAS	 ‘International accounting standards’ as that term is defined in the Companies Regulations (International Accounting Standards) Rules 2015.
+
+MKT Rulebook	The Markets Rulebook issued by the FSRA, as may be amended from time to time.
+RA	The Registration Authority of the ADGM.
+Threshold Conditions	The conditions in section 399A(2) of the CR that, if satisfied, require compliance with the ESG Disclosures Framework, as further detailed in section 5 below.
+/Table End
+
+1.	Introduction
+Guidance overview and application
+
+This Guidance provides information about the obligations of ADGM limited companies concerning the ESG Disclosures Framework. 
+Legal framework 
+
+The relevant ADGM legislation regarding accounts for limited companies is the CR.
+
+The ADGM’s Regulations and Rules are available on the ADGM website by following this link (https://en.adgm.thomsonreuters.com/). 
+Important information
+
+The RA cannot give technical or legal advice, it can only give general guidance. Questions concerning a specific company which arise following a review of this Guidance should be directed to appropriately skilled legal or accounting professionals.
+
+2.	Purpose of the ESG Disclosures Framework
+
+The RA’s ESG Disclosures Framework seeks to encourage good practice by ADGM companies in disclosing applicable information on ESG factors in line with a globally recognised disclosures standard. 
+
+The ESG Disclosures Framework may be applied by all ADGM entities on a voluntary basis.  For in-scope ADGM companies – being ADGM companies meeting one or more of the Threshold Conditions - the RA has adopted a flexible ‘comply or explain’ approach to applicable disclosures.  In doing so, ADGM wishes to foster an ecosystem of companies which seek to help play a part in meeting the UAE’s net zero by 2050 strategic initiative by disclosing the impact of their company’s operations on ESG factors. 
+
+The RA will monitor whether the ‘comply or explain’ approach is effective in achieving the stated outcomes of the ESG Disclosures Framework.  In the future, the RA may decide to impose a mandatory ESG disclosures framework for in-scope entities. Nothing in this Guidance should be interpreted as an assurance that the ‘comply or explain’ approach will continue in the future.
+
+
+3.	Scope of the ESG Disclosures Framework
+
+Companies established in or continued into ADGM may be within the scope of the ESG Disclosures Framework.  The following entities do not fall within the scope of the ESG Disclosures Framework, either by virtue of not being governed by the CR, or by being expressly exempted from the scope of the ESG Disclosures Framework.
+a.	Foundations.
+b.	Limited Liability Partnerships.  
+c.	General and Limited Partnerships.
+d.	Restricted Scope Companies.
+e.	Publicly listed companies that already make equivalent disclosures in accordance with listing requirements.  For the avoidance of doubt, entities considered ‘Listed Entities’ or ‘Reporting Entities’ for the purposes of the FSRA’s MKT Rulebook remain subject to the ESG disclosures requirements set out therein.
+f.	Investment Companies.
+g.	Branches of foreign companies.
+
+However, the ESG Disclosures Framework may be applied by all ADGM entities on a voluntary basis. 
+
+4.	Time to comply
+
+A company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework in the third year following its incorporation or continuance if it satisfies the Threshold Conditions.  The three-year grace period applies from the date of incorporation or continuance as opposed to the date of amendment of the CR to include the ESG Disclosures Framework. This means an existing company may be required to comply in 2023.  
+
+5.	Threshold conditions 
+
+A company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework if it satisfies the Threshold Conditions, being either a ‘turnover’ threshold or an ‘AUM’ threshold.  
+
+The turnover threshold is reached when a company achieves more than US$ 68 million turnover in a financial year.  The AUM threshold only applies to FSRA-licensed asset management companies which manage funds and/or portfolios with an aggregate value exceeding US$ 6 billion at any time during such financial year.  
+
+The ESG Disclosures Framework does not apply to companies who no longer meet the threshold conditions for two consecutive years or more.  Should the company subsequently meet the threshold conditions in a given year, the ESG Disclosures Framework will once again apply.  
+
+6.	ESG disclosures by companies - turnover threshold
+
+For the purposes of the CR, ‘turnover’ is defined as: the amounts derived from the provision of goods and services falling within a company’s ordinary activities, after the deduction of:
+a.	trade discounts;
+b.	value added tax; and
+c.	any other taxes based on the amounts so derived.
+
+7.	ESG disclosures by FSRA fund and asset managers – AUM threshold
+
+The ESG disclosures by FSRA-licensed fund and asset managers are entity-level disclosures relating to how the FSRA company takes ESG-related risks and opportunities into account in managing or administering assets on behalf of clients.  
+
+8.	Calculation of AUM by asset managers and fund managers
+
+AUM should be calculated in accordance with applicable IAS, or such other international accounting standards as may be applicable to such portfolios or funds. 
+
+9.	Group annual accounts
+
+A parent company that prepares group accounts should prepare ESG disclosures on the basis of the turnover of the group for the purposes of the company turnover threshold in Section 399A(2)(a) of the CR, and also with reference to provisions in Section 398 of the CR on preparation of group accounts by a parent company.  
+
+10.	Disclosures standard
+
+A company which is required to prepare and submit ESG disclosures must prepare its submissions consistent with a standard which is globally recognised in the reasonable opinion of the company’s directors.  The following is a non-exhaustive list of examples of globally recognised standards:  
+
+•	Carbon Disclosure Project (CDP)
+•	Global Reporting Initiative (GRI)
+•	Higg Index
+•	International Sustainability Standards Board (ISSB)
+•	Task Force on ESG Financial Disclosures (TCFD)
+•	United Nations Sustainable Development Goals (UNSDG)
+
+A company may change the applicable disclosures standard at its discretion.  
+
+11.	Review of ESG disclosures reporting process
+
+An internal review of the ESG disclosures reporting process should be undertaken periodically as part of a company’s internal audit framework.
+
+12.	Non-submission of ESG disclosures by in-scope companies
+
+The ESG Disclosures Framework offers flexibility through its ‘comply or explain’ approach, which is designed to encourage companies to develop governance processes and practices that are the most suitable for their particular circumstances and to report them in a meaningful way. 
+
+While the Registrar expects all in-scope companies to submit ESG disclosures, it is acknowledged that it may take time for such companies to develop necessary systems and controls.  The Registrar encourages companies to embrace the flexibility offered by the ESG Disclosures Framework, consider their circumstances carefully and choose what is best for them, while clearly explaining any determination not to make ESG disclosures. 
+
+When informing the Registrar of its decision not to submit ESG disclosures in accordance with subsection 399B(5) of the CR, a company should submit correspondence to monitoring@adgm.com, including a description of the reasons for its determination. 
+
+13.	Exemption for a company included in the group annual accounts of a larger group
+
+A company may consider ESG disclosures made in applicable consolidated group annual accounts to satisfy subsection 399C(2)(a) of the CR where those disclosures are broadly equivalent to those required by the ESG Disclosures Framework. 
+
+14.	Publication of ESG disclosures 
+
+The ADGM encourages companies to make their ESG disclosures publicly available in the spirit of transparency and advancing the UAE’s net zero by 2050 strategic initiative. 
+
+Disclaimer	
+Note: The Registration Authority cannot give technical or legal advice on a company’s accounts or the accounts obligations in individual company circumstances. The Registration Authority can only give general guidance. A company’s accounts are subject to legal requirements, and a company may wish to consider consulting a professional if technical or legal advice is required.
+This Guidance is a non-binding indicative guide and should be read together with the relevant legislation, in particular the CR and any other relevant regulations and enabling rules, which may change over time without notice.  Information in this Guidance is not to be deemed, considered or relied upon as legal advice and should not be treated as a substitute for a specific advice concerning any individual situation.  Any action taken upon the information provided in this Guidance is strictly at the company’s risk and the Registration Authority will not be liable for any losses and damages in connection with the use of or reliance on information provided in this Guidance. The Registration Authority makes no representations as to the accuracy, completeness, correctness or suitability of any information provided in this Guidance.
+
+
+

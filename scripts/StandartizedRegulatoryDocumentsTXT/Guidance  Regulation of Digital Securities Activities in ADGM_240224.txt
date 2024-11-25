@@ -1,0 +1,739 @@
+
+1)	INTRODUCTION
+This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”).  It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (“FSRA”), the FSRA’s Guidance & Policies Manual, its ‘Guidance – Regulation of Digital Security Offerings (ICOs) and Virtual Assets under the FSMR’ (“ICO Guidance”),  its ‘Guidance – Regulation of Virtual Asset Activities in ADGM’ (“Virtual Asset Guidance”) , and its ‘Guidance – Regulatory Framework for Private Financing Platforms’. 
+
+2)	INTRODUCTION
+This Guidance is applicable to entities considering the use of, or using, ‘Digital Securities’ within ADGM, including activities undertaken by Recognised Investment Exchanges (RIEs), Multilateral Trading Facilities (MTFs), Issuers, Reporting Entities, Authorised Persons conducting a Regulated Activity in relation to Virtual Assets, and Authorised Persons Providing Custody or Operating a Private Financing Platform (‘PFP’), amongst others.  The Guidance clarifies the use of Digital Securities within ADGM for both primary market and secondary market contexts.  Readers seeking clarity on the licensing requirements for activities in relation to Virtual Assets should refer to the Virtual Asset Guidance. 
+
+3)	INTRODUCTION
+For the purposes of this Guidance, ‘Digital Securities’ are defined are types of digital assets that possess the features and characteristics of a Security (as defined in Schedule 1 – Part 3 of Specified Investments of FSMR).  Digital Securities also include ‘tokenised’ offerings of Securities.  
+
+4)	INTRODUCTION
+This Guidance is separated into distinct chapters and is not necessarily best read from front to back.  This Guidance may be most useful to a reader who needs to understand a specific aspect of FSRA policy in relation to Digital Securities, and who may therefore wish to better understand FSRA’s regulatory treatment in the context of the reader’s individual circumstances. Examples of such specific aspects could include (but are not limited to): 
+
+a)	a potential Issuer seeking to make an Offer of Digital Securities into ADGM;
+
+b)	Issuers/Reporting Entities seeking to have Digital Securities admitted to the Official List of Securities;
+
+c)	an MTF (using Virtual Assets) wanting to become a Digital Securities trading venue, whether that be as a  RIE (refer to paragraphs 68 – 72) or an MTF (refer to paragraphs 63 -67);
+
+d)	a ‘conventional’ RIE or MTF wanting to operate a Digital Securities trading venue (refer to paragraphs 41 – 44 for RIEs and paragraphs 45 – 48 for MTFs); 
+
+e)	an Authorised Person that is Providing Custody in relation to Virtual Assets (a “Virtual Asset Custodian”), seeking to provide Digital Settlement Facility services (refer to paragraphs 73 - 75);
+
+f)	a ‘conventional’ intermediary, such as a broker, custodian, advisor, fund manager or asset manager, seeking to provide its services in relation to Digital Securities (refer to paragraphs 87-92); or 
+
+g)	an Operator of a PFP seeking to market Digital Securities on its electronic platform (refer to paragraphs 93 - 96).
+
+5)	INTRODUCTION
+Except as otherwise set out, when interpreting (and demonstrating compliance with) the Rules discussed in this Guidance, readers are to interpret the Rules referenced in this Guidance (for example, in relation to the MIR, MKT, COBS, GEN and AML Rulebooks) in the way those Rules are written.  Where this Guidance cross refers to the Virtual Assets Guidance, it is the FSRA’S general expectation that readers apply those relevant aspects of the Virtual Assets Guidance in the context of Digital Securities, with such changes in terminology being read (and understood) as required.
+
+6)	INTRODUCTION
+This Guidance is not an exhaustive source of the FSRA’s policy on the exercise of its regulatory functions and powers.  The FSRA is not bound by the requirements set out in this Guidance and may: 
+
+a)	impose additional requirements to address any specific risks posed by Digital Securities; and/or
+
+b)	waive or modify any of the Rules relevant to Digital Securities, at its discretion, where appropriate.
+
+7)	INTRODUCTION
+Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in FSMR and the FSRA Glossary Rulebook (“GLO”).
+
+8)	INTRODUCTION
+For more details on the process for:
+
+a)	conducting Offers of Securities, in or from ADGM, please contact the FSRA at MIP@adgm.com;
+
+b)	recognition as a RIE and/or Recognised Clearing House (RCH), authorisation as an MTF or authorisation as an Authorised Person Providing Custody for services as a Digital Settlement Facility  (“DSF”), please contact the FSRA at MIP@adgm.com; or
+
+c)	authorisation as an intermediary conducting other Digital Securities-based activities, please contact the FSRA at authorisation@adgm.com.
+
+
+9)	BACKGROUND 
+In October 2017, the FSRA published its ICO Guidance, setting out its regulatory position in relation to ICOs, ICOs deemed to be Securities, and Virtual Assets generally.  In June 2018, the FSRA formally implemented its Virtual Asset Regulatory Framework, which specifically included the Rules and requirements (including the Virtual Assets Guidance) applicable to Authorised Persons conducting a Regulated Activity in relation to Virtual Assets.  The FSRA released its first update to the Virtual Assets Guidance in May 2019.
+ 
+10)	BACKGROUND 
+On the back of the publication of these regulatory frameworks/positions, the FSRA continues to see substantial interest across the digital assets space, including the related use of distributed ledger technology (DLT) platforms.  This interest is spread across a wide spectrum of digital asset based financial services activities, including exchanges, custody, dealing, advising, fund management, payment and other-banking related services.
+
+11)	BACKGROUND 
+Equally, in addition to there being interest across various digital asset-based financial services activities, there is also extensive interest spread across the various types of digital asset-related instruments (including Digital Securities, Virtual Assets, fiat tokens, Derivatives and Funds).  
+
+12)	BACKGROUND 
+This Guidance is intended to provide clarity to those seeking to undertake ‘Digital Securities’-related financial services activities within ADGM, including Issuers wanting to make an Offer of Digital Securities and to assist Authorised Persons conducting a a Regulated Activity in relation to Virtual Assets wanting to extend their digital assets/financial services activities beyond Accepted Virtual Assets. It is also intended to assist entities seeking to utilise new technologies (such as DLT) for the purposes of expanding their activities from the more ‘conventional’ Securities space into Digital Securities.  
+
+13)	BACKGROUND 
+In terms of Virtual Assets, the Virtual Asset Framework (including the Virtual Assets Guidance) provides clarity in relation to what is needed to undertake Virtual Asset-based financial services activity within ADGM. For readers interested in the Virtual Asset Framework, the FSRA suggests you read the Virtual Assets Guidance in the first instance.  
+
+14)	BACKGROUND 
+The diagram and table on the following pages set out the FSRA’s regulatory approach in relation to the different types of digital asset activities within ADGM. 
+/Figure Start
+This figure presents a classification of Digital Assets as defined and regulated by the Financial Services Regulatory Authority (FSRA), organized into four distinct categories: Other Digital Tokens, Virtual Assets, Digital Securities, and Fiat Tokens, with Derivatives/Funds being mentioned as an associated category. Below are the detailed descriptions of each:
+
+Other Digital Tokens: These are utility tokens which do not exhibit the features and characteristics of a regulated investment/instrument under FSRA.
+
+Virtual Assets: This category includes non-fiat virtual currencies, such as Bitcoin, Ether, etc. The figure notes that FSRA's market intermediaries conducting Virtual Asset business are required to apply and hold the relevant license under FSRA.
+
+Digital Securities: Described as digital assets with security characteristics, including 'tokenized' offerings of securities. Financial services activities in relation to Security Tokens - e.g., the offering of, dealing in, advising on, custody of, or providing Security Tokens - are regulated as Security instruments under FSRA.
+
+Fiat Tokens: These are digital tokens that are fully backed by fiat currency. Some activities where tokens are used as payment instruments, e.g., stablecoins, may be regulated as Providing Money Services under FSRA.
+
+Derivatives/Funds: This refers to Derivatives over regulated Digital Assets and collective investment funds investing in Regulated Digital Assets. They are regulated as Derivatives and Funds in a Fund under FSRA.
+
+Market operators and intermediaries dealing in such Derivatives and Funds are licensed and approved by FSRA.
+
+The bottom note clarifies that the FSRA regulates and will allow to operate within the ADGM, the Digital Assets located within the blue dotted line and Derivatives over/Funds investing in Digital Assets. The blue dotted line encapsulates all categories except "Other Digital Tokens," implying that all the other categories fall under the regulatory scope of FSRA within the ADGM (Abu Dhabi Global Market).
+/Figure End
+
+/Table Start
+Category of Digital Assets / Instruments	Regulatory Approach
+“Digital Securities”
+
+(e.g., digital/virtual tokens that have the features and characteristics of a Security under the FSMR (such as Shares, Debentures and Units in a Collective Investment Fund)).
+	Deemed to be Securities pursuant to Paragraph 58(2)(b) of FSMR.
+
+All financial services activities in relation to Digital Securities, such as operating primary / secondary markets, dealing / trading / managing investments in or advising on Digital Securities, are subject to the relevant regulatory requirements under the FSMR.
+
+Market intermediaries and market operators dealing or managing investments in Digital Securities need to be licensed / approved by FSRA as FSP holders (including as Multilateral Trading Facilities), Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.
+
+“Virtual Assets”
+
+(e.g., non-fiat virtual currencies, 
+virtual asset ‘exchange tokens’).  
+
+	Treated as commodities and, therefore, not deemed Specified Investments under the FSMR.
+
+Market intermediaries (e.g., broker dealers, custodians, asset managers) dealing in or managing Virtual Assets, and Multilateral Trading Facilities using Virtual Assets, need to be licensed / approved by FSRA.  Only activities in Accepted Virtual Assets will be permitted.
+
+Capital formation activities are not provided for under the Virtual Asset Framework, and such activities are not envisaged under the Market Rules (MKT).
+
+Derivatives and Collective Investment Funds of Virtual Assets, Digital Securities and Utility Tokens	Regulated as Specified Investments under the FSMR.  
+
+Market intermediaries and market operators dealing in such Derivatives and Collective Investment Funds will need to be licensed / approved by FSRA as FSP holders, Recognised Investment Exchanges or Recognised Clearing Houses, as applicable.
+
+“Utility Tokens” 
+
+(e.g., tokens which can be redeemed for access to a specific product or service, typically provided using a DLT platform, do not exhibit the features and characteristics of a regulated investment / instrument under the FSMR).
+	Treated as commodities and, therefore, not deemed Specified Investments under the FSMR.  
+
+Unless such Utility Tokens are caught as Accepted Virtual Assets, spot trading and transactions in Utility Tokens do not constitute Regulated Activities, activities envisaged under a Recognition Order (e.g., those of a Recognised Investment Exchange or Recognised Clearing House), or activities envisaged under MKT.  
+
+
+“Fiat Tokens”
+
+(e.g. stablecoins whose value are fully backed by underlying fiat currencies)	Treated as a form of digital representation of Fiat Currency.
+
+Where used as a payment instrument for the purposes of Money Transmission as defined under the FSMR, the activity will be licensed and regulated as Providing Money Services.
+
+/Table End
+
+15)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+As set out in the ICO Guidance, the FSRA’s assessment of whether an offering of a digital/virtual token is regulated under FSMR is conducted on a case-by-case basis (in keeping with FSRA’s treatment of ‘conventional’ Securities).  If a digital/virtual token being offered is assessed to exhibit the (economic and legal) features and characteristics of a Security, the FSRA will deem the digital/virtual token (being a “Digital Security”) as a Security pursuant to Section 58(2)(b)  of FSMR.  This approach has been taken by the FSRA to ensure the protection of investors, noting that while a Digital Security may have the characteristics of a Security, this position is not always clear and accordingly requires review by the FSRA.   
+
+16)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+To use its powers under Section 58(2)(b), the FSRA expects that an Issuer will provide to it such information as is required to demonstrate that the proposed Digital Security meets the requirements of a “Security” (as defined in FSMR). In circumstances:
+
+a)	requiring the submission of an Approved Prospectus to the FSRA, the FSRA will use the documentation submitted as part of this approval process to determine whether it will deem a Digital Security a Security under Section 58(2)(b) of FSMR; or 
+  
+b)	relating to an Exempt Offer, the FSRA will review the Exempt Offer documentation for the purposes of being able to make a determination under Section 58(2)(b).  The FSRA’s review will not be for the purposes of approving the Exempt Offer itself.  
+
+17)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+In either scenario, the FSRA may also request further supporting documents from an Issuer (e.g., constitutional documents, relevant legal opinions).
+
+18)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+For regulatory purposes, Offers of Securities (as defined in Section 258 of FSMR), whether through a DLT platform, digital platform or other means, will be subject to consistent regulatory treatment by the FSRA.  As such, similar to the treatment of a conventional Issuer of Securities, Issuers / market participants who seek to raise funds in a regulated, robust and transparent manner using new business models or technologies (such as DLT), are encouraged to engage with the FSRA regarding the proposed Offer as early as possible in the fund-raising process.
+
+19)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+Where appropriate, Issuers should consider the appointment of (legal) advisers to assist with the preparation and submission to the FSRA of its relevant diligence materials (as part of any submission to the FSRA pursuant to Section 58(2)(b) of FSMR).
+
+20)	REGULATORY TREATMENT OF DIGITAL SECURITIES 
+To ensure appropriate safeguards are in place to protect both investors and market integrity, an offer of a ‘Utility Token’ falls outside the FSRA’s regulatory remit and is not permitted under the Markets Rules (MKT).   
+
+21)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+The requirements for Offers of Securities to the Public are set out in Sections 58 to 71 of FSMR, and Chapter 4 of MKT.  These requirements apply to Offers of all types of Securities, including Digital Securities. 
+
+22)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+Section 58(1) of FSMR prohibits Issuers from making an Offer of Securities to the Public in or from ADGM (or to have Securities admitted to trading on a RIE) from doing so other than in accordance with FSMR, and MKT.  
+
+23)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+As set out in section 59 of FSMR, an Offer of Securities to the Public is “a communication to any person in any form or by any means presenting information on the Offer and the Securities offered so as to enable an investor to decide to buy or subscribe to those Securities”. 
+
+24)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+Issuers wishing to make an Offer of Securities to the Public in, or from, ADGM must comply with all applicable requirements, including (unless it is an Exempt Offer) the obligation to publish an Approved Prospectus under Section 61 of FSMR (a “Prospectus Offer”).  The requirements for the structure and content of an Approved Prospectus are detailed in MKT Rule 4.5 and described in more detail in paragraphs 28 – 30 below.
+
+25)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+In accordance with MKT Rule 4.6.1, a person intending to make a Prospectus Offer must make an application for approval of a prospectus to the FSRA at least 20 days prior to the intended date of an Offer commencing. The FSRA expects to have discussed an application with the Issuer well in advance of this, including having reviewed draft Prospectus Offer documents, as applicable.  
+
+26)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+Due to the complexities associated with Offers of Digital Securities (from a technology perspective, and to take into account the relative infancy and resultant risks of the Digital Securities industry itself), the FSRA generally expects that an Issuer intending to make an Offer of Digital Securities is to be incorporated within the ADGM.
+
+27)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Offers of Securities
+An Offer of Securities to the Public (made by way of an Approved Prospectus) can be used for the purposes of having such Securities admitted to trading on a RIE (see paragraph 42).  Where such Securities have already been admitted to trading on a RIE, they may also be admitted to trading (on the basis of admission to the first RIE) on a further RIE or MTF.
+
+28)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Prospectus content for an Offer of Digital Securities
+The required disclosures to be included in an Approved Prospectus are set out in Appendix 1 of MKT. A Prospectus related to the Offering of Digital Securities is to include all required disclosures set out within MKT Appendix 1, as applicable. 
+
+29)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Prospectus content for an Offer of Digital Securities
+Where an Issuer considers that a specific disclosure requirement is not applicable/not relevant to their intended Offering, the Issuer is required to request from the FSRA a modification/waiver at the time of submission of the (Draft) Approved Prospectus for FSRA approval. Such request should be submitted in full detail to the FSRA. 
+
+30)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Prospectus content for an Offer of Digital Securities
+In the particular context of Digital Securities, further guidance is set out below in relation to several key disclosure requirements for an Approved Prospectus: 
+
+a)	Prospectus language: Issuers should ensure that when preparing a Prospectus, it is ‘easily analysable and comprehensible’ to retail investors. This means that the Prospectus should be written in a style that is appropriate for retail investors, and that the use of defined terms, technical language and market terminology should be restricted to circumstances where their use aids the comprehension of a retail investor, or where their use is necessary to ensure the Prospectus is true, accurate and not misleading. 
+
+b)	Risk Factors: Pursuant to MKT Appendix 1.1.1-2.3, proper consideration is to be given to the real risks that face an Issuer, and generic or boilerplate disclosures are to be avoided. If a risk is not relevant to a particular Issuer, or its Digital Securities, then it is expected that no disclosure of that risk be included in the Issuer’s Prospectus. Risk factors should be grouped together in a coherent manner and risk factors considered to be of the greatest or most-immediate significance should be disclosed prominently at the beginning of the risk factors section.
+
+c)	Responsibility: As per MKT Rule 4.10, an Issuer or the Person making a Prospectus Offer remains responsible for all disclosures within a Prospectus and ensuring that the disclosures within a Prospectus are clear and not misleading. 
+
+d)	General Information: As set out in MKT Appendix 1.1.1-1.1, the country of incorporation of the Issuer and its incorporation number should be clearly disclosed within the Prospectus. A statement should be included on whether the Issuer has been established as a special purpose vehicle or entity for the purpose of issuing asset backed Securities.  In the context of Digital Securities, the FSRA would generally view digital representations (such as tokens) of Debentures or notes backed by financial assets to be considered asset backed for the purpose of this disclosure requirement. Please note that the disclosure requirement in Securities Note – 7.1 also applies.
+
+e)	Actual and proposed business activities: As set out in MKT Appendix 1.1.1-2.1, a description of the history of the Issuer is to be included, and where an Issuer is newly incorporated, information should be disclosed regarding any preceding entity which conducted similar operations or was controlled by the same parties.
+
+f)	Historical financial information: As set out in MKT Appendix 1.1.1-7.1, where an Issuer has begun operations, its relevant financial information is to be included in the Prospectus, and be appropriately audited.  An Issuer’s financial statements are to be prepared in compliance with IFRS. As set out in MKT Appendix 1.1.1-9.4, please also note that the requirement for an expert report applies to special categories of Companies.
+
+g)	Securities Note: For the purposes of MKT Appendix 1.2.1 – Section 2 (General information relating to the Securities (b)&(d)), in the case of Digital Securities, the FSRA would normally expect this disclosure requirement to be deemed N/A for the former, and subject to ADGM legislation for the latter.
+
+h)	Securities Note – Other rights: Pursuant to MKT Appendix 1.2.1 – 2.4, the disclosure of other rights (such as the existence of voting rights) associated with a Digital Security is an important disclosure to allow an investor to make a fully informed investment decision. As such, disclosures of this nature would need to be given due prominence within an Approved Prospectus, and effort needs to be made throughout the document to draw a reader’s attention to such disclosures. This may involve cross-referencing or other appropriate signposting. 
+
+31)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Prospectus content for an Offer of Digital Securities
+Please note that the information required to be submitted as part of a Securities Note will be key information reviewed by the FSRA when considering the use of its power to deem a Security (as referred to in paragraph 16).  If this information is not available, or has not been completed appropriately, it is most likely that the FSRA will not be in a position to utilise its deeming power (under section 58(2)(b) of FSMR).
+
+32)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Exempt Offers
+The obligation to issue a Prospectus under Section 61(3) of FSMR does not apply to an Offer of Securities to the Public that constitutes an Exempt Offer.  Pursuant to MKT Rule 4.3, the FSRA has defined the types of Offers that constitute an Exempt Offer, including where:
+
+a)	an Offer is directed at Professional Clients other than natural Persons;
+
+b)	an Offer is directed at fewer than 50 Persons in any 12 month period, excluding Professional Clients who are not natural Persons; or
+
+c)	the total consideration to be paid by a Person to acquire Securities is at least USD 100,000, or an equivalent amount in another currency.
+
+33)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Exempt Offers
+As set out earlier in paragraph 15, an Issuer making an Exempt Offer of a Digital Security is still required to have the Digital Security deemed a Security under Section 58(2)(b) of FSMR.  To clarify, the Issuer of the Exempt Offer document is not required to obtain FSRA approval for the Exempt Offer document itself.  
+
+34)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Exempt Offers
+An Offer of Securities to the Public (made by way of an Exempt Offer document) can be used for the purposes of having such Securities admitted to trading on an MTF (see paragraph 46). 
+
+
+35)	MARKETS RULES – OFFERS OF SECURITIES TO THE PUBLIC
+Appointment of Legal Advisers
+Issuers seeking to make an Offer of Digital Securities should consider the appointment of suitable legal advisers, with the appropriate skills, knowledge and experience to provide the requisite assistance to the Issuer throughout the Offer process. The FSRA expects that such legal advisers would assist in ensuring an Issuer’s compliance with the applicable provisions of FSMR (including having the FSRA deem a Digital Security a Security under FSMR Section 58(2)(b)), and MKT (including in relation to the Listing Rules within MKT).  The FSRA would generally expect to have direct engagement with an Issuer’s legal advisers throughout this process, particularly in relation to the drafting, and FSRA review, of Offer documentation.  
+
+
+36)	MARKETS RULES – LISTING RULES
+Pursuant to section 50 of FSMR,  the FSRA is required to maintain the Official List of Securities, and may admit to the Official List such Securities as it considers appropriate.  For this purpose, Chapter 2 of MKT sets out the Listing Rules applicable to Listed Entities and to each Issuer seeking admission of its Securities to the Official List of Securities.  It is important to note that pursuant to section 50 of FSMR, only the FSRA can maintain an Official List of Securities, and neither RIEs nor any other entity within ADGM are able to maintain their own ‘Official List of Securities’. 
+
+37)	MARKETS RULES – LISTING RULES
+Due to the infancy of Digital Securities markets globally, and the generally incomplete integration of Digital Securities primary and secondary markets, the FSRA expects that Offers of Digital Securities being made in or from ADGM should also be linked to having such Issuers seek admission of their Securities to trading on a RIE or MTF operating within ADGM as well (see paragraphs 42 and 46-47 relating to admission to trading on RIEs and MTFs respectively).  As set out initially in paragraph 2 of this Guidance, the considerations of both a primary market and secondary market context are expected to be fully considered by an Issuer. This should include considerations of where an Issuer should make an Offer (and what type of Offer), as well as which markets within ADGM would adequately meet its particular secondary market requirements (size, investor type, transparency, depth and liquidity). 
+
+38)	MARKETS RULES – LISTING RULES
+In relation to ‘Primary Listings’, due to concerns around different regulatory frameworks, regulatory appetite, and consistency of regulatory oversight/supervision globally, the FSRA does not, at this point in time, envisage allowing listings of Digital Securities within ADGM (on a secondary listing basis) where the primary listing remains outside of the ADGM, and in a jurisdiction that is not yet appropriately understood or deemed suitable by FSRA. Following the publication of this Guidance, the FSRA will continue to engage with its regulatory peers as needed, such that it can work towards identification of potential suitable jurisdictions for the purposes of both cross-border Offers and listings.  Issuers intending to make cross-border Offers and listings (within or from ADGM markets) are therefore expected to engage with the FSRA at a very early stage when considering doing so.
+
+39)	MARKETS RULES – LISTING RULES
+As set out earlier in paragraph 5, it is the FSRA’s general expectation that its Regulations (FSMR) and Rules be read as written, including in relation to the Listing Rules (Chapter 2 of MKT). In relation to specific Listing Rules: 
+
+a)	an Issuer seeking to issue Digital Securities should note that the listing principles set out in MKT Rule 2.2 apply in full; 
+
+b)	for the avoidance of doubt, the requirement for a working capital statement per MKT Rule 2.3.3 applies, along with the other general eligibility requirements of MKT Rule 2.3;
+
+c)	pursuant to Chapter 5 of MKT, the FSRA has discretion to require the appointment by an Issuer of a Sponsor, compliance adviser or other expert adviser. Due to the complexities involved and the relative infancy of Digital Securities, the FSRA will  generally expect an Issuer of Digital Securities to appoint a Sponsor as required by MKT Rule 5.1.2; and
+
+d)	for Digital Securities in the form of Units of a Fund, Chapter 3 (instead of Chapter 2) of MKT contains the relevant Listing Rules.
+
+
+40)	DIGITAL SECURITIES & TRADING VENUES
+As set out in this Guidance so far, the FSRA’s regulatory framework allows for Digital Securities to be offered, admitted to the Official List (maintained by FSRA) and traded on secondary markets within ADGM. This section of the Guidance will now set out the FSRA’s expectations in relation to how ADGM trading venues (RIEs, MTFs and Organised Trading Facilities (“OTFs”)) interact with Digital Securities. The FSRA’s policy position and expectations in relation to the operation of these different market infrastructures is set out below.  
+
+41)	DIGITAL SECURITIES & TRADING VENUES
+Recognised Investment Exchanges (RIEs)
+RIEs may operate both primary and secondary markets in Financial Instruments (including Digital Securities).  A RIE must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in Market Infrastructure Rules (MIR) Chapter 2 (Rules Applicable to All Recognised Bodies) and Chapter 3 (Rules Applicable to RIEs) before a Recognition Order can be granted by the FSRA. Once it has been granted a Recognition Order, a RIE must continue to comply with all Recognition Requirements (contained with MIR Chapters 2 and 3) on an ongoing basis.
+
+42)	DIGITAL SECURITIES & TRADING VENUES
+Recognised Investment Exchanges (RIEs)
+Pursuant to section 50(3) of FSMR, a RIE shall not permit trading of Securities on its facilities unless those Securities are admitted to, and not suspended from, the Official List.  Section 61(1) of FSMR is linked to section 50(3), such that an Issuer cannot ‘have Securities admitted to trading on a RIE, unless there is an Approved Prospectus in relation to the relevant Securities’.  An Issuer therefore wanting to have its Securities traded on a RIE needs to have such Securities: 
+
+a)	admitted to the Official List of Securities (maintained by FSRA); and
+
+b)	offered by way of an Approved Prospectus.
+
+43)	DIGITAL SECURITIES & TRADING VENUES
+Recognised Investment Exchanges (RIEs)
+Application of MIR Chapter 2:  As noted in paragraph 41 above, where an Applicant applies to become a RIE, the entirety of MIR Chapter 2 (Rules Applicable to All Recognised Bodies) will apply.  Applicants should also, however, take note of the following:
+
+a)	MIR Rule 2.8 (Membership criteria and access): MIR Rule 2.8.1 requires that a RIE ‘must ensure that access to its facilities is subject to criteria designed to protect the orderly functioning of the market and the interests of investors’.  Applicants should take into account, where relevant, the guidance provided by FSRA in relation to MIR Rule 2.8 in paragraph 131 of the Virtual Assets Guidance (relating to ‘direct client’ vs ‘membership’ models) which should be read in the context of a RIE operating a Digital Securities market; 
+
+b)	MIR Rule 2.10 – Custody:  Considering that the safeguarding and administration of Securities is a key requirement for a RIE, and that Digital Securities custody arrangements and technologies are still being developed globally, the custody of Digital Securities may possess higher inherent risks in comparison to traditional securities custody. The FSRA is therefore of the view that where an Applicant seeks to provide custody services within its Group, this can only occur via a separate legal entity appropriately licenced for such activities (see paragraphs 53 and 59 on RCHs and DSFs respectively);  and  
+
+c)	MIR Rule 3.2.1 – Capital Requirements:  Pursuant to this Rule, RIEs operating a market in Digital Securities will generally be required to hold 12 months operating expenses as regulatory capital.  
+
+44)	DIGITAL SECURITIES & TRADING VENUES
+Recognised Investment Exchanges (RIEs)
+Application of MIR Chapter 3:  As noted in paragraph 41 above, where an Applicant applies to become a RIE, the entirety of MIR Chapter 3 (Rules Applicable to RIEs) will apply.   Applicants, however, should also take note of the following:
+
+a)	MIR Rule 3.8 (Settlement and Clearing Services):  MIR Rule 3.8 requires a RIE to ensure that “satisfactory arrangements are made for securing the timely discharge (whether by performance, compromise or otherwise), Clearing and settlement of the rights and liabilities of the parties…” The FSRA’s policy position in this regard is that clearing and settlement of Digital Securities can be undertaken by either a RCH or a DSF (see paragraphs 51 - 61).  Further guidance on the clearing and settlement obligations of a RCH is set out at paragraphs 51 - 52 and further guidance in relation to a DSF is outlined at paragraphs 55 - 61. The FSRA has not yet formed a view as to whether Remote Clearing Houses would be suitable for this purpose.  Until such time that the FSRA forms such a view, it will be the general FSRA position that a RIE/MTF seeking to meet MIR Rule 3.8 will only be able to do so by engaging an FSRA-regulated RCH or DSF. 
+
+b)	MIR Rules 3.5, 3.6 and 2.5 (normal trading hours): While a RIE’s technology may facilitate its market operating for 24 hours, 7 days a week, RIEs (including those operating Digital Securities markets) will be expected to operate on the same basis/market timings as how Securities markets are conducted globally.  This is to ensure, amongst other things, that the RIE’s continuous disclosure obligations/market requirements /supervisory requirements can be suitably met (by the RIE itself, as well as for the FSRA, relevant Issuers, Reporting Entities and investors).
+
+45)	DIGITAL SECURITIES & TRADING VENUES
+Multilateral Trading Facilities (MTFs)
+Applicants wishing to operate as an MTF within ADGM may apply for a Financial Services Permission (FSP) to do so.  Where an Applicant seeks to be licenced as an MTF, COBS Chapter 8 and the MIR Rules set out in COBS Rule 8.2 shall apply (being MIR Rules 2.6, 2.7, 2.8, 2.9, 2.11, 3.3, 3.7, 3.8 and 3.10). As an Authorised Person, an MTF also needs to comply with the wider Rulebooks relevant to all Authorised Persons, including COBS, GEN and AML.
+
+46)	DIGITAL SECURITIES & TRADING VENUES
+Multilateral Trading Facilities (MTFs)
+MTFs may operate as a primary trading venue for Digital Securities offered and issued by way of an Exempt Offer, provided that membership and trading is limited to non-retail clients only.  As set out in paragraphs 16 and 32 of this Guidance, an Issuer wishing to make an Exempt Offer in order to have its Digital Securities admitted to trading on an MTF will need to ensure that it includes all required information in its Exempt Offer document in order to allow FSRA to deem the Digital Securities as Securities pursuant to section 58(2)(b) of FSMR.  
+
+47)	DIGITAL SECURITIES & TRADING VENUES
+Multilateral Trading Facilities (MTFs)
+In addition, Offers of Securities that have been admitted to the Official List for the purposes of trading on a RIE (as noted in paragraph 42 above) may also be available for trading on the secondary market of an MTF, for both retail clients and professional clients.  Retail participation will only be permitted on an MTF where an Approved Prospectus has been registered for the purposes of admission to trading by the RIE (as the primary trading venue).  For both professional and retail clients, trading is limited to trading within the market of that MTF.  It is important to note therefore that, with the exception of only Exempt Offers being made pursuant to admission to trading on an MTF, MTFs should generally be considered as (secondary market) trading venues rather than (primary market) offering venues.  
+
+48)	DIGITAL SECURITIES & TRADING VENUES
+Multilateral Trading Facilities (MTFs)
+In the context of MIR Rule 3.8 (Settlement), MTFs have the same obligations as RIEs (see paragraph 44(a)), and specific guidance on the application of MIR Rule 3.8 (Settlement and Clearing Services) in the context of Digital Securities being trading on an MTF is set out in paragraphs 55 - 57 below.  MTFs, however, looking to provide settlement services for Digital Securities directly will not be able to do so.  
+
+49)	DIGITAL SECURITIES & TRADING VENUES
+Organised Trading Facilities (OTFs)
+The regulatory framework for OTFs is similar to that of MTFs, but with certain differences (as set out in COBS Chapter 8).  While OTFs can operate markets for some Securities (primarily Debentures), it is FSRA policy that markets for the trading of Digital Securities should be operated on a non-discretionary basis (RIEs and MTFs) instead of a discretionary basis (OTFs).  As a result, the FSRA will not likely allow Digital Securities to be traded on an OTF, and will continue to monitor regulatory developments within this space.      
+
+50)	DIGITAL SECURITIES SETTLEMENT 
+This section of the Guidance sets out the two broad types of entities that are able to provide Digital Securities settlement facilities to RIEs and MTFs, as allowed for by MIR Rules 3.8 and 4.3.  In choosing a RCH or DSF to utilise for custody operations (MIR Rule 2.10) or settlement (MIR Rule 3.3), a RIE or MTF can only use a RCH or DSF when the FSRA has been able to determine that the relevant settlement facility allows the RIE or MTF to meet its MIR obligations. Further discussion regarding the FSRA’s policy position and expectations in relation to these entities is set out below.  
+
+51)	DIGITAL SECURITIES SETTLEMENT 
+Recognised Clearing Houses (RCHs) 
+Subject to being granted a Recognition Order, RCHs operating within ADGM are permitted to settle different types of Financial Instruments, including Digital Securities.  A RCH must demonstrate to the FSRA that it is able to meet the Recognition Requirements as set out in Market Infrastructure Rules (MIR) Chapter 2 (Rules Applicable to All Recognised Bodies) and Chapter 4 (Rules Applicable to RCHs) before a Recognition Order can be granted by the FSRA.  Once it has been granted a Recognition Order, a RCH must continue to comply with the Recognition Requirements (contained within MIR Chapters 2 and 4) on an ongoing basis.
+
+52)	DIGITAL SECURITIES SETTLEMENT 
+Recognised Clearing Houses (RCHs) 
+Platforms allowing the trading of Digital Securities (RIEs and MTFs) may engage the services of a RCH operating in the ADGM. Subject to meeting the Recognition Requirements set out in MIR Chapters 2 and 4, the FSRA may allow RCHs to use DLT platforms, or conventional clearing/settlement technologies. The FSRA remains technology agnostic in its approach to the technology used by RCHs.
+
+53)	DIGITAL SECURITIES SETTLEMENT 
+Recognised Clearing Houses (RCHs) 
+Within ADGM, RCHs are to be operated independently from a RIE/MTF, requiring a RCH to be incorporated as a stand-alone, independent legal entity for the purposes of providing settlement services.  
+
+54)	DIGITAL SECURITIES SETTLEMENT 
+Recognised Clearing Houses (RCHs) 
+While acceptable for use for the purposes of MIR Rules 2.10 and 3.8, the FSRA does not anticipate that RCHs will be the prevalent type of entity used for facilitating custody and settlement functions in relation to Digital Securities, given the costs related to establishing/capitalising a RCH and that mechanisms for close to real-time settlement may potentially remove the need for considerable parts of RCH functionality.  
+
+55)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+For the purposes of this Guidance and distinct from RCHs, the FSRA will consider DSFs suitable for the purposes of settlement (MIR Rule 3.8) and custody (MIR Rule 2.10) of Digital Securities. A DSF, holding an FSP for Providing Custody, may provide custody and settlement services in Digital Securities for RIEs and MTFs (as applicable).  Therefore, for the purposes of custody and settlement of Digital Securities, the arrangements that a RIE or MTF would normally have in place with a RCH can be replaced with arrangements provided by a DSF, provided that certain requirements, as described in this section, are met.
+
+56)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+Pursuant to MIR Rule 3.8.1, RIEs or MTFs are required to have satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions taking place on its platform.   MIR Rule 3.8.2 normally allows for a RCH or Remote Clearing House (noting the FSRA’s position that it will not permit Remote Clearing Houses for this purpose in the context of Digital Securities) to be deemed as sufficient for the purposes of satisfying MIR Rule 3.8.1. 
+
+57)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+Pursuant to MIR Rule 3.8.3, however, and in the context of Digital Securities, a RIE or MTF must provide the FSRA, in writing, with the details of the satisfactory arrangements made when such RIE or MTF does not engage a RCH (for example, to use in this context, a DSF).  To clarify, the FSRA will require that arrangements to use a DSF for settlement purposes will require the DSF to comply with the requirements of MIR Rule 4.3.3 (with the references to a RCH being read as references to a DSF).    
+
+58)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+Pursuant to MIR Rule 4.3.3, in determining whether there are satisfactory arrangements for securing the timely discharge of the rights and liabilities of the parties to transactions, the FSRA may have regard to the DSF’s: 
+
+a)	rules and practices relating to clearing and settlement, including its arrangements with another Person for the provision of clearing and settlement services;
+
+b)	arrangements for matching trades and ensuring that the parties are in agreement about trade details;
+
+c)	where relevant, arrangements for making deliveries and payments, in all relevant jurisdictions;
+
+d)	procedures to detect and deal with the failure of a Member (or participants) to settle in accordance with its rules; 
+
+e)	arrangements for taking action to settle a trade if a Member (or participant) does not settle in accordance with its rules;
+
+f)	arrangements for monitoring its Members’ settlement performance; and
+
+g)	where appropriate, Default Rules and default procedures.
+
+59)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+As set out earlier in paragraph 43(b), pursuant to MIR Rule 2.10, a RIE (but not an MTF) may be required to engage a custodian/settlement facility for the purposes of having satisfactory custody arrangements in place.   A DSF, where engaged by a RIE for this purpose, will be required to have satisfactory arrangements in place in order to meet the full set of requirements set out in MIR Rule 2.10.  As part of these services, DSFs may also record changes of ownership, maintain an Issuer’s security holder records, cancel and issue Digital Security certificates, and distribute dividends. It is important that DSFs maintain an open channel of communication with Issuers to determine whether Digital Securities need to be issued or redeemed.
+
+60)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+In addition, the FSRA reserves the right at any point in time, either during the Authorisation  process or as part of its supervisory oversight of a DSF, to consider the applicability of other Rules within MIR Chapter 4 (Rules Applicable to RCHs), dependent on the relevance of those Rules to the business model/operations of the DSF.
+
+61)	DIGITAL SECURITIES SETTLEMENT 
+Digital Settlement Facilities (DSFs) 
+Entities seeking to operate as DSFs should take note of the following:
+
+a)	Entities providing custody of Digital Securities within ADGM, including DSFs, may also wish, or be required, to operate a CSD.  COBS Chapter 10 sets out the requirements relevant to the operation of a CSD, including that as set out in COBS Rule 10.1.3, only an Authorised Person licenced for Providing Custody is permitted to act as a CSD. 
+
+b)	For transactions where delayed settlement occurs (e.g., on an end of day or t+n basis), the FSRA may likely require the DSF to integrate specific risk management functions within its operations, as per the requirements of MIR Chapter 4, including in relation to (but not limited to) the scenarios identified in paragraph (c) below.
+
+c)	For transactions with instantaneous delivery versus payment (DvP),  the FSRA may deem certain aspects relating to default management to not apply.  For transactions where end of day, or t+n DvP occurs, there may be scope for the DSF to implement default management provisions commensurate to the length of the settlement time-horizon.
+
+d)	In the case of a DSF performing DvP on a delayed basis, the FSRA may impose certain further obligations on the DSF (as set out within Chapter 4 of MIR) including in relation to the following:
+
+•	MIR Rule 4.2 (e.g., capital requirements - in relation to credit, counterparty, and market risks);
+•	MIR Rule 4.5 (e.g., default management);
+•	MIR Rule 4.6 (e.g., stress testing);
+•	MIR Rule 4.7 (risk management);
+•	MIR Rule 4.10 (collateral management and margin); and
+•	MIR Rule 4.12 (segregation and portability of Client Assets).
+
+62)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+This section of the Guidance sets out the FSRA’s views as to how Authorised Persons conducting a Regulated Activity (such as Operating an MTF, acting as a Virtual Asset Custodian or other intermediary activities) in relation to Virtual Assets can extend their Regulated Activities by undertaking Digital Securities-related Regulated Activities as well (including across RIEs, MTFs, and DSFs).  RIEs, or Authorised Persons conducting a Regulated Activity in relation to Virtual Asset activities, wishing to expand into Digital Securities markets will need to apply to the FSRA for the relevant additional regulatory approvals to do so.  
+
+
+63)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Extension into trading of Digital Securities 
+MTFs using Virtual Assets (“Virtual Asset MTFs”) can apply to the FSRA for additional approval to trade Digital Securities.  The MTF would therefore be able to have Digital Securities admitted to trading, where such Digital Securities were directly offered/issued based on an Exempt Offer, or have already been admitted to a RIE (as the primary venue for trading - refer to paragraph 42).  
+
+64)	 AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Extension into trading of Digital Securities 
+Virtual Asset MTFs seeking to extend their operations to include Digital Securities will be required to demonstrate that they can comply with those requirements applicable to operating a MTF (e.g., COBS, MIR, GEN, AML) in the context of undertaking new Digital Securities-related financial services.  While the FSRA anticipates that the technology utilised by an MTF for the purposes of trading of Virtual Assets may be the same, or substantially similar, as that required for the purposes of trading Digital Securities, the MTF will still be required to demonstrate to the FSRA how each of the applicable Authorised Person/MTF requirements are to be met taking into account Digital Securities requirements.
+
+65)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Extension into trading of Digital Securities 
+For the purposes of MIR Rule 3.8 (settlement), Virtual Asset MTFs seeking to extend their operations to include Digital Securities will not be permitted to clear and settle transactions within the same legal entity that is conducting MTF-trading activities.  In such circumstances, the MTF will be required to separately establish, or make arrangements to use, a separate clearing and settlement entity (refer to the sections above in relation to RCHs or DSFs, in paragraphs 53 or 59 respectively).   
+
+66)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Extension into trading of Digital Securities 
+Subject to any differences between the MTF’s operations (particularly from a technology perspective) in relation to the trading of Virtual Assets and the trading of Digital Securities, an extension from the former to the latter may not raise significant technical issues.  However, the update/integration of a Virtual Assets MTF’s technology in order to introduce new primary market and secondary market functionalities (offers, issuance and (Member) trading of Digital Securities) may likely impose new regulatory and technical burdens on Virtual Asset MTFs extending into Digital Securities.  
+
+67)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Extension into trading of Digital Securities 
+Please note that the relief provided by FSRA in May 2019 (to allow Virtual Asset MTFs) to operate a direct client access market has not been extended to allow MTFs to operate on a similar basis in relation to Digital Securities.  As such, due to the policy/operational requirements at play, the FSRA suggests that MTFs wanting to operate on a ‘direct client’ basis (in relation to Digital Securities) engage with the FSRA as early as possible.
+AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+68)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+Virtual Asset MTFs wishing to operate as an RIE will be required to relinquish their FSP (in relation to their operation of an MTF) upon obtaining a Recognition Order to operate the RIE.  Pursuant to MIR Rule 3.4.1, if licenced by the FSRA to carry out the activities of both a RIE and an MTF, the Recognition Order granted for the RIE will include a stipulation, including the MTF, to that effect.
+
+69)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+RIEs can admit to trading Digital Securities that have been admitted to the Official List of Securities (maintained by FSRA) and offered by way of an Approved Prospectus.  As set out earlier in paragraph 36, the FSRA is ADGM’s Listing Authority, and as such the Issuer/Reporting Entity of the Digital Securities must meet all requirements of the Listing Rules, as outlined in Chapter 2 of the Market Rules (MKT) before an admission to listing and admission to trading on a RIE may occur.
+
+70)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+Migration of a Virtual Assets MTF to a RIE is more complex than the extension of a Virtual Assets MTF into Digital Securities (as dealt with in paragraphs 63 - 67 above).  This is due to a number of factors, including that a RIE is required to meet the full suite of requirements in Chapters 2 and 3 of MIR, and the primary market considerations associated with operating a RIE (e.g., requirement for Approved Prospectuses, admission to the Official List of Securities, and the ongoing technical/operational and regulatory requirements related to Digital Securities being admitted to trading and admitted to the Official List). 
+
+71)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+For the purposes of MIR Rule 3.8 (settlement), Virtual Assets MTFs seeking to extend their operations to include Digital Securities will not be permitted to clear and settle transactions within the same legal entity that is conducting trading activities as a RIE.  In such circumstances (as noted in paragraph 65 above)) the MTF will be required to separately establish, or make arrangements to use, a separate clearing and settlement entity  (refer to the sections above in relation to RCHs or DSFs, in paragraphs 53 and 59 respectively). 
+
+72)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+MTFs using Virtual Assets – Becoming a Digital Securities RIE
+Please note that the relief provided by FSRA in May 2019 (to allow Virtual Asset MTFs) to operate a direct client access market has not been extended to allow RIEs to operate on a similar basis in relation to Digital Securities. As such, due to the policy/operational requirements at play, the FSRA suggests that entities wanting to operate a RIE on a ‘direct client’ basis engage with the FSRA as early as possible.
+
+73)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+Virtual Asset Custodian – Becoming a DSF
+A Virtual Asset Custodian seeking to operate as a DSF may apply to the FSRA to vary its FSP to allow it to expand its Providing Custody operations to do so.  Further guidance on the considerations applicable to entities wishing to operate as a DSF are set out in paragraphs 55 – 61 above.  Note, however, that with respect to Authorised Persons currently Operating an MTF (in relation to Virtual Assets), the FSRA will require the DSF to be a separate legal/operating entity from those entities it is providing settlement services (MIR Rule 3.8) and/or custody services (MIR Rule 2.10) for.  Migration of an independent Virtual Asset Custodian to being a DSF may therefore likely pose less operational/regulatory issues than an entity currently operating as both an MTF (in relation to Virtual Assets) and Virtual Asset Custodian.
+
+74)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+Virtual Asset Custodian – Becoming a DSF
+Virtual Asset Custodians may expand their custodial offering to Digital Securities by utilising their existing technologies (or implementing new technologies, if required), to allow it to operate as a DSF across custody, clearing (as applicable) and settlement functions for Digital Securities.  Given the difference in nature between Digital Securities and Virtual Assets, however, it is expected that a Virtual Asset Custodian seeking to migrate to becoming a DSF will be required to meet a significant number of new requirements, including but not limited to those outlined under paragraphs 55 -61 of this Guidance.
+
+75)	AUTHORISED PERSONS CONDUCTING A REGULATED ACTIVITY IN RELATION TO VIRTUAL ASSETS – EXTENSION INTO TO DIGITAL SECURITIES ACTIVITIES
+Virtual Asset Custodian – Becoming a DSF
+As noted in paragraph 60, the FSRA reserves the right to impose any of the Rules outlined in MIR Chapter 4 on a Virtual Asset Custodian seeking to operate as a DSF (considering the particular business/operational model of the proposed DSF).  
+
+
+76)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+This section of the Guidance addresses Recognised Bodies or MTFs operating traditional Securities markets that may wish to expand their product offering into Digital Securities.  Entities seeking to do so will need to demonstrate to the FSRA how they will meet the Rules applicable to Digital Securities and how either its existing technology infrastructure will be able to meet these requirements or new technology will be implemented.   
+
+77)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+Given the nature of digital markets, entities can expect particular FSRA focus to be placed on their use of technology and technology governance.  Entities should familiarise themselves with the FSRA’s technology governance guidance as set out in paragraphs 51-66, 69-70 and 77-87 of the Virtual Assets Guidance (where Virtual Assets should be read as Digital Securities) which will form part of the basis for FSRA review.  
+
+78)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RIEs & Digital Securities
+A RIE should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as an RIE in the context of Digital Securities (treated similarly to the introduction of a new asset class).  Formal approval from the FSRA will be required before an RIE can facilitate offers of, issuances in and the trading of Digital Securities.  
+
+79)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RIEs & Digital Securities
+In addition to what is separately set out in this Guidance, an RIE operating within the conventional Securities space seeking to facilitate Digital Securities offers and trading, and proposing to use new technologies such as DLT, should review and consider a number of areas of the Virtual Assets Guidance (as applicable), including the following: 
+
+a)	Technology Governance and Controls (paragraphs 47-92);
+b)	Accepted Virtual Assets (paragraph 25, including for Security (b) and Type of DLT(e));
+c)	Capital requirements (paragraphs 31-36);
+d)	Margin Trading (paragraph 121); and
+e)	Substance requirements (paragraphs 126-128).
+
+80)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RIEs & Digital Securities
+A particular area of focus for the FSRA will be the Applicant’s custody and settlement arrangements (pursuant to MIR Rules 2.10 and 3.8 (refer to paragraphs 43(b) and 44(a) respectively).
+
+81)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+MTFs & Digital Securities
+MTFs operating a market for traditional Securities seeking to operate a market in Digital Securities activities should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as an Authorised Person/MTF. It is important to recall that an MTF can only admit to trading Digital Securities offered by way of an Exempt Offer or that have already been admitted to a RIE (refer to paragraphs 46 and 47 respectively).  As noted in paragraph 77 above, for an entity that is already operating as an MTF, one area of FSRA focus when considering an application for expansion into Digital Securities will be on the MTFs use of technology and the governance arrangements around technologies that are to be newly introduced.   Further discussion about the FSRA’s expectations in this regard is set out at paragraphs 98 - 100.  
+
+82)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+MTFs & Digital Securities
+Another particular area of focus for the FSRA will be the Applicant’s custody and settlement arrangements (pursuant to MIR Rules 2.10 and 3.8 (refer to paragraphs 43(b) and 44(a) respectively).
+
+83)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RCHs & Digital Securities 
+RCHs providing services for the clearing and settlement of traditional Securities seeking to do the same for Digital Securities should engage with the FSRA at an early stage and be in a position to outline how they intend to continue to meet their obligations as a RCH (noting the points raised earlier in this Guidance in relation to the use of technology and governance arrangements of a RCH (as a Recognised Body) (refer to paragraphs 77 and 98-100).  Depending on the technology used, a Securities RCH seeking to additionally operate with Digital Securities may potentially use their existing technology (DLT or similar) to enable the settlement of Digital Securities.
+
+84)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RCHs & Digital Securities 
+In the context of clearing and settlement for Digital Securities, if it is determined that the RCH acts as a central counterparty (CCP) guaranteeing the settlement of transactions, then the RCH is considered to act as a clearing house.
+
+85)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RCHs & Digital Securities 
+If instead, instantaneous settlement occurs within the RCH, then the RCH does not act as a CCP, as it does not establish / hold positions on either side of a trade prior to settlement taking place, and it is therefore not considered to be a clearing house. Such a scenario may likely occur in the case of settlement for Digital Securities.
+
+86)	CONVENTIONAL MARKET INFRASTRUCTURES & DIGITAL SECURITIES 
+RCHs & Digital Securities 
+RCHs (operating as a clearing house, as set out above) who settle transactions in Digital Securities, are also required to meet obligations in relation to Clearing, where this entails a process of establishing positions, including the calculation of net obligations and ensuring that Digital Securities, cash, or both are available to secure the exposures arising from such positions.
+
+
+87)	DIGITAL SECURITIES – INTERMEDIARIES
+This section applies to conventional and virtual asset intermediaries such as brokers, dealers, managers, advisors and arrangers of Digital Securities.
+
+88)	DIGITAL SECURITIES – INTERMEDIARIES
+Conventional Intermediaries – Digital Securities
+A conventional intermediary licenced by the FSRA is able to provide Regulated Activities within the scope of its existing FSP in relation to Specified Investments, including Digital Securities.   However, should such intermediaries intend to undertake activities in relation to Digital Securities, they must provide prior notification to their FSRA Supervision Relationship Manager of the proposed changes to their business model. 
+
+89)	DIGITAL SECURITIES – INTERMEDIARIES
+Conventional Intermediaries – Digital Securities
+Intermediaries intending to operate solely, in the context of Digital Securities, as a broker or dealer for Clients (including the operation of an OTC broking or dealing desk) are not permitted to structure their broking / dealing service or platform in such a way that would have it be considered as operating a RIE or MTF.  The FSRA would consider features such as allowing for price discovery, displaying a public trading order book (accessible to any member of the public, regardless of whether they are Clients), and allowing trades to automatically be matched using an exchange-type matching engine as characteristic of a RIE or MTF, and not activities acceptable for an Digital Securities intermediary to undertake.
+
+90)	DIGITAL SECURITIES – INTERMEDIARIES
+Conventional Intermediaries – Digital Securities
+A conventional custodian may apply to the FSRA to be a DSF in order to provide custody of Digital Securities.  Refer to paragraphs 55 to 61, for further information on the requirements relating to DSFs. 
+
+91)	DIGITAL SECURITIES – INTERMEDIARIES
+Intermediaries conducting a Regulated Activity in relation to Virtual Assets – Extension into Digital Securities
+An intermediary that has been authorised to conduct a Regulated Activity (including Dealing in Investments as Principal, Dealing in Investments as Agent, Managing Assets, Arranging Deals in Investments or Advising on Investments or Credit) in relation to Virtual Assets may provide services in respect of both Accepted Virtual Assets and Digital Securities.  In order to do so, it must apply to the FSRA to vary its FSP such that it is permitted to extend its licensed operations to Digital Securities. 
+
+92)	DIGITAL SECURITIES – INTERMEDIARIES
+Intermediaries conducting a Regulated Activity in relation to Virtual Assets – Extension into Digital Securities
+Virtual Asset Custodians may apply to the FSRA to be a DSF in order to provide custody of Digital Securities.  Refer to paragraphs 73 to 75 for further information on the requirements that will apply.
+
+93)	DIGITAL SECURITIES – INTERMEDIARIES
+Private Financing Platforms (PFPs)
+A PFP (as provided for in Schedule 1, Section 73E of FSMR) includes electronic platforms which facilitate the provision of financing between Issuers and investors in the form of Digital Securities.
+
+94)	DIGITAL SECURITIES – INTERMEDIARIES
+Private Financing Platforms (PFPs)
+The FSRA only allows a financing proposal to be published on a PFP where it qualifies as an Exempt Offer through satisfying any of the criteria set out in MKT Rule 4.3.
+
+95)	DIGITAL SECURITIES – INTERMEDIARIES
+Private Financing Platforms (PFPs)
+A PFP Operator may offer an incidental facility, termed an ‘Exit Facility’, to permit clients to exit their PFP transactions by allowing them to seek potential “buyers” who are also clients of the PFP Operator in order to transfer their rights and obligations under their investment agreements.  The Exit Facility should not allow active (secondary market) trading by clients, and such trading can only be an ancillary service provided by the PFP Operator.  The Exit Facility must comply with the requirements in COBS Rule 18.8.  In particular, the Exit Facility must not exhibit characteristics of a trading facility, otherwise the PFP Operator will require a separate FSP for Operating an MTF. 
+
+96)	DIGITAL SECURITIES – INTERMEDIARIES
+Private Financing Platforms (PFPs)
+A PFP Operator which facilitates the trading of Digital Securities through its platform will also need to consider, among other things, the relevant technology governance requirements set out in paragraphs 47 to 87 of the Virtual Assets Guidance. 
+
+97)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+This section of the Guidance, rather than address specific requirements relating to the operation of activities undertaken by Authorised Persons or Recognised Bodies, sets out specific FSRA policy positions in relation to specific regulatory considerations relevant to Digital Securities. 
+
+98)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Technology Governance and Controls
+While the FSRA adopts a technology-neutral approach to the regulation of Digital Securities markets, there is considerable industry appetite to use and deploy DLT, and related technologies.  The development, and usage, of such technologies, however, is still widely considered to be in its early years of development and usage at scale.  While it does not seek to regulate specific technologies such as DLT directly, the FSRA expects users of such technology to meet particular requirements in terms of their technology systems, governance and controls.  
+
+99)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Technology Governance and Controls
+All Authorised Persons and holders of Recognition Orders (in relation to Digital Securities) will need to take into account considerations relating to technology governance and controls, for the purposes of compliance with primarily, in the case of a RIE, MIR Rules 2.5 and 2.6, and in the case of an MTF, GEN Rule 3.3.  The FSRA would further recommend that when Applicants are seeking to comply with these requirements, they take into account paragraphs 51-66, 69-70 and 77-87 of of the Virtual Assets Guidance in relation to their technology governance (with Virtual Assets being read as Digital Securities for the purposes of that Guidance). 
+
+100)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Technology Governance and Controls
+The FSRA acknowledges that non-DLT technologies may be used for the secure custody, clearing and settlement of Digital Securities. Where this is the case, the relevant licence holders are still required to meet MIR Rules 2.6 and 2.10, as applicable, at all times.
+
+101)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+DLT Access Implications - Offers, Issuance & Trading
+The FSRA expects that the particular use, and surrounding controls related to the use, of DLT will have implications for how Digital Securities are offered, issued, traded and ultimately settled.  On issuance, for example, the FSRA expects that Offers of Digital Securities to be limited/linked to an initial venue (e.g., MTF or RIE), due to the likelihood that permissioned access to a DLT will be limited due to commercial or technology compatibility issues. The implication therefore is that where an MTF or RIE, for example, controls access to a distributed ledger there may be a limit/restriction on an investor to transfer Digital Securities to another investor. This is in contrast to Virtual Assets (for example, Bitcoin), where access to the Bitcoin distributed ledger is not permissioned.
+
+102)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+DLT Access Implications - Offers, Issuance & Trading
+Access to DLT may alternatively be controlled by a DSF/RCH, or the Issuer of a Digital Security itself.  Whatever the model of access/permission, the FSRA would expect any costs for the transfer of a Digital Security to be clearly disclosed and be undertaken on a reasonable commercial basis.
+
+
+103)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Subscriptions to an Offer of Digital Securities 
+Pursuant to various requirements set out in MKT, an Offer of Securities should be denominated and priced in fiat currency. It is recognised, however, that subscriptions/payments for an Offer of Digital Securities could be made via fiat currencies and/or Accepted Virtual Assets.  Subscription amounts collected in Accepted Virtual Assets, therefore, are subject to the prevailing exchange rate between the (denominated) fiat currency and the relevant Accepted Virtual Asset at the time of payment.  
+
+104)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Subscriptions to an Offer of Digital Securities 
+Accordingly, an ADGM-licenced intermediary will also need to ensure that its FSP permits it to offer subscription services, or alternatively may engage the services of an Authorised Person with such permission.
+
+105)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Market Abuse, Transaction Reporting and Misleading Impressions (FSMR)
+The Market Abuse Provisions in Part 8 of FSMR specifically cover Market Abuse Behaviour in relation to Securities (including Digital Securities) admitted to trading on a RIE or an MTF. 
+
+106)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Market Abuse, Transaction Reporting and Misleading Impressions (FSMR)
+FSMR Section 149 sets out the reporting obligations imposed on RIEs and MTFs which are required to report details of transactions in Securities (including Digital Securities) traded on their platforms.  Consistent with its treatment of all RIEs and MTFs, the FSRA expects RIEs and MTFs (providing markets in Digital Securities) to report order/trading data to the FSRA on both a real-time and batch basis.
+
+107)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Market Abuse, Transaction Reporting and Misleading Impressions (FSMR)
+In addition, the FSMR provisions on Misleading Statements apply to Securities (including Digital Securities).  The FSRA expects that all communications (including advertising or investment materials or other publications) made by a RIE or an MTF will be made in an appropriate manner and those infrastructures will implement suitable policies and procedures to comply with the relevant requirements of FSMR. 
+
+
+108)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Substance requirements 
+In order to operate effectively within ADGM, Authorised Persons and holders of Recognition Orders for the operation of market infrastructures (including for all RIEs, MTFs, RCHs and DSFs) must commit resources of a nature allowing them to be operating in substance within ADGM.  The FSRA expects to see substantive resources committed within ADGM across all lines of activity, including, but not limited to, commercial, governance, compliance/surveillance, operations, technical, IT and HR functions.  In particular, the FSRA expects ‘mind and management’ to be located within ADGM.  
+
+
+109)	 DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Third party audit obligations
+All Authorised Persons and Recognised Bodies carrying out Digital Securities activities should have independent third party verification or checks carried out at least annually to verify that the amount and value of Digital Securities (and Client Money (e.g., fiat) held on custody on behalf of Clients) is correct and matches what is supposed to be held. 
+
+
+110)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Third party outsourcing
+FSRA’s policy position on outsourcing is set out paragraphs 82-87 of the Virtual Assets Guidance, and applies equally to entities engaged in Digital Securities activities.  In addition, FSRA expects that any outsourcing arrangements will meet international regulatory guidelines applicable to outsourcing arrangements, including in relation to its contractual arrangements.    
+
+111)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Anti-Money Laundering and Countering Financing of Terrorism
+As is required of all Authorised Persons and Recognised Bodies operating within the ADGM, those entities seeking to undertake Digital Securities-based financial services activities are required to comply with the FSRA’s Anti Money Laundering and Countering Financing of Terrorism “AML/CFT” framework including, among other things:
+
+a)	UAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulation of the Federal Law No. 20 of 2018 concerning Anti-Money Laundering and Combating Terrorism Financing;
+
+b)	UAE Cabinet Resolution 20 of 2019 concerning the procedures of dealing with those listed under the UN sanctions list and UAE/local terrorist lists issued by the Cabinet, including the FSRA AML and Sanctions Rules and Guidance (“AML Rules”) or such other AML rules as may be applicable in ADGM from time to time; and 
+
+c)	the FSRA AML and Sanctions Rules and Guidance (“AML Rules”) or such other AML rules as may be applicable in ADGM from time to time; and 
+
+d)	the adoption of international best practices (including FATF Recommendations).
+
+112)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Anti-Money Laundering and Countering Financing of Terrorism
+For a further understanding of the FSRA’s policy position in relation to AML, the FSRA recommends readers consider, as applicable, paragraphs 37-45 of the Virtual Assets Guidance, particularly as it relates to Digital Securities and the FATF Recommendations. 
+
+113)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+International Tax Reporting Obligations 
+All entities seeking to engage in Digital Securities-based financial services activities must consider and, if applicable, adhere to their tax reporting obligations including, as applicable, under the Foreign Account Tax Compliance Act (“FATCA”) and the ADGM Common Reporting Standard Regulations 2017.
+
+
+114)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Data protection obligations for Issuers
+Issuers, and other holders of client data, should familiarise themselves with the data protection obligations applying within ADGM.  Further information regarding the ADGM’s data protection requirements is addressed at paragraphs 113 - 118 of the Virtual Assets Guidance. 
+
+115)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Margin trading
+Entities wishing to provide margin trading to its Clients will need to submit for approval details of the terms upon which it proposes to do so (for an Applicant, in its Application; for an Authorised Person or Recognition Order holder, as part of ongoing supervisory arrangements).  As a general position, the FSRA would only consider allowing entities with a relevant proven track record to provide margin trading.  Particular focus will be placed on the proposed leverage ratio.  
+
+116)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Margin trading
+Entities that are not proposing, or permitted, to carry out margin trading will likely have a restriction from doing so placed on their FSP or Recognition Order.
+
+117)	DIGITAL SECURITIES – SPECIFIC REGULATORY CONSIDERATIONS
+Islamic Finance Rules
+FSRA’s Islamic Finance Rules (IFR) apply to a number of entities that can operate within ADGM, including Authorised Persons and a Person making an Offer of Securities.  As IFR is linked to the use of ‘Specified Investments’, including (Digital) Securities, IFR can apply to Authorised Persons Conducting Islamic Financial Business or offering/distributing Shari’a-compliant Securities.
+
+
+118)	STABLECOINS 
+The FSRA recognises that the use of Digital Securities in ADGM may likely coincide with the use of fiat tokens.  Further clarity on FSRA’s regulatory position in relation to stablecoins is set out in paragraphs 162 – 166 of the Virtual Assets Guidance.  For RIEs or MTFs trading in Digital Securities, the FSRA’s expectation is that paragraph 166d of the Virtual Assets Guidance (where an infrastructure is using its own fiat tokens as a payment/transaction mechanism solely within its own platform/ecosystem) is likely to be the only scenario for the use of stablecoins by a RIE or MTF trading in Digital Securities.  Where Applicants consider that there are other business use cases for stablecoins (particularly when used by a RIE, MTF or DSF), these would need to be raised (in writing, and for discussion) with the FSRA.
+
+
+119)	APPLICATION PROCESS
+In the context of Digital Securities, engagement with the FSRA in relation to approvals required under MKT (Offers of Securities and/or Admissions to the Official List) will be via the FSRA Listing Authority.
+
+120)	APPLICATION PROCESS
+ Separately, Applicants seeking approvals to operate as a RIE, MTF, DSF or RCH must be prepared to engage heavily with the FSRA throughout the relevant application process.  The Application process is broadly broken down into five stages, as follows:
+
+a)	Due Diligence & Discussions with FSRA team(s);
+b)	Submission of Formal Application; 
+c)	Granting of In Principle Approval;
+d)	Granting of Final Approval; and
+e)	‘Operational Launch’ Testing
+
+
+
+121)	APPLICATION PROCESS
+Due diligence and Discussions with FSRA team(s). Prior to the submission of an Application, all Applicants are expected to provide the FSRA with a clear explanation of their proposed business model and to demonstrate how the Applicant will meet all applicable FSRA Rules and requirements. These sessions will also involve the Applicants providing a number of in-depth technology demonstrations, across all aspects of its proposed Digital Securities activities.  The FSRA generally expects these meetings, where possible, to take place between the Applicant and the FSRA in person.  In addition, the FSRA further expects that a number of meetings will need to be held between an Applicant and the FSRA before the Applicant will be in a position to submit a draft, then formal, application.    
+
+
+
+122)	APPLICATION PROCESS
+Submission of Formal Application. Following discussions with the FSRA, and upon the FSRA having reasonable comfort that the Applicant’s proposed business processes, technologies and capabilities are at a sufficiently advanced stage, the Applicant will be required to submit a completed Application Form, and supporting documents, to the FSRA.  Payment of the fees applicable to the Application, as set out in paragraphs 128 - 139, must also be made at the time of submission.  The FSRA will only consider an Application as having been formally submitted, and commence its formal review of the Application, upon receipt of both the completed Application and the associated fees.    
+
+
+
+123)	APPLICATION PROCESS
+Granting of In Principle Approval (IPA). The FSRA will undertake an in-depth review of the Application, and supporting documents, submitted by an Applicant.  The FSRA will only consider granting an IPA for those Applicants that are considered able to adequately meet all applicable Rules and requirements.  An Applicant will be required to meet all conditions applicable to the IPA prior to being granted with final approval, and an FSP or Recognition Order (as applicable). 
+
+
+
+124)	APPLICATION PROCESS
+Granting of Final Approval (Financial Services Permission/ Recognition Order). Subject to being satisfied that the Applicant has met all conditions applicable to the IPA, the FSRA will grant the Applicant with final approval for an FSP or Recognition Order (as applicable).  Final approval will be conditional upon the FSRA being further satisfied in relation to the Applicant’s operational testing and capabilities, and completion of a third-party verification of the Applicant’s systems where applicable.
+
+
+
+125)	APPLICATION PROCESS
+‘Operational Launch’ Testing. An Applicant operating a RIE, MTF, DSF or RCH will only be permitted to progress to operational launch when it has completed its operational launch testing to the FSRA’s satisfaction, including completion of third party verification of the Applicant’s systems, where applicable.  
+
+126)	APPLICATION PROCESS
+‘Operational Launch’ Testing. Noting the public nature of these entities and the consumer protection considerations associated with significant client participation, these licence holders, like many others regulated by FSRA, will be closely supervised by the FSRA once licenced.  Entities should expect to meet frequently with the FSRA, be subject to ongoing assessments, and be prepared to undergo thematic reviews from time to time (particularly considering the nascent stage of Digital Securities markets globally).
+
+127)	APPLICATION PROCESS
+‘Operational Launch’ Testing. Authorised Persons seeking FSP variations, other than MTFs, will follow the variation process as set out in sections 2.9.6 and 2.9.7 of the Guidance & Policies Manual (GPM) and are encouraged to discuss their variation proposals with their Supervision Relationship Managers as early as possible.
+
+ 
+
+
+128)	FEES
+Authorisation and supervision fees
+The applicable fees for entities seeking to carry out Digital Securities activities within ADGM are set out in the FEES Rulebook.  Examples of the application of these fees to particular scenarios are set out in the paragraphs below.   
+
+129)	FEES
+Authorisation and supervision fees
+As it is not proposed that there be an immediate change to the fee structure in relation to Digital Securities, the FSRA will continue to monitor its position in relation to these fees as part of the wider Securities-regulatory framework.  
+
+130)	FEES
+Authorisation and supervision fees
+As noted in paragraph 122 above, the FSRA will only consider an Application as having been submitted, and commence its formal review of the Application, upon receipt of both the completed Application and the associated fees.
+
+131)	FEES
+Authorisation fees 
+For Digital Securities activities by new entrants applying to operate in ADGM:  For Applicants seeking to carry on Digital Securities activities within ADGM, with no existing ADGM licenced business operations, the Authorisation fees are the same as those already provided in the applicable Rulebook for the relevant activity, subject to paragraph 133 below.  In summary:  
+
+a)	the applicable fees for a Recognition Order as an RIE or an RCH are set out in FEES Rule 3.7.1(a); 
+
+b)	the fees for a FSP for an Authorised Person (other than a DSF) are set out in FEES Rules 2.2.1(a) and 3.5; and
+
+c)	the fees for a DSF are as set out in paragraph 133 below.  
+
+132)	FEES
+Authorisation fees 
+For Digital Securities activities to be conducted by existing ADGM licenced intermediaries or MTFs:  
+
+a)	For Authorised Persons seeking to expand their activities to include Digital Securities activities in relation to a different Regulated Activity, an application for an amendment to the scope to their existing FSP will need to be submitted.  The applicable fees will be as set out in FEES Rule 3.8; and
+
+b)	For an Authorised Person intending to provide Regulated Activities in relation to Digital Securities within the scope of their existing FSP, no fees will apply, subject to paragraph (a) and paragraph 133 below, but firms are required to discuss this with their FSRA Supervision Relationship Manager as early as possible (as there may be wider fee or other supervisory implications).
+
+133)	FEES
+Authorisation fees 
+For entities seeking to be authorised for Providing Custody (and by extension as a DSF):  For these entities, the authorisation fee will be US$20,000, comprising a fee of US$5,000 for Providing Custody and a US$15,000 supplementary fee in accordance with FEES Rule 1.2.6, reflective of the regulatory burden imposed on FSRA to ensure compliance with the applicable Rules and requirements for conducting DSF related activities. 
+
+134)	FEES
+Authorisation fees 
+RIEs or RCHs with Recognitions Orders seeking to expand their activities to include Digital Securities activities: No additional fees will apply.
+
+135)	FEES
+Authorisation fees 
+For MTFs (using Virtual Assets) upgrading to a Digital Securities RIE:  For Authorised Persons operating an MTF and seeking to further operate as a Digital Securities RIE, it is unlikely that the FSRA would seek to impose the full RIE Recognition Order fee (being US $125,000), on the assumption that there is likely to be significant overlap in the systems, controls and technology used by the entity across both activities.  The FSRA may instead impose a fee in the region of US$40,000 (dependent on the Applicant’s business model and any overlap/similarities in its technology, systems and controls).  
+
+136)	FEES
+Supervision fees
+Annual supervision fees applicable to Authorised Persons and Recognised Bodies carrying on Digital Securities activities within ADGM are as set out in the FEES Rulebook, in particular:
+
+a)	for Authorised Persons (excluding those outlined in paragraph 137 below), in FEES Rules 2.2.2, 2.2.3 and 3.5.3; and
+
+b)	for Recognised Bodies, in FEES Rules 3.7.1 (b) and 3.7.2(b).
+
+137)	FEES
+Supervision fees
+Annual supervision fees applicable to Authorised Persons who are Providing Custody (and by extension meeting the obligations of a DSF) within the ADGM, are US$15,000 (which will be imposed as a condition to the granting of an FSP).
+
+
+138)	FEES
+Fees – Prospectus Offers and Admission to Official List 
+The fees for Offers and Listings of Digital Securities are as set out in Rules 3.10 (Funds), 4.1.1(a) (Digital Securities Prospectus) and 4.1.1(b) (Debenture Prospectus) of the FEES Rulebook. 
+
+139)	FEES
+Fees – Prospectus Offers and Admission to Official List 
+The listing fee for an admission of Digital Securities to the Official List of Securities is US$3,000 as set out in FEES Rule 3.9.1.  
+
