@@ -23,7 +23,7 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
 
 
 ## Dataset Preparation Process
-1. **Document Collection:** The source documents from ADGM are provided in .docx format. They undergo meticulous manual structuring to ensure consistent formatting, including isolating tables with \Table Start and \Table End tags and converting graphical content into text with \Figure Start and \Figure End tags. These documents are then converted into .txt and finally into structured JSON format. Access the structured documents [here](https://github.com/RegNLP/ObliQADataset/blob/main/StructuredRegulatoryDocuments.zip).
+1. **Document Collection:** The source documents from ADGM are provided in .docx format. They undergo meticulous manual structuring to ensure consistent formatting, including isolating tables with \Table Start and \Table End tags and converting graphical content into text with \Figure Start and \Figure End tags. These documents are then converted into .txt [here](https://github.com/RegNLP/ObliQADataset/tree/main/scripts/StandartizedRegulatoryDocumentsTXT) and finally into structured JSON format. Access the structured documents [here](https://github.com/RegNLP/ObliQADataset/blob/main/StructuredRegulatoryDocuments.zip).
 
     #### Structure of the Documents
     
@@ -40,7 +40,7 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
 
   * Single Passage Questions: For questions that reference a single passage, the input is straightforward and doesn't require additional structuring.
 
-  * Multiple Passage Questions: For questions that reference multiple passages, topics and related obligations are categorized and grouped based on real-world scenarios. Topics are defined with related keywords to ensure relevance. Below are some sample topics and their keywords:
+  * Multiple Passage Questions: For questions that reference multiple passages, topics and related obligations are categorized and grouped based on real-world scenarios. Topics are defined with related keywords to ensure relevance [script](https://github.com/RegNLP/ObliQADataset/blob/main/scripts/DataPreparetionForInputData.ipynb). Below are some sample topics and their keywords:
     ``` 
     topics_keywords = {
       "AML Compliance": [
@@ -67,7 +67,7 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
     }
     ```
 
-3. **GPT-4 Generation:** The `gpt-4-turbo-1106` model is employed to generate both questions and answers. The prompts used for generating questions are tailored based on whether they reference single or multiple passages.
+3. **GPT-4 Generation:** The `gpt-4-turbo-1106` model is employed to generate both questions and answers. The prompts used for generating questions are tailored based on whether they reference [single](https://github.com/RegNLP/ObliQADataset/blob/main/scripts/SinglePassageQuestionGeneration.ipynb) or [multiple](https://github.com/RegNLP/ObliQADataset/blob/main/scripts/TopicBasedQuestionGeneration.ipynb) passages.
    
     **Prompt for Single Passage Questions:**
 
@@ -77,7 +77,7 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
 
       > Imagine you are preparing a list of questions that a compliance officer at a company would ask regulatory authorities like the ADGM to clarify their understanding of compliance requirements and to ensure adherence to regulatory standards. Each question should be direct, practical, and structured to get detailed insights into specific regulatory rules. Avoid formulations that imply the company is describing its own processes, and instead frame questions that seek clarity on regulatory expectations.
 
-4. **NLI Validation:** The generated question-passage pairs are validated using the `nli-deberta-v3-xsmall` model. The passage is the premise, and the question is the hypothesis. The NLI model checks if the question is entailed by the passage.
+4. **NLI Validation:** The generated question-passage pairs are validated using the `nli-deberta-v3-xsmall` model. The passage is the premise, and the question is the hypothesis. The NLI model checks if the question is entailed by the passage. [here](https://github.com/RegNLP/ObliQADataset/blob/main/scripts/NLIValidation.ipynb)
 
   * Entailment: Pairs where the passage entails the question are included in the dataset.
   * Contradictions: Pairs where the passage contradicts the question are excluded.
