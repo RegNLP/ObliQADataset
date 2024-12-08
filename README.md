@@ -132,8 +132,8 @@ By providing a comprehensive and structured dataset, ObliQA enables the developm
 ### BibTeX
 
 ```shell
-@misc{gokhan2024regnlpactionfacilitatingcompliance,
-      title={RegNLP in Action: Facilitating Compliance Through Automated Information Retrieval and Answer Generation}, 
+@misc{gokhan2024riragregulatoryinformationretrieval,
+      title={RIRAG: Regulatory Information Retrieval and Answer Generation}, 
       author={Tuba Gokhan and Kexin Wang and Iryna Gurevych and Ted Briscoe},
       year={2024},
       eprint={2409.05677},
